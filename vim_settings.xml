@@ -139,11 +139,11 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="41" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479651693049">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="38" column="0" />
+      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479658187494">
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="32" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" timestamp="1475051463193">
         <mark key="'" line="12" column="0" />
@@ -183,8 +183,10 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/hostStats.go" timestamp="1479652793004">
-        <mark key="'" line="29" column="0" />
+      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/hostStats.go" timestamp="1479655629336">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/TrackApplicationService.php" timestamp="1464638906169">
         <mark key="[" line="50" column="9" />
@@ -198,11 +200,11 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/host.go" timestamp="1479653956643">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/host.go" timestamp="1479660420907">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/tests/Infrastructure/Repositories/DoctrinePlaylistRepositoryTest.php" timestamp="1446480920888">
         <mark key="[" line="91" column="114" />
@@ -441,8 +443,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/hostStats.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rancher_autoscale</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWluZm8sIF8gOj0gaC5yYW5jaGVySG9zdC5JbmZvLihtYXBbc3RyaW5nXWludGVyZmFjZXt9KQoJY3B1SW5mbywgXyA6PWluZm9bImNwdUluZm8iXS4obWFwW3N0cmluZ11pbnRlcmZhY2V7fSkKCWxvYWRBdmcsIF8gOj1jcHVJbmZvWyJsb2FkQXZnIl0KCS8vZm9yIHJhbmdlIGNwdUluZm9bImxvYWRBdmciXSB7CgkvLwoJLy99Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -454,16 +456,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rancher_autoscale</text>
+        <text>.([int]interface{})</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
       </register>
-      <register name="0" type="4">
-        <text>stats</text>
+      <register name="0" type="2">
+        <text encoding="base64">CS8vbG9hZEF2ZywgXyA6PWNwdUluZm9bImxvYWRBdmciXS4oW2Zsb2F0NjRdaW50ZXJmYWNle30pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CU1BWF9XQUlUID0gdGltZS5EdXJhdGlvbih0aW1lLlNlY29uZCAqIDEwKQo=</text>
+        <text encoding="base64">CWluZm8sIF8gOj0gaC5yYW5jaGVySG9zdC5JbmZvLihtYXBbc3RyaW5nXWludGVyZmFjZXt9KQoJY3B1SW5mbywgXyA6PWluZm9bImNwdUluZm8iXS4obWFwW3N0cmluZ11pbnRlcmZhY2V7fSkKCWxvYWRBdmcsIF8gOj1jcHVJbmZvWyJsb2FkQXZnIl0KCS8vZm9yIHJhbmdlIGNwdUluZm9bImxvYWRBdmciXSB7CgkvLwoJLy99Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -511,25 +513,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxvYWRBdmcgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiV2XG4iLGgucmFuY2hlckhvc3QuSW5mbykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXNwZXcuRHVtcChsb2dzLkRhdGEpCg==</text>
+        <text encoding="base64">CX0oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiUrdlxuIiwgbG9ncy5EYXRhKQo=</text>
+        <text encoding="base64">CQlqCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWxvZy4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">CWdvIGZ1bmMoKSB7CgkJZGVmZXIgY29ubi5DbG9zZSgpCgkJZm9yIHsKCQkJXywgbWVzc2FnZSwgZXJyIDo9IGNvbm4uUmVhZE1lc3NhZ2UoKQoJCQlpZiBlcnIgIT0gbmlsIHsKCQkJCWxvZy5QcmludGxuKCJyZWFkOiIsIGVycikKCQkJCWJyZWFrCgkJCX0KCQkJdmFyIGVudHJpZXMgW11TdGF0c0VudHJ5CgkJCWpzb24uVW5tYXJzaGFsKG1lc3NhZ2UsICZlbnRyaWVzKQoKCQkJaWYgcHJldiAhPSBuaWwgewoJCQkJdGltZV9ucyA6PSBlbnRyaWVzWzBdLlRpbWVzdGFtcC5TdWIocHJldi5UaW1lc3RhbXAuVGltZSkuTmFub3NlY29uZHMoKQoJCQkJZGlmZl9jcHVfdG90YWwgOj0gKGVudHJpZXNbMF0uQ1BVLlVzYWdlLlRvdGFsIC0gcHJldi5DUFUuVXNhZ2UuVG90YWwpCgkJCQlmbXQuUHJpbnRmKCJIb3N0OiAlcyAlZFxuIiwgaC5yYW5jaGVySG9zdC5JZCwgZGlmZl9jcHVfdG90YWwgKiAxMDAgLyAodGltZV9ucykpCgkJCX0KCgkJCXByZXYgPSAmZW50cmllc1swXQoJCX0KCX0oKQoKCXRpY2tlciA6PSB0aW1lLk5ld1RpY2tlcih0aW1lLlNlY29uZCkKCWRlZmVyIHRpY2tlci5TdG9wKCkKCglmb3IgdCA6PSByYW5nZSB0aWNrZXIuQyB7CgllcnIgOj0gY29ubi5Xcml0ZU1lc3NhZ2Uod2Vic29ja2V0LlRleHRNZXNzYWdlLCBbXWJ5dGUodC5TdHJpbmcoKSkpCgkJaWYgZXJyICE9IG5pbCB7CgkJCWxvZy5QcmludGxuKCJ3cml0ZToiLCBlcnIpCgkJCWJyZWFrCgkJfQoJfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
+        <text encoding="base64">CX0KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">CWdvIGZ1bmMoKSB7CgkJZGVmZXIgY29ubi5DbG9zZSgpCgkJZm9yIHsKCQkJXywgbWVzc2FnZSwgZXJyIDo9IGNvbm4uUmVhZE1lc3NhZ2UoKQoJCQlpZiBlcnIgIT0gbmlsIHsKCQkJCWxvZy5QcmludGxuKCJyZWFkOiIsIGVycikKCQkJCWJyZWFrCgkJCX0KCQkJdmFyIGVudHJpZXMgW11TdGF0c0VudHJ5CgkJCWpzb24uVW5tYXJzaGFsKG1lc3NhZ2UsICZlbnRyaWVzKQoKCQkJaWYgcHJldiAhPSBuaWwgewoJCQkJdGltZV9ucyA6PSBlbnRyaWVzWzBdLlRpbWVzdGFtcC5TdWIocHJldi5UaW1lc3RhbXAuVGltZSkuTmFub3NlY29uZHMoKQoJCQkJZGlmZl9jcHVfdG90YWwgOj0gKGVudHJpZXNbMF0uQ1BVLlVzYWdlLlRvdGFsIC0gcHJldi5DUFUuVXNhZ2UuVG90YWwpCgkJCQlmbXQuUHJpbnRmKCJIb3N0OiAlcyAlZFxuIiwgaC5yYW5jaGVySG9zdC5JZCwgZGlmZl9jcHVfdG90YWwgKiAxMDAgLyAodGltZV9ucykpCgkJCX0KCgkJCXByZXYgPSAmZW50cmllc1swXQoJCX0KCX0oKQoKCXRpY2tlciA6PSB0aW1lLk5ld1RpY2tlcih0aW1lLlNlY29uZCkKCWRlZmVyIHRpY2tlci5TdG9wKCkKCglmb3IgdCA6PSByYW5nZSB0aWNrZXIuQyB7CgllcnIgOj0gY29ubi5Xcml0ZU1lc3NhZ2Uod2Vic29ja2V0LlRleHRNZXNzYWdlLCBbXWJ5dGUodC5TdHJpbmcoKSkpCgkJaWYgZXJyICE9IG5pbCB7CgkJCWxvZy5QcmludGxuKCJ3cml0ZToiLCBlcnIpCgkJCWJyZWFrCgkJfQoJfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -571,8 +573,6 @@
         <entry>Playlist</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bm5vcmVtYXAgcyA6YWN0aW9uIEFjZUp1bXBBY3Rpb248Y3I+</entry>
-        <entry>call WinMove('h')</entry>
         <entry>call WinMove('l')</entry>
         <entry>wincmd v</entry>
         <entry>exec wincmd v</entry>
@@ -584,13 +584,15 @@
         <entry encoding="base64">bWFwIDxsZWFkZXI+aHMgOmFjdGlvbiBTcGxpdEhvcml6b250YWxseTxjcj4=</entry>
         <entry>actionlist focus</entry>
         <entry encoding="base64">YWN0aW9uIFRhYlNoaWZ0QWN0aW9ucy5Nb3ZlRm9jdXNMZWZ0PGNyPg==</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
-        <entry>action SplitHorizontally</entry>
-        <entry>action TabShiftActions.MoveFocusUp</entry>
-        <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action SplitVertically</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>e host.go</entry>
+        <entry>action SplitHorizontally</entry>
+        <entry>action TabShiftActions.MoveFocusDown</entry>
+        <entry>action TabShiftActions.MoveFocusUp</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gVGFiU2hpZnRBY3Rpb25zLk1vdmVGb2N1c0xlZnQ=</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
