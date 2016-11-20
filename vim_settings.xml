@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/docker/instore/config/testing/database.php" timestamp="1446371815980">
@@ -133,10 +133,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479644664541">
-        <mark key="[" line="36" column="50" />
-        <mark key="]" line="36" column="49" />
-        <mark key="." line="36" column="49" />
+      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479646315737">
+        <mark key="[" line="58" column="101" />
+        <mark key="]" line="58" column="101" />
+        <mark key="." line="58" column="101" />
         <mark key="^" line="36" column="49" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" timestamp="1475051463193">
@@ -427,7 +427,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -439,7 +439,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
@@ -523,7 +523,7 @@ KEY</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">bm5vcmVtYXAgcyA6YWN0aW9uIEFjZUp1bXBBY3Rpb248Y3I+</text>
+        <text>actionlist focus</text>
       </register>
     </registers>
     <search>
@@ -559,15 +559,6 @@ KEY</text>
         <entry>Playlist</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp</entry>
-        <entry>q</entry>
-        <entry>w</entry>
-        <entry>action EditorUnSelectWord</entry>
-        <entry>action EditorSelectWord</entry>
-        <entry>actions</entry>
-        <entry encoding="base64">YWN0aW9ubGlzdCA=</entry>
-        <entry>actionlist jump</entry>
-        <entry encoding="base64">bWFwIHNzIDphY3Rpb24gQWNlSnVtcEFjdGlvbiA=</entry>
         <entry encoding="base64">YWN0aW9uIEFjZUp1bXBBY3Rpb24g</entry>
         <entry encoding="base64">bWFwIHNzIDphY3Rpb24gQWNlSnVtcEFjdGlvbjxjcj4g</entry>
         <entry encoding="base64">bm5vcmVtYXAgc3MgOmFjdGlvbiBBY2VKdW1wQWN0aW9uPGNyPiA=</entry>
@@ -579,6 +570,15 @@ KEY</text>
         <entry>call WinMove('l')</entry>
         <entry>wincmd v</entry>
         <entry>exec wincmd v</entry>
+        <entry encoding="base64">bWFwIDxsZWFkZXI+bCA6YWN0aW9u</entry>
+        <entry>actionlist</entry>
+        <entry encoding="base64">bWFwIDxsZWFkZXI+bCA6YWN0aW9uIFNwbGl0VmVydGljYWxseTxjcj4=</entry>
+        <entry encoding="base64">bWFwIDxsZWFkZXI+cyA6YWN0aW9uIFNwbGl0VmVydGljYWxseTxjcj4=</entry>
+        <entry>actionlist split</entry>
+        <entry encoding="base64">bWFwIDxsZWFkZXI+aHMgOmFjdGlvbiBTcGxpdEhvcml6b250YWxseTxjcj4=</entry>
+        <entry>action SplitHorizontally</entry>
+        <entry>action SplitVertically</entry>
+        <entry>actionlist focus</entry>
       </history-cmd>
       <history-expr />
       <history-input />
