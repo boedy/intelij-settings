@@ -1,0 +1,15 @@
+<templateSet group="PHP">
+  <template name="try" value="try{&#10;    $TRY$&#10;}catch(\Exception $e){&#10;    $CATCH$&#10;}" description="try catch block" toReformat="true" toShortenFQNames="true">
+    <variable name="TRY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CATCH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="cb" value="/*&#10;|--------------------------------------------------------------------------&#10;| $COMMENT$&#10;|--------------------------------------------------------------------------&#10;*/" description="comment block" toReformat="false" toShortenFQNames="true">
+    <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
