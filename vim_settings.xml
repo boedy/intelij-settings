@@ -133,11 +133,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479641920661">
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="23" column="37" />
+      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479642632255">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" timestamp="1475051463193">
         <mark key="'" line="12" column="0" />
@@ -426,8 +426,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUhPU1QgICAgICAgID0gImVjMi01Mi0zMC0xMjQtNjQuZXUtd2VzdC0xLmNvbXB1dGUuYW1hem9uYXdzLmNvbTo4MDgwL3YxIgo=</text>
+      <register name="&quot;" type="4">
+        <text>stats</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -439,7 +439,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Y</text>
+        <text>stats</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
@@ -448,7 +448,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRpZAogICAgICogQHJldHVybiBQbGF5bGlzdAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0KCRpZCk7CgogICAgcHVibGljIGZ1bmN0aW9uIHNhdmUoUGxheWxpc3QgJHBsYXlsaXN0KTsKCiAgICBwdWJsaWMgZnVuY3Rpb24gcmVtb3ZlKCRwbGF5bGlzdCk7CgogICAgcHVibGljIGZ1bmN0aW9uIGZpbmRTYXRpc2Z5aW5nKFBsYXlsaXN0U3BlY2lmaWNhdGlvbiAkc3BlYyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUhPU1QgICAgICAgID0gImVjMi01Mi0zMC0xMjQtNjQuZXUtd2VzdC0xLmNvbXB1dGUuYW1hem9uYXdzLmNvbTo4MDgwL3YxIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -496,34 +496,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVBST0pFQ1RfVVJMID0gImh0dHA6Ly9lYzItNTItMzAtMTI0LTY0LmV1LXdlc3QtMS5jb21wdXRlLmFtYXpvbmF3cy5jb206ODA4MC92MS9wcm9qZWN0cy8xYTUvc2NoZW1hcyIK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CUhPU1QgICAgICAgID0gImVjMi01Mi0zMC0xMjQtNjQuZXUtd2VzdC0xLmNvbXB1dGUuYW1hem9uYXdzLmNvbTo4MDgwL3YxIgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CVBST0pFQ1RfVVJMID0gImh0dHA6Ly9lYzItNTItMzAtMTI0LTY0LmV1LXdlc3QtMS5jb21wdXRlLmFtYXpvbmF3cy5jb206ODA4MC92MS9wcm9qZWN0cy8xYTUvc2NoZW1hcyIK</text>
       </register>
-      <register name="5" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">CUhPU1QgICAgICAgID0gImVjMi01Mi0zMC0xMjQtNjQuZXUtd2VzdC0xLmNvbXB1dGUuYW1hem9uYXdzLmNvbTo4MDgwL3YxIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CVBST0pFQ1RfVVJMID0gImh0dHA6Ly9lYzItNTItMzAtMTI0LTY0LmV1LXdlc3QtMS5jb21wdXRlLmFtYXpvbmF3cy5jb206ODA4MC92MS9wcm9qZWN0cy8xYTUvc2NoZW1hcyIK</text>
+      </register>
+      <register name="6" type="8">
         <text>KEY
 KEY
 KEY
 KEY</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QnlMb2NhdGlvbklkKCkgbWV0aG9kLgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRJdGVtc0J5Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>action AceJumpAction</text>
       </register>
     </registers>
     <search>
@@ -559,13 +559,6 @@ KEY</text>
         <entry>Playlist</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcERvdWJsZVF1b3Rlcw==</entry>
-        <entry>actionlist wrap</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcFBhcmVudGVzaXM=</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcFNpbmdsZVF1b3Rlcw==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yVW5TZWxlY3RXb3Jk</entry>
-        <entry>%/Playlist/Track/g</entry>
         <entry>%s/playlist/track/g</entry>
         <entry>%s/Playlist/Track/g</entry>
         <entry encoding="base64">YWN0aW9uIEFjZUp1bXBBY3Rpb248Y3I+</entry>
@@ -573,12 +566,19 @@ KEY</text>
         <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5qIDphY3Rpb24gQWNlSnVtcEFjdGlvbjxjcj4gag==</entry>
         <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5qIDphY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
         <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5qIDphY3Rpb24gQWNlSnVtcEFjdGlvbjxjcj4=</entry>
-        <entry>action AceJumpAction</entry>
         <entry>vsp</entry>
         <entry>q</entry>
         <entry>w</entry>
         <entry>action EditorUnSelectWord</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>actions</entry>
+        <entry encoding="base64">YWN0aW9ubGlzdCA=</entry>
+        <entry>actionlist jump</entry>
+        <entry encoding="base64">bWFwIHNzIDphY3Rpb24gQWNlSnVtcEFjdGlvbiA=</entry>
+        <entry encoding="base64">YWN0aW9uIEFjZUp1bXBBY3Rpb24g</entry>
+        <entry encoding="base64">bWFwIHNzIDphY3Rpb24gQWNlSnVtcEFjdGlvbjxjcj4g</entry>
+        <entry encoding="base64">bm5vcmVtYXAgc3MgOmFjdGlvbiBBY2VKdW1wQWN0aW9uPGNyPiA=</entry>
+        <entry>action AceJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
