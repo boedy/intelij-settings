@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/docker/instore/config/testing/database.php" timestamp="1446371815980">
@@ -133,11 +133,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479643625425">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="19" column="11" />
+      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479644664541">
+        <mark key="[" line="36" column="50" />
+        <mark key="]" line="36" column="49" />
+        <mark key="." line="36" column="49" />
+        <mark key="^" line="36" column="49" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" timestamp="1475051463193">
         <mark key="'" line="12" column="0" />
@@ -559,10 +559,6 @@ KEY</text>
         <entry>Playlist</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">YWN0aW9uIEFjZUp1bXBBY3Rpb24gPGNyPg==</entry>
-        <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5qIDphY3Rpb24gQWNlSnVtcEFjdGlvbjxjcj4gag==</entry>
-        <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5qIDphY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
-        <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5qIDphY3Rpb24gQWNlSnVtcEFjdGlvbjxjcj4=</entry>
         <entry>vsp</entry>
         <entry>q</entry>
         <entry>w</entry>
@@ -579,6 +575,10 @@ KEY</text>
         <entry encoding="base64">bm5vcmVtYXAgOyA6YWN0aW9uIEFjZUp1bXBBY3Rpb248Y3I+IA==</entry>
         <entry>action AceJumpAction</entry>
         <entry encoding="base64">bm5vcmVtYXAgcyA6YWN0aW9uIEFjZUp1bXBBY3Rpb248Y3I+</entry>
+        <entry>call WinMove('h')</entry>
+        <entry>call WinMove('l')</entry>
+        <entry>wincmd v</entry>
+        <entry>exec wincmd v</entry>
       </history-cmd>
       <history-expr />
       <history-input />
