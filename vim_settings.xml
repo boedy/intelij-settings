@@ -183,6 +183,9 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="19" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/hostStats.go" timestamp="1479652793004">
+        <mark key="'" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/TrackApplicationService.php" timestamp="1464638906169">
         <mark key="[" line="50" column="9" />
         <mark key="]" line="50" column="8" />
@@ -194,6 +197,12 @@
         <mark key="]" line="15" column="48" />
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/host.go" timestamp="1479653956643">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/tests/Infrastructure/Repositories/DoctrinePlaylistRepositoryTest.php" timestamp="1446480920888">
         <mark key="[" line="91" column="114" />
@@ -330,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="29" filename="$USER_HOME$/projects/docker/backend/src/api/http/controllers/AdminController.php" />
       <jump line="35" column="4" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="57" column="0" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="39" column="0" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
@@ -430,10 +438,11 @@
       <jump line="50" column="8" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/CommentApplicationService.php" />
       <jump line="25" column="3" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/Builder/WeekPlanningBuilder.php" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/hostStats.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CU1BWF9XQUlUID0gdGltZS5EdXJhdGlvbih0aW1lLlNlY29uZCAqIDEwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>rancher_autoscale</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -445,7 +454,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>yourProject</text>
+        <text>rancher_autoscale</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
@@ -562,7 +571,6 @@
         <entry>Playlist</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceJumpAction</entry>
         <entry encoding="base64">bm5vcmVtYXAgcyA6YWN0aW9uIEFjZUp1bXBBY3Rpb248Y3I+</entry>
         <entry>call WinMove('h')</entry>
         <entry>call WinMove('l')</entry>
@@ -582,6 +590,7 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action SplitVertically</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>e host.go</entry>
       </history-cmd>
       <history-expr />
       <history-input />
