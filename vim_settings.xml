@@ -200,11 +200,12 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/host.go" timestamp="1479662788027">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="14" />
+      <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/host.go" timestamp="1479665124524">
+        <mark key="'" line="28" column="28" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/tests/Infrastructure/Repositories/DoctrinePlaylistRepositoryTest.php" timestamp="1446480920888">
         <mark key="[" line="91" column="114" />
@@ -341,7 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="4" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="57" column="0" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="39" column="0" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="1" column="0" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
@@ -441,10 +441,11 @@
       <jump line="25" column="3" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/Builder/WeekPlanningBuilder.php" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/hostStats.go" />
+      <jump line="28" column="28" filename="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/host.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigxKQo=</text>
+        <text encoding="base64">CWgucmFuY2hlckhvc3QuCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -456,16 +457,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>cpuCorePercentages</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
       </register>
-      <register name="0" type="4">
-        <text>h.rancherHost.Info[</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWguY3B1LmNvcmVQZXJjZW50YWdlcyAgPW1ha2UoW11mbG9hdDY0LCBsZW4oY29yZVBlcmNlbnRhZ2VzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigxKQo=</text>
+        <text encoding="base64">CWgucmFuY2hlckhvc3QuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -513,31 +514,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHlwZSBIb3N0U3RhdHMgc3RydWN0IHsKCWNsaWVudCAqY2xpZW50LlJhbmNoZXJDbGllbnQKfQo=</text>
+        <text encoding="base64">CXNwZXcuRHVtcChoLmNwdSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWluZm8sIF8gOj0gaC5yYW5jaGVySG9zdC5JbmZvLihtYXBbc3RyaW5nXWludGVyZmFjZXt9KQoJY3B1SW5mbywgXyA6PWluZm9bImNwdUluZm8iXS4obWFwW3N0cmluZ11pbnRlcmZhY2V7fSkKCWxvYWRBdmcsIF8gOj1jcHVJbmZvWyJsb2FkQXZnIl0KCS8vZm9yIHJhbmdlIGNwdUluZm9bImxvYWRBdmciXSB7CgkvLwoJLy99Cg==</text>
+        <text encoding="base64">CWNvcmVQZXJjZW50YWdlcyA6PSBjcHVJbmZvWyJjcHVDb3JlUGVyY2VudGFnZXMiXS4oW11pbnRlcmZhY2V7fSkKCWguY3B1LmNvcmVQZXJjZW50YWdlcyAgPW1ha2UoW11mbG9hdDY0LCBsZW4oY29yZVBlcmNlbnRhZ2VzKSkKCWZvciBpIDo9IHJhbmdlIGNvcmVQZXJjZW50YWdlcyB7CgkJaC5jcHUuY29yZVBlcmNlbnRhZ2VzW2ldID0gY29yZVBlcmNlbnRhZ2VzW2ldLihmbG9hdDY0KQoJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxvYWRBdmcgCg==</text>
+        <text encoding="base64">CXNwZXcuRHVtcChoLmNwdSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiV2XG4iLGgucmFuY2hlckhvc3QuSW5mbykK</text>
+        <text encoding="base64">CWxvYWRBdmcgOj0gY3B1SW5mb1sibG9hZEF2ZyJdLihbXWludGVyZmFjZXt9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0oKQo=</text>
+        <text encoding="base64">CWNvcmVQZXJjZW50YWdlcyA6PSBjcHVJbmZvWyJjcHVDb3JlUGVyY2VudGFnZXMiXS4oW11pbnRlcmZhY2V7fSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlqCg==</text>
+        <text encoding="base64">CWguY3B1LmNvcmVQZXJjZW50YWdlcyAgPW1ha2UoW11mbG9hdDY0LCBsZW4oY29yZVBlcmNlbnRhZ2VzKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CWdvIGZ1bmMoKSB7CgkJZGVmZXIgY29ubi5DbG9zZSgpCgkJZm9yIHsKCQkJXywgbWVzc2FnZSwgZXJyIDo9IGNvbm4uUmVhZE1lc3NhZ2UoKQoJCQlpZiBlcnIgIT0gbmlsIHsKCQkJCWxvZy5QcmludGxuKCJyZWFkOiIsIGVycikKCQkJCWJyZWFrCgkJCX0KCQkJdmFyIGVudHJpZXMgW11TdGF0c0VudHJ5CgkJCWpzb24uVW5tYXJzaGFsKG1lc3NhZ2UsICZlbnRyaWVzKQoKCQkJaWYgcHJldiAhPSBuaWwgewoJCQkJdGltZV9ucyA6PSBlbnRyaWVzWzBdLlRpbWVzdGFtcC5TdWIocHJldi5UaW1lc3RhbXAuVGltZSkuTmFub3NlY29uZHMoKQoJCQkJZGlmZl9jcHVfdG90YWwgOj0gKGVudHJpZXNbMF0uQ1BVLlVzYWdlLlRvdGFsIC0gcHJldi5DUFUuVXNhZ2UuVG90YWwpCgkJCQlmbXQuUHJpbnRmKCJIb3N0OiAlcyAlZFxuIiwgaC5yYW5jaGVySG9zdC5JZCwgZGlmZl9jcHVfdG90YWwgKiAxMDAgLyAodGltZV9ucykpCgkJCX0KCgkJCXByZXYgPSAmZW50cmllc1swXQoJCX0KCX0oKQoKCXRpY2tlciA6PSB0aW1lLk5ld1RpY2tlcih0aW1lLlNlY29uZCkKCWRlZmVyIHRpY2tlci5TdG9wKCkKCglmb3IgdCA6PSByYW5nZSB0aWNrZXIuQyB7CgllcnIgOj0gY29ubi5Xcml0ZU1lc3NhZ2Uod2Vic29ja2V0LlRleHRNZXNzYWdlLCBbXWJ5dGUodC5TdHJpbmcoKSkpCgkJaWYgZXJyICE9IG5pbCB7CgkJCWxvZy5QcmludGxuKCJ3cml0ZToiLCBlcnIpCgkJCWJyZWFrCgkJfQoJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CXNwZXcuRHVtcChoLmNwdS5sb2FkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>action SplitVertically</text>
       </register>
     </registers>
     <search>
@@ -582,17 +583,17 @@
         <entry encoding="base64">bWFwIDxsZWFkZXI+aHMgOmFjdGlvbiBTcGxpdEhvcml6b250YWxseTxjcj4=</entry>
         <entry>actionlist focus</entry>
         <entry encoding="base64">YWN0aW9uIFRhYlNoaWZ0QWN0aW9ucy5Nb3ZlRm9jdXNMZWZ0PGNyPg==</entry>
-        <entry>action SplitVertically</entry>
         <entry>e host.go</entry>
         <entry>action SplitHorizontally</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVGFiU2hpZnRBY3Rpb25zLk1vdmVGb2N1c0xlZnQ=</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action SplitVertically</entry>
       </history-cmd>
       <history-expr />
       <history-input />
