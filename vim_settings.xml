@@ -98,6 +98,7 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/import.php" timestamp="1479759445406" />
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrineLocationPlaylistRepository.php" timestamp="1474988268360">
         <mark key="." line="23" column="66" />
       </file>
@@ -126,19 +127,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/CommentApplicationService.php" timestamp="1474547959525">
-        <mark key="'" line="50" column="8" />
-        <mark key="[" line="14" column="0" />
-        <mark key="l" line="26" column="20" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/go/3rdparty/src/github.com/rancher/go-rancher/client/common.go" timestamp="1479647102501">
         <mark key="[" line="41" column="2" />
         <mark key="]" line="41" column="2" />
         <mark key="^" line="35" column="0" />
         <mark key="." line="41" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/queries/SqlQuery.php" timestamp="1479761338815" />
       <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479658187494">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="29" column="32" />
@@ -157,6 +152,10 @@
         <mark key="]" line="28" column="47" />
         <mark key="^" line="28" column="47" />
         <mark key="." line="28" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/config/main.php" timestamp="1479761255258">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="124" column="36" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Traits/TimestampableTrait.php" timestamp="1446488567051">
         <mark key="[" line="8" column="0" />
@@ -219,6 +218,12 @@
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/Comment/Command/AddCommentToPlaylistItem.php" timestamp="1475071713564">
         <mark key="." line="24" column="85" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/sendmail.php" timestamp="1479762860175">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Traits/SerializableTrait.php" timestamp="1446206118701">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="11" />
@@ -267,7 +272,7 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479649256825">
+      <file name="/Dummy.txt" timestamp="1479759435924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Application/TrackService.php" timestamp="1446481419013">
@@ -444,8 +449,8 @@
       <jump line="28" column="28" filename="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/host.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWgucmFuY2hlckhvc3QuCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGJyPg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -457,16 +462,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cpuCorePercentages</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWguY3B1LmNvcmVQZXJjZW50YWdlcyAgPW1ha2UoW11mbG9hdDY0LCBsZW4oY29yZVBlcmNlbnRhZ2VzKSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGJyPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWgucmFuY2hlckhvc3QuCg==</text>
+        <text encoding="base64">ICAgICRlbWFpbCAuPSAnPGJyPiRpPGJyPic7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -514,31 +519,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICRlbWEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXNwZXcuRHVtcChoLmNwdSkK</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCJ0ZXN0JGkuaHRtbCIsICRlbWFpbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNvcmVQZXJjZW50YWdlcyA6PSBjcHVJbmZvWyJjcHVDb3JlUGVyY2VudGFnZXMiXS4oW11pbnRlcmZhY2V7fSkKCWguY3B1LmNvcmVQZXJjZW50YWdlcyAgPW1ha2UoW11mbG9hdDY0LCBsZW4oY29yZVBlcmNlbnRhZ2VzKSkKCWZvciBpIDo9IHJhbmdlIGNvcmVQZXJjZW50YWdlcyB7CgkJaC5jcHUuY29yZVBlcmNlbnRhZ2VzW2ldID0gY29yZVBlcmNlbnRhZ2VzW2ldLihmbG9hdDY0KQoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXNwZXcuRHVtcChoLmNwdSkK</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCIvdGVzdCRpLmh0bWwiLCAkZW1haWwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWxvYWRBdmcgOj0gY3B1SW5mb1sibG9hZEF2ZyJdLihbXWludGVyZmFjZXt9KQo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGVtYWlsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvcmVQZXJjZW50YWdlcyA6PSBjcHVJbmZvWyJjcHVDb3JlUGVyY2VudGFnZXMiXS4oW11pbnRlcmZhY2V7fSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWyRyZXN1bHRbJ2lkJ10sICRyZXN1bHRbJ25hbWUnXV07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWguY3B1LmNvcmVQZXJjZW50YWdlcyAgPW1ha2UoW11mbG9hdDY0LCBsZW4oY29yZVBlcmNlbnRhZ2VzKSkK</text>
+        <text encoding="base64">cHJpbnQgZ2V0TW9zdFBvcHVsYXJQbGF5bGlzdCgwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXNwZXcuRHVtcChoLmNwdS5sb2FkKQo=</text>
+        <text encoding="base64">cHJpbnQgJ3Rlc3RqJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action SplitVertically</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -587,13 +592,13 @@
         <entry>action SplitHorizontally</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVGFiU2hpZnRBY3Rpb25zLk1vdmVGb2N1c0xlZnQ=</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
-        <entry>action EditorSelectWord</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action SplitVertically</entry>
+        <entry>action EditorSelectWord</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
