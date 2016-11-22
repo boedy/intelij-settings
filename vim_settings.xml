@@ -18,10 +18,11 @@
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/User/DefaultNameGenerator.php" timestamp="1465761902981">
         <mark key="[" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/core/actions/player.js" timestamp="1479838554618">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/core/actions/player.js" timestamp="1479845893967">
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="68" column="49" />
+        <mark key="." line="68" column="49" />
+        <mark key="^" line="68" column="49" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/User/User.php" timestamp="1446374513033">
         <mark key="[" line="46" column="25" />
@@ -29,7 +30,7 @@
         <mark key="^" line="51" column="42" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1479836457105">
+      <file name="/a.dummy" timestamp="1479844763033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/email/MailService.php" timestamp="1479806497114">
@@ -154,6 +155,11 @@
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/index.js" timestamp="1479846120186">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Traits/TimestampableTrait.php" timestamp="1446488567051">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="31" />
@@ -206,6 +212,12 @@
       <file name="$USER_HOME$/projects/docker/instore/tests/Infrastructure/Repositories/DoctrinePlaylistRepositoryTest.php" timestamp="1446480920888">
         <mark key="[" line="91" column="114" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/services/RemotePlayer.js" timestamp="1479846720725">
+        <mark key="[" line="22" column="69" />
+        <mark key="]" line="22" column="69" />
+        <mark key="." line="22" column="69" />
+        <mark key="^" line="22" column="65" />
+      </file>
       <file name="$USER_HOME$/projects/docker/instore/composer.json" timestamp="1446476702835">
         <mark key="[" line="18" column="55" />
         <mark key="]" line="18" column="55" />
@@ -249,7 +261,7 @@
         <mark key="]" line="61" column="57" />
         <mark key="." line="61" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/config.xml" timestamp="1479837497373">
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/config.xml" timestamp="1479846267408">
         <mark key="[" line="78" column="52" />
         <mark key="]" line="78" column="52" />
         <mark key="^" line="14" column="51" />
@@ -261,11 +273,11 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/services/backgroundAudio.js" timestamp="1479839726655">
-        <mark key="[" line="35" column="34" />
-        <mark key="]" line="35" column="40" />
-        <mark key="^" line="35" column="40" />
-        <mark key="." line="35" column="40" />
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/services/backgroundAudio.js" timestamp="1479844590274">
+        <mark key="[" line="33" column="57" />
+        <mark key="]" line="33" column="59" />
+        <mark key="." line="33" column="59" />
+        <mark key="^" line="33" column="59" />
       </file>
       <file name="$USER_HOME$/projects/cordova-instore-app/.gitignore" timestamp="1445952135882">
         <mark key="[" line="48" column="46" />
@@ -279,7 +291,7 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479828326895">
+      <file name="/Dummy.txt" timestamp="1479845900787">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Application/TrackService.php" timestamp="1446481419013">
@@ -458,7 +470,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>paused</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -470,16 +482,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>paused</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBCdWdmZW5kZXIubG9nKCdCYWNrZ3JvdW5kIGF1ZGlvIHBhdXNlZCcpOwogIGF1ZGlvLnBhdXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5CdWdmZW5kZXIuZXJyb3IoJ0Vycm9yIGdldHRpbmcgcG9zaXRpb24gYWZ0ZXIgcGxheScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3Qgb2xkTG9nID0gY29uc29sZS5sb2c7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -527,28 +539,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBCdWdmZW5kZXIubG9nKCdDdXJyZW50IHNjb3JlOicsIHt1c2VyOiAnSm9obicsIHBvaW50czogMTAwfSk7Cg==</text>
+        <text encoding="base64">ICBvbGRMb2cobXNnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAvL2FkZCB5b3VyIGxvZ2ljIGhlcmUK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PD9waHAKCnVzZSBkb21haW5cdXNlclxVc2VyOwoKcmVxdWlyZSAnLi4vdmVuZG9yL2F1dG9sb2FkLnBocCc7CnJlcXVpcmUgJy4uL2FwaS9jb25maWcvbWFpbi5waHAnOwpyZXF1aXJlICcuLi9hcGkvaGFuZGxlcnMvaGVscGVycy5waHAnOwoKJG1haWxTZXJ2aWNlID0gbmV3IFxpbmZyYXN0cnVjdHVyZVxlbWFpbFxNYWlsU2VydmljZSgpOwokdXNlcnMgPSBVc2VyOjphbGwoKTsKJHNlbnQgPSAkY2FjaGUtPmdldCgkdXNlci0+Z2V0RW1haWwoKSk7CmlmKCAhICRzZW50KSB7CiAgICBzZW5kRW1haWwoJHVzZXIpOwogICAgJGNhY2hlLT5zZXQoJHVzZXItPmdldEVtYWlsKCksIHRydWUsIDMwMDApOwp9CnByaW50ICJzZW50IG1haWwgJGk6ICIuJHVzZXItPmdldEVtYWlsKCkuIlxuIjsKfQoKCmZ1bmN0aW9uIHByZXBhcmVNYWlsKFVzZXIgJHVzZXIpIHsKICAgICRuYW1lID0gJHVzZXItPmdldEZpcnN0TmFtZSgpOwogICAgaWYoISAkbmFtZSkgJG5hbWUgPSAkdXNlci0+Z2V0VXNlcm5hbWUoKTsKCiAgICAkcGxheWxpc3RJbmZvID0gZ2V0TW9zdFBvcHVsYXJQbGF5bGlzdCgkdXNlci0+Z2V0SUQoKSk7CiAgICAkZW1haWwgPSBlbWFpbFRlbXBsYXRlKCRuYW1lLCAkcGxheWxpc3RJbmZvKTsKICAgIHJldHVybiAkZW1haWw7Cn0KCgpmdW5jdGlvbiBnZXRNb3N0UG9wdWxhclBsYXlsaXN0KCR1c2VySWQpIHsKICAgICRxdWVyeSA9ICcKICAgICAgICBTRUxFQ1QgcC5pZCwgcC5uYW1lIEZST00gcGxheWxpc3QgcAogICAgICAgIEpPSU4gdXNlcl9wbGF5bGlzdCB1cCBvbiBwLmlkID0gdXAucGxheWxpc3RfaWQgYW5kIHVzZXJfaWQgPSA6dXNlcl9pZCBhbmQgcm9sZSA9IDMKICAgICAgICBKT0lOIHBsYXlsaXN0X3N0YXRzIHBzIG9uIHAuaWQgPSBwcy5pZAogICAgICAgIHdoZXJlIHBzLnRyYWNrX2NvdW50ID4gNQogICAgICAgIG9yZGVyIGJ5IGB0cmFja19jb3VudGBkZXNjCiAgICAgICAgbGltaXQgMQogICAgJzsKICAgICRkYiA9IERhdGFiYXNlRmFjdG9yeTo6Z2V0REIoKTsKICAgICRkYi0+Y29ubmVjdCgpOwogICAgJGRiLT5xdWVyeSgkcXVlcnksIFsnOnVzZXJfaWQnID0+ICR1c2VySWRdKTsKICAgICRyZXN1bHQgPSAkZGItPmZldGNoKCk7CiAgICBpZigkcmVzdWx0KXsKICAgICAgICByZXR1cm4gJHJlc3VsdDsKICAgIH0KICAgIHJldHVybiBudWxsOwp9CgpmdW5jdGlvbiBlbWFpbFRlbXBsYXRlKCRuYW1lLCAkcGxheWxpc3RJbmZvKSB7CiAgICAkYm9keSA9ICJIaSAkbmFtZSw8YnI+IjsKICAgICRib2R5IC49ICI8cD5UaGUgcGFzdCBmZXcgeWVhcnMgaGF2ZSBiZWVuIGEgZ3JlYXQgYWR2ZW50dXJlLiBXZSBhcmUgdmVyeSBwcm91ZCB0byBzZWUgdGhhdCBrb2xsZWt0LmZtIGhhcyBiZWNvbWUgYSBjb21tdW5pdHkgb2YgMjAuMDAwKyB1c2VycyB3aXRoIGEgbG92ZSBmb3IgZmluZGluZyBhbmQgc2hhcmluZyBncmVhdCBtdXNpYy4gT3VyIGNvbW11bml0eSBoYXMgcwpoYXJlZCBhIHRvdGFsIG9mIDQuMjcwLjM2NyB0cmFja3MgaW4gMzguOTU0IHBsYXlsaXN0cyI7CiAgICBpZigkcGxheWxpc3RJbmZvKSB7CiAgICAgICAgJHBsYXlsaXN0SWQgPSAkcGxheWxpc3RJbmZvWydpZCddOwogICAgICAgICRwbGF5bGlzdE5hbWUgPSAkcGxheWxpc3RJbmZvWyduYW1lJ107CiAgICAgICAgJGJvZHkgLj0gIiBvZiB3aGljaCB5b3VyIDxhIGhyZWY9J2h0dHBzOi8vY29tbXVuaXR5LmtvbGxla3QuZm0vcGxheWxpc3QvJHBsYXlsaXN0SWQnPiRwbGF5bGlzdE5hbWU8L2E+IGlzIG9uZSBvZiB0aGVtIjsKICAgIH0KICAgICRib2R5IC49ICIhPC9wPiI7CiAgICAkYm9keSAuPSAiPHA+T3ZlciB0aGUgeWVhcnMsIHRoZSBtdXNpYyBpbmR1c3RyeSBoYXMgc2VlbiBhbiBlbm9ybW91cyB0cmFuc2Zvcm1hdGlvbjsgbWFueSBvdGhlciBzdHJlYW1pbmcgcGxhdGZvcm1zIGhhdmUgZW1lcmdlZCBhbmQgbXVzaWMgaXMgbm93IG1vcmUgYWNjZXNzaWJsZSB0aGFuIGV2ZXIuIFRoaW5ncyBoYXZlIGJlZW4gYSBsaXR0bGUgcXVpZXQgZnJvbQpvdXIgc2lkZSBsYXRlbHksIHRoYXQncyBiZWNhdXNlIHdlJ3ZlIGJlZW4gc2VjcmV0bHkgd29ya2luZyBvbiBhIG5ldyBzZXJ2aWNlLiBUaGlzIHdpbGwgaW50cm9kdWNlIGEgbmV3IHdheSBmb3IgbXVzaWMgbG92ZXJzIHRvIHNwcmVhZCBncmVhdCBtdXNpYyB0byBhIHdpZGVyIGF1ZGllbmNlLjwvcD4iOwogICAgJGJvZHkgLj0gIjxwPkEgYnJhbmQgbmV3IGtvbGxla3QuZm0gd2lsbCBiZSBsYXVuY2hlZCBpbiBKYW51YXJpIDIwMTcuPC9wPiI7CiAgICAkYm9keSAuPSAiPHA+U28gd2hhdO+/vX5AfllzIGhhcHBlbmluZyB3aXRoIHRoZSBrb2xsZWt0LmZtIGFzIHlvdSBrbm93IGl0PyBEb27vv71+QH5ZdCB3b3JyeSwgdGhlIHBsYXRmb3JtIGhhcyBvbmx5IGJlZW4gcmVsb2NhdGVkIGFuZCB3aWxsIHJlbWFpbiBhY2Nlc3NpYmxlIGF0IDxhIGhyZWY9J2h0dHBzOi8vY29tbXVuaXR5LmtvbGxla3QuZm0nPmNvbW11bml0eS5rb2xsCmVrdC5mbTwvYT48L3A+IjsKICAgICRib2R5IC49ICI8cD5XZSdsbCBrZWVwIHlvdSB1cGRhdGVkIGluIHRoZSB1cGNvbWluZyB3ZWVrcywgc28gc3RheSB0dW5lZCE8L3A+IjsKICAgICRib2R5IC49ICItIGtvbGxla3QuZm0iOwoKICAgIHJldHVybiAkYm9keTsKfQoKZnVuY3Rpb24gc2VuZEVtYWlsKFVzZXIgJHVzZXIpewogICAgJG1lc3NhZ2UgPSBwcmVwYXJlTWFpbCgkdXNlcik7CgovLyAgICAkY2xpZW50ID0gbmV3IE1haWxndW4oJ2tleS05YzliYTc0NzQ3NGI0OTU5N2YyODQyMmYyODFiZjQ2NCcpOwovLyAgICAkZG9tYWluID0gJ3NhbmRib3g1ZjFhNWVkYmY2MWQ0Nzk3YmEwZGIxOTNkNTYxMDBlMS5tYWlsZ3VuLm9yZyc7CgogICAgJGNsaWVudCA9IG5ldyBNYWlsZ3VuKCdtZy5rb2xsZWt0LmZtJyk7CiAgICAkZG9tYWluID0gJ2tleS05YzliYTc0NzQ3NGI0OTU5N2YyODQyMmYyODFiZjQ2NCc7CgogICAgJG1lc3NhZ2VCdWlsZGVyID0gJGNsaWVudC0+TWVzc2FnZUJ1aWxkZXIoKTsKICAgICRtZXNzYWdlQnVpbGRlci0+YWRkVG9SZWNpcGllbnQoJHVzZXItPmdldEVtYWlsKCkpOwogICAgJG1lc3NhZ2VCdWlsZGVyLT5zZXRGcm9tQWRkcmVzcygnaW5mb0Brb2xsZWt0LmZtJywgWydmaXJzdCcgPT4gJ2tvbGxla3QuZm0nXSk7CiAgICAkbWVzc2FnZUJ1aWxkZXItPnNldFN1YmplY3QoJ1RoZSBXb3JsZCBvZiBtdXNpYyBpcyBjaGFuZ2luZywgc28gYXJlIHdlIScpOwogICAgInNlbmRtYWlsLnBocCIgOTBMLCAzNTIwQyB3cml0dGVuCnJvb3RAMzljNWM0ZTgyMzhmOi92YXIvd3d3L2h0bWwvc2NyaXB0cyMgY2F0IHNlbmRtYWlsLnBo</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhbGVydCgnbXkgLmxvZyBob29rIHJlY2VpdmVkIG1lc3NhZ2UgLSAnK21zZyk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmaW5lKCdNQUlMR1VOX0tFWScsICRfU0VSVkVSWydNQUlMR1VOX0tFWSddKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB3aW5kb3cuQnVnZmVuZGVyLmxvZygnQmFja2dyb3VuZCBhdWRpbyBzdG9wcGVkJyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB3aW5kb3cuQnVnZmVuZGVyLmxvZygnQmFja2dyb3VuZCBhdWRpbyBzdGFydGVkJyk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbmRFbWFpbCgkdXNlcnNbJGldKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
