@@ -222,11 +222,11 @@
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/Comment/Command/AddCommentToPlaylistItem.php" timestamp="1475071713564">
         <mark key="." line="24" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/sendmail.php" timestamp="1479809336089">
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="21" column="49" />
-        <mark key="." line="21" column="49" />
-        <mark key="^" line="21" column="49" />
+      <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/sendmail.php" timestamp="1479810378935">
+        <mark key="[" line="79" column="15" />
+        <mark key="]" line="79" column="50" />
+        <mark key="." line="79" column="50" />
+        <mark key="^" line="79" column="50" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Traits/SerializableTrait.php" timestamp="1446206118701">
         <mark key="[" line="3" column="10" />
@@ -454,7 +454,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>sandbox5f1a5edbf61d4797ba0db193d56100e1.mailgun.org</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -466,16 +466,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>sandbox5f1a5edbf61d4797ba0db193d56100e1.mailgun.org</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbmRFbWFpbCgkdXNlcnNbJGldKTsK</text>
+        <text encoding="base64">CiAgICAkY2xpZW50ID0gbmV3IE1haWxndW4oJ2tleS05YzliYTc0NzQ3NGI0OTU5N2YyODQyMmYyODFiZjQ2NCcpOwogICAgJGRvbWFpbiA9ICdzYW5kYm94NWYxYTVlZGJmNjFkNDc5N2JhMGRiMTkzZDU2MTAwZTEubWFpbGd1bi5vcmcnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -523,28 +523,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCdNQUlMR1VOX0tFWScsICRfU0VSVkVSWydNQUlMR1VOX0tFWSddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlbmRFbWFpbCgkdXNlcnNbJGldKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENhY2hlIGxqa2tqIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNlbmRFbWFpbCgkdXNlcnNbJGldKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9maWxlX3B1dF9jb250ZW50cygidGVzdDEuaHRtbCIsICRtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgIENhY2hlIGxqa2tqIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgJG1haWwgLj0gcHJlcGFyZU1haWwoJHVzZXJzWyRpXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgJG1lc3NhZ2UgLj0gIjxicj5Vc2VyOiAkaTxicj48YnI+IjsK</text>
+        <text encoding="base64">Ly9maWxlX3B1dF9jb250ZW50cygidGVzdDEuaHRtbCIsICRtZXNzYWdlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8kbWVzc2FnZSA9ICcnOwo=</text>
+        <text encoding="base64">Ly8gICAgJG1haWwgLj0gcHJlcGFyZU1haWwoJHVzZXJzWyRpXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
