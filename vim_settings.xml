@@ -66,6 +66,10 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/SendInvitationEmailJob.php" timestamp="1479922455201">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="75" />
+      </file>
       <file name="$USER_HOME$/projects/docker/backend/src/api/http/controllers/PersonalPlaylistController.php" timestamp="1449664776088">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="20" />
@@ -96,11 +100,11 @@
         <mark key="." line="25" column="28" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/import.php" timestamp="1479759445406" />
-      <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/User/Command/RequestPasswordReset.php" timestamp="1479919430893">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="8" />
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/User/Command/RequestPasswordReset.php" timestamp="1479921383130">
+        <mark key="[" line="23" column="76" />
+        <mark key="]" line="23" column="76" />
+        <mark key="." line="23" column="76" />
+        <mark key="^" line="23" column="76" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Http/Controllers/Controller.php" timestamp="1474547198822">
         <mark key="[" line="51" column="24" />
@@ -114,11 +118,12 @@
         <mark key="." line="124" column="33" />
         <mark key="^" line="124" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/PasswordResetEmail.php" timestamp="1479919968165">
-        <mark key="[" line="31" column="62" />
-        <mark key="]" line="30" column="15" />
-        <mark key="^" line="30" column="15" />
-        <mark key="." line="30" column="15" />
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/PasswordResetEmail.php" timestamp="1479922695169">
+        <mark key="'" line="65" column="22" />
+        <mark key="[" line="58" column="34" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="60" column="20" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Infrastructure/Files/Mp3.php" timestamp="1446488942083">
         <mark key="[" line="45" column="31" />
@@ -294,7 +299,7 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479919438611">
+      <file name="/Dummy.txt" timestamp="1479920958331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Http/routes.php" timestamp="1479919184994">
@@ -376,7 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="39" column="0" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="1" column="0" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="74" column="0" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
@@ -476,10 +480,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/hostStats.go" />
       <jump line="28" column="28" filename="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/host.go" />
+      <jump line="63" column="22" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/PasswordResetEmail.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPmdldEJvZHkoJHVzZXIp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -491,16 +496,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmdldEJvZHkoJHVzZXIp</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>Playlist</text>
+        <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsaWRhdGlvblJ1bGVzID0gWwogICAgICAgICAgICAncGxheV9vbl9zdGFydHVwJyAgICAgID0+ICdib29sZWFuJywKICAgICAgICAgICAgJ2ZpbGVfc3luY19zdGFydF90aW1lJyA9PiAnZGF0ZV9mb3JtYXQ6RzppJywKICAgICAgICAgICAgJ2ZpbGVfc3luY19lbmRfdGltZScgICA9PiAnZGF0ZV9mb3JtYXQ6RzppJywKICAgICAgICAgICAgJ2ZpbGVfc3RvcmVfbGltaXQnICAgICA9PiAnbnVtZXJpYycKICAgICAgICBdOwoKICAgICAgICAkdGhpcy0+dmFsaWRhdGUoJHJlcXVlc3QsICR2YWxpZGF0aW9uUnVsZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYm9keSAuPSAnPHA+UGxlYXNlIGZvbGxvdyB0aGlzIGxpbmsgdG8gY3JlYXRlIHlvdXIgYWNjb3VudDogPC9wPic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZpbGVfc3luY19zdGFydF90aW1lJyA9PiAnZGF0ZV9mb3JtYXQ6RzppJywKICAgICAgICAgICAgJ2ZpbGVfc3luY19lbmRfdGltZScgICA9PiAnZGF0ZV9mb3JtYXQ6RzppJywKICAgICAgICAgICAgJ2ZpbGVfc3RvcmVfbGltaXQnICAgICA9PiAnbnVtZXJpYycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -550,43 +555,42 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB3aW5kb3cuaG9ja2V5YXBwLnN0YXJ0KG51bGwsIG51bGwsICc4MjZjZGE5MTNiY2E0NGFkYjk0ZWZjMmRiNWRjMjU2OCcpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBQYXNzd29yZFJlc2V0RW1haWwgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gJGVtYWlsQWRkcmVzcwogICAgICogQHBhcmFtICRwYXNzd29yZFJlc2V0VG9rZW4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRlbWFpbEFkZHJlc3MsICRwYXNzd29yZFJlc2V0VG9rZW4pCiAgICB7CiAgICAgICAgJHRoaXMtPmVtYWlsQWRkcmVzcyA9ICRlbWFpbEFkZHJlc3M7CiAgICAgICAgJHRoaXMtPnBhc3N3b3JkUmVzZXRUb2tlbiA9ICRwYXNzd29yZFJlc2V0VG9rZW47CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVuZGVyKCkgewogIGlmICghaGFzSW5pdGlhbGl6ZWQpIHJldHVybjsKICBjb25zdCBSb290ID0gcmVxdWlyZSgnLi9jb250YWluZXJzL1Jvb3QnKS5kZWZhdWx0OwogIFJlYWN0RE9NLnJlbmRlcig8Um9vdCBzdG9yZT17c3RvcmV9IGhpc3Rvcnk9e2hhc2hIaXN0b3J5fSAvPiwgcm9vdEVsKTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAkYm9keSAuPSAnPHA+PC9wPic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVuZGVyKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAkYm9keSA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkdXJsID0gZW52KCcnKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gcmVuZGVyKCkgewogIGlmICghaGFzSW5pdGlhbGl6ZWQpIHJldHVybjsKICBjb25zdCBSb290ID0gcmVxdWlyZSgnLi9jb250YWluZXJzL1Jvb3QnKS5kZWZhdWx0OwogIFJlYWN0RE9NLnJlbmRlcig8Um9vdCBzdG9yZT17c3RvcmV9IGhpc3Rvcnk9e2hhc2hIaXN0b3J5fSAvPiwgcm9vdEVsKTsKfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgb2xkTG9nID0gY29uc29sZS5sb2c7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUGFzc3dvcmRSZXNldEVtYWlsIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtICRlbWFpbEFkZHJlc3MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRlbWFpbEFkZHJlc3MpIHsgJHRoaXMtPmVtYWlsQWRkcmVzcyA9ICRlbWFpbEFkZHJlc3M7IH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvbGRMb2cobXNnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
     <search>
-      <last-search>persi</last-search>
+      <last-search encoding="base64">XDx0aGlzXD4=</last-search>
       <last-offset />
-      <last-pattern>Playlist</last-pattern>
+      <last-pattern encoding="base64">XDx0aGlzXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>extra</entry>
         <entry>funcion</entry>
         <entry>function</entry>
         <entry encoding="base64">XDxpZFw+</entry>
@@ -606,6 +610,7 @@
         <entry>persi</entry>
         <entry>playlist</entry>
         <entry>Playlist</entry>
+        <entry encoding="base64">XDx0aGlzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIDxsZWFkZXI+bCA6YWN0aW9uIFNwbGl0VmVydGljYWxseTxjcj4=</entry>
