@@ -94,6 +94,12 @@
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/scripts/chcp.js" timestamp="1479988907728">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/User/NameGenerator.php" timestamp="1465761765929">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="6" column="9" />
@@ -155,6 +161,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="^" line="47" column="4" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/www/chcp.json" timestamp="1479988847851">
+        <mark key="[" line="8" column="68" />
+        <mark key="]" line="8" column="68" />
+        <mark key="." line="8" column="68" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/processes/ProcessRouter.php" timestamp="1449752681301">
         <mark key="[" line="742" column="47" />
@@ -254,17 +265,22 @@
       <file name="$USER_HOME$/projects/docker/instore/tests/Infrastructure/Repositories/DoctrinePlaylistRepositoryTest.php" timestamp="1446480920888">
         <mark key="[" line="91" column="114" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/services/RemotePlayer.js" timestamp="1479985283958">
-        <mark key="[" line="122" column="29" />
-        <mark key="]" line="122" column="35" />
-        <mark key="^" line="122" column="35" />
-        <mark key="." line="122" column="35" />
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/chcpbuild.options" timestamp="1479988921746">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="87" />
+        <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/services/RemotePlayer.js" timestamp="1479986823655" />
       <file name="$USER_HOME$/projects/docker/instore/composer.json" timestamp="1446476702835">
         <mark key="[" line="18" column="55" />
         <mark key="]" line="18" column="55" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/sendmail.php" timestamp="1479816810848">
+        <mark key="[" line="79" column="27" />
+        <mark key="]" line="79" column="27" />
+        <mark key="." line="79" column="27" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Traits/SerializableTrait.php" timestamp="1446206118701">
         <mark key="[" line="3" column="10" />
@@ -298,11 +314,11 @@
         <mark key="]" line="61" column="57" />
         <mark key="." line="61" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/config.xml" timestamp="1479985671807">
-        <mark key="[" line="14" column="101" />
-        <mark key="]" line="14" column="101" />
-        <mark key="^" line="14" column="100" />
-        <mark key="." line="14" column="101" />
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/config.xml" timestamp="1479988689848">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="92" />
+        <mark key="^" line="14" column="82" />
+        <mark key="." line="14" column="82" />
       </file>
       <file name="$USER_HOME$/code/go/me/src/github.com/boedy/learningGo/date.go" timestamp="1444251834972">
         <mark key="[" line="0" column="11" />
@@ -310,11 +326,11 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/services/backgroundAudio.js" timestamp="1479984430122">
-        <mark key="[" line="33" column="57" />
-        <mark key="]" line="33" column="59" />
-        <mark key="." line="33" column="59" />
-        <mark key="^" line="33" column="59" />
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/services/backgroundAudio.js" timestamp="1479988610638">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="40" />
       </file>
       <file name="$USER_HOME$/projects/cordova-instore-app/.gitignore" timestamp="1445952135882">
         <mark key="[" line="48" column="46" />
@@ -519,7 +535,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>grok.io/chcp.json</text>
+        <text>https://f3f6779d.ngrok.io</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -531,16 +547,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>grok.io/chcp.json</text>
+        <text>https://f3f6779d.ngrok.io</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>required</text>
+        <text>https://s3-eu-west-1.amazonaws.com/atmosphere-app/acetate/chcp.json</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdWRpby5pcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -588,28 +604,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2luZG93LkJ1Z2ZlbmRlci5lcnJvcignUEFVU0VEJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2luZG93LkJ1Z2ZlbmRlci5sb2coYHN0YXR1czogJHtzdGF0dXN9IHwgcG9zaXRpb246ICR7cG9zaXRpb259YCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCAhICRjYWNoZVZhbHVlIHx8ICRjYWNoZVZhbHVlICE9ICRkdG8tPmdldEVtYWlsQWRkcmVzcygpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBGb3JiaWRkZW4oJ0ludmFsaWQgdG9rZW4gb3IgZW1haWwgYWRkcmVzcyBwcm92aWRlZCcpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCAhICRjYWNoZVZhbHVlIHx8ICRjYWNoZVZhbHVlICE9ICRkdG8tPmdldEVtYWlsQWRkcmVzcygpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBGb3JiaWRkZW4oJ0ludmFsaWQgdG9rZW4gb3IgZW1haWwgYWRkcmVzcyBwcm92aWRlZCcpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
