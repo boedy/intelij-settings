@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/docker/instore/config/testing/database.php" timestamp="1446371815980">
@@ -390,12 +390,12 @@
       <file name="$USER_HOME$/projects/docker/instore/tests/Infrastructure/Repositories/DoctrineTrackRepository.php" timestamp="1446488198093">
         <mark key="[" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/email_templates/password.html" timestamp="1480433206816">
+      <file name="$USER_HOME$/Desktop/email_templates/password.html" timestamp="1480434436565">
         <mark key="'" line="4" column="51" />
-        <mark key="[" line="15" column="67" />
-        <mark key="]" line="15" column="67" />
-        <mark key="." line="15" column="67" />
-        <mark key="^" line="16" column="8" />
+        <mark key="[" line="8" column="77" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Entities/traits/TimestampableTrait.php" timestamp="1446155892487">
         <mark key="[" line="1" column="0" />
@@ -514,7 +514,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>normal</text>
+        <text>mail</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -526,16 +526,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>normal</text>
+        <text>mail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9ImJhY2tncm91bmprZC1jb2xvcjogIzQyODdkYTttYXJnaW46IDMwcHggYXV0bztsZXR0ZXItc3BhY2luZzowLjA4ZW07d2lkdGg6IDM5N3B4OyBwYWRkaW5nOiA3NnB4OyBsaW5lLWhlaWdodDogMS42ZW07IGZvbnQtc2l6ZTogMTZweDsgZm9udC13ZWlnaHQ6IDEwMCI+Cg==</text>
+      <register name="0" type="4">
+        <text>Password reset</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGQK</text>
+        <text encoding="base64">ICAgIDxoMiBzdHlsZT0iZm9udC1zaXplOjJlbTtmb250LXdlaWdodDozMDA7bWFyZ2luOiAwcHgiPlBhc3N3b3JkIHJlc2V0PC9oMj4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -583,22 +583,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGJvZHkgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyO2ZvbnQtZmFtaWx5OlRhaG9tYTtwYWRkaW5nOiAwcHg7bWFyZ2luOiAwcHgiPgo=</text>
+        <text encoding="base64">PGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">PGJvZHkgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyO2ZvbnQtZmFtaWx5OlRhaG9tYTtwYWRkaW5nOiAwcHg7bWFyZ2luOiAwcHgiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhdWRpby5pcwo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LkJ1Z2ZlbmRlci5lcnJvcignUEFVU0VEJyk7Cg==</text>
+        <text encoding="base64">ICBhdWRpby5pcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LkJ1Z2ZlbmRlci5sb2coYHN0YXR1czogJHtzdGF0dXN9IHwgcG9zaXRpb246ICR7cG9zaXRpb259YCk7Cg==</text>
+        <text encoding="base64">ICAgICAgd2luZG93LkJ1Z2ZlbmRlci5lcnJvcignUEFVU0VEJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2luZG93LkJ1Z2ZlbmRlci5sb2coYHN0YXR1czogJHtzdGF0dXN9IHwgcG9zaXRpb246ICR7cG9zaXRpb259YCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
