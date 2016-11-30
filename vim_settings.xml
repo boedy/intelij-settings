@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/docker/instore/config/testing/database.php" timestamp="1446371815980">
@@ -135,7 +135,7 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="135" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/PasswordResetEmail.php" timestamp="1480433234833" />
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/PasswordResetEmail.php" timestamp="1480496979263" />
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/DTO/PasswordResetDTO.php" timestamp="1479925116676">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -390,9 +390,12 @@
       <file name="$USER_HOME$/projects/docker/instore/tests/Infrastructure/Repositories/DoctrineTrackRepository.php" timestamp="1446488198093">
         <mark key="[" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/email_templates/password.html" timestamp="1480435843954">
+      <file name="$USER_HOME$/Desktop/email_templates/password.html" timestamp="1480496787311">
         <mark key="'" line="4" column="51" />
+        <mark key="[" line="8" column="81" />
+        <mark key="]" line="8" column="81" />
         <mark key="^" line="7" column="36" />
+        <mark key="." line="8" column="81" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Entities/traits/TimestampableTrait.php" timestamp="1446155892487">
         <mark key="[" line="1" column="0" />
@@ -510,8 +513,8 @@
       <jump line="66" column="136" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/PasswordResetEmail.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxoMSBzdHlsZT0iZm9udC1zaXplOjJlbTtmb250LXdlaWdodDozMDA7bWFyZ2luOiA1MHB4IDBweCA1cHggMHB4Ij5Gb3Jnb3QgeW91ciBwYXNzd29yZD88L2gxPgo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="j" type="4">
         <keys>
@@ -523,7 +526,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
