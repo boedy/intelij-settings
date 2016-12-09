@@ -5,11 +5,11 @@
     <variable name="TAG_NAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
     <context>
       <option name="HTML_TEXT" value="true" />
-      <option name="JAVA_COMMENT" value="true" />
       <option name="JSP" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="XSL_TEXT" value="true" />
       <option name="COMPLETION" value="false" />
       <option name="JAVA_STRING" value="false" />
-      <option name="XSL_TEXT" value="true" />
       <option name="JAVA_CODE" value="false" />
     </context>
   </template>
@@ -26,8 +26,8 @@
     <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
     <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
     <context>
-      <option name="JAVA_COMMENT" value="false" />
       <option name="JSP" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
       <option name="COMPLETION" value="false" />
       <option name="JAVA_STRING" value="false" />
       <option name="JAVA_CODE" value="false" />
@@ -36,9 +36,9 @@
   <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
     <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
     <context>
+      <option name="JSP" value="true" />
       <option name="XSL_TEXT" value="true" />
       <option name="COMPLETION" value="false" />
-      <option name="JSP" value="true" />
     </context>
   </template>
 </templateSet>
