@@ -57,6 +57,10 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="24" column="64" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/mPlayer.js" timestamp="1481979294180">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="54" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/webpack.config.js" timestamp="1481895952164">
         <mark key="[" line="25" column="33" />
         <mark key="]" line="25" column="56" />
@@ -117,11 +121,11 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/howler.js" timestamp="1481907535281">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="22" />
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/howler.js" timestamp="1481978761818">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/User/Command/RequestPasswordReset.php" timestamp="1479925325250">
         <mark key="[" line="21" column="0" />
@@ -265,6 +269,12 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/webAudio.js" timestamp="1481979310051">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/code/go/me/src/github.com/boedy/learningGo/date.go" timestamp="1444251834972">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
@@ -319,11 +329,11 @@
         <mark key="." line="109" column="51" />
         <mark key="^" line="109" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/root.js" timestamp="1481895047052">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="5" />
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/root.js" timestamp="1481978866527">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Playlist/PlaylistRepository.php" timestamp="1446488082801">
         <mark key="[" line="8" column="0" />
@@ -489,8 +499,8 @@
       <jump line="2" column="17" filename="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Mplayer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -502,16 +512,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Mplayer</text>
+        <text>player</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>$USER_HOME$/projects/kollekt/instore/atmosphere-app/electron</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBpZiAoc3RhcnRlZCkgewogICAgcGxheWVyLm9uY2UoJ3N0YXJ0JywgKCkgPT4gewogICAgICBzdGFydGVkKCk7CiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IE1wbGF5ZXIgZnJvbSAnbXBsYXllcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -559,28 +569,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">ICAgICAgcGxheWVyLm9uY2UoJ3N0YXJ0JywgKCkgPT4gewogICAgICAgIHN0YXJ0ZWQoKTsKICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gTm90ZTogaU9TIGRvZXMgbm90IHRyaWdnZXIgTWVkaWEncyBzdWNjZXNzIGNhbGxiYWNrIHdoZW4KLy8gY2FsbGluZyBwbGF5ZXIucmVsZWFzZSgpIHdoZXJlYXMgQW5kcm9pZCBkb2VzLgo=</text>
+        <text encoding="base64">ICAgIHN0YXJ0ZWQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gTm90ZTogaU9TIGRvZXMgbm90IHRyaWdnZXIgTWVkaWEncyBzdWNjZXNzIGNhbGxiYWNrIHdoZW4KLy8gY2FsbGluZyBwbGF5ZXIucmVsZWFzZSgpIHdoZXJlYXMgQW5kcm9pZCBkb2VzLgppbXBvcnQgTXBsYXllciBmcm9tICdtcGxheWVyJzsKaW0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiBDYW4gdGltZW91dCBiZSBhdm9pZGVkPwogIC8vIFJhY2UgY29uZGl0aW9uOiBzdG9wIGV2ZW50IHRyaWdnZXJlZCBhZnRlci9hcyBhIHJlc3VsdCBvZiAucGxheSgpIGF0CiAgLy8gd2hpY2ggcG9pbnQgdGhlIG5ld2x5IHNldCBmaW5pc2hlZCBjYWxsYmFjayBpcyB0cmlnZ2VyZWQuCiAgc2V0VGltZW91dCgoKSA9PiB7CiAgICBjYWxsYmFja3MuZmluaXNoZWQgPSBmaW5pc2hlZDsKICB9LCAyNTApOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCcuL3Jvb3QnKTsK</text>
+        <text encoding="base64">ICBwbGF5ZXIuc2VlayhzZWNvbmRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9yb290Jyk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgbm9vcCA9ICgpID0+IHt9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdmb250LWF3ZXNvbWUvY3NzL2ZvbnQtYXdlc29tZS5jc3MnOwo=</text>
+        <text encoding="base64">ICBjYWxsYmFja3MuZmluaXNoZWQgPSBub29wOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L1VzZXJzL2JvZWR5L3Byb2plY3RzL2tvbGxla3QvaW5zdG9yZS9hdG1vc3BoZXJlLWFwcC9lbGVjdHJvbgo=</text>
+        <text encoding="base64">Y29uc3QgY2FsbGJhY2tzID0gewogIGZpbmlzaGVkOiBub29wCn07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
