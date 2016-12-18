@@ -45,6 +45,12 @@
         <mark key="^" line="31" column="43" />
         <mark key="." line="26" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/organisation/organisation.html" timestamp="1482080786663">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="67" />
+        <mark key="." line="16" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" timestamp="1446323496109">
         <mark key="[" line="36" column="37" />
         <mark key="]" line="36" column="35" />
@@ -78,6 +84,12 @@
         <mark key="]" line="68" column="52" />
         <mark key="^" line="68" column="52" />
         <mark key="." line="68" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/create-location/create-location.js" timestamp="1482080351486">
+        <mark key="[" line="60" column="66" />
+        <mark key="]" line="60" column="66" />
+        <mark key="^" line="56" column="23" />
+        <mark key="." line="60" column="66" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Track.php" timestamp="1446540760514">
         <mark key="[" line="81" column="35" />
@@ -126,6 +138,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="^" line="23" column="49" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/organisation.service.js" timestamp="1482080177746">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="125" column="30" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/User/Command/RequestPasswordReset.php" timestamp="1479925325250">
         <mark key="[" line="21" column="0" />
@@ -244,6 +262,10 @@
       <file name="$USER_HOME$/projects/docker/instore/tests/Infrastructure/Repositories/DoctrinePlaylistRepositoryTest.php" timestamp="1446480920888">
         <mark key="[" line="91" column="114" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/user/create-user/create-user.html" timestamp="1482079330899">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/docker/instore/composer.json" timestamp="1446476702835">
         <mark key="[" line="18" column="55" />
         <mark key="]" line="18" column="55" />
@@ -310,6 +332,19 @@
       </file>
       <file name="/Dummy.txt" timestamp="1481814090211">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/create-location/create-location.scss" timestamp="1482078914370">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/create-location/create-location.html" timestamp="1482079905671">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="32" />
+        <mark key="^" line="48" column="23" />
+        <mark key="." line="39" column="32" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Application/TrackService.php" timestamp="1446481419013">
         <mark key="[" line="8" column="34" />
@@ -397,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="4" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="21" column="4" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="16" column="48" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="17" column="21" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
@@ -497,10 +531,11 @@
       <jump line="66" column="136" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/PasswordResetEmail.php" />
       <jump line="75" column="23" filename="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/services/RemotePlayer.js" />
       <jump line="2" column="17" filename="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/create-location/create-location.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -512,13 +547,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>player</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoc3RhcnRlZCkgewogICAgcGxheWVyLm9uY2UoJ3N0YXJ0JywgKCkgPT4gewogICAgICBzdGFydGVkKCk7CiAgICB9KTsKICB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">e3s6OmxvY2F0aW9uLm5hbWV9fSA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -569,28 +604,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGxheWVyLm9uY2UoJ3N0YXJ0JywgKCkgPT4gewogICAgICAgIHN0YXJ0ZWQoKTsKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9iaiA9IHt9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqLm5hbWUgPSBkYXRhOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBDYW4gdGltZW91dCBiZSBhdm9pZGVkPwogIC8vIFJhY2UgY29uZGl0aW9uOiBzdG9wIGV2ZW50IHRyaWdnZXJlZCBhZnRlci9hcyBhIHJlc3VsdCBvZiAucGxheSgpIGF0CiAgLy8gd2hpY2ggcG9pbnQgdGhlIG5ld2x5IHNldCBmaW5pc2hlZCBjYWxsYmFjayBpcyB0cmlnZ2VyZWQuCiAgc2V0VGltZW91dCgoKSA9PiB7CiAgICBjYWxsYmFja3MuZmluaXNoZWQgPSBmaW5pc2hlZDsKICB9LCAyNTApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT0iY2xlYXI6Ym90aCI+PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwbGF5ZXIuc2VlayhzZWNvbmRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgbm9vcCA9ICgpID0+IHt9Owo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDwhLS0gUG9zdGFsIGNvZGUgLS0+CiAgICAgICAgICAgIDxtZC1pbnB1dC1jb250YWluZXIgY2xhc3M9Im1hcmdpbi1yaWdodCI+CiAgICAgICAgICAgICAgICA8bGFiZWw+UG9zdGFsIGNvZGU8L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGZvY3VzLW9uLWxvYWQgbmctbW9kZWw9ImNyZWF0ZUxvY2F0aW9uLnBvc3RhbENvZGUiIHJlcXVpcmVkIG1pbmxlbmd0aD0iMiIgZm9jdXMtb24tbG9hZD4KICAgICAgICAgICAgPC9tZC1pbnB1dC1jb250YWluZXI+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYWxsYmFja3MuZmluaXNoZWQgPSBub29wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBBZGRyZXNzIC0tPgogICAgICAgICAgICA8bWQtaW5wdXQtY29udGFpbmVyIGNsYXNzPSJtYXJnaW4tcmlnaHQiPgogICAgICAgICAgICAgICAgPGxhYmVsPkFkZHJlc3M8L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGZvY3VzLW9uLWxvYWQgbmctbW9kZWw9ImNyZWF0ZUxvY2F0aW9uLmFkZHJlc3MiIHJlcXVpcmVkIG1pbmxlbmd0aD0iMiIgZm9jdXMtb24tbG9hZD4KICAgICAgICAgICAgPC9tZC1pbnB1dC1jb250YWluZXI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY2FsbGJhY2tzID0gewogIGZpbmlzaGVkOiBub29wCn07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG1kLWlucHV0LWNvbnRhaW5lciBjbGFzcz0ibWFyZ2luLXJpZ2h0Ij4KICAgICAgICAgICAgICAgIDxsYWJlbD5BZGRyZXNzPC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCBmb2N1cy1vbi1sb2FkIG5nLW1vZGVsPSJjcmVhdGVMb2NhdGlvbi5hZGRyZXNzIiByZXF1aXJlZCBtaW5sZW5ndGg9IjIiIGZvY3VzLW9uLWxvYWQ+CiAgICAgICAgICAgIDwvbWQtaW5wdXQtY29udGFpbmVyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
