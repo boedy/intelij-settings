@@ -21,11 +21,6 @@
       <file name="/a.dummy" timestamp="1482143691805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/dashboard-frontend/src/app/services/api.js" timestamp="1482099226611">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/.gitignore" timestamp="1482099056199">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -70,6 +65,12 @@
         <mark key="]" line="3" column="28" />
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Auth/ResourceGraphTraverser/LocationResourceGraphTraverser.php" timestamp="1482166853117">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/projects/aurelia/src/welcome.html" timestamp="1444832687631">
         <mark key="[" line="17" column="32" />
@@ -366,6 +367,10 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
+      <file name="/LocationManager.php" timestamp="1482167023930">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="73" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/User/Command/RequestPasswordReset.php" timestamp="1479925325250">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -470,7 +475,7 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482164043275">
+      <file name="/Dummy.txt" timestamp="1482167205561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.html" timestamp="1482088343883">
@@ -490,6 +495,12 @@
         <mark key="]" line="8" column="38" />
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/Roles/LocationManager.php" timestamp="1482167035512">
+        <mark key="[" line="35" column="74" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.scss" timestamp="1482088269660">
         <mark key="[" line="0" column="0" />
@@ -655,8 +666,8 @@
       <jump line="179" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/organisation.service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>from</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVddKSwgJHRoaXMtPmxvY2F0aW9uLT5nZXRPcmdhbmlzYXRpb24oKSwgZmFsc2UpOwogICAgICAgICRhY2wtPmFsbG93KCR0aGlzLCBuZXcgQWN0aW9ucyhbQWN0aW9uczo6VklFVywgQWN0aW9uczo6RURJVF0pLCAkdGhpcy0+bG9jYXRpb24sIGZhbHNlKTsKICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVddKSwgJHRoaXMtPmxvY2F0aW9uKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -668,16 +679,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>get_class($playlists[0])</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdGF0ZS5nbygkc3RhdGUuY3VycmVudCwge30sIHtyZWxvYWQ6IHRydWV9KTsK</text>
+        <text encoding="base64">ICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVddKSwgJHRoaXMtPmxvY2F0aW9uLT5nZXRPcmdhbmlzYXRpb24oKSwgZmFsc2UpOwogICAgICAgICRhY2wtPmFsbG93KCR0aGlzLCBuZXcgQWN0aW9ucyhbQWN0aW9uczo6VklFVywgQWN0aW9uczo6RURJVF0pLCAkdGhpcy0+bG9jYXRpb24sIGZhbHNlKTsKICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVddKSwgJHRoaXMtPmxvY2F0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNvbm9zLmluaXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -725,28 +736,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGxheWxpc3RzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlRmlsdGVyZWREZXZpY2VzKCk7Cg==</text>
+        <text encoding="base64">ICAgIHNvbm9zLmluaXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1cGRhdGVGaWx0ZXJlZERldmljZXMoKSB7CiAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHRoaXMudXBkYXRlRmlsdGVyZWREZXZpY2VzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5zb25vc0ZvdW5kICYmIGlzU29ub3MoZGV2aWNlKSkgewogICAgICB0aGlzLnNvbm9zRm91bmQgPSB0cnVlOwogICAgICBjb25zdCB7IGlwQWRkcmVzcywgbGFzdEtub3duSVBBZGRyZXNzIH0gPSBkZXZpY2UuX2Rlc2M7IC8vIGlPUywgQW5kcm9pZCByZXNwZWN0aXZlbHkKICAgICAgdGhpcy5mZXRjaFRvcG9sb2d5KGlwQWRkcmVzcyB8fCBsYXN0S25vd25JUEFkZHJlc3MpOwogICAgfQo=</text>
+        <text encoding="base64">ICB1cGRhdGVGaWx0ZXJlZERldmljZXMoKSB7CiAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dlciBmcm9tICcuLi9zZXJ2aWNlcy9sb2dnZXInOwppbXBvcnQgYXhpb3MgZnJvbSAnYXhpb3MnOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMudXBkYXRlRmlsdGVyZWREZXZpY2VzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyBDYW5jZWxUb2tlbiB9ID0gYXhpb3M7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5zb25vc0ZvdW5kICYmIGlzU29ub3MoZGV2aWNlKSkgewogICAgICB0aGlzLnNvbm9zRm91bmQgPSB0cnVlOwogICAgICBjb25zdCB7IGlwQWRkcmVzcywgbGFzdEtub3duSVBBZGRyZXNzIH0gPSBkZXZpY2UuX2Rlc2M7IC8vIGlPUywgQW5kcm9pZCByZXNwZWN0aXZlbHkKICAgICAgdGhpcy5mZXRjaFRvcG9sb2d5KGlwQWRkcmVzcyB8fCBsYXN0S25vd25JUEFkZHJlc3MpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBkZXZpY2VzOiB0aGlzLmRldmljZXMuZmlsdGVyKGQgPT4gewogICAgICAgIGNvbnN0IHsgaXBBZGRyZXNzLCBsYXN0S25vd25JUEFkZHJlc3MgfSA9IGQuX2Rlc2M7CiAgICAgICAgcmV0dXJuIHRoaXMuY3RybElQcy5pbmRleE9mKGlwQWRkcmVzcyB8fCBsYXN0S25vd25JUEFkZHJlc3MpID4gLTE7CiAgICAgIH0pCiAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dlciBmcm9tICcuLi9zZXJ2aWNlcy9sb2dnZXInOwppbXBvcnQgYXhpb3MgZnJvbSAnYXhpb3MnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
