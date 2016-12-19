@@ -21,6 +21,11 @@
       <file name="/a.dummy" timestamp="1482168190516">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/instore/dashboard-frontend/src/app/services/api.js" timestamp="1482099226611">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/.gitignore" timestamp="1482099056199">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -303,11 +308,10 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="24" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/webpack.config.js" timestamp="1481895952164">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="25" column="56" />
-        <mark key="." line="25" column="33" />
-        <mark key="^" line="25" column="45" />
+      <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/webpack.config.js" timestamp="1482171902629">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/package.json" timestamp="1482154327755">
         <mark key="[" line="75" column="23" />
@@ -463,7 +467,7 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482168800116">
+      <file name="/Dummy.txt" timestamp="1482171571068">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.html" timestamp="1482088343883">
@@ -659,8 +663,8 @@
       <jump line="179" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/organisation.service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgxKTsK</text>
+      <register name="&quot;" type="4">
+        <text>true,</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -672,7 +676,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>true,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
@@ -681,7 +685,7 @@
         <text encoding="base64">ICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVddKSwgJHRoaXMtPmxvY2F0aW9uLT5nZXRPcmdhbmlzYXRpb24oKSwgZmFsc2UpOwogICAgICAgICRhY2wtPmFsbG93KCR0aGlzLCBuZXcgQWN0aW9ucyhbQWN0aW9uczo6VklFVywgQWN0aW9uczo6RURJVF0pLCAkdGhpcy0+bG9jYXRpb24sIGZhbHNlKTsKICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVddKSwgJHRoaXMtPmxvY2F0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgxKTsK</text>
+        <text encoding="base64">ICAgIF9fZmlsZW5hbWU6IGZhbHNlLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -729,28 +733,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgxKTsK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBub2RlOiB7CiAgICBfX2Rpcm5hbWU6IGZhbHNlLAogICAgX19maWxlbmFtZTogZmFsc2UsCiAgfSw=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGxheWxpc3RzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNvbm9zLmluaXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgxKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlRmlsdGVyZWREZXZpY2VzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGxheWxpc3RzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1cGRhdGVGaWx0ZXJlZERldmljZXMoKSB7CiAgfQoK</text>
+        <text encoding="base64">ICAgIHNvbm9zLmluaXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlRmlsdGVyZWREZXZpY2VzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
