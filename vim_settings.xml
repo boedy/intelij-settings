@@ -33,6 +33,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/models/Billable.php" timestamp="1483036763447">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/organisation/organisation.html" timestamp="1482096894477">
         <mark key="[" line="16" column="141" />
         <mark key="]" line="16" column="141" />
@@ -389,10 +395,6 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="/LocationManager.php" timestamp="1482167023930">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="36" column="73" />
-      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/User/Command/RequestPasswordReset.php" timestamp="1479925325250">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -489,7 +491,7 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483028717690">
+      <file name="/Dummy.txt" timestamp="1483036315709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.html" timestamp="1482088343883">
@@ -570,6 +572,13 @@
         <mark key="^" line="24" column="23" />
         <mark key="." line="24" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/models/Contract.php" timestamp="1483037037347">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/Playlist/PlaylistService.php" timestamp="1474564512225">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="8" column="48" />
@@ -592,7 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="21" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/main.go" />
       <jump line="221" column="0" filename="$USER_HOME$/code/go/3rdparty/src/github.com/boedy/go-libshout/libshout.go" />
       <jump line="43" column="19" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/player.go" />
       <jump line="6" column="0" filename="$USER_HOME$/code/go/me/src/github.com/boedy/streaming_audio/player.go" />
@@ -692,10 +700,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/create-location/create-location.html" />
       <jump line="140" column="14" filename="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/organisation.service.js" />
       <jump line="179" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/organisation.service.js" />
+      <jump line="8" column="3" filename="$USER_HOME$/projects/atmosphere/billing/models/Contract.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -707,7 +716,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>organisation</text>
+        <text>$names[] =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
@@ -716,7 +725,7 @@
         <text encoding="base64">ICAgICRvcmdhbmlzYXRpb24gPSBuZXcgc3RkQ2xhc3MoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -764,28 +773,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICRiaWxsaW5nQWRkcmVzcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICRvcmdhbmlzYXRpb24tPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICRsb2NhdGlvbi0+YmlsbGFibGUgPSB0cnVlOwoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9kdWN0TmFtZXMoKQogICAgewogICAgICAgIHJldHVybiBhcnJheV9tYXAoCiAgICAgICAgICAgIGZ1bmN0aW9uICgkcHJvZHVjdCkgewogICAgICAgICAgICAgICAgcmV0dXJuICRwcm9kdWN0LT5nZXROYW1lKCk7CgogICAgICAgICAgICB9LCAkdGhpcy0+cHJvZHVjdHMKICAgICAgICApOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkbmFtZXMgPSBbXTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBhcnJheV8gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXROYW1lKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRsb2NhdGlvbiA9IFsKICAgICAgICdwcmljZScgPT4gMzAsCiAgICAgICAnc3RhcnRfZGF0ZScgPT4gCiAgICAgICAnZW5kX2RhdGUnID0+IG51bGwsCiAgICAgICAnYmlsbGFibGUnID0+IHRydWUKICAgIF07CgogICAgZGQoJGxvY2F0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
