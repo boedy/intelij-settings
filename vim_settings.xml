@@ -108,11 +108,11 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" timestamp="1483547098733">
-        <mark key="[" line="48" column="48" />
-        <mark key="]" line="48" column="46" />
-        <mark key="." line="48" column="46" />
-        <mark key="^" line="48" column="46" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" timestamp="1483557218144">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="46" />
       </file>
       <file name="$USER_HOME$/projects/aurelia/src/welcome.html" timestamp="1444832687631">
         <mark key="[" line="17" column="32" />
@@ -378,10 +378,11 @@
         <mark key="^" line="51" column="42" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceGenerator.php" timestamp="1483543761291">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceGenerator.php" timestamp="1483557347902">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/node_modules/sonos-discovery/lib/musicservices.js" timestamp="1482170040905">
         <mark key="[" line="5" column="33" />
@@ -389,10 +390,11 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/BillingAddress.php" timestamp="1483549289067">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/BillingAddress.php" timestamp="1483557724583">
+        <mark key="[" line="82" column="64" />
+        <mark key="]" line="83" column="11" />
+        <mark key="." line="83" column="11" />
+        <mark key="^" line="83" column="11" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Entities/test/PlaylistItem.php" timestamp="1446199766348">
         <mark key="[" line="26" column="35" />
@@ -671,12 +673,12 @@
         <mark key="." line="44" column="2" />
         <mark key="^" line="44" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1483547782492">
-        <mark key="a" line="121" column="24" />
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="13" />
-        <mark key="^" line="31" column="12" />
-        <mark key="." line="32" column="13" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1483556178571">
+        <mark key="a" line="120" column="24" />
+        <mark key="[" line="30" column="75" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="31" column="3" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Source/Mp3.php" timestamp="1446468823992">
         <mark key="[" line="8" column="24" />
@@ -858,7 +860,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNvbnRyYWN0LT5nZXRMaWNlbnNlQ291bnQoJ2F0bW9zcGhlcmUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxpY2Vuc2VzW10gPSAkdGhpcy0+Y29udHJhY3QtPmdldExpY2Vuc2VDb3VudCgnYXRtb3NwaGVyZScpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -870,16 +872,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>addLicense</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udHJhY3QtPmFkZExpY2Vuc2UoJGxpY2Vuc2UpOwo=</text>
+      <register name="0" type="4">
+        <text>Contract $contract, BillingAddress $billingAddress</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNvbnRyYWN0LT5nZXRMaWNlbnNlQ291bnQoJ2F0bW9zcGhlcmUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxpY2Vuc2VzW10gPSAkdGhpcy0+Y29udHJhY3QtPmdldExpY2Vuc2VDb3VudCgnYXRtb3NwaGVyZScpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -927,28 +929,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNvbnRyYWN0LT5hZGRMaWNlbnNlKCdhdG1vc3BoZXJlJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udHJhY3QtPmFkZExpY2Vuc2UoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkbG8pCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3Nlcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3NlcyA9ICRjdXN0b21lci0+Z2V0QmlsbGluZ0FkZHJlc3NlcygpOwogICAgICAgICRjb250cmFjdCA9ICR0aGlzLT5jb250cmFjdFJlcG9zaXRvcnktPmJ5Q3VzdG9tZXJJZCgkY3VzdG9tZXItPmdldElkKCkpOwoKICAgICAgICAkdGhpcy0+Z2VuZXJhdGVJbnZvaWNlRm9yQmlsbGluZ0FkZHJlc3MoJGNvbnRyYWN0LCAkYmlsbGluZ0FkZHJlc3Nlcyk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGRldmljZUNvdW50OwoKICAgIC8qKgogICAgICogTG9jYXRpb24gY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gJGRldmljZUNvdW50CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkZGV2aWNlQ291bnQpIHsgJHRoaXMtPmRldmljZUNvdW50ID0gJGRldmljZUNvdW50OyB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREZXZpY2VDb3VudCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kZXZpY2VDb3VudDsKICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZW5lcigpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRhZGRyZXNzQS0+YWRkTGljZW5zZSgnYXRtb3NwaGVyZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRhZGRyZXNzQi0+YWRkTGljZW5zZSgnYXRtb3NwaGVyZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRhZGRyZXNzQi0+YWRkTGljZW5zZSgnYXRtb3NwaGVyZScpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjYWxjdWxhdGVQcmljZSgpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
