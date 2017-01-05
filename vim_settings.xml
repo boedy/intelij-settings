@@ -108,11 +108,11 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" timestamp="1483610184892">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="40" column="46" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" timestamp="1483612302203">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="46" />
       </file>
       <file name="$USER_HOME$/projects/aurelia/src/welcome.html" timestamp="1444832687631">
         <mark key="[" line="17" column="32" />
@@ -378,11 +378,10 @@
         <mark key="^" line="51" column="42" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceGenerator.php" timestamp="1483557347902">
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="29" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceGenerator.php" timestamp="1483612703885">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/node_modules/sonos-discovery/lib/musicservices.js" timestamp="1482170040905">
         <mark key="[" line="5" column="33" />
@@ -390,9 +389,9 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/BillingAddress.php" timestamp="1483607224169">
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/BillingAddress.php" timestamp="1483612686122">
         <mark key="'" line="25" column="58" />
-        <mark key="[" line="25" column="53" />
+        <mark key="[" line="61" column="5" />
         <mark key="]" line="27" column="7" />
         <mark key="." line="27" column="7" />
         <mark key="^" line="27" column="7" />
@@ -867,8 +866,8 @@
       <jump line="25" column="58" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/BillingAddress.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$count;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3MtPmdldENvbnRyYWN0KCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -880,7 +879,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$count;</text>
+        <text encoding="base64">Q29udHJhY3QgJGNvbnRyYWN0LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
@@ -889,7 +888,7 @@
         <text encoding="base64">Um91dGU6OmdldCgnLycsIGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNvbnRyYWN0LT5nZXRMaWNlbnNlQ291bnQoJ2F0bW9zcGhlcmUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3MtPmdldENvbnRyYWN0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -937,28 +936,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3MtPmdldExpY2Vuc2VzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udHJhY3QtPmFkZExpY2Vuc2UoJ2F0bW9zcGhlcmUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNvbnRyYWN0LT5nZXRMaWNlbnNlQ291bnQoJ2F0bW9zcGhlcmUnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxpY2Vuc2VzW10gPSAkdGhpcy0+Y29udHJhY3QtPmdldExpY2Vuc2VDb3VudCgnYXRtb3NwaGVyZScpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNvbnRyYWN0LT5hZGRMaWNlbnNlKCdhdG1vc3BoZXJlJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udHJhY3QtPmFkZExpY2Vuc2UoJ2F0bW9zcGhlcmUnKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxpY2Vuc2VzW10gPSAkdGhpcy0+Y29udHJhY3QtPmdldExpY2Vuc2VDb3VudCgnYXRtb3NwaGVyZScpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3Nlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNvbnRyYWN0LT5hZGRMaWNlbnNlKCdhdG1vc3BoZXJlJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3NlcyA9ICRjdXN0b21lci0+Z2V0QmlsbGluZ0FkZHJlc3NlcygpOwogICAgICAgICRjb250cmFjdCA9ICR0aGlzLT5jb250cmFjdFJlcG9zaXRvcnktPmJ5Q3VzdG9tZXJJZCgkY3VzdG9tZXItPmdldElkKCkpOwoKICAgICAgICAkdGhpcy0+Z2VuZXJhdGVJbnZvaWNlRm9yQmlsbGluZ0FkZHJlc3MoJGNvbnRyYWN0LCAkYmlsbGluZ0FkZHJlc3Nlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZW5lcigpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3Nlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
