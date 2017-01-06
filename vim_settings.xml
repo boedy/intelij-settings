@@ -275,11 +275,11 @@
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/SpacesTest.php" timestamp="1483721028298">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="26" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="39" column="8" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/SpacesTest.php" timestamp="1483721391781">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="35" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/cordova/index.js" timestamp="1482333879369">
         <mark key="[" line="54" column="0" />
@@ -1003,8 +1003,8 @@
       <jump line="103" column="30" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/BillingAddress.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3NBID0gbmV3IEJpbGxpbmdBZGRyZXNzKCR0aGlzLT5jb250cmFjdCk7CiAgICAgICAgJGJpbGxpbmdBZGRyZXNzQS0+YWRkTGljZW5zZSgnYXRtb3NwaGVyZScpOwogICAgICAgICRiaWxsaW5nQWRkcmVzc0EtPmFkZExpY2Vuc2UoJ2N1cmF0b3InKTsK</text>
+      <register name="&quot;" type="4">
+        <text>testIfInvoiceIsCorrect</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1016,7 +1016,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>testIfInvoiceIsCorrect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
