@@ -152,6 +152,12 @@
         <mark key="." line="22" column="68" />
         <mark key="^" line="49" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Customer/MoneybirdCustomerRepository.php" timestamp="1483725881564">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="53" column="45" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/BillingScenario.php" timestamp="1483718234393">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="12" column="27" />
@@ -471,12 +477,12 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/BillingAddress.php" timestamp="1483718174702">
-        <mark key="'" line="112" column="30" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="95" column="32" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/BillingAddress.php" timestamp="1483726650695">
+        <mark key="'" line="62" column="30" />
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/TestCoffeeAndCoconuts.php" timestamp="1483717202011" />
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Entities/test/PlaylistItem.php" timestamp="1446199766348">
@@ -561,11 +567,10 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/Customer.php" timestamp="1483527512307">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="12" column="27" />
-        <mark key="^" line="12" column="27" />
-        <mark key="." line="12" column="27" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/Customer.php" timestamp="1483726102348">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/License/BrandChannel.php" timestamp="1483537842516">
         <mark key="[" line="29" column="27" />
@@ -807,12 +812,12 @@
         <mark key="." line="44" column="2" />
         <mark key="^" line="44" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1483724871364">
-        <mark key="a" line="156" column="24" />
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="66" column="66" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1483725886320">
+        <mark key="a" line="157" column="24" />
+        <mark key="[" line="13" column="100" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="67" column="66" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/phpunit.xml" timestamp="1483717113171">
         <mark key="[" line="12" column="30" />
@@ -986,7 +991,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>client</text>
+        <text>postalCode</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -998,7 +1003,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>postalCode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
@@ -1007,7 +1012,7 @@
         <text encoding="base64">ICAgICRjb25uZWN0aW9uID0gbmV3IFxQaWNxZXJcRmluYW5jaWFsc1xNb25leWJpcmRcQ29ubmVjdGlvbigpOwogICAgJGNvbm5lY3Rpb24tPnNldENsaWVudElkKCcxYzg5NzAxMWI3YmVjYTAxZDM3YjJhYzNmNjhhNjI4NScpOwogICAgJGNvbm5lY3Rpb24tPnNldENsaWVudFNlY3JldCgnNjE1ZTBiMzkyNDQyNTA2YTBhNTlhZTNiMGQ5ZmMzYzFhZDBlMzhhMjgzMDg4MGM0YTFiNTIxMWU3YTAwNzc5MCcpOwovLyAgICAkY29ubmVjdGlvbi0+c2V0UmVkaXJlY3RVcmwoJ3VybjppZXRmOndnOm9hdXRoOjIuMDpvb2InKTsKICAgICRjb25uZWN0aW9uLT5zZXRBY2Nlc3NUb2tlbignOWY5Y2YyZTM5NTQ3NWY2NzA2OGEzNTQ0ZTgwNzU3M2YwNjU5YmQyMDZhMmRmMjg1YWYwZWMxNDE3YjA1NmYxNScpOwovLyAgICAkY29ubmVjdGlvbi0+cmVkaXJlY3RGb3JBdXRob3JpemF0aW9uKCk7CiAgICB0cnkgewogICAgICAgICRjb25uZWN0aW9uLT5jb25uZWN0KCk7CiAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbignQ291bGQgbm90IGNvbm5lY3QgdG8gTW9uZXliaXJkOiAnIC4gJGUtPmdldE1lc3NhZ2UoKSk7CiAgICB9CgogICAgLy8gQWZ0ZXIgY29ubmVjdGlvbiBzYXZlIHRoZSBsYXN0IGFjY2VzcyB0b2tlbiBmb3IgcmV1c2UKICAgICRjb25uZWN0aW9uLT5nZXRBY2Nlc3NUb2tlbigpOyAvLyB3aWxsIHJldHVybiB0aGUgYWNjZXNzIHRva2VuIHlvdSBuZWVkIHRvIHNhdmUKICAgICRjb25uZWN0aW9uLT5zZXRBZG1pbmlzdHJhdGlvbklkKCcxNzAwOTA4OTcwNjAzOTg2OTYnKTsKCi8vIFNldCB1cCBhIG5ldyBNb25leWJpcmQgaW5zdGFuY2UgYW5kIGluamVjdCB0aGUgY29ubmVjdGlvbgogICAgJG1vbmV5YmlyZCA9IG5ldyBNb25leWJpcmQoJGNvbm5lY3Rpb24pOwoKICAgICRzYWxlc0ludm9pY2VzID0gJG1vbmV5YmlyZC0+c2FsZXNJbnZvaWNlKCktPmZpbHRlcihbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzdGF0ZScgPT4gJ2RyYWZ0JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0pOwogICAgZGQoJHNhbGVzSW52b2ljZXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB2aWV3KCd3ZWxjb21lJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1030,25 +1035,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50ID0K</text>
+        <text encoding="base64">ICAgIHByaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYWxsKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3NBID0gbmV3IEJpbGxpbmdBZGRyZXNzKCR0aGlzLT5jb250cmFjdCk7CiAgICAgICAgJGJpbGxpbmdBZGRyZXNzQS0+YWRkTGljZW5zZSgnYXRtb3NwaGVyZScpOwogICAgICAgICRiaWxsaW5nQWRkcmVzc0EtPmFkZExpY2Vuc2UoJ2N1cmF0b3InKTsK</text>
+        <text encoding="base64">ICAgICAgICAkc2FsZXNJbnZvaWNlcyA9ICRtb25leWJpcmQtPnNhbGVzSW52b2ljZSgpLT5maWx0ZXIoCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdzdGF0ZScgPT4gJ2RyYWZ0JwogICAgICAgICAgICBdCiAgICAgICAgKQogICAgICAgIDsKICAgICAgICBkZCgkc2FsZXNJbnZvaWNlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJpbGxpbmdBZGRyZXNzZXNbXSA9ICRiaWxsaW5nQWRkcmVzczsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB2aWV3KCd3ZWxjb21lJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkYmlsbGluZ0FkZHJlc3NlcyBhcyAkYmlsbGluZ0FkZHJlc3MpIHsKICAgICAgICAgICAgJGxvY2F0aW9uSW52b2ljZXNbXSA9ICR0aGlzLT5pbnZvaWNlR2VuZXJhdG9yLT5nZW5lcmF0ZUludm9pY2VGb3JCaWxsaW5nQWRkcmVzcygkYmlsbGluZ0FkZHJlc3MpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50ID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9jYXRpb25JbnZvaWNlcyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYWxsKCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
