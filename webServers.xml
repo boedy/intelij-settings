@@ -62,6 +62,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="fc4fd359-0728-4302-a317-a154c4e9d417" name="getatmosphere.com" url="http://192.81.220.199">
+        <fileTransfer host="192.81.220.199" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
