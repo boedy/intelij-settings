@@ -683,11 +683,11 @@
         <mark key="." line="73" column="51" />
         <mark key="^" line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/animation/index.html" timestamp="1484163304249">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="22" />
+      <file name="$USER_HOME$/Desktop/animation/index.html" timestamp="1484170925008">
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="17" />
+        <mark key="^" line="50" column="48" />
+        <mark key="." line="44" column="17" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/package.json" timestamp="1481880162900">
         <mark key="[" line="5" column="13" />
@@ -1070,7 +1070,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCArICdweCcpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1082,16 +1082,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sleeve</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXZhc2NyaXB0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGltYWdlc1sncmV0aW5hJ10gPSAkY29udGVudF9pbWFnZVsnc2l6ZXMnXVsnZnVsbC1zaXplJ107CiAgICAgICAgICAgICAgICAgICAgICAgICRpbWFnZXNbJ2RlZmF1bHQnXSA9ICRjb250ZW50X2ltYWdlWydzaXplcyddWydmdWxsLXNpemUtMngnXTsK</text>
+      <register name="0" type="4">
+        <text>val + 'px'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCArICdweCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1111,28 +1111,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhdWRpbyBpZD0ibGlzdGVuIj4KICAgICAgICAgICAgICAgICAgICA8c291cmNlIHNyYz0nPD9waHAgdGhlX2ZpZWxkKCJzdHJlYW1fdXJsIik7ID8+Jz4KICAgICAgICAgICAgICAgIDwvYXVkaW8+CiAgICAgICAgICAgICAgICA8P3BocCB9ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdDogMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgaWQ9InBsYXktYnV0dG9uIj4KICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCkiIGNsYXNzPSJidG4gYnRuLWRlZmF1bHQiIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiB0aXRsZT0iUHJldmlldyIgb25jbGljaz0iYXVkX3BsYXlfcGF1c2UoKSI+UGxheTwvYT4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdDogMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdDogLTMwcHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCIgZGF0YS10b2dnbGU9InRvb2x0aXAiIHRpdGxlPSJQcmV2aWV3IiBvbmNsaWNrPSJhdWRfcGxheV9wYXVzZSgpIj5QbGF5PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNjcm9sbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0PgogICAgICAgICAgZnVuY3Rpb24gYXVkX3BsYXlfcGF1c2UoKSB7CiAgICAgICAgICAgIHZhciBteUF1ZGlvID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm15VHVuZSIpOwogICAgICAgICAgICBpZiAobXlBdWRpby5wYXVzZWQpIHsKICAgICAgICAgICAgICAkKCcjc3RhdGVpY29uJykuYWRkQ2xhc3MoJ3BsYXlpbmcnKTsKICAgICAgICAgICAgICBteUF1ZGlvLnBsYXkoKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAkKCcjc3RhdGVpY29uJykucmVtb3ZlQ2xhc3MoJ3BhdXNlZCcpOwogICAgICAgICAgICAgIG15QXVkaW8ucGF1c2UoKTsKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgICAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkKCcjc3RhdGVpY29uJykuYWRkQ2xhc3MoJ2ZhIGZhLXBsYXknKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2Nyb2xsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkKCcjc3RhdGVpY29uJykucmVtb3ZlQ2xhc3MoJ2ZhIGZhLXBsYXknKTsK</text>
+        <text encoding="base64">CiAgICAgIGlmIChzY3JvbGwgPiAoZnJvbVRvcCArIGhlaWdodCAtIGhlaWdodE1lbnUpKXsgbWVudURpdi5hZGRDbGFzcygnd2hpdGUnKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBtZW51RGl2LnJlbW92ZUNsYXNzKCd3aGl0ZScpOwogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InZlcnRpY2FsLWFsaWduICI+Cg==</text>
+        <text encoding="base64">ICAgIHZhciBzcGxhc2hEaXYgPSAkKCcjc3BsYXNoJyk7CiAgICB2YXIgbWVudURpdiA9ICQoJyNoZWFkZXInKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
