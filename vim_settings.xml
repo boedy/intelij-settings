@@ -83,10 +83,11 @@
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/website/pages/home.css" timestamp="1484142689593">
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="263" column="0" />
-        <mark key="." line="263" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/website/pages/home.css" timestamp="1484175443292">
+        <mark key="[" line="118" column="18" />
+        <mark key="]" line="118" column="20" />
+        <mark key="^" line="118" column="20" />
+        <mark key="." line="118" column="20" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-coming-soon/index.html" timestamp="1483632283027">
         <mark key="[" line="107" column="29" />
@@ -683,11 +684,11 @@
         <mark key="." line="73" column="51" />
         <mark key="^" line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/animation/index.html" timestamp="1484170925008">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="17" />
-        <mark key="^" line="50" column="48" />
-        <mark key="." line="44" column="17" />
+      <file name="$USER_HOME$/Desktop/animation/index.html" timestamp="1484174041504">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="82" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/package.json" timestamp="1481880162900">
         <mark key="[" line="5" column="13" />
@@ -737,9 +738,10 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/website/js/home.js" timestamp="1484163173855">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/website/js/home.js" timestamp="1484175252212">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/TrackApplicationService.php" timestamp="1464638906169">
         <mark key="[" line="50" column="9" />
@@ -806,6 +808,13 @@
         <mark key="]" line="14" column="37" />
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
+      </file>
+      <file name="$USER_HOME$/Desktop/animation/animate.js" timestamp="1484173655283">
+        <mark key="'" line="305" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="305" column="3" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/User/UserRepository.php" timestamp="1479919700059">
         <mark key="[" line="22" column="15" />
@@ -928,11 +937,11 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/website/pages/home.php" timestamp="1484136535032">
-        <mark key="[" line="137" column="44" />
-        <mark key="]" line="136" column="39" />
-        <mark key="." line="136" column="39" />
-        <mark key="^" line="136" column="39" />
+      <file name="$USER_HOME$/projects/atmosphere/website/pages/home.php" timestamp="1484175189956">
+        <mark key="[" line="17" column="64" />
+        <mark key="]" line="17" column="64" />
+        <mark key="^" line="103" column="33" />
+        <mark key="." line="17" column="64" />
       </file>
       <file name="$USER_HOME$/projects/cordova-instore-app/package.json" timestamp="1445980158635">
         <mark key="[" line="24" column="23" />
@@ -967,7 +976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="26" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
       <jump line="83" column="49" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
       <jump line="121" column="17" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
       <jump line="19" column="54" filename="$USER_HOME$/projects/cordova-instore-app/config.xml" />
@@ -1067,10 +1075,11 @@
       <jump line="509" column="42" filename="$USER_HOME$/projects/atmosphere/website/style.css" />
       <jump line="29" column="30" filename="$USER_HOME$/projects/atmosphere/website/pages/stories.php" />
       <jump line="22" column="29" filename="$USER_HOME$/projects/atmosphere/website/single-stories.php" />
+      <jump line="306" column="3" filename="$USER_HOME$/Desktop/animation/animate.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCArICdweCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>-120px</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1082,16 +1091,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>-120px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXZhc2NyaXB0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>val + 'px'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgei1pbmRleDogMCAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCArICdweCcpOwo=</text>
+        <text encoding="base64">dmFyIGNvbnRyb2xsZXIgPSBuZXcgU2Nyb2xsTWFnaWMuQ29udHJvbGxlcigpOwp2YXIgc2NlbmUgPSBuZXcgU2Nyb2xsTWFnaWMuU2NlbmUoeyB0cmlnZ2VyRWxlbWVudDogIi5yZWNvcmQiLCBkdXJhdGlvbjogMzAwIH0pCiAgLnNldFR3ZWVuKCIudmlueWwiLCB7IGxlZnQ6ICcwcHgnIH0pIC8vIHRoZSB0d2VlbiBkdXJ0aW9uIGNhbiBiZSBvbWl0dGVkIGFuZCBkZWZhdWx0cyB0byAxCiAgLmFkZFRvKGNvbnRyb2xsZXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1111,28 +1120,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdDogMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdDogMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdDogLTMwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idmVydGljYWwgcmVjb3JkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9InNsZWV2ZSIgc3JjPSc8P3BocCBibG9naW5mbygndGVtcGxhdGVfZGlyZWN0b3J5Jyk7ID8+L2ltZy9zbGVldmUucG5nJz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9InZpbnlsIiBzcmM9Jzw/cGhwIGJsb2dpbmZvKCd0ZW1wbGF0ZV9kaXJlY3RvcnknKTsgPz4vaW1nL3ZpbnlsLnBuZyc+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNjcm9sbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IHBvczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgawo=</text>
+        <text encoding="base64">Ci5kb25lewogICAgbGVmdDogMHB4ICFpbXBvcnRhbnQ7Cn0KCgouZG9uZXsKICAgIGxlZnQ6IDBweCAhaW1wb3J0YW50Owp9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2Nyb2xsKTsK</text>
+      <register name="7" type="4">
+        <text>{
+            max-width: 100%;
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIGlmIChzY3JvbGwgPiAoZnJvbVRvcCArIGhlaWdodCAtIGhlaWdodE1lbnUpKXsgbWVudURpdi5hZGRDbGFzcygnd2hpdGUnKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBtZW51RGl2LnJlbW92ZUNsYXNzKCd3aGl0ZScpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAjaG9tZS1wYWdlIC5pbWFnZS1zbGlkZXMgewogICAgICAgICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBzcGxhc2hEaXYgPSAkKCcjc3BsYXNoJyk7CiAgICB2YXIgbWVudURpdiA9ICQoJyNoZWFkZXInKTsK</text>
+      <register name="9" type="4">
+        <text>.sleeve {
+    z-index: 0 !important;
+    left: -130px;
+}</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
