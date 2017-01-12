@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/docker/instore/config/testing/database.php" timestamp="1446371815980">
@@ -83,8 +83,12 @@
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/website/pages/home.css" timestamp="1484240361315">
-        <mark key="[" line="291" column="1" />
+      <file name="$USER_HOME$/projects/atmosphere/website/pages/home.css" timestamp="1484242824981">
+        <mark key="'" line="298" column="12" />
+        <mark key="[" line="305" column="13" />
+        <mark key="]" line="305" column="14" />
+        <mark key="^" line="298" column="0" />
+        <mark key="." line="305" column="14" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-coming-soon/index.html" timestamp="1483632283027">
         <mark key="[" line="107" column="29" />
@@ -565,6 +569,12 @@
         <mark key="." line="75" column="90" />
         <mark key="^" line="75" column="90" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/website/css/unslider.css" timestamp="1484243206667">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/User/User.php" timestamp="1479925582097">
         <mark key="[" line="69" column="6" />
         <mark key="]" line="68" column="52" />
@@ -695,11 +705,11 @@
         <mark key="." line="73" column="51" />
         <mark key="^" line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/animation/index.html" timestamp="1484174041504">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="82" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Desktop/animation/index.html" timestamp="1484241828541">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/package.json" timestamp="1481880162900">
         <mark key="[" line="5" column="13" />
@@ -749,10 +759,10 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/website/js/home.js" timestamp="1484175252212">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/website/js/home.js" timestamp="1484242461485">
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/TrackApplicationService.php" timestamp="1464638906169">
         <mark key="[" line="50" column="9" />
@@ -948,11 +958,11 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/website/pages/home.php" timestamp="1484240211117">
-        <mark key="[" line="192" column="38" />
-        <mark key="]" line="173" column="36" />
-        <mark key="." line="173" column="36" />
-        <mark key="^" line="173" column="35" />
+      <file name="$USER_HOME$/projects/atmosphere/website/pages/home.php" timestamp="1484242617152">
+        <mark key="[" line="14" column="76" />
+        <mark key="]" line="14" column="76" />
+        <mark key="." line="14" column="76" />
+        <mark key="^" line="174" column="35" />
       </file>
       <file name="$USER_HOME$/projects/cordova-instore-app/package.json" timestamp="1445980158635">
         <mark key="[" line="24" column="23" />
@@ -992,7 +1002,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="17" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
       <jump line="19" column="54" filename="$USER_HOME$/projects/cordova-instore-app/config.xml" />
       <jump line="57" column="8" filename="$USER_HOME$/projects/cordova-instore-app/config.xml" />
       <jump line="48" column="75" filename="$USER_HOME$/projects/cordova-instore-app/config.xml" />
@@ -1092,10 +1101,11 @@
       <jump line="22" column="29" filename="$USER_HOME$/projects/atmosphere/website/single-stories.php" />
       <jump line="306" column="3" filename="$USER_HOME$/Desktop/animation/animate.js" />
       <jump line="122" column="11" filename="$USER_HOME$/projects/atmosphere/website/js/script.js" />
+      <jump line="298" column="12" filename="$USER_HOME$/projects/atmosphere/website/pages/home.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC91bD4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1107,16 +1117,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC91bD4=</text>
+        <text>relati</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZlw+</text>
+        <text encoding="base64">XDxzY3JpcHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjaG9tZS1wYWdlIC5pbWFnZS1zbGlkZXMgLnNsaWRlci1jb250YWluZXIgLmJhY2tncm91bmR7Cg==</text>
+        <text encoding="base64">ICAgIHotaW5kZXg6IDM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6cmlnaHQ7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1136,37 +1146,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIG5hdgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idmVydGljYWwtYWxpZ24iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idmVydGljYWwgb2JqZWN0LWZpdCI+Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9nc2FwLzEuMTkuMC9Ud2VlbkxpdGUubWluLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9nc2FwLzEuMTkuMC9wbHVnaW5zL0NTU1BsdWdpbi5taW4uanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL1Njcm9sbE1hZ2ljLzIuMC41L1Njcm9sbE1hZ2ljLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">PHNjcmlwdD4gLy8gIC8vIGluaXQgY29udHJvbGxlcgogIHZhciBjb250cm9sbGVyID0gbmV3IFNjcm9sbE1hZ2ljLkNvbnRyb2xsZXIoKTsKICB2YXIgc2NlbmUgPSBuZXcgU2Nyb2xsTWFnaWMuU2NlbmUoe3RyaWdnZXJFbGVtZW50OiAiLmNvbnRhaW5lciIsIGR1cmF0aW9uOiAzMDB9KQogICAgLnNldFR3ZWVuKCIuc2xlZXZlIiwge2xlZnQ6ICcwcHgnfSkgLy8gdGhlIHR3ZWVuIGR1cnRpb24gY2FuIGJlIG9taXR0ZWQgYW5kIGRlZmF1bHRzIHRvIDEKICAgIC5hZGRUbyhjb250cm9sbGVyKTsKLy8gIC8vIGluaXQgY29udHJvbGxlcgovLyAgdmFyIGNvbnRyb2xsZXIgPSBuZXcgU2Nyb2xsTWFnaWMuQ29udHJvbGxlcigpOwovLwovLyAgdmFyIGJsb2NrVHdlZW4gPSBuZXcgVHdlZW5MaXRlLnRvKCcuc2xlZXZlJywgMC42LCB7Ci8vICAgIGxlZnQ6ICcwcHgnCi8vICB9KTsKLy8KLy8gIC8vIGNyZWF0ZSBhIHNjZW5lCi8vICBuZXcgU2Nyb2xsTWFnaWMuU2NlbmUoewovLyAgICB0cmlnZ2VyRWxlbWVudDogJy5jb250YWluZXInCi8vICB9KS5zZXRUd2VlbihibG9ja1R3ZWVuKQovLyAgLmFkZFRvKGNvbnRyb2xsZXIpOyAvLyBhc3NpZ24gdGhlIHNjZW5lIHRvIHRoZSBjb250cm9sbGVyCgovLyAgJChmdW5jdGlvbigpewovLyAgICBtZW51Q29sb3JTY3JvbGwoKQovLyAgfSk7Ci8vCi8vICBmdW5jdGlvbiBtZW51Q29sb3JTY3JvbGwoKXsKLy8gICAgdmFyIHN0YXJ0ID0gOTA7Ci8vICAgIHZhciBlbmQgPSAzMDA7Ci8vICAgIHZhciByZWFjaCA9IDEzMDsKLy8gICAgJCh3aW5kb3cpLnNjcm9sbChmdW5jdGlvbigpIHsKLy8gICAgICAgIHNjcm9sbCA9ICQodGhpcykuc2Nyb2xsVG9wKCk7Ci8vICAgICAgICBpZihzY3JvbGwgPiBzdGFydCAmJiBzY3JvbGwgPCBlbmQpewovLyAgICAgICAgICByYW5nZSA9ICgoc2Nyb2xsLXN0YXJ0KSAvIChlbmQgLSBzdGFydCkpOwovLyAgICAgICAgICB2YWwgPSAxLXJlYWNoICsgcmFuZ2UgKiByZWFjaDsKLy8gICAgICAgICAgJCgnLnNsZWV2ZScpLmNzcygnbGVmdCcsIHZhbCArICdweCcpCi8vCi8vICAgICAgICB9Ci8vICAgIH0pOwovLyAgfQo8L3NjcmlwdD4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzbGlkZSI+Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgIDxpbWcgY2xhc3M9InRvcCIgc3JjPSJzbGVldmUucG5nIj4KICAgIDxpbWcgY2xhc3M9InNsZWV2ZSIgc3JjPSJ2aW55bC5wbmciPgo8L2Rpdj4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6cmlnaHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iPD9waHAgZWNobyAkaW1hZ2VbJ2RlZmF1bHQnXTsgPz4iIHNyY3NldD0iPD9waHAgZWNobyAkaW1hZ2VbJ3JldGluYSddOyA/PiI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI8P3BocCBlY2hvICRwaG9uZV9pbWFnZVsnc2l6ZXMnXVsncXVhcnRlci1zaXplJ107ID8+IiBzcmNzZXQ9Ijw/cGhwIGVjaG8gJHBob25lX2ltYWdlWydzaXplcyddWydoYWxmLXNpemUnXTsgPz4iPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZlw+</last-search>
+      <last-search encoding="base64">XDxzY3JpcHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZlw+</last-pattern>
+      <last-pattern encoding="base64">XDxzY3JpcHRcPg==</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
       <last-dir>-1</last-dir>
@@ -1174,7 +1184,6 @@
     </search>
     <history>
       <history-search>
-        <entry>play</entry>
         <entry>@dev</entry>
         <entry>register</entry>
         <entry>configure</entry>
@@ -1194,6 +1203,7 @@
         <entry encoding="base64">XDxhYnNvbHV0ZVw+</entry>
         <entry encoding="base64">XDxqYXZhc2NyaXB0XD4=</entry>
         <entry encoding="base64">XDxpZlw+</entry>
+        <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist split</entry>
