@@ -705,12 +705,7 @@
         <mark key="." line="73" column="51" />
         <mark key="^" line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/animation/index.html" timestamp="1484303693685">
-        <mark key="[" line="59" column="19" />
-        <mark key="]" line="59" column="19" />
-        <mark key="." line="59" column="19" />
-        <mark key="^" line="39" column="5" />
-      </file>
+      <file name="$USER_HOME$/Desktop/animation/index.html" timestamp="1484307209720" />
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/package.json" timestamp="1481880162900">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="22" />
@@ -947,6 +942,11 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/website/js/play.js" timestamp="1484307361342">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Product/Curator.php" timestamp="1483526159041">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="9" column="18" />
@@ -959,11 +959,11 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/website/pages/home.php" timestamp="1484249191225">
-        <mark key="[" line="202" column="32" />
-        <mark key="]" line="209" column="62" />
-        <mark key="." line="209" column="62" />
-        <mark key="^" line="209" column="62" />
+      <file name="$USER_HOME$/projects/atmosphere/website/pages/home.php" timestamp="1484307784686">
+        <mark key="[" line="211" column="95" />
+        <mark key="]" line="211" column="114" />
+        <mark key="." line="211" column="95" />
+        <mark key="^" line="211" column="86" />
       </file>
       <file name="$USER_HOME$/projects/cordova-instore-app/package.json" timestamp="1445980158635">
         <mark key="[" line="24" column="23" />
@@ -1106,7 +1106,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text encoding="base64">PD9waHAgZWNobyAkdXJsOyA/Pg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1118,16 +1118,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNvdW5kRHVyYXRpb24gPSBNYXRoLmZsb29yKGluc3RhbmNlMS5fZHVyYXRpb24gKiAxMDAwKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PD9waHAgZWNobyAkdXJsOyA/Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZTogMC41LGRkCg==</text>
+        <text encoding="base64">PHNjcmlwdD4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1147,28 +1147,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzb3VuZC5wbGF5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYmFubmVyIj4KICAgIDx1bD48bGk+VGhpcyBpcyBteSBzbGlkZXIuPC9saT48bGk+UHJldHR5IGNvb2wsIGh1aD88L2xpPjwvdWw+CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICA8L3NjcmlwdD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvdW5kLm9uKCdmYWRlJywgZnVuY3Rpb24oZSl7CiAgICAgIGlmKHRoaXMudm9sdW1lKCkgPT0gMSl7Ci8vICAgICAgICB0aGlzLnBhdXNlKGUpOwogICAgICB9CiAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudW5zbGlkZXItbmF2IG9sIHsKICAgICAgICAgICAgbGlzdC1zdHlsZTogbm9uZTsKICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIH0KICAgICAgICAudW5zbGlkZXItbmF2IG9sIGxpIHsKICAgICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgICAgICB3aWR0aDogNnB4OwogICAgICAgICAgICBoZWlnaHQ6IDZweDsKICAgICAgICAgICAgbWFyZ2luOiAwIDRweDsKICAgICAgICAgICAgYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7CiAgICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDVweDsKICAgICAgICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgICAgICAgICAgdGV4dC1pbmRlbnQ6IC05OTllbTsKICAgICAgICAgICAgYm9yZGVyOiAycHggc29saWQgI2ZmZjsKICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICAgIH0KICAgICAgICAudW5zbGlkZXItbmF2IG9sIGxpLnVuc2xpZGVyLWFjdGl2ZSB7CiAgICAgICAgICAgIGJhY2tncm91bmQ6ICNmZmY7CiAgICAgICAgICAgIGN1cnNvcjogZGVmYXVsdDsKICAgICAgICB9CiAgICAgICAgLnVuc2xpZGVye292ZXJmbG93OmF1dG87bWFyZ2luOjA7cGFkZGluZzowfS51bnNsaWRlci13cmFwe3Bvc2l0aW9uOnJlbGF0aXZlfS51bnNsaWRlci13cmFwLnVuc2xpZGVyLWNhcm91c2VsPmxpe2Zsb2F0OmxlZnR9LnVuc2xpZGVyLXZlcnRpY2FsPnVse2hlaWdodDoxMDAlfS51bnNsaWRlci12ZXJ0aWNhbCBsaXtmbG9hdDpub25lO3dpZHRoOjEwMCV9LnVuc2xpZGVyLWZhZGV7cG9zaXRpb246cmVsYXRpdmV9LnVuc2xpZGVyLWZhZGUgLnVuc2xpZGVyLXdyYXAgbGl7cG9zaXRpb246YWJzb2x1dGU7bGVmdDowO3RvcDowO3JpZ2h0OjA7ei1pbmRleDo4fS51bnNsaWRlci1mYWRlIC51bnNsaWRlci13cmFwIGxpLnVuc2xpZGVyLWFjdGl2ZXt6LWluZGV4OjEwfS51bnNsaWRlciBsaSwudW5zbGlkZXIgb2wsLnVuc2xpZGVyIHVse2xpc3Qtc3R5bGU6bm9uZTttYXJnaW46MDtwYWRkaW5nOjA7Ym9yZGVyOm5vbmV9LnVuc2xpZGVyLWFycm93e3Bvc2l0aW9uOmFic29sdXRlO2xlZnQ6MjBweDt6LWluZGV4OjI7Y3Vyc29yOnBvaW50ZXJ9LnVuc2xpZGVyLWFycm93Lm5leHR7bGVmdDphdXRvO3JpZ2h0OjIwcHh9Cg==</text>
+      <register name="6" type="4">
+        <text>new Howl({
+      src: streams[i],
+      format: ['mp3'],
+      html5: true
+    })</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjaG9tZS1wYWdlIC5pbWFnZS1zbGlkZXMgLnBob25lLWltYWdlLWhvbGRlciAucGhvbmUtaW1hZ2UgLmNvbnRlbnQgLmFwcCAucGxheSBzcGFuOmhvdmVyewogICAgICAgICAgICBmb250LXNpemU6IDMwcHggIWltcG9ydGFudDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHNvdW5kLnN0b3AoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyOwo=</text>
+        <text encoding="base64">ICB2YXIgaW5kZXggPSAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogbm9uZTsK</text>
+        <text encoding="base64">ICB2YXIgc291bmRzID0gW3NwYWNlc107CgogIGlkMSA9IHNvdW5kLnBsYXkoKTsKCiAgdmFyIGNjID0KICB2YXIgc291bmRzID0gW2NjXTsKICB2YXIgc291bmQxID0gbmV3IEhvd2woewogICAgc3JjOiBzb3VuZHMsCiAgICBmb3JtYXQ6IFsnbXAzJ10sCiAgICBodG1sNTogdHJ1ZSwKICAgIHZvbHVtZTogMAogIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
