@@ -189,11 +189,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/website/header.php" timestamp="1484609769735">
+      <file name="$USER_HOME$/projects/atmosphere/website/header.php" timestamp="1484612506940">
         <mark key="[" line="26" column="70" />
-        <mark key="]" line="58" column="49" />
+        <mark key="]" line="26" column="70" />
         <mark key="^" line="66" column="90" />
-        <mark key="." line="58" column="0" />
+        <mark key="." line="26" column="70" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Infrastructure/Files/Mp3.php" timestamp="1446488942083">
         <mark key="[" line="45" column="31" />
@@ -624,11 +624,11 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/landingpage/index.html" timestamp="1484607869735">
-        <mark key="[" line="71" column="24" />
-        <mark key="]" line="71" column="24" />
-        <mark key="." line="71" column="24" />
-        <mark key="^" line="71" column="39" />
+      <file name="$USER_HOME$/projects/atmosphere/landingpage/index.html" timestamp="1484613001477">
+        <mark key="[" line="124" column="20" />
+        <mark key="]" line="124" column="19" />
+        <mark key="." line="124" column="19" />
+        <mark key="^" line="124" column="19" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/howler.js" timestamp="1481978761818">
         <mark key="[" line="52" column="0" />
@@ -785,9 +785,9 @@
         <mark key="^" line="30" column="15" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/website/style.css" timestamp="1484602958642">
-        <mark key="[" line="485" column="0" />
-        <mark key="]" line="514" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/website/style.css" timestamp="1484611249045">
+        <mark key="[" line="590" column="0" />
+        <mark key="]" line="592" column="21" />
         <mark key="^" line="720" column="0" />
         <mark key="." line="61" column="20" />
       </file>
@@ -1103,7 +1103,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PD9waHAgZWNobyAkZmJfaW1hZ2VbJ3NpemVzJ11bJ3F1YXJ0ZXItc2l6ZSddOyA/Pg==</text>
+        <text>$one !importantd$;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1115,16 +1115,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>thumbnail</text>
+        <text>$one !importantd$;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PD9waHAgZWNobyAkZmJfaW1hZ2VbJ3NpemVzJ11bJ3F1YXJ0ZXItc2l6ZSddOyA/Pg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAgICAgQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA3NjBweCkgewogICAgICAgICAgICAuYmFja2Ryb3AgLndlZGdlIHsKICAgICAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogZGRrOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1147,28 +1147,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNvdW5kcyBnb29kIHJpZ2h0Pwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4LXdpZHRoOiA3MCU7CiAgICAgICAgICAgIG1pbi13aWR0aDogMzQzcHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wPgoKICAgICAgICAgICAgPHA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wPgoKICAgICAgICAgICAgPHA+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJsb2dvIj4KICAgICAgICAgICAgPGltZyBzcmM9ImxvZ28ucG5nIj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0Ij4KICAgICAgICAgICAgPGgxPktvbGxla3QuZm0gcHJlc2VudHMgQXRtb3NwaGVyZS4gPC9oMT4KICAgICAgICAgICAgPGgyPiBXZSBjb25uZWN0IGFydGlzdHMgYW5kIHRhc3RlbWFrZXJzIHRvIGJyYW5kcy48L2gyPgogICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIFdlIGFyZSBleGNpdGVkIHRvIGxhdW5jaCBhIG5ldyBtdXNpYyBzZXJ2aWNlIHRoYXQgZ2l2ZXMgeW91CiAgICAgICAgICAgICAgICBhIGJpZ2dlciBzdGFnZSBhbmQgYnJpbmdzIGdvb2QgbXVzaWMgdG8gbmV3IHBsYWNlcy4gV2l0aCBBdG1vc3BoZXJlLCB3ZSBjb25uZWN0IG11c2ljIGNvbGxlY3RlcnMgdG8gYnVzaW5lc3NlcywKICAgICAgICAgICAgICAgIHNvIHRoZXkgY2FuIHBlcnNvbmFsbHkgc2VsZWN0IHRoZWlyIGluLXN0b3JlIG11c2ljLiBUaGlzIG1vZGVsIGlzIG5vdCBvbmx5IGdyZWF0IGZvciBidXNpbmVzc2VzIHRvCiAgICAgICAgICAgICAgICBzdHJlbmd0aGVuIHRoZWlyIGluLXN0b3JlIGV4cGVyaWVuY2UsIGJ1dCBpdOKAmXMgYWxzbyBhIG5ldyB3YXkgdG8gZ2V0IHBhaWQgZm9yIGN1cmF0aW5nIG11c2ljLgogICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgU291bmRzIGdvb2Q/CiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY3RhLWJ1dHRvbnMiPgogICAgICAgICAgICAgICAgPGEgY2xhc3M9InNxdWFyZS1idXR0b24gYmxhY2stYm9yZGVyIiBocmVmPSJodHRwczovL2dldGF0bW9zcGhlcmUuY29tL2N1cmF0b3JzLyI+IExlYXJuIG1vcmU8L2E+CiAgICAgICAgICAgICAgICA8YSBjbGFzcz0ic3F1YXJlLWJ1dHRvbiBibGFjay1ib3JkZXIgYmxhY2stYmctb3BhcXVlIiBocmVmPSJodHRwczovL2dldGF0bW9zcGhlcmUuY29tL2N1cmF0b3JzLyI+IENvbnRpbnVlPC9hPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAwIGF1dG87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4LWhlaWdodDogNzAwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAubWFpbiAudGV4dHsKICAgICAgICAgICAgbWF4LXdpZHRoOiA3MCU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiA3MCU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjaGVhZGVyewogICAgICAgICAgICBwb3NpdGlvbjogZml4ZWQ7CiAgICAgICAgICAgIHRvcDogMDsKICAgICAgICAgICAgd2lkdGg6IDEwMCU7CiAgICAgICAgICAgIGhlaWdodDogNjBweDsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
