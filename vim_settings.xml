@@ -159,6 +159,7 @@
         <mark key="^" line="53" column="45" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/package.json" timestamp="1484917315496" />
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/BillingScenario.php" timestamp="1483718234393">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="12" column="27" />
@@ -325,7 +326,7 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/node/index.js" timestamp="1484909725726" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/node/index.js" timestamp="1484917049771" />
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Source/Playable.php" timestamp="1446485837643">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="11" column="4" />
@@ -394,6 +395,12 @@
         <mark key="]" line="284" column="8" />
         <mark key="." line="284" column="8" />
         <mark key="^" line="284" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/.dockerignore" timestamp="1484920115152">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/code/go/3rdparty/src/github.com/boedy/go-libshout/libshout.go" timestamp="1445600766409">
         <mark key="[" line="180" column="4" />
@@ -582,11 +589,11 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/Dockerfile" timestamp="1484916643992">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/Dockerfile" timestamp="1484920201486">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/Organisation/Location/Location.php" timestamp="1482091982506">
         <mark key="[" line="82" column="0" />
@@ -751,11 +758,6 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/website/js/home.js" timestamp="1484489795487">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/TrackApplicationService.php" timestamp="1464638906169">
         <mark key="[" line="50" column="9" />
         <mark key="]" line="50" column="8" />
@@ -847,7 +849,7 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483723229898">
+      <file name="/Dummy.txt" timestamp="1484919684906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1002,7 +1004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="11" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
       <jump line="109" column="17" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
       <jump line="10" column="11" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
       <jump line="37" column="20" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
@@ -1102,10 +1103,11 @@
       <jump line="3" column="14" filename="$USER_HOME$/projects/atmosphere/website/pages/curatorsignup.css" />
       <jump line="32" column="23" filename="$USER_HOME$/projects/atmosphere/website/pages/contact.php" />
       <jump line="71" column="16" filename="$USER_HOME$/projects/atmosphere/landingpage/index.html" />
+      <jump line="6" column="1" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>install -y liquidsoap gettext-base</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1117,16 +1119,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>src/node /app/src/node</text>
+        <text>install -y liquidsoap gettext-base</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aWR0aFw+</text>
+        <text encoding="base64">XDxBRERcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUREIG5vZGVfbW9kdWxlcyAvYXBwL25vZGVfbW9kdWxlcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1149,37 +1151,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01EIFsgIi9iaW4vYmFzaCIsICItYyIsICJlbnZzdWJzdCA8IC9ldGMvbGlxdWlkc29hcC9kZWZhdWx0LnRlbXBsYXRlID4gL2V0Yy9saXF1aWRzb2FwL2RlZmF1bHQubGlxICYmIGxpcXVpZHNvYXAgL2V0Yy9saXF1aWRzb2FwL2RlZmF1bHQubGlxIiBdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Vk9MVU1FIC9kYXRhCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Vk9MVU1FIC9kYXRhCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">UlVOIGNobW9kICt4IC91c3IvbG9jYWwvYmluL25leHRUcmFjawpSVU4gY2htb2QgK3ggL3Vzci9sb2NhbC9iaW4vc3luYwpSVU4gY2hvd24gLVIgbGlxdWlkc29hcDpsaXF1aWRzb2FwIC9ldGMvbGlxdWlkc29hcApSVU4gY2hvd24gbGlxdWlkc29hcDpsaXF1aWRzb2FwIC9kYXRhCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCBnaXQgLXkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">V09SS0RJUiAvYXBwLwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QUREIG5vZGVfbW9kdWxlcyAvYXBwL25vZGVfbW9kdWxlcwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSBsaXF1aWRzb2FwIGdldHRleHQtYmFzZQoKQUREIHNyYy9ub2RlL2RlZmF1bHQubGlxIC9ldGMvbGlxdWlkc29hcC9kZWZhdWx0LnRlbXBsYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiB7CiAgICBtYXJnaW46MDsKfQo=</text>
+        <text encoding="base64">Q01EIFsgIi9iaW4vYmFzaCIsICItYyIsICJlbnZzdWJzdCA8IC9ldGMvbGlxdWlkc29hcC9kZWZhdWx0LnRlbXBsYXRlID4gL2V0Yy9saXF1aWRzb2FwL2RlZmF1bHQubGlxICYmIGxpcXVpZHNvYXAgL2V0Yy9saXF1aWRzb2FwL2RlZmF1bHQubGlxIiBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qIHdpZHRoOiA0NTFweCAhaW1wb3J0YW50OyAqLwo=</text>
+        <text encoding="base64">Vk9MVU1FIC9kYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aWR0aFw+</last-search>
+      <last-search encoding="base64">XDxBRERcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aWR0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDxBRERcPg==</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
       <last-dir>-1</last-dir>
@@ -1187,7 +1189,6 @@
     </search>
     <history>
       <history-search>
-        <entry>register</entry>
         <entry>configure</entry>
         <entry>config</entry>
         <entry>double</entry>
@@ -1207,6 +1208,7 @@
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
         <entry encoding="base64">XDx3aWR0aFw+</entry>
+        <entry encoding="base64">XDxBRERcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist split</entry>
