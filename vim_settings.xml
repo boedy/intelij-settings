@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/docker/instore/config/testing/database.php" timestamp="1446371815980">
@@ -582,6 +582,12 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/Dockerfile" timestamp="1484916643992">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/Organisation/Location/Location.php" timestamp="1482091982506">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="84" column="18" />
@@ -1099,7 +1105,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KiB7CiAgICBtYXJnaW46MDsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1111,7 +1117,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Continue</text>
+        <text>src/node /app/src/node</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aWR0aFw+</text>
@@ -1120,7 +1126,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiB7CiAgICBtYXJnaW46MDsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1143,32 +1149,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qIHdpZHRoOiA0NTFweCAhaW1wb3J0YW50OyAqLwo=</text>
+        <text encoding="base64">Q01EIFsgIi9iaW4vYmFzaCIsICItYyIsICJlbnZzdWJzdCA8IC9ldGMvbGlxdWlkc29hcC9kZWZhdWx0LnRlbXBsYXRlID4gL2V0Yy9saXF1aWRzb2FwL2RlZmF1bHQubGlxICYmIGxpcXVpZHNvYXAgL2V0Yy9saXF1aWRzb2FwL2RlZmF1bHQubGlxIiBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZSAhaW1wb3J0YW50OwogICAgYm90dG9tOiAzMHB4ICFpbXBvcnRhbnQ7CiAgICB6LWluZGV4OiAxOwogICAgcGFkZGluZzogMHB4OwogICAgY29sb3I6ICNmZmY7CiAgICB3aWR0aDogMTAwdnc7Cg==</text>
+        <text encoding="base64">Vk9MVU1FIC9kYXRhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAoZnVuY3Rpb24oaSxzLG8sZyxyLGEsbSl7aVsnR29vZ2xlQW5hbHl0aWNzT2JqZWN0J109cjtpW3JdPWlbcl18fGZ1bmN0aW9uKCl7CiAgICAgIChpW3JdLnE9aVtyXS5xfHxbXSkucHVzaChhcmd1bWVudHMpfSxpW3JdLmw9MSpuZXcgRGF0ZSgpO2E9cy5jcmVhdGVFbGVtZW50KG8pLAogICAgbT1zLmdldEVsZW1lbnRzQnlUYWdOYW1lKG8pWzBdO2EuYXN5bmM9MTthLnNyYz1nO20ucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoYSxtKQogIH0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnaHR0cHM6Ly93d3cuZ29vZ2xlLWFuYWx5dGljcy5jb20vYW5hbHl0aWNzLmpzJywnZ2EnKTsKCiAgZ2EoJ2NyZWF0ZScsICdVQS05MDQwOTU0MS0xJywgJ2F1dG8nKTsKICBnYSgnc2VuZCcsICdwYWdldmlldycpOwo8L3NjcmlwdD4K</text>
+        <text encoding="base64">Vk9MVU1FIC9kYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhIHsKICAgICAgICAgICAgY29sb3I6ICMzN2NjZGM7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">UlVOIGNobW9kICt4IC91c3IvbG9jYWwvYmluL25leHRUcmFjawpSVU4gY2htb2QgK3ggL3Vzci9sb2NhbC9iaW4vc3luYwpSVU4gY2hvd24gLVIgbGlxdWlkc29hcDpsaXF1aWRzb2FwIC9ldGMvbGlxdWlkc29hcApSVU4gY2hvd24gbGlxdWlkc29hcDpsaXF1aWRzb2FwIC9kYXRhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAubG9nbyAud2hpdGV7CiAgICAgICAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9IndoaXRlIiBzcmM9ImxvZ29fd2hpdGUucG5nIj4K</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSBsaXF1aWRzb2FwIGdldHRleHQtYmFzZQoKQUREIHNyYy9ub2RlL2RlZmF1bHQubGlxIC9ldGMvbGlxdWlkc29hcC9kZWZhdWx0LnRlbXBsYXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgIHNyYz0ibG9nby5wbmciPgo=</text>
+        <text encoding="base64">KiB7CiAgICBtYXJnaW46MDsKfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.logo .black{
-                height: ;
-            }
-            .logo .white{
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qIHdpZHRoOiA0NTFweCAhaW1wb3J0YW50OyAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
