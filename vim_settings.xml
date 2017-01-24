@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/docker/instore/config/testing/database.php" timestamp="1446371815980">
@@ -90,7 +90,6 @@
         <mark key="^" line="30" column="28" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/node/services/RemotePlayer.js" timestamp="1485178757918" />
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Track.php" timestamp="1446540760514">
         <mark key="[" line="81" column="35" />
         <mark key="]" line="81" column="34" />
@@ -241,7 +240,6 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="41" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/core/actions/player.js" timestamp="1485185800431" />
       <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479658187494">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="29" column="32" />
@@ -445,6 +443,10 @@
         <mark key="." line="72" column="17" />
         <mark key="^" line="72" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/node/services/mqtt.js" timestamp="1485269334728">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/core/services/player.js" timestamp="1482160255622">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="13" />
@@ -560,7 +562,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="24" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/core/selectors/index.js" timestamp="1485177587489" />
       <file name="$USER_HOME$/projects/atmosphere/website/js/script.js" timestamp="1484647737953">
         <mark key="[" line="102" column="37" />
       </file>
@@ -798,7 +799,6 @@
         <mark key="." line="31" column="34" />
         <mark key="^" line="31" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/core/sagas/player.js" timestamp="1485184305665" />
       <file name="$USER_HOME$/projects/test/microservice-test/consumer/consumer1.php" timestamp="1483052398384">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="47" />
@@ -1036,6 +1036,12 @@
         <mark key="." line="60" column="49" />
         <mark key="^" line="60" column="49" />
       </file>
+      <file name="$USER_HOME$/Downloads/mqtt.html" timestamp="1485269888973">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="68" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="109" column="17" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
@@ -1141,7 +1147,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IG1xdHQuY29ubmVjdCgnd3M6Ly9tZXNzYWdlLmtvbGxla3QuZm06ODA4MCcsIG9wdGlvbnMpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1159,10 +1165,10 @@
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUREIHNyYy9jb3JlIC9hcHAvc3JjL2NvcmUKQUREIHNyYy9ub2RlIC9hcHAvc3JjL25vZGUKQUREIHBhY2thZ2UuanNvbiAvYXBwLwpBREQgLmJhYmVscmMgL2FwcC8K</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IG1xdHQuY29ubmVjdCgnd3M6Ly9tZXNzYWdlLmtvbGxla3QuZm06ODA4MCcsIG9wdGlvbnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IG1xdHQuY29ubmVjdCgnd3M6Ly9tZXNzYWdlLmtvbGxla3QuZm06ODA4MCcsIG9wdGlvbnMpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1185,28 +1191,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMYXJhdmVsRG9jdHJpbmVcT1JNXERvY3RyaW5lU2VydmljZVByb3ZpZGVyOjpjbGFzcywK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBteXNxbAo=</text>
+        <text encoding="base64">ICAgICAgICBMYXJhdmVsRG9jdHJpbmVcT1JNXERvY3RyaW5lU2VydmljZVByb3ZpZGVyOjpjbGFzcywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXRmOAo=</text>
+        <text encoding="base64">ICAgICAgLSBteXNxbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXRmOAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
