@@ -81,11 +81,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" timestamp="1485881638245">
-        <mark key="[" line="66" column="65" />
-        <mark key="]" line="66" column="96" />
-        <mark key="." line="66" column="96" />
-        <mark key="^" line="66" column="96" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" timestamp="1485882901361">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="95" column="50" />
       </file>
       <file name="$USER_HOME$/projects/test/microservice-test/publish/actor1.php" timestamp="1483052397261">
         <mark key="[" line="2" column="0" />
@@ -500,7 +500,7 @@
         <mark key="^" line="31" column="45" />
         <mark key="." line="31" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485878972797">
+      <file name="/Dummy.txt" timestamp="1485882187579">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -945,11 +945,11 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/Customer.php" timestamp="1485876059516">
-        <mark key="[" line="91" column="38" />
-        <mark key="]" line="91" column="38" />
-        <mark key="." line="91" column="38" />
-        <mark key="^" line="89" column="25" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/Customer.php" timestamp="1485883076994">
+        <mark key="[" line="83" column="15" />
+        <mark key="]" line="83" column="15" />
+        <mark key="." line="83" column="15" />
+        <mark key="^" line="81" column="25" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/howler.js" timestamp="1481978761818">
         <mark key="[" line="52" column="0" />
@@ -974,6 +974,12 @@
         <mark key="]" line="19" column="36" />
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Events/LicenceAdded.php" timestamp="1485882598049">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/User/Command/RequestPasswordReset.php" timestamp="1479925325250">
         <mark key="[" line="21" column="0" />
@@ -1243,7 +1249,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGxpY2Vuc2UgPSA=</text>
+        <text>\</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1255,16 +1261,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGxpY2Vuc2UgPSA=</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>$address, $postalCode, $street, $country, $emailAddress</text>
+        <text>$contractId, $agreement, $billingAddressId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBtaXhlZCAkY29udHJhY3RJZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0Q29udHJhY3RJZCgkY29udHJhY3RJZCkKICAgIHsKICAgICAgICAkdGhpcy0+Y29udHJhY3RJZCA9ICRjb250cmFjdElkOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1281,25 +1287,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRiaWxsaW5nQWRkcmVzcy0+YWRkTGljZW5zZSgnYXRtb3NwaGVyZScsICRjb250cmFjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udHJhY3RJZCA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bGljZW5zZUFncmVlbWVudHNbJGFncmVlbWVudF0tPm5ld0xpY2Vuc2UoJGJpbGxpbmdBZGRyZXNzSWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udHJhY3RJZCA9ICRjb250cmFjdC0+Z2V0QWdncmVnYXRlUm9vdElkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udHJhY3QgPSAkY29udHJhY3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZGVzZXJpYWxpemUoKSBtZXRob2QuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJhY3RJZCA9IAogICAgICAgICRiaWxsaW5nQWRkcmVzc0lkID0gCiAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBDb250cmFjdAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Q29udHJhY3QoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+Y29udHJhY3Q7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2VyaWFsaXplKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogTGljZW5jZUFkZGVkIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtICRjb250cmFjdElkCiAgICAgKiBAcGFyYW0gJGFncmVlbWVudAogICAgICogQHBhcmFtIEJpbGxpbmdBZGRyZXNzSWQgJGJpbGxpbmdBZGRyZXNzSWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRjb250cmFjdElkLCAkYWdyZWVtZW50LCAkYmlsbGluZ0FkZHJlc3NJZCkgeyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUnSelectWord</text>
