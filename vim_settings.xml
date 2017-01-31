@@ -536,11 +536,10 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1485881520149">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="98" column="40" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1485883560921">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Source/Mp3.php" timestamp="1446468823992">
         <mark key="[" line="8" column="24" />
@@ -1248,8 +1247,8 @@
       <jump line="26" column="18" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Agreement/AgreementId.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRjdXN0b21lci0+c2V0Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1270,7 +1269,7 @@
         <text>$contractId, $agreement, $billingAddressId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBtaXhlZCAkY29udHJhY3RJZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0Q29udHJhY3RJZCgkY29udHJhY3RJZCkKICAgIHsKICAgICAgICAkdGhpcy0+Y29udHJhY3RJZCA9ICRjb250cmFjdElkOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICRjdXN0b21lci0+c2V0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1284,28 +1283,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBtaXhlZCAkY29udHJhY3RJZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0Q29udHJhY3RJZCgkY29udHJhY3RJZCkKICAgIHsKICAgICAgICAkdGhpcy0+Y29udHJhY3RJZCA9ICRjb250cmFjdElkOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udHJhY3RJZCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bGljZW5zZUFncmVlbWVudHNbJGFncmVlbWVudF0tPm5ld0xpY2Vuc2UoJGJpbGxpbmdBZGRyZXNzSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udHJhY3RJZCA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bGljZW5zZUFncmVlbWVudHNbJGFncmVlbWVudF0tPm5ld0xpY2Vuc2UoJGJpbGxpbmdBZGRyZXNzSWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZGVzZXJpYWxpemUoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udHJhY3RJZCA9IAogICAgICAgICRiaWxsaW5nQWRkcmVzc0lkID0gCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZGVzZXJpYWxpemUoKSBtZXRob2QuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2VyaWFsaXplKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJhY3RJZCA9IAogICAgICAgICRiaWxsaW5nQWRkcmVzc0lkID0gCiAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTGljZW5jZUFkZGVkIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtICRjb250cmFjdElkCiAgICAgKiBAcGFyYW0gJGFncmVlbWVudAogICAgICogQHBhcmFtIEJpbGxpbmdBZGRyZXNzSWQgJGJpbGxpbmdBZGRyZXNzSWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRjb250cmFjdElkLCAkYWdyZWVtZW50LCAkYmlsbGluZ0FkZHJlc3NJZCkgeyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2VyaWFsaXplKCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUnSelectWord</text>
