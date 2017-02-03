@@ -150,6 +150,12 @@
         <mark key="^" line="47" column="4" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/nginx/local.default.conf" timestamp="1486119819155">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/electron/package.json" timestamp="1481884269694">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="20" />
@@ -366,10 +372,6 @@
         <mark key="." line="33" column="53" />
         <mark key="^" line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/single.php" timestamp="1485967395858">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="43" />
-      </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Entities/test/PlaylistItem.php" timestamp="1446199766348">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="26" column="35" />
@@ -519,11 +521,11 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="29" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1486119337295">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="43" />
-        <mark key="^" line="15" column="44" />
-        <mark key="." line="15" column="43" />
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1486119739405">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/style.css" timestamp="1484674604616">
         <mark key="[" line="0" column="0" />
@@ -578,7 +580,7 @@
         <mark key="^" line="114" column="19" />
         <mark key="." line="114" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486116916319">
+      <file name="/Dummy.txt" timestamp="1486120343732">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -758,6 +760,12 @@
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/config/app.php" timestamp="1485989124140">
         <mark key="[" line="168" column="65" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/nginx/default.conf" timestamp="1486119789026">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/BillingScenario.php" timestamp="1483718234393">
         <mark key="[" line="14" column="32" />
@@ -959,10 +967,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="10" column="16" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/instore-frontend/src/app/organisation/create-location/create-location.js" timestamp="1486033199441">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="59" column="45" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/Playlist/Playlist.php" timestamp="1474547484072">
         <mark key="[" line="92" column="27" />
@@ -1395,7 +1399,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1407,7 +1411,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
