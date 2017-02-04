@@ -289,11 +289,10 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Routes.php" timestamp="1485992863878">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="6" column="36" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Routes.php" timestamp="1486227246998">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/CustomerId.php" timestamp="1485872709656">
         <mark key="[" line="10" column="0" />
@@ -408,6 +407,13 @@
         <mark key="^" line="68" column="52" />
         <mark key="." line="68" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/ContractController.php" timestamp="1486227750639">
+        <mark key="'" line="33" column="22" />
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="33" column="69" />
+        <mark key="." line="33" column="69" />
+        <mark key="^" line="33" column="69" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/create-location/create-location.js" timestamp="1482164025143">
         <mark key="[" line="46" column="11" />
         <mark key="]" line="46" column="16" />
@@ -425,6 +431,12 @@
         <mark key="]" line="84" column="18" />
         <mark key="^" line="84" column="18" />
         <mark key="." line="84" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/NewContractCommand.php" timestamp="1486227758391">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/curator.php" timestamp="1485972467226">
         <mark key="[" line="57" column="74" />
@@ -580,7 +592,7 @@
         <mark key="^" line="114" column="19" />
         <mark key="." line="114" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486226478249">
+      <file name="/Dummy.txt" timestamp="1486227032398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -871,6 +883,13 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/curator.css" timestamp="1485972797455">
+        <mark key="'" line="69" column="43" />
+        <mark key="[" line="69" column="43" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Organisation/Command/AddNewLocationToOrganisation.php" timestamp="1486043303845" />
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/config.xml" timestamp="1481813686694">
         <mark key="[" line="90" column="0" />
@@ -878,11 +897,10 @@
         <mark key="^" line="93" column="12" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/CustomerController.php" timestamp="1485993081095">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="49" column="58" />
-        <mark key="." line="49" column="58" />
-        <mark key="^" line="49" column="58" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/CustomerController.php" timestamp="1486227472971">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/code/go/me/src/github.com/boedy/learningGo/date.go" timestamp="1444251834972">
         <mark key="[" line="0" column="11" />
@@ -1296,7 +1314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="20" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
       <jump line="85" column="21" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
       <jump line="17" column="2" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
       <jump line="104" column="27" filename="$USER_HOME$/projects/cordova-instore-app/app/gulpfile.babel.js" />
@@ -1396,10 +1413,11 @@
       <jump line="6" column="1" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/Dockerfile" />
       <jump line="26" column="18" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Agreement/AgreementId.php" />
       <jump line="69" column="43" filename="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/curator.css" />
+      <jump line="33" column="22" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/ContractController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdCgpCiAgICB7CiAgICAgICAgbmV3IEN1c3RvbQogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>customerId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1411,16 +1429,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGl0IG1vZXQgd2F0IGFuZGVycyB6aWpuIA==</text>
+        <text>customerId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBRERcPg==</text>
+        <text encoding="base64">XDxDdXN0b21lcklkXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPl9saXN0ZW5lcnNbJGV2ZW50TmFtZV0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdCgpCiAgICB7CiAgICAgICAgbmV3IEN1c3RvbQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1434,37 +1452,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbmV0d29ya19tb2RlOiAiY29udGFpbmVyOndlYmFwcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC8qKiBAdmFyIEVudGl0eU1hbmFnZXIgJGVtICovCi8vICAgICAgICAkZW0gPSBhcHAoRW50aXR5TWFuYWdlcjo6Y2xhc3MpOwovLwovLyAgICAgICAgJHJzbSA9IG5ldyBSZXN1bHRTZXRNYXBwaW5nQnVpbGRlcigkZW0pOwovLyAgICAgICAgJHJzbS0+YWRkUm9vdEVudGl0eUZyb21DbGFzc01ldGFkYXRhKCdBcHBcRG9tYWluXE9yZ2FuaXNhdGlvblxPcmdhbmlzYXRpb24nLCAnbycpOwovLwovLyAgICAgICAgJHF1ZXJ5U3RyaW5nID0gJ1NFTEVDVCBvcmdhbmlzYXRpb24uKgovLyAgICAgICAgICAgICAgICAgICAgICAgIEZST00gbG9jYXRpb24KLy8gICAgICAgICAgICAgICAgICAgICAgICBKT0lOIG9yZ2FuaXNhdGlvbiBPTiBsb2NhdGlvbi5vcmdhbmlzYXRpb25faWQgPSBvcmdhbmlzYXRpb24uaWQKLy8gICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBsb2NhdGlvbi5pZCA9ID8nOwovLwovLyAgICAgICAgJHF1ZXJ5ID0gJGVtLT5jcmVhdGVOYXRpdmVRdWVyeSgkcXVlcnlTdHJpbmcsICRyc20pOwovLyAgICAgICAgJHF1ZXJ5LT5zZXRQYXJhbWV0ZXIoMSwgJHJlc291cmNlLT5nZXRJZCgpKTsKLy8KLy8gICAgICAgICRsb2NhdGlvbnMgPSAkcXVlcnktPmdldFJlc3VsdCgpOwovLwovLyAgICAgICAgcmV0dXJuICRsb2NhdGlvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPm9yZ2FuaXNhdGlvblJlcG9zaXRvcnktPmdldCgkb3JnYW5pc2F0aW9uSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVDdXN0b21lckNvbnRyYWN0KCRjdXN0b21lcklkKQogICAgewoKCi8vICAgICAgICAkdGVybSA9IG5ldyBcQmlsbGluZ1xEb21haW5cQ29udHJhY3RcVHlwZXNcTW9udGhseSgpOwovLwovLyAgICAgICAgJGNvbnRyYWN0ID0gJGN1c3RvbWVyLT5uZXdDb250cmFjdCgkY29udHJhY3RJZCwgJHRlcm0pOwovLwovLyAgICAgICAgJGFncmVlbWVudElkID0gXEJpbGxpbmdcRG9tYWluXENvbnRyYWN0XEFncmVlbWVudFxBZ3JlZW1lbnRJZDo6Z2VuZXJhdGUoKTsKLy8gICAgICAgICRhdG1vc3BoZXJlID0gXEJpbGxpbmdcRG9tYWluXENvbnRyYWN0XEFncmVlbWVudFxBdG1vc3BoZXJlOjpkcmFmdCgkYWdyZWVtZW50SWQsIDMwKTsKLy8KLy8gICAgICAgICRjb250cmFjdC0+cmVnaXN0ZXJMaWNlbmNlQWdyZWVtZW50KCRhdG1vc3BoZXJlKTsKLy8gICAgICAgICRjb250cmFjdC0+YWRkUHJpY2VUaWVyRm9yKCdhdG1vc3BoZXJlJywgMTUsIDEwKTsKLy8KLy8gICAgICAgICRjb250cmFjdFJlcG8tPnNhdmUoJGNvbnRyYWN0KTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkZXZlbnRBcmdzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkY3VzdG9tZXJJZCA9IEN1c3RvbWVySWQ6OmZyb21TdHJpbmcoJGN1c3RvbWVySWQpOwogICAgICAgICRjb250cmFjdElkPSBDb250cmFjdElkOjpnZW5lcmF0ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJGV2ZW50TmFtZSA9PSBFdmVudHM6OnBvc3RGbHVzaCl7CiAgICAgICAgICAgICAgICBkZCgkdGhpcy0+X2xpc3RlbmVyc1skZXZlbnROYW1lXSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVDdXN0b21lckNvbnRyYWN0KCRjdXN0b21lcklkKQogICAgewogICAgICAgICRjdXN0b21lcklkID0gQ3VzdG9tZXJJZDo6ZnJvbVN0cmluZygkY3VzdG9tZXJJZCk7CiAgICAgICAgJGNvbnRyYWN0SWQ9IENvbnRyYWN0SWQ6OmdlbmVyYXRlKCk7CgoKLy8gICAgICAgICR0ZXJtID0gbmV3IFxCaWxsaW5nXERvbWFpblxDb250cmFjdFxUeXBlc1xNb250aGx5KCk7Ci8vCi8vICAgICAgICAkY29udHJhY3QgPSAkY3VzdG9tZXItPm5ld0NvbnRyYWN0KCRjb250cmFjdElkLCAkdGVybSk7Ci8vCi8vICAgICAgICAkYWdyZWVtZW50SWQgPSBcQmlsbGluZ1xEb21haW5cQ29udHJhY3RcQWdyZWVtZW50XEFncmVlbWVudElkOjpnZW5lcmF0ZSgpOwovLyAgICAgICAgJGF0bW9zcGhlcmUgPSBcQmlsbGluZ1xEb21haW5cQ29udHJhY3RcQWdyZWVtZW50XEF0bW9zcGhlcmU6OmRyYWZ0KCRhZ3JlZW1lbnRJZCwgMzApOwovLwovLyAgICAgICAgJGNvbnRyYWN0LT5yZWdpc3RlckxpY2VuY2VBZ3JlZW1lbnQoJGF0bW9zcGhlcmUpOwovLyAgICAgICAgJGNvbnRyYWN0LT5hZGRQcmljZVRpZXJGb3IoJ2F0bW9zcGhlcmUnLCAxNSwgMTApOwovLwovLyAgICAgICAgJGNvbnRyYWN0UmVwby0+c2F2ZSgkY29udHJhY3QpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJGV2ZW50TmFtZSA9PSBFdmVudHM6OnBvc3RGbHVzaCl7CiAgICAgICAgICAgICAgICBkZCgndGVzdCcpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJhY3RJZCA9IFxCaWxsaW5nXERvbWFpblxDb250cmFjdFxDb250cmFjdElkOjpnZW5lcmF0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBRERcPg==</last-search>
+      <last-search encoding="base64">XDxDdXN0b21lcklkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBRERcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDdXN0b21lcklkXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
       <last-dir>-1</last-dir>
@@ -1472,7 +1490,6 @@
     </search>
     <history>
       <history-search>
-        <entry>configure</entry>
         <entry>config</entry>
         <entry>double</entry>
         <entry>i</entry>
@@ -1492,6 +1509,7 @@
         <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
         <entry encoding="base64">XDx3aWR0aFw+</entry>
         <entry encoding="base64">XDxBRERcPg==</entry>
+        <entry encoding="base64">XDxDdXN0b21lcklkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
