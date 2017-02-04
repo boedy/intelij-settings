@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/home.css" timestamp="1485976601554">
@@ -580,7 +580,7 @@
         <mark key="^" line="114" column="19" />
         <mark key="." line="114" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486120343732">
+      <file name="/Dummy.txt" timestamp="1486226478249">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -938,11 +938,11 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Providers/AppServiceProvider.php" timestamp="1486223085709">
-        <mark key="[" line="77" column="29" />
-        <mark key="]" line="77" column="29" />
-        <mark key="^" line="77" column="28" />
-        <mark key="." line="77" column="29" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Providers/AppServiceProvider.php" timestamp="1486226347020">
+        <mark key="[" line="52" column="78" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/code/go/3rdparty/src/github.com/boedy/go-libshout/libshout.go" timestamp="1445600766409">
         <mark key="[" line="180" column="4" />
@@ -1398,8 +1398,8 @@
       <jump line="69" column="43" filename="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/curator.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGl0IG1vZXQgd2F0IGFuZGVycyB6aWpuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdCgpCiAgICB7CiAgICAgICAgbmV3IEN1c3RvbQogICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1420,7 +1420,7 @@
         <text encoding="base64">JHRoaXMtPl9saXN0ZW5lcnNbJGV2ZW50TmFtZV0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbmV0d29ya19tb2RlOiAiY29udGFpbmVyOndlYmFwcCIK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdCgpCiAgICB7CiAgICAgICAgbmV3IEN1c3RvbQogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1434,31 +1434,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV0d29ya19tb2RlOiAiY29udGFpbmVyOndlYmFwcCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC8qKiBAdmFyIEVudGl0eU1hbmFnZXIgJGVtICovCi8vICAgICAgICAkZW0gPSBhcHAoRW50aXR5TWFuYWdlcjo6Y2xhc3MpOwovLwovLyAgICAgICAgJHJzbSA9IG5ldyBSZXN1bHRTZXRNYXBwaW5nQnVpbGRlcigkZW0pOwovLyAgICAgICAgJHJzbS0+YWRkUm9vdEVudGl0eUZyb21DbGFzc01ldGFkYXRhKCdBcHBcRG9tYWluXE9yZ2FuaXNhdGlvblxPcmdhbmlzYXRpb24nLCAnbycpOwovLwovLyAgICAgICAgJHF1ZXJ5U3RyaW5nID0gJ1NFTEVDVCBvcmdhbmlzYXRpb24uKgovLyAgICAgICAgICAgICAgICAgICAgICAgIEZST00gbG9jYXRpb24KLy8gICAgICAgICAgICAgICAgICAgICAgICBKT0lOIG9yZ2FuaXNhdGlvbiBPTiBsb2NhdGlvbi5vcmdhbmlzYXRpb25faWQgPSBvcmdhbmlzYXRpb24uaWQKLy8gICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBsb2NhdGlvbi5pZCA9ID8nOwovLwovLyAgICAgICAgJHF1ZXJ5ID0gJGVtLT5jcmVhdGVOYXRpdmVRdWVyeSgkcXVlcnlTdHJpbmcsICRyc20pOwovLyAgICAgICAgJHF1ZXJ5LT5zZXRQYXJhbWV0ZXIoMSwgJHJlc291cmNlLT5nZXRJZCgpKTsKLy8KLy8gICAgICAgICRsb2NhdGlvbnMgPSAkcXVlcnktPmdldFJlc3VsdCgpOwovLwovLyAgICAgICAgcmV0dXJuICRsb2NhdGlvbnM7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPm9yZ2FuaXNhdGlvblJlcG9zaXRvcnktPmdldCgkb3JnYW5pc2F0aW9uSWQpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkZXZlbnRBcmdzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJGV2ZW50TmFtZSA9PSBFdmVudHM6OnBvc3RGbHVzaCl7CiAgICAgICAgICAgICAgICBkZCgkdGhpcy0+X2xpc3RlbmVyc1skZXZlbnROYW1lXSk7CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJGV2ZW50TmFtZSA9PSBFdmVudHM6OnBvc3RGbHVzaCl7CiAgICAgICAgICAgICAgICBkZCgndGVzdCcpOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIC8qKiBAdmFyIEVudGl0eU1hbmFnZXIgJGVtICovCi8vICAgICAgICAkZW0gPSBhcHAoRW50aXR5TWFuYWdlcjo6Y2xhc3MpOwovLwovLyAgICAgICAgJHJzbSA9IG5ldyBSZXN1bHRTZXRNYXBwaW5nQnVpbGRlcigkZW0pOwovLyAgICAgICAgJHJzbS0+YWRkUm9vdEVudGl0eUZyb21DbGFzc01ldGFkYXRhKCdBcHBcRG9tYWluXE9yZ2FuaXNhdGlvblxPcmdhbmlzYXRpb24nLCAnbycpOwovLwovLyAgICAgICAgJHF1ZXJ5U3RyaW5nID0gJ1NFTEVDVCBvcmdhbmlzYXRpb24uKgovLyAgICAgICAgICAgICAgICAgICAgICAgIEZST00gbG9jYXRpb24KLy8gICAgICAgICAgICAgICAgICAgICAgICBKT0lOIG9yZ2FuaXNhdGlvbiBPTiBsb2NhdGlvbi5vcmdhbmlzYXRpb25faWQgPSBvcmdhbmlzYXRpb24uaWQKLy8gICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBsb2NhdGlvbi5pZCA9ID8nOwovLwovLyAgICAgICAgJHF1ZXJ5ID0gJGVtLT5jcmVhdGVOYXRpdmVRdWVyeSgkcXVlcnlTdHJpbmcsICRyc20pOwovLyAgICAgICAgJHF1ZXJ5LT5zZXRQYXJhbWV0ZXIoMSwgJHJlc291cmNlLT5nZXRJZCgpKTsKLy8KLy8gICAgICAgICRsb2NhdGlvbnMgPSAkcXVlcnktPmdldFJlc3VsdCgpOwovLwovLyAgICAgICAgcmV0dXJuICRsb2NhdGlvbnM7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPm9yZ2FuaXNhdGlvblJlcG9zaXRvcnktPmdldCgkb3JnYW5pc2F0aW9uSWQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkZXZlbnRBcmdzKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJGV2ZW50TmFtZSA9PSBFdmVudHM6OnBvc3RGbHVzaCl7CiAgICAgICAgICAgICAgICBkZCgkdGhpcy0+X2xpc3RlbmVyc1skZXZlbnROYW1lXSk7CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJGV2ZW50TmFtZSA9PSBFdmVudHM6OnBvc3RGbHVzaCl7CiAgICAgICAgICAgICAgICBkZCgndGVzdCcpOwogICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>action TabShiftActions.MoveFocusDown</text>
       </register>
     </registers>
     <search>
@@ -1494,8 +1494,6 @@
         <entry encoding="base64">XDxBRERcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>plugin</entry>
-        <entry>ideavim</entry>
         <entry>actionlist</entry>
         <entry>actionlist acejump</entry>
         <entry>actionlist ace</entry>
@@ -1514,6 +1512,8 @@
         <entry>action EditorSelectWord</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>vsp</entry>
+        <entry>action TabShiftActions.MoveFocusUp</entry>
+        <entry>action TabShiftActions.MoveFocusDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
