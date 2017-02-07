@@ -253,11 +253,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="52" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Customer/DoctrineCustomerId.php" timestamp="1486403057315">
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/Playlist/PlaylistRepository.php" timestamp="1475050312296">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="15" column="48" />
@@ -294,11 +289,10 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/ReadModels/Customer/CustomersThatWeAquiredProjector.php" timestamp="1486470369408">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="18" column="77" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/ReadModels/Customer/CustomersThatWeAquiredProjector.php" timestamp="1486471657465">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Routes.php" timestamp="1486409807553">
         <mark key="[" line="13" column="0" />
@@ -609,7 +603,7 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="113" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486408613191">
+      <file name="/Dummy.txt" timestamp="1486471595708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -796,6 +790,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Projectors/MoneyBirdProjector.php" timestamp="1486471660675">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/BillingScenario.php" timestamp="1483718234393">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="12" column="27" />
@@ -980,11 +980,11 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Providers/AppServiceProvider.php" timestamp="1486400771867">
-        <mark key="[" line="100" column="27" />
-        <mark key="]" line="100" column="41" />
-        <mark key="." line="100" column="41" />
-        <mark key="^" line="100" column="41" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Providers/AppServiceProvider.php" timestamp="1486471640281">
+        <mark key="[" line="91" column="54" />
+        <mark key="]" line="102" column="41" />
+        <mark key="." line="102" column="41" />
+        <mark key="^" line="102" column="41" />
       </file>
       <file name="$USER_HOME$/code/go/3rdparty/src/github.com/boedy/go-libshout/libshout.go" timestamp="1445600766409">
         <mark key="[" line="180" column="4" />
@@ -1465,8 +1465,8 @@
       <jump line="53" column="37" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/Handlers/ContractHandler.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGJpbGxpbmdBZGRyZXNzLT5pZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1487,7 +1487,7 @@
         <text>BillingAddressCreated</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1501,33 +1501,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhcHBseUJpbGxpbmdBZGRyZXNzQ3JlYXRlZChCaWxsaW5nQWRkcmVzc0NyZWF0ZWQgJGV2ZW50KQogICAgewogICAgICAgIGVjaG8gImJpbGxpbmcgYWRkcmVzcyBjcmVhdGVkIjsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYmlsbGluZ0FkZHJlc3MpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkYmlsbGluZ0FkZHJlc3MpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="8">
         <text>= $
 = $
 = $
 = $
 = $
 = $</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3MtPmlkID0gJGlkOwogICAgICAgICRiaWxsaW5nQWRkcmVzcy0+YWRkcmVzcyA9ICRhZGRyZXNzOwogICAgICAgICRiaWxsaW5nQWRkcmVzcy0+cG9zdGFsQ29kZSA9ICRwb3N0YWxDb2RlOwogICAgICAgICRiaWxsaW5nQWRkcmVzcy0+Y2l0eSA9ICRjaXR5OwogICAgICAgICRiaWxsaW5nQWRkcmVzcy0+Y291bnRyeSA9ICRjb3VudHJ5OwogICAgICAgICRiaWxsaW5nQWRkcmVzcy0+ZW1haWxBZGRyZXNzID0gJGVtYWlsQWRkcmVzczsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
