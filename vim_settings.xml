@@ -1539,7 +1539,7 @@
         <text encoding="base64">Um91dGU6OmdldCgKICAgICcvY3VzdG9tZXIve2lkfS9iaWxsaW5nQWRkcmVzcycsIGZ1bmN0aW9uICgKICAgIFxCaWxsaW5nXERvbWFpblxDdXN0b21lclxDdXN0b21lclJlcG9zaXRvcnkgJGN1c3RvbWVyUmVwb3NpdG9yeSwKICAgIFxCaWxsaW5nXERvbWFpblxCaWxsaW5nQWRkcmVzc1xCaWxsaW5nQWRkcmVzc1JlcG9zaXRvcnkgJGJpbGxpbmdBZGRyZXNzUmVwb3NpdG9yeSwgJGlkCikgewogICAgJGN1c3RvbWVyID0gJGN1c3RvbWVyUmVwb3NpdG9yeS0+Z2V0KCRpZCk7CgogICAgJGJpbGxpbmdBZGRyZXNzSWQgPSBcQmlsbGluZ1xEb21haW5cQmlsbGluZ0FkZHJlc3NcQmlsbGluZ0FkZHJlc3NJZDo6Z2VuZXJhdGUoKTsKICAgICRiaWxsaW5nQWRkcmVzcyA9ICRjdXN0b21lci0+Y3JlYXRlQmlsbGluZ0FkZHJlc3MoCiAgICAgICAgJGJpbGxpbmdBZGRyZXNzSWQsICdIZXJlbmdyYWNodCAxODcnLCAnQW1zdGVyZGFtJywgJzEwMTZicicsICdOZXRoZXJsYW5kcycsICdpbmZvQGtvbGxla3QuZm0nCiAgICApOwovLyAgICAkYmlsbGluZ0FkZHJlc3MtPnBheXNGb3IoWydicmFuZENoYW5uZWwnLCAnY3VyYXRvciddKTsKCiAgICAkYmlsbGluZ0FkZHJlc3NSZXBvc2l0b3J5LT5zYXZlKCRiaWxsaW5nQWRkcmVzcyk7Cn0KKTs=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
     <search>
@@ -1593,8 +1593,8 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
