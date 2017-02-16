@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="test" type="PHP" />
       <mapping pattern="1-0-0" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.wercker" type="PLAIN_TEXT" />
       <mapping pattern=".env-werker" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
