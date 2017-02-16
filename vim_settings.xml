@@ -619,6 +619,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/.env.wercker" timestamp="1487285726598">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Agreement/Agreement.php" timestamp="1485858555396">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="50" />
@@ -643,7 +648,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487284691033">
+      <file name="/Dummy.txt" timestamp="1487288609731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -820,11 +825,11 @@
         <mark key="]" line="834" column="0" />
         <mark key="." line="834" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/wercker.yml" timestamp="1487285054378">
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="39" column="41" />
-        <mark key="." line="39" column="41" />
-        <mark key="^" line="39" column="41" />
+      <file name="$USER_HOME$/projects/kollekt/backend/wercker.yml" timestamp="1487287051444">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-coming-soon/index.html" timestamp="1483632283027">
         <mark key="[" line="107" column="29" />
@@ -1071,11 +1076,16 @@
         <mark key="." line="94" column="40" />
         <mark key="^" line="94" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" timestamp="1487281149980">
+      <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" timestamp="1487285730448">
         <mark key="[" line="23" column="29" />
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
-        <mark key="^" line="25" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/config/nginx/default.conf" timestamp="1487288584851">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/go/3rdparty/src/github.com/boedy/go-libshout/libshout.go" timestamp="1445600766409">
         <mark key="[" line="180" column="4" />
@@ -1083,8 +1093,8 @@
         <mark key="^" line="179" column="0" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/rancher-compose.yml" timestamp="1487279222816">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/kollekt/backend/rancher-compose.yml" timestamp="1487285674857">
+        <mark key="[" line="1" column="69" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -1285,7 +1295,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.override.yml" timestamp="1487280369110">
+      <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.override.yml" timestamp="1487285941231">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -1568,8 +1578,8 @@
       <jump line="65" column="8" filename="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1581,7 +1591,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX2NvbnN0cnVjdFw+</text>
@@ -1590,7 +1600,7 @@
         <text>DOCKER_REPO_USERNAME</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lc19mcm9tOgogICAgICAgICAgLSBkYXRhCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1607,28 +1617,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lc19mcm9tOgogICAgICAgICAgLSBkYXRhCg==</text>
+        <text encoding="base64">c2VydmVyIHsKICAgIAogICAgc2VuZGZpbGUgb2ZmOwp9Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="3" type="4">
+        <text>location /elb-status {
+        access_log off;
+        return 200;
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lc19mcm9tOgogICAgICAgICAgLSBkYXRhCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lc19mcm9tOgogICAgICAgICAgLSBkYXRhCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBlbGFzdGljCg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiZWFuc3RhbGtkOgogICAgICBpbWFnZTogc2NoaWNrbGluZy9iZWFuc3RhbGtkCiAgICAgIHBvcnRzOgogICAgICAgICAgLSAiMTEyMTE6MTEyMTEiCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBqb2JzOgogICAgICBpbWFnZTogcXVheS5pby9rb2xsZWt0L3N1cGVydmlzb3IKICAgICAgbGlua3M6CiAgICAgICAgICAtIG1lbWNhY2hlZAogICAgICAgICAgLSBteXNxbAogICAgICAgICAgLSBiZWFuc3RhbGtkCiAgICAgICAgICAtIGVsYXN0aWNzZWFyY2gKICBtZW1jYWNoZWQ6CiAgICAgIGltYWdlOiBtZW1jYWNoZWQ6bGF0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqb2JzOgogICAgICBpbWFnZTogcXVheS5pby9rb2xsZWt0L3N1cGVydmlzb3IKICAgICAgbGlua3M6CiAgICAgICAgICAtIG1lbWNhY2hlZAogICAgICAgICAgLSBteXNxbAogICAgICAgICAgLSBiZWFuc3RhbGtkCiAgICAgICAgICAtIGVsYXN0aWNzZWFyY2gK</text>
+        <text encoding="base64">ICBlbGFzdGljCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1683,9 +1696,9 @@
         <entry>action EditorSelectWord</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
-        <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
