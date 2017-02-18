@@ -71,11 +71,11 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/Invoice.php" timestamp="1487243849682">
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="78" column="11" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/Invoice.php" timestamp="1487422019074">
+        <mark key="[" line="64" column="91" />
+        <mark key="]" line="59" column="47" />
+        <mark key="." line="59" column="47" />
+        <mark key="^" line="59" column="47" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/.env" timestamp="1487277827142">
         <mark key="[" line="0" column="0" />
@@ -107,11 +107,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" timestamp="1486670834748">
-        <mark key="[" line="113" column="8" />
-        <mark key="]" line="113" column="8" />
-        <mark key="." line="113" column="8" />
-        <mark key="^" line="113" column="8" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" timestamp="1487421493825">
+        <mark key="[" line="53" column="106" />
+        <mark key="]" line="53" column="106" />
+        <mark key="." line="53" column="106" />
+        <mark key="^" line="53" column="110" />
       </file>
       <file name="$USER_HOME$/projects/test/microservice-test/publish/actor1.php" timestamp="1483052397261">
         <mark key="[" line="2" column="0" />
@@ -353,11 +353,11 @@
         <mark key="^" line="51" column="42" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceGenerator.php" timestamp="1487243487264">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="54" column="31" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceGenerator.php" timestamp="1487421998825">
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="56" column="24" />
+        <mark key="^" line="56" column="24" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Contract/ContractEsRepository.php" timestamp="1485878985662">
         <mark key="[" line="33" column="46" />
@@ -834,11 +834,11 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Projectors/MoneyBirdProjector.php" timestamp="1487417724104">
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Projectors/MoneyBirdProjector.php" timestamp="1487418297026">
         <mark key="[" line="53" column="79" />
-        <mark key="]" line="64" column="98" />
-        <mark key="^" line="64" column="98" />
-        <mark key="." line="64" column="98" />
+        <mark key="]" line="54" column="65" />
+        <mark key="^" line="54" column="65" />
+        <mark key="." line="54" column="65" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/BillingScenario.php" timestamp="1483718234393">
         <mark key="[" line="14" column="32" />
@@ -1513,8 +1513,8 @@
       <jump line="65" column="8" filename="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTW9uZXlCaXJkQmlsbGluZ0FkZHJlc3NBc3NvY2lhdGlvbiBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSAkaWQKICAgICAqIEBwYXJhbSBCaWxsaW5nQWRkcmVzc0lkICRiaWxsaW5nQWRkcmVzc0lkCiAgICAgKiBAcGFyYW0gJG1vbmV5QmlyZENvbnRyYWN0SWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRpZCwgQmlsbGluZ0FkZHJlc3NJZCAkYmlsbGluZ0FkZHJlc3NJZCwgJG1vbmV5QmlyZENvbnRyYWN0SWQpCiAgICB7CiAgICAgICAgJHRoaXMtPmlkID0gJGlkOwogICAgICAgICR0aGlzLT5iaWxsaW5nQWRkcmVzc0lkID0gJGJpbGxpbmdBZGRyZXNzSWQ7CiAgICAgICAgJHRoaXMtPm1vbmV5QmlyZENvbnRyYWN0SWQgPSAkbW9uZXlCaXJkQ29udHJhY3RJZDsKICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1526,7 +1526,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test company</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX2NvbnN0cnVjdFw+</text>
@@ -1535,7 +1535,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxJZCgpCiAgICAgKiBAT1JNXEdlbmVyYXRlZFZhbHVlKHN0cmF0ZWd5PSJDVVNUT00iKQogICAgICogQE9STVxDdXN0b21JZEdlbmVyYXRvcihjbGFzcz0iUmFtc2V5XFV1aWRcRG9jdHJpbmVcVXVpZEdlbmVyYXRvciIpCiAgICAgKiBAT1JNXENvbHVtbih0eXBlPSJ1dWlkIiwgbmFtZT0iaWQiKQogICAgICovCiAgICBwcml2YXRlICRpZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTW9uZXlCaXJkQmlsbGluZ0FkZHJlc3NBc3NvY2lhdGlvbiBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSAkaWQKICAgICAqIEBwYXJhbSBCaWxsaW5nQWRkcmVzc0lkICRiaWxsaW5nQWRkcmVzc0lkCiAgICAgKiBAcGFyYW0gJG1vbmV5QmlyZENvbnRyYWN0SWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRpZCwgQmlsbGluZ0FkZHJlc3NJZCAkYmlsbGluZ0FkZHJlc3NJZCwgJG1vbmV5QmlyZENvbnRyYWN0SWQpCiAgICB7CiAgICAgICAgJHRoaXMtPmlkID0gJGlkOwogICAgICAgICR0aGlzLT5iaWxsaW5nQWRkcmVzc0lkID0gJGJpbGxpbmdBZGRyZXNzSWQ7CiAgICAgICAgJHRoaXMtPm1vbmV5QmlyZENvbnRyYWN0SWQgPSAkbW9uZXlCaXJkQ29udHJhY3RJZDsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1552,25 +1552,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICgkZXZlbnQtPmJpbGxpbmdBZGRyZXNzSWQpIHsKLy8gICAgICAgICAgICAkdGhpcy0+bGljZW5zZXNbJGV2ZW50LT5iaWxsaW5nQWRkcmVzc0lkLT50b1N0cmluZygpXVtdID0gJHRoaXMtPmxpY2Vuc2VBZ3JlZW1lbnRzWyRldmVudC0+YWdyZWVtZW50XS0+bmV3TGljZW5zZSgpOwovLyAgICAgICAgfWVsc2V7Ci8vICAgICAgICAgICAgJHRoaXMtPmxpY2Vuc2VzWydnbG9iYWwnXVtdID0gJHRoaXMtPmxpY2Vuc2VBZ3JlZW1lbnRzWyRldmVudC0+YWdyZWVtZW50XS0+bmV3TGljZW5zZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoJGkgPSAwOyAkaSA8ICRjb250cmFjdC0+Z2V0RHVyYXRpb25Jbk1vbnRocygpOyAkaSsrKXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWlncmF0aW9uczoKICBib3g6IHBocDo3LWNsaQogIHN0ZXBzOgogICAgLSBzY3JpcHQ6CiAgICAgICAgbmFtZTogUnVuIGRhdGFiYXNlIG1pZ3JhdGlvbnMKICAgICAgICBjb2RlOiB8CiAgICAgICAgICBjZCBzcmMKICAgICAgICAgIHBocCB2ZW5kb3Ivcm9ibW9yZ2FuL3BoaW54L2Jpbi9waGlueCBtaWdyYXRlIC1lICRNSUdSQVRJT05fVEFSR0VUCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29udHJhY3QtPmdldER1cmF0aW9uSW5Nb250aHMoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogTW9uZXlCaXJkQmlsbGluZ0FkZHJlc3NBc3NvY2lhdGlvbiBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSAkaWQKICAgICAqIEBwYXJhbSBCaWxsaW5nQWRkcmVzc0lkICRiaWxsaW5nQWRkcmVzc0lkCiAgICAgKiBAcGFyYW0gJG1vbmV5QmlyZENvbnRyYWN0SWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRpZCwgQmlsbGluZ0FkZHJlc3NJZCAkYmlsbGluZ0FkZHJlc3NJZCwgJG1vbmV5QmlyZENvbnRyYWN0SWQpCiAgICB7CiAgICAgICAgJHRoaXMtPmlkID0gJGlkOwogICAgICAgICR0aGlzLT5iaWxsaW5nQWRkcmVzc0lkID0gJGJpbGxpbmdBZGRyZXNzSWQ7CiAgICAgICAgJHRoaXMtPm1vbmV5QmlyZENvbnRyYWN0SWQgPSAkbW9uZXlCaXJkQ29udHJhY3RJZDsKICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
