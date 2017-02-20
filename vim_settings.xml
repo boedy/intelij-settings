@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="18" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" />
     </globalmarks>
@@ -444,10 +444,10 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/wercker.yml" timestamp="1487600368016">
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="38" column="42" />
-        <mark key="." line="38" column="42" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/wercker.yml" timestamp="1487602779398">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="33" />
+        <mark key="." line="60" column="33" />
         <mark key="^" line="38" column="42" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/package.json" timestamp="1482154327755">
@@ -561,6 +561,11 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/brandchannel/sagas/nowplaying.js" timestamp="1487603074286">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/package.json" timestamp="1481880162900">
         <mark key="[" line="5" column="13" />
@@ -1688,8 +1693,8 @@
       <jump line="62" column="19" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Invoice/DoctrineInvoiceRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG12IAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1701,7 +1706,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ADD</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
