@@ -486,12 +486,7 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/src/public/index.php" timestamp="1487695830077">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="20" column="33" />
-        <mark key="." line="20" column="33" />
-      </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/public/index.php" timestamp="1487695830077" />
       <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.production.yml" timestamp="1487284971689">
         <mark key="[" line="25" column="29" />
         <mark key="]" line="25" column="29" />
@@ -720,11 +715,11 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487601732904">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1487696375306">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/brandchannel/bootstrap.js" timestamp="1487028335368">
         <mark key="[" line="23" column="0" />
@@ -1707,8 +1702,8 @@
       <jump line="62" column="19" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Invoice/DoctrineInvoiceRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEF3c1xEeW5hbW9EYlxTZXNzaW9uXFNlc3Npb25IYW5kbGVySW50ZXJmYWNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>session</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1720,7 +1715,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SessionHandlerInterface</text>
+        <text>session</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
