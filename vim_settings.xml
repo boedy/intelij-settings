@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="18" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" />
     </globalmarks>
@@ -480,6 +480,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/public/index.php" timestamp="1487695150473">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="57" />
+        <mark key="^" line="18" column="56" />
+        <mark key="." line="18" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.production.yml" timestamp="1487284971689">
         <mark key="[" line="25" column="29" />
         <mark key="]" line="25" column="29" />
@@ -958,10 +964,6 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Projectors/MoneyBirdProjector.php" timestamp="1487461960341">
-        <mark key="j" line="82" column="0" />
-        <mark key="[" line="91" column="118" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/BillingScenario.php" timestamp="1483718234393">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="12" column="27" />
@@ -1010,7 +1012,7 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/src/api/config/main.php" timestamp="1487324904767">
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/config/main.php" timestamp="1487694630285">
         <mark key="[" line="54" column="26" />
         <mark key="]" line="54" column="31" />
         <mark key="^" line="54" column="31" />
@@ -1164,11 +1166,11 @@
         <mark key="." line="89" column="165" />
         <mark key="^" line="89" column="165" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" timestamp="1487331013248">
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="9" />
-        <mark key="^" line="29" column="9" />
+      <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" timestamp="1487694650975">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/config/nginx/default.conf" timestamp="1487288584851">
         <mark key="[" line="0" column="0" />
@@ -1693,8 +1695,8 @@
       <jump line="62" column="19" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Invoice/DoctrineInvoiceRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhcl9kdW1wKFxhcHBsaWNhdGlvblxzZXJ2aWNlc1xTZXNzaW9uOjpnZXRVc2VySUQoKSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1712,7 +1714,7 @@
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUREIHNyYy9jb3JlIC9hcHAvc3JjL2NvcmUKQUREIHNyYy9ub2RlIC9hcHAvc3JjL25vZGUKQUREIHNyYy9icmFuZGNoYW5uZWwgL2FwcC9zcmMvYnJhbmRjaGFubmVsCkFERCAuYmFiZWxyYyAvYXBwLwo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKFxhcHBsaWNhdGlvblxzZXJ2aWNlc1xTZXNzaW9uOjpnZXRVc2VySUQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
