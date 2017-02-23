@@ -768,11 +768,11 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1487864067630">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="63" />
-        <mark key="." line="26" column="31" />
-        <mark key="^" line="26" column="31" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1487872779680">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/CreateCustomerCommand.php" timestamp="1487428995773">
         <mark key="[" line="23" column="70" />
@@ -971,12 +971,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Projectors/MoneyBirdProjector.php" timestamp="1487699741061">
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Projectors/MoneyBirdProjector.php" timestamp="1487872667167">
         <mark key="j" line="89" column="0" />
-        <mark key="[" line="115" column="64" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="110" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="97" column="18" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/BillingScenario.php" timestamp="1483718234393">
         <mark key="[" line="14" column="32" />
@@ -1716,7 +1716,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new \DateTime()</text>
+        <text>now</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1728,7 +1728,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new \DateTime()</text>
+        <text>now</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
@@ -1737,7 +1737,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJGVuZERhdGUtPnN1YihuZXcgXERhdGVJbnRlcnZhbCgnUCcgLiAoJGRheU9mTW9udGggLSAkZGF5c0luTW9udGgpLiAnRCcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+c3ViKCkK</text>
+        <text encoding="base64">ICAgICR0b21vcnJvdyA9IG5ldwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1754,31 +1754,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRkKGRhdGUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+c3ViKG5ldyBcRGF0ZUludGVydmFsKCdQJyAuICgkZGF5T2ZNb250aCAtICRkYXlzSW5Nb250aCkuICdEJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+c3ViKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZnVsbE1vbnRocyA9IGZsb29yKCRtb250aHMpOwogICAgICAgICRkYXlzID0gY2VpbCgoZm1vZCgkbW9udGhzLDEpKSAqIGRhdGUoJ3QnKSk7CiAgICAgICAgaWYoJGRheXMpewogICAgICAgICAgICAkZW5kRGF0ZS0+YWRkKG5ldyBcRGF0ZUludGVydmFsKCdQJy4kZGF5cy4nRCcpKTsKICAgICAgICB9CiAgICAgICAgJGVuZERhdGUtPmFkZChuZXcgXERhdGVJbnRlcnZhbCgnUCcuJGZ1bGxNb250aHMuJ00nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+c3ViKG5ldyBcRGF0ZUludGVydmFsKCdQJyAuICgkZGF5T2ZNb250aCAtICRkYXlzSW5Nb250aCkuICdEJykpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NhbGN1bGF0ZSBob3cgbXVjaCB0aW1lIHNob3VsZCBiZSBjaGFyZ2VkIHVwZnJvbnQKICAgICAgICAkc3RhcnREYXRlID0gbmV3IFxEYXRlVGltZSgpOwogICAgICAgICRlbmREYXRlID0gbmV3IFxEYXRlVGltZSgnQCcgLiBzdHJ0b3RpbWUoJ2xhc3QgZGF5IG9mIHRoaXMgbW9udGgnKSk7CiAgICAgICAgJGRheXNMZWZ0SW5UaGlzTW9udGggPSAkc3RhcnREYXRlLT5kaWZmKCRlbmREYXRlKS0+Zm9ybWF0KCIlYSIpOwogICAgICAgICRkYXlzSW5UaGlzTW9udGggPSBkYXRlKCd0Jyk7CiAgICAgICAgJG1vbnRoc0xlZnRJbkNvbnRyYWN0ID0gJGNvbnRyYWN0LT5nZXREdXJhdGlvbkluTW9udGhzKCkgLSBkYXRlKCduJyk7CiAgICAgICAgJGR1cmF0aW9uSW5Nb250aHMgPSAkZGF5c0xlZnRJblRoaXNNb250aCAvICRkYXlzSW5UaGlzTW9udGggKyAkbW9udGhzTGVmdEluQ29udHJhY3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF5c0luQ29udHJhY3QgPSAkY29udHJhY3QtPmRheXNJbkNvbnRyYWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZnVsbE1vbnRocyA9IGZsb29yKCRtb250aHMpOwogICAgICAgICRkYXlzID0gY2VpbCgoZm1vZCgkbW9udGhzLDEpKSAqIGRhdGUoJ3QnKSk7CiAgICAgICAgaWYoJGRheXMpewogICAgICAgICAgICAkZW5kRGF0ZS0+YWRkKG5ldyBcRGF0ZUludGVydmFsKCdQJy4kZGF5cy4nRCcpKTsKICAgICAgICB9CiAgICAgICAgJGVuZERhdGUtPmFkZChuZXcgXERhdGVJbnRlcnZhbCgnUCcuJGZ1bGxNb250aHMuJ00nKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusUp</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -1827,13 +1827,13 @@
         <entry>action EditorUnSelectWord</entry>
         <entry>action AceJumpAction</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>vsp</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
