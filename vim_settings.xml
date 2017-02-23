@@ -124,11 +124,12 @@
         <mark key="." line="103" column="33" />
         <mark key="^" line="103" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" timestamp="1487848790925">
-        <mark key="[" line="169" column="47" />
-        <mark key="]" line="169" column="73" />
-        <mark key="." line="169" column="73" />
-        <mark key="^" line="169" column="73" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" timestamp="1487864674258">
+        <mark key="'" line="234" column="0" />
+        <mark key="[" line="217" column="42" />
+        <mark key="]" line="217" column="42" />
+        <mark key="." line="217" column="42" />
+        <mark key="^" line="217" column="42" />
       </file>
       <file name="$USER_HOME$/projects/test/microservice-test/publish/actor1.php" timestamp="1483052397261">
         <mark key="[" line="2" column="0" />
@@ -397,10 +398,11 @@
         <mark key="^" line="51" column="42" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceGenerator.php" timestamp="1487856214076">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceGenerator.php" timestamp="1487864855309">
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="12" />
+        <mark key="^" line="47" column="45" />
+        <mark key="." line="61" column="12" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1486030851721">
         <mark key="[" line="136" column="39" />
@@ -766,10 +768,11 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1487778788009">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1487864067630">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="25" column="63" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/CreateCustomerCommand.php" timestamp="1487428995773">
         <mark key="[" line="23" column="70" />
@@ -1610,8 +1613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="62" filename="$USER_HOME$/projects/cordova-instore-app/gulpfile.babel.js" />
-      <jump line="80" column="3" filename="$USER_HOME$/projects/cordova-instore-app/gulpfile.babel.js" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/cordova-instore-app/gulpfile.babel.js" />
       <jump line="21" column="32" filename="$USER_HOME$/projects/docker/instore/database/migrations/2015_10_28_155046_initial_tables.php" />
       <jump line="44" column="13" filename="$USER_HOME$/projects/docker/instore/database/migrations/2015_10_28_155046_initial_tables.php" />
@@ -1710,10 +1711,12 @@
       <jump line="127" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/Invoice.php" />
       <jump line="73" column="13" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" />
       <jump line="62" column="19" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Invoice/DoctrineInvoiceRepository.php" />
+      <jump line="108" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" />
+      <jump line="228" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+      <register name="&quot;" type="4">
+        <text>new \DateTime()</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1725,16 +1728,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogJG1vbnRocw==</text>
+        <text>new \DateTime()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JzonLiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGVuZERhdGUtPnN1YihuZXcgXERhdGVJbnRlcnZhbCgnUCcgLiAoJGRheU9mTW9udGggLSAkZGF5c0luTW9udGgpLiAnRCcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+c3ViKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1754,25 +1757,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjCg==</text>
+        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+c3ViKG5ldyBcRGF0ZUludGVydmFsKCdQJyAuICgkZGF5T2ZNb250aCAtICRkYXlzSW5Nb250aCkuICdEJykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0NIRU1BPWh0dHBzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZ1bGxNb250aHMgPSBmbG9vcigkbW9udGhzKTsKICAgICAgICAgICAgJGRheXMgPSBjZWlsKChmbW9kKCRtb250aHMsMSkpICogZGF0ZSgndCcpKTsKICAgICAgICAgICAgaWYoJGRheXMpewogICAgICAgICAgICAgICAgJGVuZERhdGUtPmFkZChuZXcgXERhdGVJbnRlcnZhbCgnUCcuJGRheXMuJ0QnKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJGVuZERhdGUtPmFkZChuZXcgXERhdGVJbnRlcnZhbCgnUCcuJGZ1bGxNb250aHMuJ00nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZnVsbE1vbnRocyA9IGZsb29yKCRtb250aHMpOwogICAgICAgICRkYXlzID0gY2VpbCgoZm1vZCgkbW9udGhzLDEpKSAqIGRhdGUoJ3QnKSk7CiAgICAgICAgaWYoJGRheXMpewogICAgICAgICAgICAkZW5kRGF0ZS0+YWRkKG5ldyBcRGF0ZUludGVydmFsKCdQJy4kZGF5cy4nRCcpKTsKICAgICAgICB9CiAgICAgICAgJGVuZERhdGUtPmFkZChuZXcgXERhdGVJbnRlcnZhbCgnUCcuJGZ1bGxNb250aHMuJ00nKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVuZERhdGUgPSBjbG9uZSAkc3RhcnREYXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+YWRkKCkK</text>
+        <text encoding="base64">ICAgICAgICAvL2NhbGN1bGF0ZSBob3cgbXVjaCB0aW1lIHNob3VsZCBiZSBjaGFyZ2VkIHVwZnJvbnQKICAgICAgICAkc3RhcnREYXRlID0gbmV3IFxEYXRlVGltZSgpOwogICAgICAgICRlbmREYXRlID0gbmV3IFxEYXRlVGltZSgnQCcgLiBzdHJ0b3RpbWUoJ2xhc3QgZGF5IG9mIHRoaXMgbW9udGgnKSk7CiAgICAgICAgJGRheXNMZWZ0SW5UaGlzTW9udGggPSAkc3RhcnREYXRlLT5kaWZmKCRlbmREYXRlKS0+Zm9ybWF0KCIlYSIpOwogICAgICAgICRkYXlzSW5UaGlzTW9udGggPSBkYXRlKCd0Jyk7CiAgICAgICAgJG1vbnRoc0xlZnRJbkNvbnRyYWN0ID0gJGNvbnRyYWN0LT5nZXREdXJhdGlvbkluTW9udGhzKCkgLSBkYXRlKCduJyk7CiAgICAgICAgJGR1cmF0aW9uSW5Nb250aHMgPSAkZGF5c0xlZnRJblRoaXNNb250aCAvICRkYXlzSW5UaGlzTW9udGggKyAkbW9udGhzTGVmdEluQ29udHJhY3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN0YXJ0RGF0ZS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF5c0luQ29udHJhY3QgPSAkY29udHJhY3QtPmRheXNJbkNvbnRyYWN0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusUp</text>
