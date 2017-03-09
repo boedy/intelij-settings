@@ -149,10 +149,10 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/package.json" timestamp="1489075956737">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/package.json" timestamp="1489081931426">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
         <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Location/Location.php" timestamp="1483547730507">
@@ -1237,11 +1237,11 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1488296336398">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1489081654338">
+        <mark key="[" line="43" column="53" />
+        <mark key="]" line="43" column="63" />
+        <mark key="." line="43" column="63" />
+        <mark key="^" line="43" column="63" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceLine.php" timestamp="1487778393800">
         <mark key="[" line="86" column="23" />
@@ -1783,7 +1783,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>'remote'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1795,7 +1795,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>'remote'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
@@ -1804,7 +1804,7 @@
         <text>`url(${image[0] === '/' ? 'file://' : ''}${image})`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5CVUlMRCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1821,29 +1821,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYXBwID0gcmVxdWlyZSgnYXBwJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlWzBdID09PSAnLycgPyAnZmlsZTovLycgOiAnZmFsc2UnKTsK</text>
+        <text encoding="base64">Y29uc3QgYXBwID0gcmVxdWlyZSgnYXBwJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKGltYWdlWzBdID09ICcvJyl7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlWzBdID09PSAnLycgPyAnZmlsZTovLycgOiAnZmFsc2UnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlKTsK</text>
+        <text encoding="base64">ICAgIGlmKGltYWdlWzBdID09ICcvJyl7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBkYXRhCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>catch (ex) {
 }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fSBjYXRjaCAoZXgpIHsKfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRhRGlyID0gYCR7X19kaXJuYW1lfS8uLi8uLi8uLi9kYXRhL2A7Cg==</text>
+        <text encoding="base64">fSBjYXRjaCAoZXgpIHsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
