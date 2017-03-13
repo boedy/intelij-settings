@@ -149,11 +149,11 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/package.json" timestamp="1489087837778">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="26" column="5" />
-        <mark key="." line="26" column="5" />
-        <mark key="^" line="26" column="3" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/package.json" timestamp="1489427366359">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Location/Location.php" timestamp="1483547730507">
         <mark key="[" line="21" column="5" />
@@ -999,11 +999,11 @@
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/www/package.json" timestamp="1488990973393">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="19" column="30" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/www/package.json" timestamp="1489427735450">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="10" />
+        <mark key="^" line="27" column="10" />
+        <mark key="." line="27" column="10" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/DTO/PasswordResetDTO.php" timestamp="1479925116676">
         <mark key="[" line="39" column="0" />
@@ -1783,7 +1783,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mac</text>
+        <text>node_modules</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1795,16 +1795,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mac</text>
+        <text>node_modules</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>`url(${image[0] === '/' ? 'file://' : ''}${image})`</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJmaWxlcyI6IFsKICAgICAgIm5vZGVfbW9kdWxlcy8iLAogICAgICAiZGF0YS8iLAogICAgICAid3d3LyIKICAgIF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5CVUlMRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgImRhdGEvIiwKICAgICAgInd3dy8iCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1821,29 +1821,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYXBwID0gcmVxdWlyZSgnYXBwJyk7Cg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjcuMiIsCiAgICAiYmFiZWwtbG9hZGVyIjogIl42LjIuNCIsCiAgICAiYmFiZWwtcGx1Z2luLWxvZGFzaCI6ICJeMy4yLjExIiwKICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLW9iamVjdC1yZXN0LXNwcmVhZCI6ICJeNi42LjUiLAogICAgImJhYmVsLXByZXNldC1lczIwMTUiOiAiXjYuNi4wIiwKICAgICJiYWJlbC1wcmVzZXQtcmVhY3QiOiAiXjYuNS4wIiwKICAgICJiYWJlbC1yZWdpc3RlciI6ICJeNi44LjAiLAogICAgImNoYWkiOiAiXjMuNS4wIiwKICAgICJjb25jdXJyZW50bHkiOiAiXjMuMy4wIiwKICAgICJjb3Jkb3ZhLWhvdC1jb2RlLXB1c2gtY2xpIjogIl4xLjAuNCIsCiAgICAiY3NzLWxvYWRlciI6ICJeMC4yMy4xIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlWzBdID09PSAnLycgPyAnZmlsZTovLycgOiAnZmFsc2UnKTsK</text>
+        <text encoding="base64">ICAgICJ3aW4iOiB7CiAgICAgICJjYXRlZ29yeSI6ICIiLAogICAgICAiaWNvbiI6ICJpY29uIgogICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKGltYWdlWzBdID09ICcvJyl7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICJ3aW4iOiB7CiAgICAgICJjYXRlZ29yeSI6ICIiLAogICAgICAiaWNvbiI6ICJ3d3cvaWNvbiIKICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlKTsK</text>
+        <text encoding="base64">ICAgICJmaWxlcyI6IFsKICAgICAgIm5vZGVfbW9kdWxlcy8iLAogICAgXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgImRhdGEvIiwK</text>
       </register>
-      <register name="8" type="4">
-        <text>catch (ex) {
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">fSBjYXRjaCAoZXgpIHsKfQo=</text>
+      <register name="9" type="4">
+        <text>www/
+www/
+www/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
