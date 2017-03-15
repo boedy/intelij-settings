@@ -1040,8 +1040,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" timestamp="1489600820173">
-        <mark key="[" line="60" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" timestamp="1489606336424">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="48" column="18" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="48" column="18" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Types/Annual.php" timestamp="1483523771027">
         <mark key="[" line="12" column="0" />
@@ -1089,6 +1092,12 @@
         <mark key="[" line="50" column="27" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/web-audio-stream/writer.js" timestamp="1489603527438">
+        <mark key="[" line="181" column="18" />
+        <mark key="]" line="181" column="18" />
+        <mark key="^" line="178" column="59" />
+        <mark key="." line="181" column="18" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/BillingAddress/BillingAddressRepository.php" timestamp="1485879418634">
         <mark key="[" line="14" column="15" />
@@ -1277,6 +1286,9 @@
         <mark key="]" line="53" column="70" />
         <mark key="." line="53" column="70" />
         <mark key="^" line="53" column="70" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/audio-buffer/index.js" timestamp="1489603318094">
+        <mark key="[" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/Playlist/Playlist.php" timestamp="1474547484072">
         <mark key="[" line="92" column="27" />
@@ -1794,8 +1806,8 @@
       <jump line="0" column="4" filename="$USER_HOME$/projects/atmosphere/instore-frontend/src/app/organisation/create-organisation/create-organisation.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1807,16 +1819,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>buffer</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNyeXB0byBmcm9tICdjcnlwdG8nOwo=</text>
+      <register name="0" type="4">
+        <text>util.create(channels, samplesPerFrame);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc291cmNlLmNvbm5lY3QoYXVkaW9DdHguZGVzdGluYXRpb24pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1833,28 +1845,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc291cmNlLmJ1ZmZlciA9IGFwcGVuZEJ1ZmZlcihzb3VyY2UuYnVmZmVyLCBidWZmZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gc291cmNlLmJ1ZmZlciA9IGJ1ZmZlcjsKICAgICAgLy8gc291cmNlLmNvbm5lY3QoYXVkaW9DdHguZGVzdGluYXRpb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBzb3VyY2UgPSBhdWRpb0N0eC5jcmVhdGVCdWZmZXJTb3VyY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RyYWNrJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgbm9kZS53cml0ZSh0b0FycmF5QnVmZmVyKGJ1ZmZlcikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGJ1ZmZlci50b1N0cmluZygnYmFzZTY0JykpOwogICAgLy8gY29uc29sZS5sb2coJ3N0cmVhbSBkYXRhICcgKyBidWZmZXIubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICBub2RlLndyaXRlKGJ1ZmZlckNvbnRhaW5pbmdQQ01TYW1wbGVzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGZzLndyaXRlRmlsZShzcmMrJ19kZWNyeXB0ZWQubXAzJywgc291cmNlLCAoZXJyKSA9PiB7CiAgICAvLyAgIGlmIChlcnIpIHRocm93IGVycjsKICAgIC8vICAgY29uc29sZS5sb2coJ0l0XCdzIHNhdmVkIScpOwogICAgLy8gfSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJ1ZmZlclF1ZXVlTm9kZSBmcm9tICd3ZWItYXVkaW8tYnVmZmVyLXF1ZXVlJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvdXJjZS5sZW5ndGgpCg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyh1dGlsLmNyZWF0ZShjaGFubmVscywgc2FtcGxlc1BlckZyYW1lKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="8" type="4">
+        <text>import crypto from 'crypto';
+let track;
+let Writable = require('web-audio-stream/writable');
+var context = require('audio-context');</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJ0ID0gYnVmZmVyLnJlYWQoKS50b1N0cmluZygpOwogICAgc3RyaW5nICs9IHBhcnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
