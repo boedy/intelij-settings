@@ -927,7 +927,6 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1488295607308" />
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/style.css" timestamp="1485976596946">
         <mark key="[" line="834" column="0" />
         <mark key="]" line="834" column="0" />
@@ -1041,10 +1040,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" timestamp="1489587365726">
-        <mark key="]" line="21" column="105" />
-        <mark key="^" line="21" column="105" />
-        <mark key="." line="21" column="105" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" timestamp="1489596371460">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="37" column="34" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Types/Annual.php" timestamp="1483523771027">
         <mark key="[" line="12" column="0" />
@@ -1152,6 +1152,9 @@
         <mark key="]" line="9" column="81" />
         <mark key="^" line="9" column="81" />
         <mark key="." line="9" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/index.html" timestamp="1489596059882">
+        <mark key="[" line="6" column="73" />
       </file>
       <file name="$USER_HOME$/projects/cordova-instore-app/.gitignore" timestamp="1445952135882">
         <mark key="[" line="48" column="46" />
@@ -1685,8 +1688,10 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/node/services/fileStorage.js" timestamp="1489586799464">
-        <mark key="[" line="10" column="34" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/node/services/fileStorage.js" timestamp="1489596313916">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1792,8 +1797,8 @@
       <jump line="0" column="4" filename="$USER_HOME$/projects/atmosphere/instore-frontend/src/app/organisation/create-organisation/create-organisation.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>storage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RyYWNrJyk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1805,16 +1810,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>storage</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkYXRhRGlyID0gZGF0YURpci5yZXBsYWNlKCdcXCcsICcvJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNyeXB0byBmcm9tICdjcnlwdG8nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhRGlyKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RyYWNrJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1831,28 +1836,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGJ1ZmZlci50b1N0cmluZygnYmFzZTY0JykpOwogICAgLy8gY29uc29sZS5sb2coJ3N0cmVhbSBkYXRhICcgKyBidWZmZXIubGVuZ3RoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGludGVyZmFjZXMgPSBvcy5uZXR3b3JrSW50ZXJmYWNlcygpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGZzLndyaXRlRmlsZShzcmMrJ19kZWNyeXB0ZWQubXAzJywgc291cmNlLCAoZXJyKSA9PiB7CiAgICAvLyAgIGlmIChlcnIpIHRocm93IGVycjsKICAgIC8vICAgY29uc29sZS5sb2coJ0l0XCdzIHNhdmVkIScpOwogICAgLy8gfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFkcmVzc2VzID0gaW50ZXJmYWNlcy5ldGgwIHx8IGludGVyZmFjZXMuZW4wOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvdXJjZS5sZW5ndGgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlwID0gYWRyZXNzZXMgJiYgYWRyZXNzZXMKICAgICAgLmZpbHRlcihhZGRyID0+ICFhZGRyLmludGVybmFsICYmIGFkZHIuZmFtaWx5ID09PSAnSVB2NCcpCiAgICAgIC5tYXAoYWRkciA9PiBhZGRyLmFkZHJlc3MpWzBdOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJidWlsZC13aW4iOiAiYnVpbGQgLXciLAo=</text>
+        <text encoding="base64">ICAgIGxldCBwYXJ0ID0gYnVmZmVyLnJlYWQoKS50b1N0cmluZygpOwogICAgc3RyaW5nICs9IHBhcnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJidWlsZC13aW4iOiAiYnVpbGQgLXciLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlY3J5cHQgPSBjcnlwdG8uY3JlYXRlRGVjaXBoZXIoYWxnb3JpdGhtLCBwYXNzd29yZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkZWNyeXB0ID0gY3J5cHRvLmNyZWF0ZURlY2lwaGVyKGFsZ29yaXRobSwgcGFzc3dvcmQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImRhdGEvIiwKICAgICAgInd3dy8iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
