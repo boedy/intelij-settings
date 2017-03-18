@@ -192,6 +192,12 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/lame/lib/decoder.js" timestamp="1489862970828">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/electron/package.json" timestamp="1481884269694">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="20" />
@@ -1180,7 +1186,7 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="40" column="126" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/lame/lib/bindings.js" timestamp="1489861652722" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/lame/lib/bindings.js" timestamp="1489863750274" />
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/webserver.js" timestamp="1482160498003">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="47" column="19" />
@@ -1258,11 +1264,11 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1489862042968">
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="35" column="16" />
-        <mark key="." line="35" column="16" />
-        <mark key="^" line="35" column="19" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1489864070967">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="34" />
+        <mark key="^" line="37" column="34" />
+        <mark key="." line="37" column="34" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceLine.php" timestamp="1487778393800">
         <mark key="[" line="86" column="23" />
@@ -1815,8 +1821,8 @@
       <jump line="53" column="21" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: 'lame'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1828,7 +1834,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: 'lame'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
@@ -1837,7 +1843,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGFWaWV3LmJ5dGVMZW5ndGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1854,28 +1860,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtEZWNvZGVyfSBmcm9tICdsYW1lJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHtEZWNvZGVyfSBmcm9tICdsYW1lJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtEZWNvZGVyfSBmcm9tICdsYW1lJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1ZGlvQ3R4LmRlY29kZUF1ZGlvRGF0YSh0b0FycmF5QnVmZmVyKGJ1ZmZlciksIGZ1bmN0aW9uKGJ1ZmZlcikgewogICAgICBhdWRpb1N0YWNrLnB1c2goYnVmZmVyKTsKICAgICAgaWYgKGF1ZGlvU3RhY2subGVuZ3RoKSB7CiAgICAgICAgc2NoZWR1bGVCdWZmZXJzKCk7CiAgICAgIH0KICAgIH0sZnVuY3Rpb24oZSl7IGNvbnNvbGUubG9nKCJFcnJvciB3aXRoIGRlY29kaW5nIGF1ZGlvIGRhdGEiICsgZS5lcnIpOyB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgIGF1ZGlvQ3R4LmRlY29kZUF1ZGlvRGF0YSh0b0FycmF5QnVmZmVyKGJ1ZmZlciksIGZ1bmN0aW9uKGJ1ZmZlcikgewogICAgICBhdWRpb1N0YWNrLnB1c2goYnVmZmVyKTsKICAgICAgaWYgKGF1ZGlvU3RhY2subGVuZ3RoKSB7CiAgICAgICAgc2NoZWR1bGVCdWZmZXJzKCk7CiAgICAgIH0KICAgIH0sZnVuY3Rpb24oZSl7IGNvbnNvbGUubG9nKCJFcnJvciB3aXRoIGRlY29kaW5nIGF1ZGlvIGRhdGEiICsgZS5lcnIpOyB9KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3RCdWZmZXIgPSBidWZmZXIuc2xpY2UoZnJhbWUuX3NlY3Rpb24ub2Zmc2V0KTsK</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlc3RCdWZmZXIgPSBidWZmZXIuc2xpY2UoZnJhbWUuX3NlY3Rpb24ub2Zmc2V0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
