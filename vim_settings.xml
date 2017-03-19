@@ -678,6 +678,12 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/test.js" timestamp="1489952307764">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/website/style.css" timestamp="1484674604616">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1058,9 +1064,9 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" timestamp="1489937035635">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="4" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" timestamp="1489953444901">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="65" column="66" />
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
@@ -1135,6 +1141,10 @@
         <mark key="^" line="67" column="46" />
         <mark key="." line="67" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/node/index.js" timestamp="1489952239396">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/main.js" timestamp="1489938198064">
         <mark key="[" line="16" column="17" />
       </file>
@@ -1208,6 +1218,12 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/mp3.js" timestamp="1489953183392">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-coming-soon/styles.css" timestamp="1483626001969">
         <mark key="[" line="284" column="8" />
         <mark key="]" line="284" column="8" />
@@ -1272,6 +1288,9 @@
         <mark key="]" line="7" column="66" />
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1489940218597">
+        <mark key="[" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceLine.php" timestamp="1487778393800">
         <mark key="[" line="86" column="23" />
@@ -1824,8 +1843,8 @@
       <jump line="53" column="21" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>node_modules/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhciBjaXBoZXIgPSBjcnlwdG8uY3JlYXRlRGVjaXBoZXIoYWxnb3JpdGhtLCBwYXNzd29yZCk7CiAgICB2YXIgZGF0YSA9IGNpcGhlci51cGRhdGUoY2h1bmspOwogICAgdmFyIGJ1ZmZlciA9IEJ1ZmZlci5jb25jYXQoW3Jlc3RCdWZmZXIsIGRhdGEsIGNpcGhlci5maW5hbCgpXSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1837,16 +1856,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>node_modules/</text>
+        <text>babel-register</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsYW1lIjogIl4xLjIuNCIsCg==</text>
+        <text encoding="base64">ICAgIHZhciBjaXBoZXIgPSBjcnlwdG8uY3JlYXRlRGVjaXBoZXIoYWxnb3JpdGhtLCBwYXNzd29yZCk7CiAgICB2YXIgZGF0YSA9IGNpcGhlci51cGRhdGUoY2h1bmspOwogICAgdmFyIGJ1ZmZlciA9IEJ1ZmZlci5jb25jYXQoW3Jlc3RCdWZmZXIsIGRhdGEsIGNpcGhlci5maW5hbCgpXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2luZG93LmxhbWUgPSByZXF1aXJlKCdsYW1lJykK</text>
+        <text encoding="base64">Y29uc3QgYWxnb3JpdGhtID0gJ2Flcy0yNTYtY3RyJzsKY29uc3QgcGFzc3dvcmQgPSAnZDZGM0VmZXEnOwpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7Cgpjb25zdCByID0gZnMuY3JlYXRlUmVhZFN0cmVhbSgnZGF0YS90cmFja3MvMTQ1MjA4MzQwNi01NjhkMDhjZTY0MjQ0Lm1wMycpOwpjb25zdCBkZWNyeXB0ID0gY3J5cHRvLmNyZWF0ZURlY2lwaGVyKGFsZ29yaXRobSwgcGFzc3dvcmQpOwoKdmFyIGxhbWUgPSBuZXcgTGFtZS5EZWNvZGVyKCk7CnZhciBzcGtyID0gbGFtZS5waXBlKG5ldyBTcGVha2VyKCkpOwoKLy8gc3RhcnQgcGlwZQovLyBsZXQgc291cmNlID0gbmV3IEJ1ZmZlcigyNTYpOwpyLnBpcGUoYmxvY2soeyBzaXplOiAzMjc2OCwgemVyb1BhZGRpbmc6IGZhbHNlIH0pKS5waXBlKGRlY3J5cHQpLm9uKCdkYXRhJywgKGNodW5rKSA9PiB7CiAgbGFtZS53cml0ZShjaHVuayk7Cn0pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1863,28 +1882,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4dGVybmFsczogewogICAgICBrawogICAgfSwK</text>
+        <text encoding="base64">cmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGBmcm9tYCBpcyB3aGVyZSBwYXRocyB3aWxsIGJlIG1hZGUgcmVsYXRpdmUgdG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgbG9hZGVyczogewogICAgICAgICAgCiAgICAgIH0s</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCBhdWRpb0N0eCA9IG5ldyAod2luZG93LkF1ZGlvQ29udGV4dCB8fCB3aW5kb3cud2Via2l0QXVkaW9Db250ZXh0KSgpOwogIGxldCBhdWRpb1N0YWNrID0gW107CiAgbGV0IG5leHRUaW1lID0gMDsKCiAgbGV0IHJlc3RCdWZmZXIgPSBuZXcgQnVmZmVyKFtdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">cnF1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyAuLi4K</text>
+        <text encoding="base64">cmVxdWlyZSgnYmFiZWwtcmVnaXN0ZXInKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RbaV0uZ2V0Rik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
