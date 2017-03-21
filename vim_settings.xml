@@ -17,7 +17,6 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/core/services/api.js" timestamp="1489840390036" />
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/Handlers/CreateCustomerHandler.php" timestamp="1486235172079">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="9" />
@@ -634,8 +633,8 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/index.html" timestamp="1489938182893">
-        <mark key="[" line="44" column="36" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/index.html" timestamp="1490121125746">
+        <mark key="[" line="6" column="75" />
         <mark key="]" line="44" column="36" />
         <mark key="." line="44" column="36" />
       </file>
@@ -951,6 +950,7 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1490119866523" />
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/style.css" timestamp="1485976596946">
         <mark key="[" line="834" column="0" />
         <mark key="]" line="834" column="0" />
@@ -1064,11 +1064,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" timestamp="1490002101209">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="65" column="66" />
-        <mark key="." line="4" column="4" />
-        <mark key="^" line="4" column="4" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" timestamp="1490140095159">
+        <mark key="'" line="63" column="1" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="58" column="17" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Types/Annual.php" timestamp="1483523771027">
         <mark key="[" line="12" column="0" />
@@ -1184,7 +1185,7 @@
         <mark key="^" line="9" column="81" />
         <mark key="." line="9" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/index.html" timestamp="1489596059882">
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/index.html" timestamp="1490121147883">
         <mark key="[" line="6" column="73" />
       </file>
       <file name="$USER_HOME$/projects/cordova-instore-app/.gitignore" timestamp="1445952135882">
@@ -1205,7 +1206,6 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="40" column="126" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/lame/lib/bindings.js" timestamp="1489924848227" />
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/webserver.js" timestamp="1482160498003">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="47" column="19" />
@@ -1548,7 +1548,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/chunking-streams/index.js" timestamp="1489838363968" />
       <file name="$USER_HOME$/projects/docker/instore/app/Http/routes.php" timestamp="1446459339511">
         <mark key="[" line="28" column="47" />
         <mark key="]" line="28" column="47" />
@@ -1741,8 +1740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="23" filename="$USER_HOME$/projects/docker/instore/composer.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docker/instore/bootstrap/app.php" />
       <jump line="30" column="14" filename="$USER_HOME$/projects/docker/instore/bootstrap/app.php" />
       <jump line="31" column="2" filename="$USER_HOME$/projects/docker/instore/bootstrap/app.php" />
       <jump line="51" column="16" filename="$USER_HOME$/projects/docker/instore/bootstrap/app.php" />
@@ -1840,11 +1837,13 @@
       <jump line="228" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" />
       <jump line="0" column="4" filename="$USER_HOME$/projects/atmosphere/instore-frontend/src/app/organisation/create-organisation/create-organisation.html" />
       <jump line="127" column="8" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/mediaserver/index.js" />
-      <jump line="53" column="21" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" />
+      <jump line="53" column="56" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" />
+      <jump line="65" column="1" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBjaXBoZXIgPSBjcnlwdG8uY3JlYXRlRGVjaXBoZXIoYWxnb3JpdGhtLCBwYXNzd29yZCk7CiAgICB2YXIgZGF0YSA9IGNpcGhlci51cGRhdGUoY2h1bmspOwogICAgdmFyIGJ1ZmZlciA9IEJ1ZmZlci5jb25jYXQoW3Jlc3RCdWZmZXIsIGRhdGEsIGNpcGhlci5maW5hbCgpXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1856,16 +1855,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>babel-register</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBjaXBoZXIgPSBjcnlwdG8uY3JlYXRlRGVjaXBoZXIoYWxnb3JpdGhtLCBwYXNzd29yZCk7CiAgICB2YXIgZGF0YSA9IGNpcGhlci51cGRhdGUoY2h1bmspOwogICAgdmFyIGJ1ZmZlciA9IEJ1ZmZlci5jb25jYXQoW3Jlc3RCdWZmZXIsIGRhdGEsIGNpcGhlci5maW5hbCgpXSk7Cg==</text>
+      <register name="0" type="4">
+        <text>let sourceBuffer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgYWxnb3JpdGhtID0gJ2Flcy0yNTYtY3RyJzsKY29uc3QgcGFzc3dvcmQgPSAnZDZGM0VmZXEnOwpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7Cgpjb25zdCByID0gZnMuY3JlYXRlUmVhZFN0cmVhbSgnZGF0YS90cmFja3MvMTQ1MjA4MzQwNi01NjhkMDhjZTY0MjQ0Lm1wMycpOwpjb25zdCBkZWNyeXB0ID0gY3J5cHRvLmNyZWF0ZURlY2lwaGVyKGFsZ29yaXRobSwgcGFzc3dvcmQpOwoKdmFyIGxhbWUgPSBuZXcgTGFtZS5EZWNvZGVyKCk7CnZhciBzcGtyID0gbGFtZS5waXBlKG5ldyBTcGVha2VyKCkpOwoKLy8gc3RhcnQgcGlwZQovLyBsZXQgc291cmNlID0gbmV3IEJ1ZmZlcigyNTYpOwpyLnBpcGUoYmxvY2soeyBzaXplOiAzMjc2OCwgemVyb1BhZGRpbmc6IGZhbHNlIH0pKS5waXBlKGRlY3J5cHQpLm9uKCdkYXRhJywgKGNodW5rKSA9PiB7CiAgbGFtZS53cml0ZShjaHVuayk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1882,25 +1881,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgaWYoIWluaXQpewo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW5pdCA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBhdWRpb0N0eCA9IG5ldyAod2luZG93LkF1ZGlvQ29udGV4dCB8fCB3aW5kb3cud2Via2l0QXVkaW9Db250ZXh0KSgpOwogIGxldCBhdWRpb1N0YWNrID0gW107CiAgbGV0IG5leHRUaW1lID0gMDsKCiAgbGV0IHJlc3RCdWZmZXIgPSBuZXcgQnVmZmVyKFtdKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0YXJ0ZWQpIHN0YXJ0ZWQoKTsKICAgICAgdHJhY2sucGxheSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cnF1Cg==</text>
+        <text encoding="base64">ICAgICAgaW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSgnYmFiZWwtcmVnaXN0ZXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZUJ1ZmZlci5hcHBlbmRCdWZmZXIoYXVkaW9TdGFjay5zaGlmdCgpKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1960,8 +1959,8 @@
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
-        <entry>w</entry>
         <entry>action AceJumpAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
