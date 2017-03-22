@@ -113,6 +113,7 @@
         <mark key="^" line="100" column="20" />
         <mark key="." line="100" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/ProgressBarContainer.js" timestamp="1490179332999" />
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Track.php" timestamp="1446540760514">
         <mark key="[" line="81" column="35" />
         <mark key="]" line="81" column="34" />
@@ -444,6 +445,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="24" column="64" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/core/selectors/index.js" timestamp="1490179500202" />
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceRepository.php" timestamp="1487699094467">
         <mark key="[" line="14" column="44" />
         <mark key="]" line="14" column="42" />
@@ -1064,8 +1066,9 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" timestamp="1490178237456">
-        <mark key="'" line="69" column="1" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" timestamp="1490182746129">
+        <mark key="'" line="68" column="1" />
+        <mark key="[" line="51" column="48" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Types/Annual.php" timestamp="1483523771027">
         <mark key="[" line="12" column="0" />
@@ -1841,7 +1844,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;myfile.txt&quot;</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1853,7 +1856,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;myfile.txt&quot;</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
@@ -1861,10 +1864,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICB3aW5kb3cuYnVmZmVyZWQgPSAKICAgIGNvbnNvbGUubG9nKG1lZGlhU291cmNlLnNvdXJjZUJ1ZmZlcnNbMF0uYnVmZmVyZWQpO30pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>const fs = require('fs');
-  const r = fs.createReadStream(src);
-  const stats = fs.statSync(&quot;myf</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgc291cmNlQnVmZmVyLnNldAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1881,28 +1882,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgY2h1bmtUcW1lIGhkZD0gMDsK</text>
+        <text encoding="base64">ICB0cmFjay5hZGRFdmVudExpc3RlbmVyKCdsb2FkZWRkYXRhJywgKGUpID0+IHsgY29uc29sZS5sb2coZSk7CiAgICAgYnl0ZVJhdGUgPSAoMzI3NjgqOCkgLyBtZWRpYVNvdXJjZS5zb3VyY2VCdWZmZXJzWzBdLmJ1ZmZlcmVkLmVuZCgwKTsKICAgIGNvbnNvbGUubG9nKGJ5dGVSYXRlKTsKICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lZGlhU291cmNlLnNvdXJjZUJ1ZmZlcnNbMF0uYnVmZmVyZWQpO30pOwo=</text>
+        <text encoding="base64">ICAgICAgc291cmNlQnVmZmVyLnRpbWVzdGFtcE9mZnNldCAgPSBhcHBlbmRUaW1lICsgMzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmZpcnN0ID0gOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGFwcGVuZFRpbWUgPSBpbmRleCA+IDAgPyBzb3VyY2VCdWZmZXIuYnVmZmVyZWQuZW5kKDApIDogMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYnVmZmVyID0gQnVmZmVyLmNvbmNhdChhdWRpb1N0YWNrLnNwbGljZSgwLCBhdWRpb1N0YWNrLmxlbmd0aCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjay5wbGF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgYnVmZmVyZWQgKz0gYnVmZmVyLmxlbmd0aDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aW5kb3cuZmlyc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aW5kb3cudHJhY2sgPSB0cmFjazsK</text>
+        <text encoding="base64">ICAgICAgYnl0ZVJhdGUgPSAoYnVmZmVyZWQrMzI3NjgpL3QudGFyZ2V0LmJ1ZmZlcmVkLmVuZCgwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjaHVuay5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICB0cmFjay5hZGRFdmVudExpc3RlbmVyKCdsb2FkZWRkYXRhJywgKGUpID0+IHsgY29uc29sZS5sb2coZSk7CiAgICAgYnl0ZVJhdGUgPSAoMzI3NjgqOCkgLyBtZWRpYVNvdXJjZS5zb3VyY2VCdWZmZXJzWzBdLmJ1ZmZlcmVkLmVuZCgwKTsKICAgIGNvbnNvbGUubG9nKGJ5dGVSYXRlKTsKICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
