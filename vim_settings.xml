@@ -161,11 +161,8 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/package.json" timestamp="1490192452662">
-        <mark key="[" line="10" column="70" />
-        <mark key="]" line="10" column="70" />
-        <mark key="." line="10" column="70" />
-        <mark key="^" line="10" column="82" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/package.json" timestamp="1491572632520">
+        <mark key="^" line="81" column="69" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Location/Location.php" timestamp="1483547730507">
         <mark key="[" line="21" column="5" />
@@ -236,6 +233,12 @@
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/curatorsignup.css" timestamp="1491425124828">
         <mark key="[" line="52" column="18" />
         <mark key="]" line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/uglify.js" timestamp="1491574241198">
+        <mark key="[" line="1" column="117" />
+        <mark key="]" line="1" column="121" />
+        <mark key="." line="1" column="121" />
+        <mark key="^" line="1" column="121" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Agreement/BrandChannel.php" timestamp="1486634582102">
         <mark key="[" line="42" column="0" />
@@ -1316,11 +1319,11 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1491571624268">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="39" />
-        <mark key="." line="4" column="39" />
-        <mark key="^" line="4" column="39" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1491572900016">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="66" column="5" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceLine.php" timestamp="1487778393800">
         <mark key="[" line="86" column="23" />
@@ -1403,6 +1406,12 @@
         <mark key="]" line="6" column="39" />
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/uglify-js/tools/node.js" timestamp="1491574630345">
+        <mark key="[" line="46" column="44" />
+        <mark key="]" line="46" column="42" />
+        <mark key="^" line="46" column="42" />
+        <mark key="." line="46" column="42" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/docker-compose.yml" timestamp="1485181320921">
         <mark key="[" line="33" column="19" />
@@ -1550,13 +1559,6 @@
         <mark key="[" line="46" column="5" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/mediaserver/index.js" timestamp="1490205544982">
-        <mark key="'" line="126" column="8" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="^" line="103" column="31" />
-        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Http/Controllers/UserController.php" timestamp="1479925086730">
         <mark key="[" line="129" column="0" />
@@ -1893,7 +1895,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>minify</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1905,7 +1907,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>minify</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
@@ -1925,7 +1927,7 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMDsKICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coX19kaXJuYW1lKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1942,30 +1944,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiAyMDA7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coVWdsaWZ5SlMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMDsKICAgIGZvbnQtc2l6ZTogMTVweDsK</text>
+        <text encoding="base64">ICAgIHBsdWdpbnM6IFsKICAgIF1rCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICAgICAgbmV3IFVnbGlmeUpTUGx1Z2luKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMDsK</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogMDsKICAgIGNvbG9yOiAjZmZmOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiAyMDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogMDsKICAgIGZvbnQtc2l6ZTogMTVweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICNmZmY7Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>input{
-    
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGJvcmRlcjogMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
