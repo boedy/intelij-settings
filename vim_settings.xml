@@ -218,6 +218,11 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/www/bundle.js" timestamp="1491819015913">
+        <mark key="[" line="0" column="7566" />
+        <mark key="]" line="0" column="7590" />
+        <mark key="." line="0" column="7566" />
+      </file>
       <file name="$USER_HOME$/projects/go/3rdparty/src/github.com/rancher/go-rancher/client/common.go" timestamp="1479647102501">
         <mark key="[" line="41" column="2" />
         <mark key="]" line="41" column="2" />
@@ -1328,10 +1333,11 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1491817429772">
-        <mark key="[" line="71" column="25" />
-        <mark key="]" line="71" column="25" />
-        <mark key="." line="71" column="25" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1491818735727">
+        <mark key="[" line="72" column="23" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="72" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceLine.php" timestamp="1487778393800">
         <mark key="[" line="86" column="23" />
@@ -1914,8 +1920,8 @@
       <jump line="8" column="10" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/services/htmlAudioPlayer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIFVnbGlmeUpTUGx1Z2luID0gcmVxdWlyZSgiLi4vc3JjIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>babiliOptions, overrides</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1927,7 +1933,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>babiliOptions, overrides</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
@@ -1947,7 +1953,7 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIFVnbGlmeUpTUGx1Z2luID0gcmVxdWlyZSgiLi4vc3JjIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IHRlc3Q6IC9cLmpzJC8sCiAgICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzKD8hXC9xbG9iYmVyKXxcL0VuY3J5cHRlZEF1ZGlvXC5qcyQvLAogICAgICAgICAgbG9hZGVyOiAnYmFiZWwtbG9hZGVyJwogICAgICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1964,9 +1970,12 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dmFyIFVnbGlmeUpTUGx1Z2luID0gcmVxdWlyZSgiLi4vc3JjIik7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB7IHRlc3Q6IC9cLmpzJC8sCiAgICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzKD8hXC9xbG9iYmVyKXxcL0VuY3J5cHRlZEF1ZGlvXC5qcyQvLAogICAgICAgICAgbG9hZGVyOiAnYmFiZWwtbG9hZGVyJwogICAgICAgIH0sCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>.concat(__REMOTE__ ? [
       new webpack.DefinePlugin({
         'process.env': {
@@ -1981,23 +1990,20 @@
       })
     ] : [])</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgbmV3IHdlYnBhY2suRGVmaW5lUGx1Z2luKHsKICAgICAgICAncHJvY2Vzcy5lbnYnOiB7CiAgICAgICAgICAnTk9ERV9FTlYnOiBKU09OLnN0cmluZ2lmeShwcm9jZXNzLmVudi5OT0RFX0VOVikKICAgICAgICB9CiAgICAgIH0pLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coX19kaXJuYW1lKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coVWdsaWZ5SlMpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBsdWdpbnM6IFsKICAgIF1rCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFVnbGlmeUpTUGx1Z2luKCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMDsKICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICAgICAgbmV3IFVnbGlmeUpTUGx1Z2luKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
