@@ -22,7 +22,7 @@
         <mark key="]" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1491321118261">
+      <file name="/a.dummy" timestamp="1492099400215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="1" />
@@ -223,11 +223,11 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/scripts/mixpanel/export.php" timestamp="1492094586141">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-        <mark key="." line="12" column="9" />
+      <file name="$USER_HOME$/projects/scripts/mixpanel/export.php" timestamp="1492101853817">
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="59" column="35" />
+        <mark key="." line="59" column="35" />
+        <mark key="^" line="59" column="35" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/www/bundle.js" timestamp="1491819015913">
         <mark key="[" line="0" column="7566" />
@@ -611,11 +611,8 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scripts/mixpanel/Mixpanel.php" timestamp="1492094256503">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="49" column="30" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/projects/scripts/mixpanel/Mixpanel.php" timestamp="1492101348748">
+        <mark key="[" line="43" column="49" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/PasswordResetEmail.php" timestamp="1480538698793">
         <mark key="[" line="73" column="51" />
@@ -1938,7 +1935,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>startDate</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1950,16 +1947,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>startDate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>$properties['trackID']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICRkYXRhID0gZmV0Y2goJHN0YXJ0RGF0ZSwgJHN0YXJ0RGF0ZSk7CiAgICBpZigkaSA9PSAwKXsKICAgICAgICAkZGF0YSA9IGFycmF5X21lcmdlKFsndGl0bGUsIHRpbWVzdGFtcCwgdXNlciddLCAkZGF0YSk7CiAgICB9CiAgICB3cml0ZUNTVigkZGF0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGllKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1976,31 +1973,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRfcigkZGF0YSk7Cg==</text>
+        <text encoding="base64">JHN0YXJ0RGF0ZS0+bW9kaWZ5KCctMzAgZGF5cycpOwokZW5kRGF0ZSA9IG5ldyBEYXRlVGltZSgpOwokZGF0YSA9IGZldGNoKCRzdGFydERhdGUsICRlbmREYXRlKTsKJGRhdGEgPSBhcnJheV9tZXJnZShbJ3RpdGxlLCB0aW1lc3RhbXAsIHVzZXInXSwgJGRhdGEpOwp3cml0ZUNTVigkZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbl9kZWNvZGUoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICRzdGFydERhdGUtPm1vZGlmeSgnLTEgZGF5Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNhdCgkZikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZlbnRzCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aWYoJGkgPT0gMCl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGV2ZW50c1tdID0gJGV2ZW50WycnXQo=</text>
+        <text encoding="base64">JGVuZERhdGUgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiI6ICJhcHAvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiY2xhc3NtYXAiOiBbCiAgICAgICAgICAgICJkYXRhYmFzZS8iCiAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICRsaW5lcyA9IFsndGl0bGUsIHRpbWVzdGFtcCwgdXNlciddOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.wrapSingleQuotes</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2036,14 +2033,12 @@
         <entry encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist acejump</entry>
         <entry>actionlist ace</entry>
         <entry>AceAction</entry>
         <entry>map ss :action AceAction</entry>
         <entry encoding="base64">YWN0aW9uIEFjZUFjdGlvbjxDUj4=</entry>
         <entry encoding="base64">bWFwIHNzIDphY3Rpb24gQWNlQWN0aW9uPENSPg==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcFNpbmdsZVF1b3Rlcw==</entry>
         <entry>action AceAction</entry>
         <entry>action EditorUnSelectWord</entry>
         <entry>action EditorSelectWord</entry>
@@ -2053,9 +2048,11 @@
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
+        <entry>action Macro.wrapSingleQuotes</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcFNpbmdsZVF1b3Rlcw==</entry>
+        <entry>action SplitHorizontally</entry>
         <entry>action AceJumpAction</entry>
         <entry>w</entry>
-        <entry>action Macro.wrapSingleQuotes</entry>
       </history-cmd>
       <history-expr />
       <history-input />
