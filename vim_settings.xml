@@ -164,6 +164,11 @@
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/package.json" timestamp="1491572632520">
         <mark key="^" line="81" column="69" />
       </file>
+      <file name="$USER_HOME$/projects/scripts/mixpanel/composer.json" timestamp="1492092886357">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Location/Location.php" timestamp="1483547730507">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="17" column="19" />
@@ -217,6 +222,12 @@
         <mark key="]" line="7" column="26" />
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/scripts/mixpanel/export.php" timestamp="1492094586141">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/www/bundle.js" timestamp="1491819015913">
         <mark key="[" line="0" column="7566" />
@@ -600,6 +611,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/scripts/mixpanel/Mixpanel.php" timestamp="1492094256503">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="49" column="30" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/PasswordResetEmail.php" timestamp="1480538698793">
         <mark key="[" line="73" column="51" />
         <mark key="]" line="73" column="51" />
@@ -787,7 +804,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491571322942">
+      <file name="/Dummy.txt" timestamp="1492092492609">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="0" />
@@ -959,7 +976,6 @@
         <mark key="." line="98" column="26" />
         <mark key="^" line="68" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/electron-release-server/Dockerfile" timestamp="1491321223157" />
       <file name="$USER_HOME$/projects/atmosphere/billing/vendor/broadway/broadway/src/Broadway/EventSourcing/EventSourcingRepository.php" timestamp="1485713367334">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -984,6 +1000,7 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1492092277497" />
       <file name="$USER_HOME$/projects/atmosphere/electron-release-server/docker-compose.yml" timestamp="1491321187225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="5" />
@@ -1921,7 +1938,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>babiliOptions, overrides</text>
+        <text>r</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1933,27 +1950,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>babiliOptions, overrides</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>input, .nf-field-element textarea{
-    background: none;
-    border: 0;
-    color: #fff;
-    font-size: 15px;
-    font-weight: 200;
-    font-family: 'Muli', sans-serif;
-    box-shadow: none;
-    border: 1px solid #fff;
-    border-radius: 5px;
-    padding: 5px 12px;
-}</text>
+        <text>$properties['trackID']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7IHRlc3Q6IC9cLmpzJC8sCiAgICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzKD8hXC9xbG9iYmVyKXxcL0VuY3J5cHRlZEF1ZGlvXC5qcyQvLAogICAgICAgICAgbG9hZGVyOiAnYmFiZWwtbG9hZGVyJwogICAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1970,43 +1976,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIFVnbGlmeUpTUGx1Z2luID0gcmVxdWlyZSgiLi4vc3JjIik7Cg==</text>
+        <text encoding="base64">cHJpbnRfcigkZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7IHRlc3Q6IC9cLmpzJC8sCiAgICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzKD8hXC9xbG9iYmVyKXxcL0VuY3J5cHRlZEF1ZGlvXC5qcyQvLAogICAgICAgICAgbG9hZGVyOiAnYmFiZWwtbG9hZGVyJwogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbl9kZWNvZGUoJGRhdGEpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>.concat(__REMOTE__ ? [
-      new webpack.DefinePlugin({
-        'process.env': {
-          BUILD: JSON.stringify('remote')
-        }
-      })
-    ] : []).concat(__DESKTOP__ ? [
-      new webpack.DefinePlugin({
-        'process.env': {
-          BUILD: JSON.stringify('desktop')
-        }
-      })
-    ] : [])</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbmV3IHdlYnBhY2suRGVmaW5lUGx1Z2luKHsKICAgICAgICAncHJvY2Vzcy5lbnYnOiB7CiAgICAgICAgICAnTk9ERV9FTlYnOiBKU09OLnN0cmluZ2lmeShwcm9jZXNzLmVudi5OT0RFX0VOVikKICAgICAgICB9CiAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAkZXZlbnRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coX19kaXJuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coVWdsaWZ5SlMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGV2ZW50c1tdID0gJGV2ZW50WycnXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsdWdpbnM6IFsKICAgIF1rCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiI6ICJhcHAvIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFVnbGlmeUpTUGx1Z2luKCkK</text>
+        <text encoding="base64">ICAgICAgICAiY2xhc3NtYXAiOiBbCiAgICAgICAgICAgICJkYXRhYmFzZS8iCiAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Macro.wrapSingleQuotes</text>
       </register>
     </registers>
     <search>
@@ -2049,7 +2043,6 @@
         <entry encoding="base64">YWN0aW9uIEFjZUFjdGlvbjxDUj4=</entry>
         <entry encoding="base64">bWFwIHNzIDphY3Rpb24gQWNlQWN0aW9uPENSPg==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
-        <entry>action Macro.wrapSingleQuotes</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcFNpbmdsZVF1b3Rlcw==</entry>
         <entry>action AceAction</entry>
         <entry>action EditorUnSelectWord</entry>
@@ -2062,6 +2055,7 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action AceJumpAction</entry>
         <entry>w</entry>
+        <entry>action Macro.wrapSingleQuotes</entry>
       </history-cmd>
       <history-expr />
       <history-input />
