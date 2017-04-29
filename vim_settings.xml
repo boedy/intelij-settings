@@ -161,9 +161,6 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/package.json" timestamp="1491572632520">
-        <mark key="^" line="81" column="69" />
-      </file>
       <file name="$USER_HOME$/projects/scripts/mixpanel/composer.json" timestamp="1492092886357">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
@@ -324,6 +321,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/ProblemFinder.php" timestamp="1493474974537">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="59" />
+        <mark key="." line="9" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/brandchannel/sagas/init.js" timestamp="1487030148147">
         <mark key="[" line="61" column="19" />
         <mark key="]" line="61" column="23" />
@@ -335,13 +338,16 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="12" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/public/v1/index.php" timestamp="1493474942527">
+        <mark key="[" line="19" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/docker/instore/composer.json" timestamp="1446476702835">
         <mark key="[" line="18" column="55" />
         <mark key="]" line="18" column="55" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/cache/Memcached.php" timestamp="1493473810761">
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/cache/Memcached.php" timestamp="1493474905589">
         <mark key="[" line="30" column="39" />
         <mark key="]" line="30" column="37" />
         <mark key="^" line="30" column="37" />
@@ -804,7 +810,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492700969630">
+      <file name="/Dummy.txt" timestamp="1493474798891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="0" />
@@ -1934,7 +1940,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">dGhpcy0+Yw==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1946,7 +1952,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">dGhpcy0+Yw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
@@ -1996,7 +2002,7 @@
         <text encoding="base64">aWYoJGkgPT0gMCl7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -2041,7 +2047,6 @@
         <entry>action AceAction</entry>
         <entry>action EditorUnSelectWord</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
@@ -2052,6 +2057,7 @@
         <entry>action AceJumpAction</entry>
         <entry>w</entry>
         <entry>vsp</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
