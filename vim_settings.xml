@@ -1266,11 +1266,10 @@
         <mark key="^" line="67" column="46" />
         <mark key="." line="67" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/main.js" timestamp="1493901043904">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="52" />
-        <mark key="." line="58" column="24" />
-        <mark key="^" line="58" column="24" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/main.js" timestamp="1493904167246">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="51" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Source/Playable.php" timestamp="1446485837643">
         <mark key="[" line="12" column="34" />
@@ -1409,8 +1408,8 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/autoUpdater/autoUpdater.service.js" timestamp="1493900860246">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/autoUpdater/autoUpdater.service.js" timestamp="1493904019329">
+        <mark key="[" line="4" column="20" />
         <mark key="]" line="1" column="32" />
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
@@ -2041,7 +2040,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1haW5XaW5kb3cud2ViQ29udGVudHMuc2VuZCgnYWN0aW9uJywgJ3RvZ2dsZScpOwo=</text>
+        <text encoding="base64">ICBtYWluV2luZG93LndlYkNvbnRlbnRzLnNlbmQoJ3VwZGF0ZS1kb3dubG9hZGVkJyk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2053,7 +2052,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>checkForUpdates</text>
+        <text>'action', 'toggle'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
@@ -2062,7 +2061,7 @@
         <text encoding="base64">ICAgIG1haW5XaW5kb3cud2ViQ29udGVudHMuc2VuZCgnYWN0aW9uJywgJ3RvZ2dsZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGVsZWN0cm9uIGZyb20gJ2VsZWN0cm9uJzsK</text>
+        <text encoding="base64">ICBtYWluV2luZG93LndlYkNvbnRlbnRzLnNlbmQoJ3VwZGF0ZS1kb3dubG9hZGVkJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2081,26 +2080,31 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWFpbldpbmRvdy5vbignY2hlY2tGb3JVcGRhdGVzJywgKCkgPT4gewogIGNvbnNvbGUubG9nKCd1cGRhdGUgZm91bmQhJyk7Cn0pOwo=</text>
+      <register name="3" type="4">
+        <text>);(
+);(
+);(
+);(
+);(
+);(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aXBjUmVuZGVyZXIub24oJ2NoZWNrRm9yVXBkYXRlcycsICgpID0+IHsKICBjb25zb2xlLmxvZygndXBkYXRlIGZvdW5kIScpOwp9KTsK</text>
+        <text encoding="base64">ICBzZW5kU3RhdHVzVG9XaW5kb3coJ1VwZGF0ZSBhdmFpbGFibGUuJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhdQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndXBkYXRlIGZvdW5kIScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgeyBhdXRvVXBkYXRlcjogeyBjaGVja0ZvclVwZGF0ZXMsIHF1aXRBbmRJbnN0YWxsIH0gfSA9IGVsZWN0cm9uLnJlbW90ZTsK</text>
+        <text encoding="base64">aW1wb3J0IGVsZWN0cm9uIGZyb20gJ2VsZWN0cm9uJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2luZG93LnRlc3QgPSBhdXRvVXBkYXRlcjsKd2luZG93LmhlbGxvID0gJ2Fkc2YnOwo=</text>
+        <text encoding="base64">bWFpbldpbmRvdy5vbignY2hlY2tGb3JVcGRhdGVzJywgKCkgPT4gewogIGNvbnNvbGUubG9nKCd1cGRhdGUgZm91bmQhJyk7Cn0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
