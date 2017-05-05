@@ -275,7 +275,6 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="/package.json" timestamp="1493908676124" />
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Agreement/Events/IntroducedNewPricingTierEvent.php" timestamp="1485859037778">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -468,11 +467,11 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/wercker.yml" timestamp="1493968877200">
-        <mark key="[" line="65" column="71" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="65" column="50" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/wercker.yml" timestamp="1493974726567">
+        <mark key="[" line="66" column="36" />
+        <mark key="]" line="66" column="25" />
+        <mark key="^" line="66" column="25" />
+        <mark key="." line="66" column="25" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/package.json" timestamp="1482154327755">
         <mark key="[" line="75" column="23" />
@@ -924,6 +923,7 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1493972787598" />
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/cache/QueryCache.php" timestamp="1493486401224">
         <mark key="[" line="46" column="51" />
         <mark key="]" line="50" column="66" />
@@ -1874,7 +1874,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>14.5.3</text>
+        <text>$AWS_REGION</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1886,7 +1886,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>14.5.3</text>
+        <text>$AWS_REGION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
