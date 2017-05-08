@@ -215,11 +215,7 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="41" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/components/Login.js" timestamp="1494194711482">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/components/Login.js" timestamp="1494236218359" />
       <file name="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/main.go" timestamp="1479658187494">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="29" column="32" />
@@ -1192,10 +1188,10 @@
         <mark key="^" line="9" column="81" />
         <mark key="." line="9" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/index.html" timestamp="1494193832133">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/index.html" timestamp="1494236336295">
+        <mark key="[" line="64" column="33" />
+        <mark key="]" line="64" column="33" />
+        <mark key="." line="64" column="33" />
       </file>
       <file name="$USER_HOME$/projects/cordova-instore-app/.gitignore" timestamp="1445952135882">
         <mark key="[" line="48" column="46" />
@@ -1300,6 +1296,12 @@
         <mark key="]" line="7" column="66" />
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1494236390222">
+        <mark key="[" line="48" column="72" />
+        <mark key="]" line="48" column="69" />
+        <mark key="^" line="48" column="69" />
+        <mark key="." line="48" column="69" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceLine.php" timestamp="1487778393800">
         <mark key="[" line="86" column="23" />
@@ -1879,8 +1881,8 @@
       <jump line="65" column="25" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/wercker.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLAo=</text>
+      <register name="&quot;" type="4">
+        <text>services</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1892,7 +1894,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>background: 'red'</text>
+        <text>services</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</text>
@@ -1901,7 +1903,7 @@
         <text>src/assets/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLAo=</text>
+        <text encoding="base64">ICAgICAgICAnL2JhY2tncm91bmQuanBnJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1918,28 +1920,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JnYmEoMCwwLDAsMC4yKScsCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC5sb2dpbkNvbnRhaW5lciB7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC4uLnN0eWxlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC4uc3QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtc2l6ZTpjb3ZlcjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uOiBmaXhlZDsKICAgICAgICAgICAgICAgIGxlZnQ6IDA7CiAgICAgICAgICAgICAgICByaWdodDogMDsKICAgICAgICAgICAgICAgIHotaW5kZXg6IC0xOwogICAgICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnQ6ICIiOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogJzEwMCUnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogJzEwMCUnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAnMTAwJScsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IHVybCgnc3JjL2Fzc2V0cy9iYWNrZ3JvdW5kLmpwZycpOwogICAgICAgICAgICAgICAgYmFja2dyb3VuZC1zaXplOmNvdmVyOwogICAgICAgICAgICAgICAgd2lkdGg6IDEwMCU7CiAgICAgICAgICAgICAgICBoZWlnaHQ6IDEwMCU7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBmaWx0ZXI6IGJsdXIoMHB4KTsK</text>
+        <text encoding="base64">ICAgICAgLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
