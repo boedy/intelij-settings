@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="20" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" />
     </globalmarks>
@@ -1366,8 +1366,11 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Playlist.js" timestamp="1494543053101">
-        <mark key="[" line="16" column="13" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Playlist.js" timestamp="1494577523520">
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="57" />
+        <mark key="^" line="17" column="57" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Types/Quarterly.php" timestamp="1483523842831">
         <mark key="[" line="12" column="0" />
@@ -1483,11 +1486,11 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" timestamp="1494542454196">
-        <mark key="[" line="41" column="12" />
-        <mark key="]" line="41" column="40" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" timestamp="1494577606932">
+        <mark key="[" line="41" column="14" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="41" column="18" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/css/unslider.css" timestamp="1484312957512">
         <mark key="[" line="88" column="14" />
@@ -1967,8 +1970,8 @@
       <jump line="4" column="8" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/MainMenu.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUGxheWxpc3RJdGVtcwo=</text>
+      <register name="&quot;" type="4">
+        <text>props</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1980,16 +1983,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{ match: { params: { id } } }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBvcHRpb25zOiAoeyBtYXRjaDogeyBwYXJhbXM6IHsgaWQgfSB9IH0pID0+ICh7IHZhcmlhYmxlczogeyBpZCB9IH0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUGxheWxpc3RJdGVtcwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgJ3Rlc3QnOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2006,31 +2009,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGVzdAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coeyBtYXRjaDogeyBwYXJhbXM6IHsgaWQgfSB9IH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wVHlwZXMpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFBsYXlsaXN0SXRlbXMgZnJvbSAnLi4vY29tcG9uZW50cy9QbGF5bGlzdEl0ZW1zJzsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">ICAgICAge3Byb3BUeXBlc30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gbGFuZ3VhZ2U9U0NTUyBwcmVmaXg9ZHVtbXl7IHN1ZmZpeD19CmNvbnN0IFdyYXBwZXIgPSBzdHlsZWQuZGl2YAogICAgYmFja2dyb3VuZDogd2hpdGU7CiAgICBwYWRkaW5nOiAxN3B4IDIwcHggMzBweDsKICAgIG1hcmdpbjogNXB4OwogICAgbWF4LXdpZHRoOiA4MDBweDsKICAgIGZsZXgtZ3JvdzogMTsKICAgIGZsZXgtYmFzaXM6IDA7CmA7Cg==</text>
+        <text encoding="base64">ICAgICAgdGVzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBib2VkeSBvbiAxMi8wNS8yMDE3LgogKi8K</text>
+        <text encoding="base64">ICAgICAgUGxheWxpc3RJdGVtcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgdGVzdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Macro.wrapParentesis</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -2083,9 +2086,9 @@
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>sp</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
         <entry>action Macro.wrapParentesis</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
