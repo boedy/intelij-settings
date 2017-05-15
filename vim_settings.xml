@@ -323,8 +323,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/src/public/v1/index.php" timestamp="1494868305553">
-        <mark key="." line="17" column="26" />
+      <file name="$USER_HOME$/projects/kollekt/backend/src/public/v1/index.php" timestamp="1494874828456">
+        <mark key="'" line="453" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="18" column="74" />
+        <mark key="^" line="18" column="74" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/composer.json" timestamp="1446476702835">
         <mark key="[" line="18" column="55" />
@@ -452,7 +456,7 @@
         <mark key="^" line="47" column="45" />
         <mark key="." line="61" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/database/ElasticSearch.php" timestamp="1494870040259">
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/database/ElasticSearch.php" timestamp="1494874625084">
         <mark key="[" line="165" column="68" />
         <mark key="]" line="165" column="68" />
         <mark key="." line="165" column="68" />
@@ -986,6 +990,7 @@
         <mark key="." line="98" column="26" />
         <mark key="^" line="68" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/queries/users/UserNotificationCountQuery.php" timestamp="1494874834251" />
       <file name="$USER_HOME$/projects/atmosphere/billing/vendor/broadway/broadway/src/Broadway/EventSourcing/EventSourcingRepository.php" timestamp="1485713367334">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -1768,6 +1773,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/domain/notification/NotificationService.php" timestamp="1494874732579" />
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/electron-updater/out/AppUpdater.js" timestamp="1493892796239">
         <mark key="[" line="142" column="54" />
         <mark key="]" line="142" column="29" />
@@ -1938,8 +1944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="$USER_HOME$/projects/docker/instore/app/Infrastructure/Repositories/DoctrineTrackRepository.php" />
-      <jump line="87" column="0" filename="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/app/Http/routes.php" />
       <jump line="132" column="0" filename="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/app/Http/routes.php" />
       <jump line="76" column="64" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Http/routes.php" />
       <jump line="201" column="11" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/Organisation/Location/Location.php" />
@@ -2038,10 +2042,12 @@
       <jump line="49" column="2" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistHeader.js" />
       <jump line="56" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistHeader.js" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistHeader.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/public/v1/index.php" />
+      <jump line="450" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/public/v1/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRxdWVyeSA9IG5ldyBcaW5mcmFzdHJ1Y3R1cmVccXVlcmllc1x1c2Vyc1xVc2VyTm90aWZpY2F0aW9uQ291bnRRdWVyeSgxKTsKICAgICRyZXN1bHQgPSAkcXVlcnktPm5vQ2FjaGUoKS0+ZmV0Y2goKTsgCiAgICBkZWJ1ZygkcmVzdWx0KTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2053,13 +2059,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>$user_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlYnVnKChuZXcgXGluZnJhc3RydWN0dXJlXGRhdGFiYXNlXEVsYXN0aWNTZWFyY2goKSktPnR5cGUoWydwbGF5bGlzdCddKS0+c2VhcmNoKCdhZmJldWtib2VrJykpOwo=</text>
+        <text encoding="base64">ICAgICRxdWVyeSA9IG5ldyBcaW5mcmFzdHJ1Y3R1cmVccXVlcmllc1x1c2Vyc1xVc2VyTm90aWZpY2F0aW9uQ291bnRRdWVyeSgxKTsKICAgICRyZXN1bHQgPSAkcXVlcnktPm5vQ2FjaGUoKS0+ZmV0Y2goKTsgCiAgICBkZWJ1ZygkcmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2xhbmcnICAgPT4gImdyb292eSIK</text>
