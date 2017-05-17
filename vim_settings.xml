@@ -128,10 +128,10 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/tag_mapping.json" timestamp="1495033090295">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
+      <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/tag_mapping.json" timestamp="1495034077582">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
         <mark key="^" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Customer/MoneyBirdCustomerRepository.php" timestamp="1483725003391">
@@ -483,11 +483,11 @@
         <mark key="^" line="27" column="10" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/tag_search.json" timestamp="1495030852173">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+      <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/tag_search.json" timestamp="1495034341617">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Entities/test/PlaylistItem.php" timestamp="1446199766348">
         <mark key="[" line="26" column="35" />
@@ -823,7 +823,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495019075316">
+      <file name="/Dummy.txt" timestamp="1495034408838">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="0" />
@@ -2072,8 +2072,8 @@
       <jump line="31" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/user_mapping.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJxdWVyeSI6IHsKICAgICAgImZ1bmN0aW9uX3Njb3JlIjogewogICAgICAgICJxdWVyeSI6IHsKICAgICAgICAgICJtdWx0aV9tYXRjaCI6IHsKICAgICAgICAgICAgInF1ZXJ5IjogInt7cXVlcnlfc3RyaW5nfX0iLAogICAgICAgICAgICAiZmllbGRzIjogWwogICAgICAgICAgICAgICJ0aXRsZSIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImZ1enppbmVzcyIgOiAiQVVUTyIsCiAgICAgICAgICAgICJwcmVmaXhfbGVuZ3RoIiA6IDIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2085,16 +2085,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>jazz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ewogICJ0ZW1wbGF0ZSI6IHsKICAgICJxdWVyeSI6IHsKICAgICAgImZ1bmN0aW9uX3Njb3JlIjogewogICAgICAgICJxdWVyeSI6IHsKICAgICAgICAgICJtdWx0aV9tYXRjaCI6IHsKICAgICAgICAgICAgInF1ZXJ5IjogInt7cXVlcnlfc3RyaW5nfX0iLAogICAgICAgICAgICAiZmllbGRzIjogWwogICAgICAgICAgICAgICJjb21ibyIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImZ1enppbmVzcyIgOiAiQVVUTyIsCiAgICAgICAgICAgICJwcmVmaXhfbGVuZ3RoIiA6IDIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cn0K</text>
+      <register name="0" type="4">
+        <text>{{query_string}}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5kaWNlcyA9IGltcGxvZGUoJywnLCAkaW5kaWNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICJxdWVyeSI6IHsKICAgICAgImZ1bmN0aW9uX3Njb3JlIjogewogICAgICAgICJxdWVyeSI6IHsKICAgICAgICAgICJtdWx0aV9tYXRjaCI6IHsKICAgICAgICAgICAgInF1ZXJ5IjogInt7cXVlcnlfc3RyaW5nfX0iLAogICAgICAgICAgICAiZmllbGRzIjogWwogICAgICAgICAgICAgICJ0aXRsZSIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImZ1enppbmVzcyIgOiAiQVVUTyIsCiAgICAgICAgICAgICJwcmVmaXhfbGVuZ3RoIiA6IDIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2111,28 +2111,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdGhpcy0+dHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICJxdWVyeSI6IHsKICAgICAgImZ1bmN0aW9uX3Njb3JlIjogewogICAgICAgICJxdWVyeSI6IHsKICAgICAgICAgICJtdWx0aV9tYXRjaCI6IHsKICAgICAgICAgICAgInF1ZXJ5IjogInt7cXVlcnlfc3RyaW5nfX0iLAogICAgICAgICAgICAiZmllbGRzIjogWwogICAgICAgICAgICAgICJ0aXRsZSIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImZ1enppbmVzcyIgOiAiQVVUTyIsCiAgICAgICAgICAgICJwcmVmaXhfbGVuZ3RoIiA6IDIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5yZXF1ZXN0ID0gY3VybF9pbml0KCR0aGlzLT5lc0xvY2F0aW9uIC4gIi8iIC4gJHRoaXMtPmluZGV4IC4gIi8iIC4gKCRpbmNsdWRlVHlwZSA/IChpc19hcnJheSgkdGhpcy0+dHlwZSkgPyBpbXBsb2RlKCIgIiwgJHRoaXMtPnR5cGUpIDogJHRoaXMtPnR5cGUgLiAiLyIpIDogJycpIC4gJHRoaXMtPmlkIC4gKCRyZWZyZXNoID8gJz9yZWZyZXNoPXRydWUnIDogJycpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkaW5kaWNlcyA9IGltcGxvZGUoJywnLCAkaW5kaWNlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkanNvbiAuPSAneyJpbmRleCIgOiAia29sbGVrdCJ9Jy4gIlxyXG4iOwogICAgICAgICRqc29uIC49ICd7ImlkIjogInVzZXJfc2VhcmNoIiwgInBhcmFtcyI6IHsgInF1ZXJ5X3N0cmluZyI6ICInLiR0ZXh0LiciIH0gfScuICJcbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdGhpcy0+dHlwZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5yZXF1ZXN0ID0gY3VybF9pbml0KCR0aGlzLT5lc0xvY2F0aW9uIC4gIi8iIC4gJHRoaXMtPmluZGV4IC4gIi8iIC4gKCRpbmNsdWRlVHlwZSA/IChpc19hcnJheSgkdGhpcy0+dHlwZSkgPyBpbXBsb2RlKCIgIiwgJHRoaXMtPnR5cGUpIDogJHRoaXMtPnR5cGUgLiAiLyIpIDogJycpIC4gJHRoaXMtPmlkIC4gKCRyZWZyZXNoID8gJz9yZWZyZXNoPXRydWUnIDogJycpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkanNvbiAgPSAneyJpbmRleCIgOiAia29sbGVrdCJ9Jy4gIlxyXG4iOwogICAgICAgICRqc29uIC49ICd7ImlkIjogInBsYXlsaXN0X3NlYXJjaCIsICJwYXJhbXMiOiB7ICJxdWVyeV9zdHJpbmciOiAiJy4kdGV4dC4nIiB9IH0nLiAiXHJcbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkanNvbiAuPSAneyJpbmRleCIgOiAia29sbGVrdCJ9Jy4gIlxyXG4iOwogICAgICAgICRqc29uIC49ICd7ImlkIjogInVzZXJfc2VhcmNoIiwgInBhcmFtcyI6IHsgInF1ZXJ5X3N0cmluZyI6ICInLiR0ZXh0LiciIH0gfScuICJcbiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KCRpbmNsdWRlVHlwZSA/IChpc19hcnJheSgkdGhpcy0+dHlwZSkgPyBpbXBsb2RlKCIgIiwgJHRoaXMtPnR5cGUpIDogJHRoaXMtPnR5cGUgLiAiLyIpIDogJycpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkZWJ1ZygkcmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkanNvbiAgPSAneyJpbmRleCIgOiAia29sbGVrdCJ9Jy4gIlxyXG4iOwogICAgICAgICRqc29uIC49ICd7ImlkIjogInBsYXlsaXN0X3NlYXJjaCIsICJwYXJhbXMiOiB7ICJxdWVyeV9zdHJpbmciOiAiJy4kdGV4dC4nIiB9IH0nLiAiXHJcbiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGVidWcoJHZhbFsndHlwZSddKTsK</text>
+        <text encoding="base64">KCRpbmNsdWRlVHlwZSA/IChpc19hcnJheSgkdGhpcy0+dHlwZSkgPyBpbXBsb2RlKCIgIiwgJHRoaXMtPnR5cGUpIDogJHRoaXMtPnR5cGUgLiAiLyIpIDogJycpIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
