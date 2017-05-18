@@ -477,11 +477,11 @@
         <mark key="." line="33" column="53" />
         <mark key="^" line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/webpack.config.js" timestamp="1495102249207">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="30" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/webpack.config.js" timestamp="1495116727404">
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="21" column="59" />
         <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="30" />
+        <mark key="." line="21" column="59" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/tag_search.json" timestamp="1495034341617">
         <mark key="[" line="14" column="0" />
@@ -934,10 +934,10 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/WaveformPlayer.js" timestamp="1495115070777">
-        <mark key="[" line="101" column="8" />
-        <mark key="]" line="101" column="8" />
-        <mark key="." line="101" column="8" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/WaveformPlayer.js" timestamp="1495118088370">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/pages/home.php" timestamp="1484647530388">
         <mark key="[" line="345" column="10" />
@@ -983,8 +983,12 @@
       <file name="/injection.txt" timestamp="1494494080059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/ProgressBar.js" timestamp="1494839647270">
-        <mark key="[" line="14" column="21" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/ProgressBar.js" timestamp="1495119195529">
+        <mark key="'" line="27" column="71" />
+        <mark key="[" line="27" column="105" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="28" column="41" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/Dockerfile.brandchannel" timestamp="1487599221742">
         <mark key="[" line="17" column="0" />
@@ -1118,11 +1122,11 @@
         <mark key="^" line="798" column="22" />
         <mark key="." line="798" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItem.js" timestamp="1495114680652">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="2" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="37" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItem.js" timestamp="1495119819806">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="2" />
+        <mark key="." line="24" column="2" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Customer/MoneybirdCustomerRepository.php" timestamp="1486472487191">
         <mark key="[" line="14" column="0" />
@@ -2001,8 +2005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="3" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/Builder/WeekPlanningBuilder.php" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/hostStats.go" />
       <jump line="28" column="28" filename="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/host.go" />
       <jump line="63" column="22" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Jobs/PasswordResetEmail.php" />
@@ -2101,6 +2103,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/user_mapping.json" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/user_mapping.json" />
       <jump line="47" column="16" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" />
+      <jump line="2" column="21" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/ProgressBar.js" />
+      <jump line="28" column="71" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/ProgressBar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2122,10 +2126,10 @@
         <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKG5leHRQcm9wcykgewogICAgdGhpcy5zZXRTdGF0ZSh7IGlzUGxheWluZzogbmV4dFByb3BzLmlzQWN0aXZlIH0pOwogIH0K</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2142,28 +2146,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDogbnVsbAo=</text>
+        <text encoding="base64">ICB3aWR0aDogYXV0byA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy5zdGF0ZS5wbGF5aW5nCg==</text>
+        <text encoding="base64">ICB3aWR0aDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDogPGJ1dG9uIG9uQ2xpY2s9e3RoaXMucGxheX0gPlBsYXk8L2J1dG9uPn0K</text>
+        <text encoding="base64">ICAgICAgICB7aXNBY3RpdmUgPyA8V2F2ZWZvcm1QbGF5ZXIgaXNQbGF5aW5nPXt0aGlzLnN0YXRlLmlzUGxheWluZ30gdHJhY2s9e2l0ZW0udHJhY2t9IC8+IDogbnVsbH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50aW1lciA9IHNldEludGVydmFsKCgpID0+IHsgcGxheWVyLmdldFBvc2l0aW9uKHRoaXMuc2V0UG9zaXRpb24pOyB9LCAxMDAwKTsK</text>
+        <text encoding="base64">ICAgIGJvcmRlcjowcHg7CiAgICBiYWNrZ3JvdW5kOiByZWQ7CiAgICBib3gtc2hhZG93OiBub25lOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKG5leHRQcm9wcy4pCg==</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj4oe3RoaXMuc3RhdGUucG9zaXRpb259IC8ge3RoaXMuc3RhdGUuZHVyYXRpb259KTwvc3Bhbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBpc1BsYXlpbmc6IG5leHRQcm9wcy5pc0FjdGl2ZSB9KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcy53aWR0aCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKCAhICl7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
