@@ -1603,11 +1603,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" timestamp="1495103202684">
-        <mark key="[" line="39" column="31" />
-        <mark key="]" line="39" column="31" />
-        <mark key="^" line="40" column="33" />
-        <mark key="." line="39" column="31" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" timestamp="1495105084251">
+        <mark key="'" line="53" column="16" />
+        <mark key="[" line="53" column="78" />
+        <mark key="]" line="53" column="81" />
+        <mark key="." line="53" column="81" />
+        <mark key="^" line="53" column="81" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/services/ElasticSearchSearchService.php" timestamp="1495030579212">
         <mark key="[" line="33" column="0" />
@@ -1996,7 +1997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="8" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/CommentApplicationService.php" />
       <jump line="25" column="3" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/Builder/WeekPlanningBuilder.php" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/go/me/src/github.com/boedy/rancher-autoscale/hostStats.go" />
@@ -2096,10 +2096,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/scripts/import.php" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/user_mapping.json" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/user_mapping.json" />
+      <jump line="47" column="16" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHlwY24g</text>
+        <text>''</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2111,7 +2112,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwY24g</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
@@ -2120,7 +2121,7 @@
         <text encoding="base64">ICAgICAgICAiaW5kZXgiOiB0cnVlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9J3N0eWxlc2hlZXQnIGhyZWY9J3BhdGgvdG8vdHlwaWNvbnMubWluLmNzcycgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy50b2dnbGUuYmluZCh0aGlzLCAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2137,28 +2138,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RWxhc3RpY3NlYXJjaCByZWZhY3Rvcgo=</text>
+        <text encoding="base64">KHsgcGxheWxpc3RJZCwgcGxheWxpc3RJdGVtcyB9KSB7CiAgcmV0dXJuICgKICAgIDxkaXY+CiAgICAgIDxoMz5UcmFja3M8L2gzPgogICAgICA8SXRlbXM+CiAgICAgICAgewogICAgICAgICAgcGxheWxpc3RJdGVtcy5tYXAoKHsgaWQsIHRyYWNrIH0pID0+ICgKICAgICAgICAgICAgPGxpIGtleT17aWR9ID4KICAgICAgICAgICAgICB7Lyo8V2F2ZWZvcm1QbGF5ZXIgdHJhY2s9e3RyYWNrfSAvPiovfQogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idHlwY24gdHlwY24tbWVkaWEtcGxheS1vdXRsaW5lIj48L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4+IHt0cmFjay50aXRsZX08L3NwYW4+CiAgICAgICAgICAgICAgPExpbmsga2V5PXtgbGluay0ke2lkfWB9IHRvPXtgL3BsYXlsaXN0cy8ke3BsYXlsaXN0SWR9L2l0ZW1zLyR7aWR9YH0+CiAgICAgICAgICAgICAgICBJbmZvCiAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICA8L2xpPgogICAgICAgICAgKSkKICAgICAgICB9CiAgICAgIDwvSXRlbXM+CiAgICA8L2Rpdj4KICApOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJxdWVyeSI6IHsKICAgICAgImZ1bmN0aW9uX3Njb3JlIjogewogICAgICAgICJxdWVyeSI6IHsKICAgICAgICAgICJtdWx0aV9tYXRjaCI6IHsKICAgICAgICAgICAgInF1ZXJ5IjogInt7cXVlcnlfc3RyaW5nfX0iLAogICAgICAgICAgICAiZmllbGRzIjogWwogICAgICAgICAgICAgICJ0aXRsZSIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImZ1enppbmVzcyIgOiAiQVVUTyIsCiAgICAgICAgICAgICJwcmVmaXhfbGVuZ3RoIiA6IDIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9J3N0eWxlc2hlZXQnIGhyZWY9J3BhdGgvdG8vdHlwaWNvbnMubWluLmNzcycgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJxdWVyeSI6IHsKICAgICAgImZ1bmN0aW9uX3Njb3JlIjogewogICAgICAgICJxdWVyeSI6IHsKICAgICAgICAgICJtdWx0aV9tYXRjaCI6IHsKICAgICAgICAgICAgInF1ZXJ5IjogInt7cXVlcnlfc3RyaW5nfX0iLAogICAgICAgICAgICAiZmllbGRzIjogWwogICAgICAgICAgICAgICJ0aXRsZSIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImZ1enppbmVzcyIgOiAiQVVUTyIsCiAgICAgICAgICAgICJwcmVmaXhfbGVuZ3RoIiA6IDIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5kaWNlcyA9IGltcGxvZGUoJywnLCAkaW5kaWNlcyk7Cg==</text>
+        <text encoding="base64">RWxhc3RpY3NlYXJjaCByZWZhY3Rvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdGhpcy0+dHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICJxdWVyeSI6IHsKICAgICAgImZ1bmN0aW9uX3Njb3JlIjogewogICAgICAgICJxdWVyeSI6IHsKICAgICAgICAgICJtdWx0aV9tYXRjaCI6IHsKICAgICAgICAgICAgInF1ZXJ5IjogInt7cXVlcnlfc3RyaW5nfX0iLAogICAgICAgICAgICAiZmllbGRzIjogWwogICAgICAgICAgICAgICJ0aXRsZSIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImZ1enppbmVzcyIgOiAiQVVUTyIsCiAgICAgICAgICAgICJwcmVmaXhfbGVuZ3RoIiA6IDIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5yZXF1ZXN0ID0gY3VybF9pbml0KCR0aGlzLT5lc0xvY2F0aW9uIC4gIi8iIC4gJHRoaXMtPmluZGV4IC4gIi8iIC4gKCRpbmNsdWRlVHlwZSA/IChpc19hcnJheSgkdGhpcy0+dHlwZSkgPyBpbXBsb2RlKCIgIiwgJHRoaXMtPnR5cGUpIDogJHRoaXMtPnR5cGUgLiAiLyIpIDogJycpIC4gJHRoaXMtPmlkIC4gKCRyZWZyZXNoID8gJz9yZWZyZXNoPXRydWUnIDogJycpKTsK</text>
+        <text encoding="base64">ICAgICJxdWVyeSI6IHsKICAgICAgImZ1bmN0aW9uX3Njb3JlIjogewogICAgICAgICJxdWVyeSI6IHsKICAgICAgICAgICJtdWx0aV9tYXRjaCI6IHsKICAgICAgICAgICAgInF1ZXJ5IjogInt7cXVlcnlfc3RyaW5nfX0iLAogICAgICAgICAgICAiZmllbGRzIjogWwogICAgICAgICAgICAgICJ0aXRsZSIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImZ1enppbmVzcyIgOiAiQVVUTyIsCiAgICAgICAgICAgICJwcmVmaXhfbGVuZ3RoIiA6IDIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkanNvbiAuPSAneyJpbmRleCIgOiAia29sbGVrdCJ9Jy4gIlxyXG4iOwogICAgICAgICRqc29uIC49ICd7ImlkIjogInVzZXJfc2VhcmNoIiwgInBhcmFtcyI6IHsgInF1ZXJ5X3N0cmluZyI6ICInLiR0ZXh0LiciIH0gfScuICJcbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaW5kaWNlcyA9IGltcGxvZGUoJywnLCAkaW5kaWNlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
