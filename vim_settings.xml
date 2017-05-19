@@ -1274,11 +1274,11 @@
         <mark key="^" line="67" column="46" />
         <mark key="." line="67" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/GenerateWaveformJob.php" timestamp="1495190423062">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="18" column="26" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="18" column="26" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/GenerateWaveformJob.php" timestamp="1495190617090">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="29" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Source/Playable.php" timestamp="1446485837643">
         <mark key="[" line="12" column="34" />
@@ -2049,7 +2049,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VybCA9IGN1cmxfaW5pdCgkdXJpU2lnbmVyLT5zaWduKCR0aGlzLT51cmkpKTsKICAgICAgICBjdXJsX3NldG9wdCgkY3VybCwgQ1VSTE9QVF9DVVNUT01SRVFVRVNULCAiUFVSR0UiKTsKICAgICAgICBjdXJsX2V4ZWMoJGN1cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdHJhY2sgPSBuZXcgVHJhY2soJGZpbGVQYXRoKTsKICAgICAgICAkdHJhY2stPmdldFdhdmVmb3JtKCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2061,16 +2061,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>UriSigner $uriSigner</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihcYXBwbGljYXRpb25cc2VydmljZXNcU2Vzc2lvbjo6Z2V0VXNlcklEKCkgPT0gMSl7CiAgICAgICAgICAgIGRlYnVnKCRxdWVyeU5hbWUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdHJhY2sgPSBuZXcgVHJhY2soJGZpbGVQYXRoKTsKICAgICAgICAkdHJhY2stPmdldFdhdmVmb3JtKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VybCA9IGN1cmxfaW5pdCgkdXJpU2lnbmVyLT5zaWduKCR0aGlzLT51cmkpKTsKICAgICAgICBjdXJsX3NldG9wdCgkY3VybCwgQ1VSTE9QVF9DVVNUT01SRVFVRVNULCAiUFVSR0UiKTsKICAgICAgICBjdXJsX2V4ZWMoJGN1cmwpOwo=</text>
+        <text encoding="base64">dXNlIEphc255XEF1ZGlvXFdhdmVmb3JtOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2087,28 +2087,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHVyaTsKCiAgICAvKioKICAgICAqIFB1cmdlU291cmNlQ2FjaGVKb2IgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gU291cmNlICRzb3VyY2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KFNvdXJjZSAkc291cmNlKSB7CiAgICAgICAgJHRoaXMtPnVyaSA9ICRzb3VyY2UtPmdldEZpbGVQYXRoKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBuZXcgV2F2ZWZvcm0oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gOwogICAgICB2YXIgcmVjdCA9IGNhbnZhcy5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKSwKICAgICAgICB4ID0gZXZlbnQuY2xpZW50WCAtIHJlY3QubGVmdDsK</text>
+        <text encoding="base64">ICAgICAgICAkY3VybCA9IGN1cmxfaW5pdCgkdXJpU2lnbmVyLT5zaWduKCR0aGlzLT51cmkpKTsKICAgICAgICBjdXJsX3NldG9wdCgkY3VybCwgQ1VSTE9QVF9DVVNUT01SRVFVRVNULCAiUFVSR0UiKTsKICAgICAgICBjdXJsX2V4ZWMoJGN1cmwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHJlY3QgPSBjYW52YXMuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCksCiAgICAgICAgeCA9IGV2ZW50LmNsaWVudFggLSByZWN0LmxlZnQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHVyaTsKCiAgICAvKioKICAgICAqIFB1cmdlU291cmNlQ2FjaGVKb2IgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gU291cmNlICRzb3VyY2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KFNvdXJjZSAkc291cmNlKSB7CiAgICAgICAgJHRoaXMtPnVyaSA9ICRzb3VyY2UtPmdldEZpbGVQYXRoKCk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gOwo=</text>
+        <text encoding="base64">IAogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IF90aGlzID0gdGhpczsK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gOwogICAgICB2YXIgcmVjdCA9IGNhbnZhcy5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKSwKICAgICAgICB4ID0gZXZlbnQuY2xpZW50WCAtIHJlY3QubGVmdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHJlY3QgPSBjYW52YXMuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCksCiAgICAgICAgeCA9IGV2ZW50LmNsaWVudFggLSByZWN0LmxlZnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNhbnZhcyA9IHRoaXMucmVmcy5jYW52YXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
