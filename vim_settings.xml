@@ -146,13 +146,6 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/import.php" timestamp="1495031266595">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="107" />
-        <mark key="]" line="33" column="109" />
-        <mark key="^" line="33" column="109" />
-        <mark key="." line="33" column="109" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Http/Controllers/Contract/ContractController.php" timestamp="1485867018307">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="25" />
@@ -860,11 +853,11 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495456213981">
-        <mark key="[" line="96" column="13" />
-        <mark key="]" line="96" column="12" />
-        <mark key="." line="96" column="12" />
-        <mark key="^" line="96" column="12" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495458725063">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="16" />
+        <mark key="." line="56" column="16" />
+        <mark key="^" line="56" column="19" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/RecurringInvoiceRepository.php" timestamp="1487456387755">
         <mark key="[" line="12" column="25" />
@@ -1000,12 +993,8 @@
       <file name="/injection.txt" timestamp="1494494080059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/ProgressBar.js" timestamp="1495452307941">
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/ProgressBar.js" timestamp="1495458649992">
         <mark key="'" line="57" column="71" />
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="52" column="62929" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/Dockerfile.brandchannel" timestamp="1487599221742">
         <mark key="[" line="17" column="0" />
@@ -1013,6 +1002,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/data.json" timestamp="1495458109187" />
       <file name="$USER_HOME$/Downloads/mqtt.html" timestamp="1485269888973">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1139,13 +1129,6 @@
         <mark key="]" line="798" column="22" />
         <mark key="^" line="798" column="22" />
         <mark key="." line="798" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItem.js" timestamp="1495123327836">
-        <mark key="'" line="36" column="13" />
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="26" column="14" />
-        <mark key="." line="26" column="14" />
-        <mark key="^" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Customer/MoneybirdCustomerRepository.php" timestamp="1486472487191">
         <mark key="[" line="14" column="0" />
@@ -1321,11 +1304,11 @@
         <mark key="^" line="67" column="46" />
         <mark key="." line="67" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/GenerateWaveformJob.php" timestamp="1495451074140">
-        <mark key="[" line="41" column="65" />
-        <mark key="]" line="41" column="64" />
-        <mark key="." line="41" column="64" />
-        <mark key="^" line="41" column="64" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/GenerateWaveformJob.php" timestamp="1495458570729">
+        <mark key="[" line="41" column="109" />
+        <mark key="]" line="41" column="108" />
+        <mark key="." line="41" column="108" />
+        <mark key="^" line="41" column="108" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Source/Playable.php" timestamp="1446485837643">
         <mark key="[" line="12" column="34" />
@@ -2102,7 +2085,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ca</text>
+        <text>step</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2114,16 +2097,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ca</text>
+        <text>step</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBkYXRhLmZpbHRlcigodmFsKSA9PiAodmFsID4gMCA/IHRydWUgOiBmYWxzZSkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYocHIpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2140,31 +2123,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGEuCg==</text>
+        <text encoding="base64">ICAgICAgaWYocHIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGEuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGRhdGEgPSA7Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRhdGEgPSA7Cg==</text>
+      </register>
+      <register name="6" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChtYXggPiAxKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChtYXggPiAxKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -2212,7 +2195,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcFNpbmdsZVF1b3Rlcw==</entry>
         <entry>action SplitHorizontally</entry>
         <entry>action Macro.wrapParentesis</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
@@ -2220,6 +2202,7 @@
         <entry>vsp</entry>
         <entry>action AceJumpAction</entry>
         <entry>w</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
