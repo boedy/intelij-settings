@@ -1300,11 +1300,11 @@
         <mark key="^" line="67" column="46" />
         <mark key="." line="67" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/GenerateWaveformJob.php" timestamp="1495441970484">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="29" column="75" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/GenerateWaveformJob.php" timestamp="1495442805101">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="47" column="5" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Source/Playable.php" timestamp="1446485837643">
         <mark key="[" line="12" column="34" />
@@ -1590,6 +1590,10 @@
         <mark key="]" line="37" column="11" />
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" timestamp="1495442847858">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/css/unslider.css" timestamp="1484312957512">
         <mark key="[" line="88" column="14" />
@@ -2076,7 +2080,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGxvY2FsRmlsZVN5c3RlbTsKCiAgICBwcml2YXRlICRjbG91ZEZpbGVTeXN0ZW07CgogICAgcHJpdmF0ZSAkbXAzR2FpbjsKCiAgICAvKioKICAgICAqIFMzTXAzTm9ybWFsaXplciBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSBGaWxlU3RvcmFnZSAkbG9jYWwKICAgICAqIEBwYXJhbSBGaWxlU3RvcmFnZSAkY2xvdWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KEZpbGVTdG9yYWdlICRsb2NhbCwgRmlsZVN0b3JhZ2UgJGNsb3VkKQogICAgewogICAgICAgICR0aGlzLT5sb2NhbEZpbGVTeXN0ZW0gPSAkbG9jYWw7CiAgICAgICAgJHRoaXMtPmNsb3VkRmlsZVN5c3RlbSA9ICRjbG91ZDsKICAgICAgICAkdGhpcy0+bXAzR2FpbiA9IG5ldyBNcDNHYWluKCk7CiAgICB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2088,16 +2092,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$data =</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGpzb25fZW5jb2RlKGFycmF5KAogICAgICAgICAgICAnbGVuZ3RoJz0+JHRoaXMtPmdldExlbmd0aCgpLAogICAgICAgICAgICAnbGV2ZWwnPT4kdGhpcy0+Z2V0TGV2ZWwoKSwKICAgICAgICAgICAgJ3NhbXBsZXMnPT4kdGhpcy0+Z2V0U2FtcGxlcygpCiAgICAgICAgKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGxvY2FsRmlsZVN5c3RlbTsKCiAgICBwcml2YXRlICRjbG91ZEZpbGVTeXN0ZW07CgogICAgcHJpdmF0ZSAkbXAzR2FpbjsKCiAgICAvKioKICAgICAqIFMzTXAzTm9ybWFsaXplciBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSBGaWxlU3RvcmFnZSAkbG9jYWwKICAgICAqIEBwYXJhbSBGaWxlU3RvcmFnZSAkY2xvdWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KEZpbGVTdG9yYWdlICRsb2NhbCwgRmlsZVN0b3JhZ2UgJGNsb3VkKQogICAgewogICAgICAgICR0aGlzLT5sb2NhbEZpbGVTeXN0ZW0gPSAkbG9jYWw7CiAgICAgICAgJHRoaXMtPmNsb3VkRmlsZVN5c3RlbSA9ICRjbG91ZDsKICAgICAgICAkdGhpcy0+bXAzR2FpbiA9IG5ldyBNcDNHYWluKCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xvdWRTdG9yYWdlID0gJHN0b3JhZ2VGYWN0b3J5LT5jcmVhdGUoJ2Nsb3VkJyk7CiAgICAgICAgJGxvY2FsU3RvcmFnZSA9ICRzdG9yYWdlRmFjdG9yeS0+Y3JlYXRlKCdsb2NhbCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2114,28 +2118,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NhbXBsZXMnID0+ICR0aGlzLT5nZXRTYW1wbGVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAkc3RvcmFnZUZhY3Rvcnk6OmNyZWF0ZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGpzb25fZW5jb2RlKGFycmF5KAo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RvcmFnZUZhY3RvcnktPmtra2trCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkd2F2ZWZyb20tPgo=</text>
+        <text encoding="base64">ICAgICAgICAkbm9ybWFsaXplciA9IG5ldyBNcDNDbG91ZE5vcm1hbGl6ZXIoCiAgICAgICAgICAgICRzdG9yYWdlRmFjdG9yeS0+Y3JlYXRlKCdsb2NhbCcpLCAkc3RvcmFnZUZhY3RvcnktPmNyZWF0ZSgnY2xvdWQnKQogICAgICAgICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbm9ybWFsaXplciA9IG5ldyBNcDNDbG91ZE5vcm1hbGl6ZXIoCiAgICAgICAgICAgICRzdG9yYWdlRmFjdG9yeS0+Y3JlYXRlKCdsb2NhbCcpLCAkc3RvcmFnZUZhY3RvcnktPmNyZWF0ZSgnY2xvdWQnKQogICAgICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdHJhY2sgPSBuZXcgVHJhY2soJGZpbGVQYXRoKTsKICAgICAgICAkdHJhY2stPmdldFdhdmVmb3JtKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2VuZXJhdGUoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NhbXBsZXMnID0+ICR0aGlzLT5nZXRTYW1wbGVzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGpzb25fZW5jb2RlKGFycmF5KAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">ICAgICAgICAkd2F2ZWZyb20tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
