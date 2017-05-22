@@ -438,9 +438,11 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1495441425720">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="45" column="20" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1495470455004">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="40" />
+        <mark key="." line="42" column="40" />
+        <mark key="^" line="42" column="40" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Entities/traits/TimestampableTrait.php" timestamp="1446155892487">
         <mark key="[" line="1" column="0" />
@@ -550,11 +552,11 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/Source.php" timestamp="1495447656694">
-        <mark key="[" line="170" column="41" />
-        <mark key="]" line="170" column="41" />
-        <mark key="^" line="170" column="14" />
-        <mark key="." line="170" column="41" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/Source.php" timestamp="1495470406856">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="^" line="175" column="22" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/package.json" timestamp="1482154327755">
         <mark key="[" line="75" column="23" />
@@ -1618,7 +1620,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/CloudWaveformGenerator.php" timestamp="1495465239809" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/CloudWaveformGenerator.php" timestamp="1495470328981">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="42" />
+        <mark key="^" line="35" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/User/NameGenerator.php" timestamp="1465761765929">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="6" column="9" />
@@ -2093,7 +2100,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PurgeSourceCacheJob</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2105,7 +2112,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PurgeSourceCacheJob</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
@@ -2114,7 +2121,7 @@
         <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3Zhci93d3cvaHRtbC9kYXRhLmpzb24nLCBqc29uX2VuY29kZSgkZGF0YSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2F2ZWZvcm0gPSAkc2FtcGxlczsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2131,28 +2138,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICdsZW5ndGgnICA9PiAkd2F2ZWZyb20tPmdldExlbmd0aCgpLAogICAgICAgICAgICAgICAgJ2xldmVsJyAgID0+ICR3YXZlZnJvbS0+Z2V0TGV2ZWwoKSwKICAgICAgICAgICAgICAgICdzYW1wbGVzJyA9PiAkd2F2ZWZyb20tPmdldFNhbXBsZXMoKQogICAgICAgICAgICBdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYocHIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGEuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYocHIpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGEuCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRhdGEgPSA7Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGRhdGEgPSA7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
