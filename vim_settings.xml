@@ -544,11 +544,10 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/Source.php" timestamp="1495627299852">
-        <mark key="[" line="170" column="49" />
-        <mark key="]" line="170" column="26" />
-        <mark key="." line="170" column="26" />
-        <mark key="^" line="170" column="26" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/Source.php" timestamp="1495633032759">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/package.json" timestamp="1482154327755">
         <mark key="[" line="75" column="23" />
@@ -651,6 +650,12 @@
         <mark key="]" line="43" column="32" />
         <mark key="." line="43" column="32" />
         <mark key="^" line="44" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/VolumeNormalizer.php" timestamp="1495632634252">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/js/play.js" timestamp="1493716910640">
         <mark key="[" line="159" column="0" />
@@ -1412,6 +1417,12 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="40" column="126" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Normalization/Mp3Gain.php" timestamp="1495633098625">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/webserver.js" timestamp="1482160498003">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="47" column="19" />
@@ -1645,10 +1656,11 @@
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" timestamp="1495627013144">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" timestamp="1495632739541">
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="43" column="22" />
+        <mark key="." line="43" column="22" />
+        <mark key="^" line="43" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/css/unslider.css" timestamp="1484312957512">
         <mark key="[" line="88" column="14" />
@@ -2167,7 +2179,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbm9ybWFsaXplci0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Yml0cmF0ZSA9ICRzb3VyY2UtPmdldFNpemUoKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2188,7 +2200,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJGRxbCAuPSAnIEFORCBwbGF5bGlzdEl0ZW0uaWQgPSA6aXRlbUlkJzsKICAgICAgICAgICAgJHRoaXMtPnNldFBhcmFtZXRlcignaXRlbUlkJywgJHRoaXMtPml0ZW1JZCk7CiAgICAgICAgICAgIHJldHVybiAkZHFsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbm9ybWFsaXplci0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Yml0cmF0ZSA9ICRzb3VyY2UtPmdldFNpemUoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2205,28 +2217,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNvdXJjZS0+c2kK</text>
+        <text encoding="base64">ICAgICAgICBTb3VyY2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5T3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnlPcHRpb25zID0gWydpdGVtSWQnID0+ICRpdGVtSWRdOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbm9ybWFsaXplci0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnlPcHRpb25zID0gWydpdGVtSWQnID0+ICRpdGVtSWRdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNvdXJjZS0+c2kK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRoaXMtPml0ZW1JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5T3B0aW9ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnlPcHRpb25zID0gWydpdGVtSWQnID0+ICRpdGVtSWRdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkdGhpcy0+aXRlbUlkKXsKICAgICAgICAgICAgJGRxbCAuPSAnIFdIRVJFIHBsYXlsaXN0SXRlbS5pZCA9IDppdGVtSWQnOwogICAgICAgICAgICAkdGhpcy0+c2V0UGFyYW1ldGVyKCdpdGVtSWQnLCAkdGhpcy0+aXRlbUlkKTsKICAgICAgICAgICAgcmV0dXJuICRkcWw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnlPcHRpb25zID0gWydpdGVtSWQnID0+ICRpdGVtSWRdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRoaXMtPml0ZW1JZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
