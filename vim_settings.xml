@@ -89,6 +89,12 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineSourceRepository.php" timestamp="1497534457674">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="63" />
+        <mark key="." line="13" column="63" />
+        <mark key="^" line="13" column="63" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/app/Http/routes.php" timestamp="1482100043657">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -658,6 +664,12 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/SourceRepository.php" timestamp="1497534528143">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/.env" timestamp="1485708242863">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="15" />
@@ -848,11 +860,11 @@
         <mark key="." line="193" column="5" />
         <mark key="^" line="193" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/SourceController.php" timestamp="1497456246402">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/SourceController.php" timestamp="1497534517120">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+        <mark key="." line="18" column="35" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/backstage/css/main.css" timestamp="1497012469448">
         <mark key="[" line="198" column="20" />
@@ -883,7 +895,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497439100819">
+      <file name="/Dummy.txt" timestamp="1497534411513">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -1461,6 +1473,10 @@
         <mark key="]" line="81" column="48" />
         <mark key="." line="81" column="48" />
         <mark key="^" line="81" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" timestamp="1497534438349">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/create-location/create-location.scss" timestamp="1482078914370">
         <mark key="[" line="1" column="10" />
@@ -2085,6 +2101,12 @@
         <mark key="^" line="7" column="74" />
         <mark key="." line="7" column="74" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Providers/AppServiceProvider.php" timestamp="1497534481230">
+        <mark key="[" line="48" column="110" />
+        <mark key="]" line="48" column="115" />
+        <mark key="." line="48" column="115" />
+        <mark key="^" line="48" column="115" />
+      </file>
       <file name="$USER_HOME$/projects/cordova-instore-app/package.json" timestamp="1445980158635">
         <mark key="[" line="24" column="23" />
         <mark key="]" line="24" column="23" />
@@ -2240,8 +2262,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/PlaylistDomainService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0TXAzRmlsZSgpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Track</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2253,16 +2275,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVxdWVzdC0+Z2V0VG9waWMoKQ==</text>
+        <text>Track</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVnX21hdGNoKCcvcGxheWVyXC8oLiopXC8oLiopLycsICR0aGlzLT50b3BpYywgJG1hdGNoZXMpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChFbnRpdHlNYW5hZ2VyICRlbSkgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJGVtLCAnQXBwXERvbWFpblxQbGF5bGlzdFxQbGF5bGlzdCcpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0TXAzRmlsZSgpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2279,28 +2301,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>get()
+    {
+        
+    }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0TXAzRmlsZSgpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVnX21hdGNoKCcvcGxheWVyXC8oLiopXC8oLiopLycsICRyZXF1ZXN0LT5nZXRUb3BpYygpLCAkbWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldFRvcGljU2VnbWVudCgxKSA9PSAncGxheWVyJykgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
