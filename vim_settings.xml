@@ -2018,11 +2018,11 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/fulfillInvitationsForUserJob.php" timestamp="1497886923962">
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="21" />
-        <mark key="^" line="32" column="21" />
-        <mark key="." line="32" column="21" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/fulfillInvitationsForUserJob.php" timestamp="1497886951671">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="83" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/electron-release-server/docker-compose.override.yml" timestamp="1491322383716">
         <mark key="[" line="4" column="50" />
@@ -2351,8 +2351,8 @@
       <jump line="132" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Organisation.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2390,28 +2390,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZEJ5UmVzb3VyY2UoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGludml0YXRpb24tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQnkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZEJ5UmVzb3VyY2UoKSBtZXRob2QuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1ldGVyc1sndHlwZSddID0gZ2V0X2NsYXNzKCRyZXNvdXJjZSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgPT4gZ2V0X2NsYXNzKCRyZXNvdXJjZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgPT4gZ2V0X2NsYXNzKCRyZXNvdXJjZSkK</text>
+        <text encoding="base64">ICAgICAgICAkcGFyYW1ldGVyc1sndHlwZSddID0gZ2V0X2NsYXNzKCRyZXNvdXJjZSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2VtYWlsQWRkcmVzcycgPT4gJGVtYWlsLAogICAgICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgPT4gJHJlc291cmNlLT5nZXRUeXBlKCkKICAgICAgICAgICAgXQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgPT4gZ2V0X2NsYXNzKCRyZXNvdXJjZSkK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
