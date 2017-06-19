@@ -710,11 +710,11 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineInvitationRepository.php" timestamp="1497885773650">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="92" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineInvitationRepository.php" timestamp="1497886772236">
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="15" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="19" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/SourceRepository.php" timestamp="1497534528143">
         <mark key="[" line="11" column="6" />
@@ -763,11 +763,11 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Invitation/Invitation.php" timestamp="1497883492331">
-        <mark key="[" line="53" column="36" />
-        <mark key="]" line="53" column="56" />
-        <mark key="^" line="53" column="56" />
-        <mark key="." line="53" column="56" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Invitation/Invitation.php" timestamp="1497886839354">
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="3" />
+        <mark key="^" line="93" column="3" />
+        <mark key="." line="93" column="3" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Invitation/Invitable.php" timestamp="1497883402996">
         <mark key="[" line="8" column="28" />
@@ -1735,10 +1735,11 @@
         <mark key="." line="42" column="75" />
         <mark key="^" line="42" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Invitation/InvitationRepository.php" timestamp="1497885685538">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Invitation/InvitationRepository.php" timestamp="1497886811841">
         <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewSinglePlaylistItem.php" timestamp="1495624827827">
         <mark key="[" line="14" column="79" />
@@ -2017,11 +2018,11 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/fulfillInvitationsForUserJob.php" timestamp="1497885316195">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/fulfillInvitationsForUserJob.php" timestamp="1497886923962">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="21" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="32" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/electron-release-server/docker-compose.override.yml" timestamp="1491322383716">
         <mark key="[" line="4" column="50" />
@@ -2350,8 +2351,8 @@
       <jump line="132" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Organisation.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>|null</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2363,7 +2364,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>parameters</text>
+        <text>|null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
