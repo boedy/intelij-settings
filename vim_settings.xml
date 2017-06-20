@@ -240,9 +240,9 @@
         <mark key="^" line="51" column="21" />
         <mark key="." line="51" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/deezersync/node_modules/deezloader-server/server.js" timestamp="1497913703713">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="60" />
+      <file name="$USER_HOME$/projects/atmosphere/deezersync/node_modules/deezloader-server/server.js" timestamp="1497946544160">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="224" column="8" />
       </file>
       <file name="$USER_HOME$/projects/go/3rdparty/src/github.com/rancher/go-rancher/client/common.go" timestamp="1479647102501">
         <mark key="[" line="41" column="2" />
@@ -1660,11 +1660,11 @@
         <mark key="^" line="47" column="37" />
         <mark key="." line="47" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/deezersync/index.js" timestamp="1497944242295">
-        <mark key="[" line="146" column="23" />
-        <mark key="]" line="146" column="20" />
-        <mark key="." line="146" column="20" />
-        <mark key="^" line="146" column="20" />
+      <file name="$USER_HOME$/projects/atmosphere/deezersync/index.js" timestamp="1497946823787">
+        <mark key="[" line="292" column="9" />
+        <mark key="]" line="293" column="7" />
+        <mark key="." line="293" column="7" />
+        <mark key="^" line="293" column="7" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Types/Quarterly.php" timestamp="1483523842831">
         <mark key="[" line="12" column="0" />
@@ -1920,6 +1920,7 @@
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/deezersync/node_modules/deezloader-server/lib/deezer-api.js" timestamp="1497946005138" />
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/edit-location.js" timestamp="1482161603286">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="62" />
@@ -2361,8 +2362,8 @@
       <jump line="64" column="0" filename="$USER_HOME$/projects/atmosphere/deezersync/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1500000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzb2NrZXQuZG93bmxvYWRRdWV1ZS5wdXNoKF9hbGJ1bSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2374,16 +2375,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1500000</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQuZG93bmxvYWRXb3JrZXIucGxheWxpc3RDb250ZW50ID0gdHJhY2tzLmRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgY2FsbGJhY2sgPSBmdW5jdGlvbihlKXsKICAgICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvd25sb2FkUGxheWxpc3QoMTczOTE4NzQyMikK</text>
+        <text encoding="base64">ICAgICAgICBzb2NrZXQuZG93bmxvYWRRdWV1ZS5wdXNoKF9hbGJ1bSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2400,58 +2401,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0LmVtaXQoInVwZGF0ZVF1ZXVlIiwgX3BsYXlsaXN0KTsK</text>
+        <text encoding="base64">ICBEZWV6ZXIuZ2V0QWxidW1UcmFja3Moc29ja2V0LmRvd25sb2FkV29ya2VyLmlkLCBmdW5jdGlvbiAoZXJyLCB0cmFja3MpIHsKICAgIGZvciAodmFyIGkgPSAwOyBpIDwgdHJhY2tzLmRhdGEubGVuZ3RoOyBpKyspIHsKICAgICAgdHJhY2tzLmRhdGFbaV0gPSB0cmFja3MuZGF0YVtpXS5pZDsKICAgIH0KICAgIHNvY2tldC5kb3dubG9hZFdvcmtlci5wbGF5bGlzdENvbnRlbnQgPSB0cmFja3MuZGF0YTsKICAgIHNvY2tldC5kb3dubG9hZFdvcmtlci5zZXR0aW5ncy50YWdQb3NpdGlvbiA9IHRydWU7CiAgICBzb2NrZXQuZG93bmxvYWRXb3JrZXIuc2V0dGluZ3MuYWRkVG9QYXRoID0gc29ja2V0LmRvd25sb2FkV29ya2VyLmFydGlzdCArICIgLSAiICsgc29ja2V0LmRvd25sb2FkV29ya2VyLm5hbWU7CiAgICBhc3luYy5lYWNoU2VyaWVzKHNvY2tldC5kb3dubG9hZFdvcmtlci5wbGF5bGlzdENvbnRlbnQsIGZ1bmN0aW9uIChpZCwgY2FsbGJhY2spIHsKICAgICAgaWYgKHNvY2tldC5kb3dubG9hZFdvcmtlci5jYW5jZWxGbGFnKSB7CiAgICAgICAgY2FsbGJhY2soInN0b3AiKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgICAgc29ja2V0LmRvd25sb2FkV29ya2VyLnNldHRpbmdzLnBsYXlsaXN0ID0gewogICAgICAgIHBvc2l0aW9uOiBzb2NrZXQuZG93bmxvYWRXb3JrZXIucGxheWxpc3RDb250ZW50LmluZGV4T2YoaWQpLAogICAgICAgIGZ1bGxTaXplOiBzb2NrZXQuZG93bmxvYWRXb3JrZXIucGxheWxpc3RDb250ZW50Lmxlbmd0aAogICAgICB9OwogICAgICBkb3dubG9hZFRyYWNrKGlkLCBzb2NrZXQuZG93bmxvYWRXb3JrZXIuc2V0dGluZ3MsIGZ1bmN0aW9uIChlcnIpIHsKICAgICAgICBjYWxsYmFjaygpOwogICAgICB9KTsKICAgIH0sIGZ1bmN0aW9uIChlcnIpIHsKICAgICAgY29uc29sZS5sb2coIkFsYnVtIGZpbmlzaGVkOiAiICsgc29ja2V0LmRvd25sb2FkV29ya2VyLm5hbWUpOwogICAgfSk7CiAgfSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>socket.downloadWorker.settings.addToPath = socket.downloadWorker.name;
-        async.eachSeries(tracks.data, function (id, callback) {
-          if (socket.downloadWorker.cancelFlag) {
-            callback(&quot;stop&quot;);
-            return;
-          }
-          socket.downloadWorker.settings.playlist = {
-            position: socket.downloadWorker.playlistContent.indexOf(id),
-            fullSize: socket.downloadWorker.playlistContent.length
-          };
-          downloadTrack(id, socket.downloadWorker.settings, function (err) {
-            if (!err) {
-              socket.downloadWorker.downloaded++;
-            } else {
-              console.log(err);
-              socket.downloadWorker.failed++;
-            }
-            socket.emit(&quot;updateQueue&quot;, socket.downloadWorker);
-            callback();
-          });
-        }, function (err) {
-          c</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoc29ja2V0LmRvd25sb2FkV29ya2VyLmNvdW50UGVyQWxidW0pIHsKICAgICAgICAgIGNhbGxiYWNrKCk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGlmICghZXJyKSB7CiAgICAgICAgICBzb2NrZXQuZG93bmxvYWRXb3JrZXIuZG93bmxvYWRlZCsrOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBzb2NrZXQuZG93bmxvYWRXb3JrZXIuZmFpbGVkKys7CiAgICAgICAgfQogICAgICAgIHNvY2tldC5lbWl0KCJ1cGRhdGVRdWV1ZSIsIHNvY2tldC5kb3dubG9hZFdvcmtlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJQbGF5bGlzdCBmaW5pc2hlZDogIiArIHNvY2tldC5kb3dubG9hZFdvcmtlci5uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHNvY2tldC5kb3dubG9hZFdvcmtlci5jb3VudFBlckFsYnVtKSB7CiAgICAgICAgc29ja2V0LmRvd25sb2FkV29ya2VyLmRvd25sb2FkZWQrKzsKICAgICAgICBpZiAoc29ja2V0LmRvd25sb2FkUXVldWUubGVuZ3RoID4gMSAmJiBzb2NrZXQuZG93bmxvYWRRdWV1ZVsxXS5xdWV1ZUlkID09IHNvY2tldC5kb3dubG9hZFdvcmtlci5xdWV1ZUlkKSB7CiAgICAgICAgICBzb2NrZXQuZG93bmxvYWRRdWV1ZVsxXS5kb3dubG9hZCA9IHNvY2tldC5kb3dubG9hZFdvcmtlci5kb3dubG9hZGVkOwogICAgICAgIH0KICAgICAgICBzb2NrZXQuZW1pdCgidXBkYXRlUXVldWUiLCBzb2NrZXQuZG93bmxvYWRXb3JrZXIpOwogICAgICB9Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>socket.downloadWorker.
-socket.downloadWorker.
-socket.downloadWorker.
-socket.downloadWorker.
-socket.downloadWorker.
-socket.downloadWorker.
-socket.downloadWorker.
-socket.downloadWorker.
-socket.downloadWorker.
-socket.downloadWorker.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHNvY2tldC5kb3dubG9hZFdvcmtlciAmJiBzb2NrZXQuZG93bmxvYWRRdWV1ZVswXSAmJiBzb2NrZXQuZG93bmxvYWRRdWV1ZVswXS5xdWV1ZUlkID09IHNvY2tldC5kb3dubG9hZFdvcmtlci5xdWV1ZUlkKSBzb2NrZXQuZG93bmxvYWRRdWV1ZS5zaGlmdCgpOwogICAgICBzb2NrZXQuZG93bmxvYWRXb3JrZXIgPSBudWxsOwogICAgICBxdWV1ZVdvcmtlcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChzb2NrZXQuZG93bmxvYWRXb3JrZXIgJiYgc29ja2V0LmRvd25sb2FkUXVldWVbMF0gJiYgc29ja2V0LmRvd25sb2FkUXVldWVbMF0ucXVldWVJZCA9PSBzb2NrZXQuZG93bmxvYWRXb3JrZXIucXVldWVJZCkgc29ja2V0LmRvd25sb2FkUXVldWUuc2hpZnQoKTsKICAgICAgICAgIHNvY2tldC5kb3dubG9hZFdvcmtlciA9IG51bGw7CiAgICAgICAgICBxdWV1ZVdvcmtlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2soInN0b3AiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RGVlemVyLmdldFBsYXlsaXN0VHJhY2tzKHBsYXlsaXN0SWQsIGZ1bmN0aW9uIChlcnIsIHRyYWNrcykgewogIGZvciAodmFyIGkgPSAwOyBpIDwgdHJhY2tzLmRhdGEubGVuZ3RoOyBpKyspIHsKICAgIHRyYWNrcy5kYXRhW2ldID0gdHJhY2tzLmRhdGFbaV0uaWQ7CiAgfQogIHNvY2tldC5kb3dubG9hZFdvcmtlci5zZXR0aW5ncy5hZGRUb1BhdGggPSBzb2NrZXQuZG93bmxvYWRXb3JrZXIubmFtZTsKICBhc3luYy5lYWNoU2VyaWVzKHRyYWNrcy5kYXRhLCBmdW5jdGlvbiAoaWQsIGNhbGxiYWNrKSB7CiAgICBpZiAoc29ja2V0LmRvd25sb2FkV29ya2VyLmNhbmNlbEZsYWcpIHsKICAgICAgY2FsbGJhY2soInN0b3AiKTsKICAgICAgcmV0dXJuOwogICAgfQogICAgc29ja2V0LmRvd25sb2FkV29ya2VyLnNldHRpbmdzLnBsYXlsaXN0ID0gewogICAgICBwb3NpdGlvbjogc29ja2V0LmRvd25sb2FkV29ya2VyLnBsYXlsaXN0Q29udGVudC5pbmRleE9mKGlkKSwKICAgICAgZnVsbFNpemU6IHNvY2tldC5kb3dubG9hZFdvcmtlci5wbGF5bGlzdENvbnRlbnQubGVuZ3RoCiAgICB9OwogICAgZG93bmxvYWRUcmFjayhpZCwgc29ja2V0LmRvd25sb2FkV29ya2VyLnNldHRpbmdzLCBmdW5jdGlvbiAoZXJyKSB7CiAgICAgIGlmICghZXJyKSB7CiAgICAgICAgc29ja2V0LmRvd25sb2FkV29ya2VyLmRvd25sb2FkZWQrKzsKICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgICAgIHNvY2tldC5kb3dubG9hZFdvcmtlci5mYWlsZWQrKzsKICAgICAgfQogICAgICBzb2NrZXQuZW1pdCgidXBkYXRlUXVldWUiLCBzb2NrZXQuZG93bmxvYWRXb3JrZXIpOwogICAgICBjYWxsYmFjaygpOwogICAgfSk7CiAgfSwgZnVuY3Rpb24gKGVycikgewogICAgY29uc29sZS5sb2coIlBsYXlsaXN0IGZpbmlzaGVkOiAiICsgc29ja2V0LmRvd25sb2FkV29ya2VyLm5hbWUpOwogICAgaWYgKHNvY2tldC5kb3dubG9hZFdvcmtlciAmJiBzb2NrZXQuZG93bmxvYWRRdWV1ZVswXSAmJiBzb2NrZXQuZG93bmxvYWRRdWV1ZVswXS5xdWV1ZUlkID09IHNvY2tldC5kb3dubG9hZFdvcmtlci5xdWV1ZUlkKSBzb2NrZXQuZG93bmxvYWRRdWV1ZS5zaGlmdCgpOwogICAgc29ja2V0LmRvd25sb2FkV29ya2VyID0gbnVsbDsKICAgIHF1ZXVlV29ya2VyKCk7CiAgfSk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHF1ZXVlSWQgPSAiaWQiICsgTWF0aC5yYW5kb20oKS50b1N0cmluZygzNikuc3Vic3RyaW5nKDIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0LmVtaXQoImFkZFRvUXVldWUiLCBfcGxheWxpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHF1ZXVlSWQ6IHF1ZXVlSWQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
