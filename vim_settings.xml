@@ -1899,10 +1899,11 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/ExpireToken.php" timestamp="1498035892340">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/ExpireToken.php" timestamp="1498038217598">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/CustomerController.php" timestamp="1487428977844">
         <mark key="[" line="49" column="71" />
@@ -2387,7 +2388,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>expires</text>
+        <text>password</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2399,13 +2400,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>expires</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERvbWFpbkV4Y2VwdGlvbignRW1haWwgYWRkcmVzcyBkb2VzblwndCBtYXRjaCcpOwo=</text>
+      <register name="0" type="4">
+        <text>env('RESET_SECRET')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
