@@ -519,7 +519,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498127905270">
+      <file name="/Dummy.txt" timestamp="1498147140310">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -578,11 +578,10 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NotificationRepository.php" timestamp="1498127189292">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="10" column="26" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NotificationRepository.php" timestamp="1498146963954">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/WaveformPlayer.js" timestamp="1496311561538">
         <mark key="[" line="81" column="12" />
@@ -955,6 +954,12 @@
         <mark key="^" line="14" column="87" />
         <mark key="." line="14" column="87" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/UserNotification.php" timestamp="1498147250297">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/node_modules/sonos-discovery/lib/musicservices.js" timestamp="1482170040905">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="6" column="20" />
@@ -1086,17 +1091,22 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NotificationReceiver.php" timestamp="1498147821914">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="30" column="28" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.parts" timestamp="1491817545122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/Notification.php" timestamp="1498145737663">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="26" column="6" />
-        <mark key="^" line="26" column="6" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/Notification.php" timestamp="1498147955006">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/Track/TrackSourcePresenter.php" timestamp="1495622643575">
         <mark key="[" line="11" column="43" />
@@ -1233,6 +1243,10 @@
         <mark key="]" line="24" column="27" />
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/PlaylistItem.php" timestamp="1498146746403">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="25" column="6" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/.gitignore" timestamp="1482099056199">
         <mark key="[" line="3" column="0" />
@@ -2215,11 +2229,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/TriggerCommentNotificationJob.php" timestamp="1498144891874">
-        <mark key="[" line="51" column="34" />
-        <mark key="]" line="52" column="11" />
-        <mark key="." line="52" column="11" />
-        <mark key="^" line="52" column="11" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/TriggerCommentNotificationJob.php" timestamp="1498147727148">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="50" column="45" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Http/Controllers/TrackController.php" timestamp="1446488783228">
         <mark key="[" line="19" column="12" />
@@ -2452,7 +2466,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2464,16 +2478,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5nZXRJZCgpOw==</text>
+        <text>NotificationReceiver $r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cWItPnNlbGVjdCgnZGlzdGluY3QgdXNlcicpLT5mcm9tKCdBcHBcRG9tYWluXFVzZXJcVXNlcicsICd1c2VyJyk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxJZCgpCiAgICAgKiBAT1JNXEdlbmVyYXRlZFZhbHVlKCkKICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9ImludGVnZXIiKQogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2490,28 +2504,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyICAgKi8K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiByZWFkQnkoVXNlciAkdXNlcikKICAgIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkY29udGV4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgY291bnQoJHVzZXJzKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQAogICAgICovCiAgICBwcml2YXRlICRyZWNlaXZlcnM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJHJlc291cmNlLT5nZXRQbGF5bGlzdCgpLT5nZXROYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
