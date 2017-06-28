@@ -731,9 +731,6 @@
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/docker-config/php/php.ini" timestamp="1498640319029">
         <mark key="[" line="1917" column="6" />
-        <mark key="]" line="798" column="22" />
-        <mark key="^" line="798" column="22" />
-        <mark key="." line="798" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/UrlSigner.php" timestamp="1490302245356">
         <mark key="[" line="6" column="12" />
@@ -1423,6 +1420,12 @@
         <mark key="]" line="17" column="19" />
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/nginx/local.default.conf" timestamp="1498642879085">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="88" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="30" column="41" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/lame/lib/decoder.js" timestamp="1489862970828">
         <mark key="[" line="4" column="0" />
@@ -2407,10 +2410,7 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/nginx/xhgui.default.conf" timestamp="1498638966493">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/nginx/xhgui.default.conf" timestamp="1498642887219">
         <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/projects/test/microservice-test/consumer/consumer1.php" timestamp="1483052398384">
@@ -2631,7 +2631,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Users/markstory/Sites</text>
+        <text>a</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2643,13 +2643,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Users/markstory/Sites</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIG1vbmdvCg==</text>
+        <text encoding="base64">ICAgICAgICBmYXN0Y2dpX3BhcmFtIFBIUF9WQUxVRSAiYXV0b19wcmVwZW5kX2ZpbGU9L3ZhYXIvd3d3L3hoZ3VpL2V4dGVybmFsL2hlYWRlci5waHAiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAtIG1vbmdvCiAgICAgIHZvbHVtZXNfZnJvbToK</text>
