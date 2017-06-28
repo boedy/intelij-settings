@@ -556,7 +556,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498654486953">
+      <file name="/Dummy.txt" timestamp="1498677417355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -1528,6 +1528,10 @@
         <mark key="^" line="44" column="82" />
         <mark key="." line="44" column="72" />
       </file>
+      <file name="/DoctrinePlaylistItemQuery.php" timestamp="1498677077575">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="141" />
+      </file>
       <file name="$USER_HOME$/projects/docker/instore/composer.json" timestamp="1446476702835">
         <mark key="[" line="18" column="55" />
         <mark key="]" line="18" column="55" />
@@ -1599,11 +1603,11 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistItemQuery.php" timestamp="1498654398251">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="142" />
-        <mark key="." line="21" column="22" />
-        <mark key="^" line="21" column="43" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistItemQuery.php" timestamp="1498677328505">
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="38" column="22" />
+        <mark key="." line="38" column="22" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/app/Http/Controllers/MixpanelController.php" timestamp="1481037969290">
         <mark key="[" line="45" column="45" />
@@ -2636,7 +2640,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZWxlY3QoJ3BsYXlsaXN0SXRlbSwgdHJhY2ssIHBhcnRpYWwgc291cmNlcy57aWQsIGZpbGVQYXRoLCBzaXplLCBiaXRyYXRlLCBub3JtYWxpemVkVm9sdW1lfSwgY291bnQoY29tbWVudHMpIEFTIGNvbW1lbnRfY291bnQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAtPnNlbGVjdCgncGxheWxpc3RJdGVtLCB0cmFjaywgcGFydGlhbCBzb3VyY2VzLntpZCwgZmlsZVBhdGgsIHNpemUsIGJpdHJhdGUsIG5vcm1hbGl6ZWRWb2x1bWV9LCBjb3VudChjb21tZW50cykgQVMgY29tbWVudF9jb3VudCcpCgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2648,16 +2652,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SELECT playlistItem,track,sources</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZWxlY3QoJ3BsYXlsaXN0SXRlbSwgdHJhY2ssIHBhcnRpYWwgc291cmNlcy57aWQsIGZpbGVQYXRoLCBzaXplLCBiaXRyYXRlLCBub3JtYWxpemVkVm9sdW1lfSwgY291bnQoY29tbWVudHMpIEFTIGNvbW1lbnRfY291bnQnKQo=</text>
+      <register name="0" type="4">
+        <text>playlistItem, track, partial sources.{id, filePath, size, bitrate, normalizedVolume}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAtPnNlbGVjdCgncGxheWxpc3RJdGVtLCB0cmFjaywgcGFydGlhbCBzb3VyY2VzLntpZCwgZmlsZVBhdGgsIHNpemUsIGJpdHJhdGUsIG5vcm1hbGl6ZWRWb2x1bWV9LCBjb3VudChjb21tZW50cykgQVMgY29tbWVudF9jb3VudCcpCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2674,28 +2678,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHBsYXlsaXN0SWQ7CiAgICBwcml2YXRlICRpdGVtSWQ7CiAgICBwcml2YXRlICRleGNsdWRlZCA9IFtdOwogICAgcHJpdmF0ZSAkc2VsZWN0aW9uID0gW107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGxheWxpc3RJdGVtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtIG1vbmdvCiAgICAgIHZvbHVtZXNfZnJvbToK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGxheWxpc3RJdGVtcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIG1lbWNhY2hlZAogICAgICAgIC0gYmVhbnN0YWxrZAogICAgICAgIC0gczM6YnVja2V0LnMzCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIGV4YW1wbGUuY29tOwo=</text>
+        <text encoding="base64">ICAgICAgICAtIG1vbmdvCiAgICAgIHZvbHVtZXNfZnJvbToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAtIG1lbWNhY2hlZAogICAgICAgIC0gYmVhbnN0YWxrZAogICAgICAgIC0gczM6YnVja2V0LnMzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uIC8gewogICAgICAgIHRyeV9maWxlcyAkdXJpICR1cmkvIC9pbmRleC5waHA/JHF1ZXJ5X3N0cmluZzsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIGV4YW1wbGUuY29tOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
