@@ -265,7 +265,6 @@
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/wercker.yml" timestamp="1499336873655">
         <mark key="[" line="29" column="0" />
-        <mark key="]" line="31" column="54" />
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Scenarios/Billing/CoffeeAndCoconuts.php" timestamp="1483716683046">
@@ -566,7 +565,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499336973292">
+      <file name="/Dummy.txt" timestamp="1499340364654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -1561,6 +1560,10 @@
         <mark key="^" line="44" column="82" />
         <mark key="." line="44" column="72" />
       </file>
+      <file name="/DoctrinePlaylistItemQuery.php" timestamp="1499340079916">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="141" />
+      </file>
       <file name="$USER_HOME$/projects/docker/instore/composer.json" timestamp="1446476702835">
         <mark key="[" line="18" column="55" />
         <mark key="]" line="18" column="55" />
@@ -1637,11 +1640,6 @@
         <mark key="]" line="30" column="162" />
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistItemQuery.php" timestamp="1498678026428">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/app/Http/Controllers/MixpanelController.php" timestamp="1481037969290">
         <mark key="[" line="45" column="45" />
@@ -1804,7 +1802,7 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/.env.wercker" timestamp="1499336897469" />
+      <file name="$USER_HOME$/projects/atmosphere/api/.env.wercker" timestamp="1499337959069" />
       <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1498638202878">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="19" />
@@ -2672,7 +2670,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>instore-staging.cgvp51cnfmvk.eu-west-1.rds.amazonaws.com</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2684,7 +2682,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>instore-staging.cgvp51cnfmvk.eu-west-1.rds.amazonaws.com</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2734,7 +2732,7 @@
         <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaHR0cHM6Ly9hcHAua2xsa3QuY29tL2Fzc2V0cy9pbWcvaWNvbi4xNzUxOWQyNTQ1YWI4YTZjLnBuZyI+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>action EditorSelectWord</text>
       </register>
     </registers>
     <search>
@@ -2777,7 +2775,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
         <entry>action AceAction</entry>
         <entry>action EditorUnSelectWord</entry>
-        <entry>action EditorSelectWord</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcFNpbmdsZVF1b3Rlcw==</entry>
         <entry>action Macro.wrapParentesis</entry>
         <entry>sp</entry>
@@ -2790,6 +2787,7 @@
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action EditorSelectWord</entry>
       </history-cmd>
       <history-expr />
       <history-input />
