@@ -572,7 +572,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499356943811">
+      <file name="/Dummy.txt" timestamp="1499679200392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -720,11 +720,11 @@
         <mark key="." line="112" column="28" />
         <mark key="^" line="112" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendNewCommentsNotificationEmail.php" timestamp="1498825380319">
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="34" column="26" />
-        <mark key="." line="34" column="26" />
-        <mark key="^" line="34" column="26" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendNewCommentsNotificationEmail.php" timestamp="1499678508537">
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="43" column="40" />
+        <mark key="." line="43" column="40" />
+        <mark key="^" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.js" timestamp="1482088228038">
         <mark key="[" line="18" column="27" />
@@ -2705,8 +2705,8 @@
       <jump line="33" column="14" filename="$USER_HOME$/projects/kollekt/mitsubishi/songs.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb3VudGVyKys7CiAgY29uc29sZS5sb2coY291bnRlcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2718,7 +2718,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2727,7 +2727,7 @@
         <text encoding="base64">ICBjb3VudGVyKys7CiAgY29uc29sZS5sb2coY291bnRlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb3VudGVyKys7CiAgY29uc29sZS5sb2coY291bnRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2744,32 +2744,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGNvdW50ZXIgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb3VudGVyKys7CiAgY29uc29sZS5sb2coY291bnRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcQ2FjaGU6OnB1dCgkdGhpcy0+Y2FjaGVLZXksICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBjYiA9ICgpIAo=</text>
+        <text encoding="base64">ICBjb3VudGVyKys7CiAgY29uc29sZS5sb2coY291bnRlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGNvdW50ZXIgPSAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3VudGVyKys7CiAgY29uc29sZS5sb2coY291bnRlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjYiA9ICgpIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-          title: val.title,
-          dealCycleInWeeks: moment(val.add_time).subtract(val.won_time).weeks(),
-          dealValue: val.value
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
