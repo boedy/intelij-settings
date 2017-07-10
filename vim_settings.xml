@@ -1998,10 +1998,10 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/sales-data-api/routes/index.js" timestamp="1499463423352">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/sales-data-api/routes/index.js" timestamp="1499677253386">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/wercker.yml" timestamp="1487597819832">
         <mark key="[" line="28" column="0" />
@@ -2706,7 +2706,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3VudGVyKys7CiAgY29uc29sZS5sb2coY291bnRlcik7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2723,11 +2723,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>moment(val.won_time)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb3VudGVyKys7CiAgY29uc29sZS5sb2coY291bnRlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3VudGVyKys7CiAgY29uc29sZS5sb2coY291bnRlcik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2744,32 +2744,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGNvdW50ZXIgPSAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3VudGVyKys7CiAgY29uc29sZS5sb2coY291bnRlcik7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCBjYiA9ICgpIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>{
           title: val.title,
           dealCycleInWeeks: moment(val.add_time).subtract(val.won_time).weeks(),
           dealValue: val.value
         }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYWxSYXRpbzogCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkZWFsVmFsdWUK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3ZWVrQ3ljbGUgPSAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdlZWtDeWNsZTogd2Vla0N5Y2xlIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
