@@ -8,7 +8,7 @@
       <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\(.*?\\)\\`(.*?)\\`"))]]></place>
       <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\..*?\\`(.*?)\\`"))]]></place>
     </injection>
-    <injection language="PostCSS" injector-id="js">
+    <injection language="SCSS" injector-id="js">
       <display-name>styled-components</display-name>
       <prefix>some_component {</prefix>
       <suffix>}</suffix>
