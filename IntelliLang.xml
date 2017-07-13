@@ -4,9 +4,17 @@
       <display-name>styled components</display-name>
       <prefix>dummy {</prefix>
       <suffix>}</suffix>
-      <place><![CDATA[jsLiteralExpression().withText(string().matchesBrics("keyframes\\`(.*?)\\`"))]]></place>
-      <place><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\(.*?\\)\\`(.*?)\\`"))]]></place>
-      <place><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\..*?\\`(.*?)\\`"))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("keyframes\\`(.*?)\\`"))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\(.*?\\)\\`(.*?)\\`"))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\..*?\\`(.*?)\\`"))]]></place>
+    </injection>
+    <injection language="SCSS" injector-id="js">
+      <display-name>styled-components</display-name>
+      <prefix>some_component {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[jsLiteralExpression().and(jsArgument("styled", 0))]]></place>
+      <place><![CDATA[jsLiteralExpression().withParent(psiElement().withParent(psiElement().withText(string().startsWith("Styled"))))]]></place>
+      <place><![CDATA[jsLiteralExpression().withParent(psiElement().withText(string().startsWith("styled")))]]></place>
     </injection>
   </component>
 </application>

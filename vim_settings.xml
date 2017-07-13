@@ -290,9 +290,9 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/MainMenu.js" timestamp="1499940384039">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="1" column="39" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/MainMenu.js" timestamp="1499944926257">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Entities/traits/TimestampableTrait.php" timestamp="1446155892487">
         <mark key="[" line="1" column="0" />
@@ -1939,10 +1939,11 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Login.js" timestamp="1499940186917">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Login.js" timestamp="1499945415760">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="25" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/RecurringInvoiceRepository.php" timestamp="1487456387755">
         <mark key="[" line="12" column="25" />
@@ -1961,10 +1962,6 @@
         <mark key="]" line="36" column="7" />
         <mark key="." line="36" column="7" />
         <mark key="^" line="36" column="7" />
-      </file>
-      <file name="/DoctrineNotificationRepository.php" timestamp="1499893325893">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="83" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Types/Monthly.php" timestamp="1483523806144">
         <mark key="[" line="12" column="0" />
@@ -2042,6 +2039,9 @@
         <mark key="]" line="6" column="97" />
         <mark key="^" line="6" column="97" />
         <mark key="." line="6" column="97" />
+      </file>
+      <file name="/injection.txt" timestamp="1499945362831">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/mqtt.html" timestamp="1485269888973">
         <mark key="[" line="2" column="0" />
@@ -2445,11 +2445,11 @@
         <mark key="^" line="111" column="25" />
         <mark key="." line="111" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/App.js" timestamp="1494628176340">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="51" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="17" column="7" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/App.js" timestamp="1499944968792">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" timestamp="1495111105410">
         <mark key="[" line="36" column="36" />
@@ -2485,6 +2485,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="/Dummy.regexp" timestamp="1499945362838">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Product/Atmosphere.php" timestamp="1483523213130">
         <mark key="[" line="15" column="5" />
@@ -2848,7 +2851,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">Y29uc3QgTWFpbiA9IHN0eWxlZC5uYXZgCiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICBiYWNrZ3JvdW5kOiAjZmZmOwogIGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNlZWU7CmA7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2860,16 +2863,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5nZXRJZCgp</text>
+        <text>(MainMenu)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">Y29uc3QgbWVudVdpZHRoID0gMzAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgTWFpbiA9IHN0eWxlZC5uYXZgCiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICBiYWNrZ3JvdW5kOiAjZmZmOwogIGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNlZWU7CmA7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2886,28 +2889,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkaXRlbS0+YWRkQ29tbWVudCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IE1haW5NZW51IGZyb20gJy4uL2NvbXBvbmVudHMvTWFpbk1lbnUnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Y29uc3QgTWFpbiA9IHN0eWxlZC5uYXZgCiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICBiYWNrZ3JvdW5kOiAjZmZmOwogIGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNlZWU7CmA7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PExvZ28+PGltZyBzcmM9e2xvZ299IGFsdD0iQXRtb3NwaGVyZSIgLz48L0xvZ28+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRUeXBlKCl7CiAgICAgICAgJHBhcnRzID0gZXhwbG9kZSgnXFwnLCAkdGhpcy0+Y29udGV4dCk7CiAgICAgICAgcmV0dXJuIGFycmF5X3BvcCgkcGFydHMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIDwvTWFpbk1lbnVTdHlsZWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tbWVudCA9ICRjb21tZW50UmVwb3NpdG9yeS0+Z2V0KCR0aGlzLT5jb21tZW50SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaXRlbS0+YWRkQ29tbWVudCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0U3ViamVjdCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
@@ -2955,7 +2958,6 @@
         <entry>action EditorUnSelectWord</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcFNpbmdsZVF1b3Rlcw==</entry>
         <entry>action Macro.wrapParentesis</entry>
-        <entry>action AceJumpAction</entry>
         <entry>action Macro.wrapSingleQuotes</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>w</entry>
@@ -2966,6 +2968,7 @@
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action AceJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
