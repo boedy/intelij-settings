@@ -2969,7 +2969,7 @@
         <text encoding="base64">dmFyIGRhdGEK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -3021,10 +3021,10 @@
         <entry>action SplitHorizontally</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>vsp</entry>
-        <entry>sp</entry>
         <entry>action AceJumpAction</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
