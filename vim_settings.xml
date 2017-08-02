@@ -1175,6 +1175,12 @@
         <mark key="." line="65" column="50" />
         <mark key="^" line="66" column="80" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/landingpage/index.html" timestamp="1501686509298">
+        <mark key="[" line="89" column="23" />
+        <mark key="]" line="89" column="24" />
+        <mark key="." line="89" column="24" />
+        <mark key="^" line="89" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/howler.js" timestamp="1481978761818">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -2899,7 +2905,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rgba(255,255,255,0.3);</text>
+        <text>h</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2911,16 +2917,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rgba(255,255,255,0.3);</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxLjZlbTsK</text>
+        <text encoding="base64">ICAgICAgICAuYmFja2Ryb3AgLnBob25lIGltZyB7CiAgICAgICAgICAgIHdpZHRoOiA0NTBweDsKICAgICAgICAgICAgbWFyZ2luLXRvcDogNDB2aDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZy1yaWdodDogMTUwcHg7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2937,28 +2943,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IGluaGVyaXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMS4yZW07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiA2MDBweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0ic3F1YXJlLWJ1dHRvbiB3aXRoLWkiIGhyZWY9Ii9vdXRyZWFjaC8iPgogICAgICAgICAgICBHZXQgaW4gdG91Y2ggPGkgY2xhc3M9Im1hdGVyaWFsLWljb25zIj5rZXlib2FyZF9hcnJvd19yaWdodDwvaT4KICAgICAgICA8L2E+CiAgICAgICAgPD9waHAKICAgICAgICAkY3RhX3N1YmxpbmUgPSBnZXRfZmllbGQoJ2N0YV9zdWJsaW5lJyk7CiAgICAgICAgaWYoJGN0YV9zdWJsaW5lKXsKICAgICAgICAgICAgPz4KICAgICAgICAgICAgPHA+T3IsIDxhIGhyZWY9Ijw/cGhwIGVjaG8gZ2V0X2ZpZWxkKCdjdGFfc3VibGluZV91cmwnKTsgPz4iPjw/cGhwIGVjaG8gJGN0YV9zdWJsaW5lOyA/PjwvYT48L3A+CiAgICAgICAgICAgIDw/cGhwCiAgICAgICAgfWVsc2V7ID8+CiAgICAgICAgICAgIDxwPk9yIGNhbGwgdXMsICgrMzEpIDIwIDI2MTUyNjg8L3A+CiAgICAgICAgICAgIDw/cGhwCiAgICAgICAgfSA/Pgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMS4yZW07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2N1cmF0b3IgKyAjY3RhIHsKICAgIGRpc3BsYXk6IG5vbmU7Cn0K</text>
+        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0ic3F1YXJlLWJ1dHRvbiB3aXRoLWkiIGhyZWY9Ii9vdXRyZWFjaC8iPgogICAgICAgICAgICBHZXQgaW4gdG91Y2ggPGkgY2xhc3M9Im1hdGVyaWFsLWljb25zIj5rZXlib2FyZF9hcnJvd19yaWdodDwvaT4KICAgICAgICA8L2E+CiAgICAgICAgPD9waHAKICAgICAgICAkY3RhX3N1YmxpbmUgPSBnZXRfZmllbGQoJ2N0YV9zdWJsaW5lJyk7CiAgICAgICAgaWYoJGN0YV9zdWJsaW5lKXsKICAgICAgICAgICAgPz4KICAgICAgICAgICAgPHA+T3IsIDxhIGhyZWY9Ijw/cGhwIGVjaG8gZ2V0X2ZpZWxkKCdjdGFfc3VibGluZV91cmwnKTsgPz4iPjw/cGhwIGVjaG8gJGN0YV9zdWJsaW5lOyA/PjwvYT48L3A+CiAgICAgICAgICAgIDw/cGhwCiAgICAgICAgfWVsc2V7ID8+CiAgICAgICAgICAgIDxwPk9yIGNhbGwgdXMsICgrMzEpIDIwIDI2MTUyNjg8L3A+CiAgICAgICAgICAgIDw/cGhwCiAgICAgICAgfSA/Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3QK</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
