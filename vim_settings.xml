@@ -717,6 +717,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/docker-config/jobs/supervisord.conf" timestamp="1502100282020">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/core/actions/player.js" timestamp="1479996440789">
         <mark key="[" line="98" column="26" />
         <mark key="]" line="98" column="26" />
@@ -2909,7 +2914,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2921,7 +2926,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2971,7 +2976,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImN1c3RvbWVyLWN1cmF0b3IiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZsaXAtY29udGFpbmVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBjbGFzcz0icGxhY2Vob2xkZXIiIHNyYz0iPD9waHAgZWNobyAkcHJlc3NfaW1hZ2VzWydkZWZhdWx0J107ID8+Ij4K</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3017,7 +3022,6 @@
         <entry>action Macro.wrapParentesis</entry>
         <entry>action Macro.wrapSingleQuotes</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
-        <entry>w</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action SplitHorizontally</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
@@ -3027,6 +3031,7 @@
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>sp</entry>
         <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
