@@ -416,7 +416,6 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php" timestamp="1502458629249" />
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/curator.php" timestamp="1501851219295">
         <mark key="[" line="77" column="150" />
         <mark key="]" line="77" column="150" />
@@ -824,6 +823,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/untitled/index.js" timestamp="1502718598058">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="12" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/style.css" timestamp="1501838134251">
         <mark key="[" line="190" column="50" />
         <mark key="]" line="190" column="50" />
@@ -1038,7 +1043,6 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" timestamp="1502444760990" />
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Events/NewLicenceAgreementWasRegistered.php" timestamp="1487430921032">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="15" />
@@ -1571,10 +1575,6 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1502380096358">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="21" column="8" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/backstage/index.html" timestamp="1497868220725">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="7" />
@@ -1836,7 +1836,6 @@
         <mark key="^" line="47" column="45" />
         <mark key="." line="61" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/storage/framework/sessions/mbDeW7yVdsH4RUqqmJACoto2HZ915i5JVCiJhM3k" timestamp="1502456137916" />
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/database/ElasticSearch.php" timestamp="1495030674937">
         <mark key="[" line="143" column="18" />
         <mark key="]" line="143" column="16" />
@@ -2971,11 +2970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="27" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/DoctrineEntityId.php" />
-      <jump line="53" column="37" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/Handlers/ContractHandler.php" />
-      <jump line="77" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" />
-      <jump line="151" column="9" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Contract.php" />
-      <jump line="83" column="106" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Invoice/MoneyBirdRecurringInvoice.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Invoice/MoneyBirdRecurringInvoice.php" />
       <jump line="28" column="20" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceGenerator.php" />
       <jump line="58" column="9" filename="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" />
@@ -3071,10 +3065,15 @@
       <jump line="89" column="27" filename="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" />
       <jump line="92" column="19" filename="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" />
       <jump line="57" column="38" filename="$USER_HOME$/projects/atmosphere/payments/resources/views/pincode.blade.php" />
+      <jump line="1494" column="2" filename="$USER_HOME$/projects/atmosphere/untitled/data.json" />
+      <jump line="2990" column="0" filename="$USER_HOME$/projects/atmosphere/untitled/data.json" />
+      <jump line="799" column="29" filename="$USER_HOME$/projects/atmosphere/untitled/data.json" />
+      <jump line="1495" column="0" filename="$USER_HOME$/projects/atmosphere/untitled/data.json" />
+      <jump line="1483" column="42" filename="$USER_HOME$/projects/atmosphere/untitled/data.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>parsed[0].</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3086,16 +3085,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>parsed[0].</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaW5jb2RlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>env('APP_URL').</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHRpdGxlID0gcmVzcC5kYXRhWzBdLnRpdGxlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3112,28 +3111,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRJbnZvaWNlcygpCiAgICB7CiAgICAgICAgJGFjY291bnRpbmcgPSBuZXcgQWNjb3VudGluZygpOwogICAgICAgICRhY2NvdW50aW5nLT5nZXRSZWN1cnJpbmdJbnZvaWNlc0J5SWRzKFsnMTkyMzEzNjc0NDUxMzg3NDk1JywgJzE5MjMxMzE3NzU2MDU4MTk1OSddKTsKICAgIH0K</text>
+        <text encoding="base64">ZHouZmluZFRyYWNrcyhwYXJzZWQudGl0bGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0cmFjayk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
+        <text encoding="base64">Y29uc3QgcmVzdWx0cyA9IHBhcnNlZC5yZWR1Y2UoKHByb21pc2UsIHRyYWNrKSA9PiB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIHByb21pc2UudGhlbigoKSA9PiB7CiAgICAgIGR6LmZpbmRUcmFja3ModHJhY2sudGl0bGUpLnRoZW4ocmVzcCA9PiB7CiAgICAgICAgaWYoIHJlc3AudG90YWwpewogICAgICAgICAgY29uc3QgYXJ0aXN0ID0gcmVzcC5kYXRhWzBdLmFydGlzdC5uYW1lOwogICAgICAgICAgY29uc3QgdGl0bGUgPSByZXNwLmRhdGFbMF0udGl0bGU7CiAgICAgICAgICBjb25zb2xlLmxvZyh0cmFjay50aXRsZSwgJyB8ICcsIGFydGlzdCAsICcgLSAnLCB0aXRsZSApOwogICAgICAgIH0KICAgICAgICAKICAgICAgICBzZXRUaW1lb3V0KHJlc29sdmUsIDEwMDApOwogICAgICB9KTsKICAgIH0pCiAgfSk7Cn0sIFByb21pc2UucmVzb2x2ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwPjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImludHJvIiA+CiAgICAgICAgPGgxID5SZWN1cnJpbmcgUGF5bWVudHM8L2gxID4KICAgICAgICA8cCA+VGhpcyBwYWdlIGlzIHRvIGhlbHAgeW91IHNldHVwIHJlY3VycmluZyBwYXltZW50cyBmb3Igb3VyIG11c2ljIHNlcml2Y2UgYEF0bW9zcGhlcmVgLiBXZSBzdXBwb3J0IGEgbGFyZ2UKICAgICAgICAgICAgYXJyYXkgb2YgcGF5bWVudCBtZXRob2RzLiDigKYuPC9wID4KICAgIDwvZGl2ID4KICAgIDxkaXYgY2xhc3M9InBheW1lbnRNZXRob2RzIiA+CiAgICAgICAgPGg0PlN1cHBvcnRlZCBwYXltZW50IG1ldGhvZHM8L2g0PgogICAgICAgIDxkaXYgY2xhc3M9Im1ldGhvZCIgPjxpbWcgdGl0bGU9ImlEZWFsIiBhbHQ9ImlEZWFsIiBzcmM9Ii9pbWFnZXMvaWRlYWwucG5nIiA+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcHRpb24iID5pRGVhbDwvZGl2ID4KICAgICAgICA8L2RpdiA+CiAgICAgICAgPGRpdiBjbGFzcz0ibWV0aG9kIiA+PGltZyB0aXRsZT0iTWFzdGVyY2FyZCIgYWx0PSJNYXN0ZXJjYXJkIiBzcmM9Ii9pbWFnZXMvbWFzdGVyY2FyZC5wbmciID4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FwdGlvbiIgPk1hc3RlcmNhcmQ8L2RpdiA+CiAgICAgICAgPC9kaXYgPgogICAgICAgIDxkaXYgY2xhc3M9Im1ldGhvZCIgPjxpbWcgdGl0bGU9IlZpc2EiIGFsdD0iVmlzYSIgc3JjPSIvaW1hZ2VzL3Zpc2EucG5nIiA+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcHRpb24iID5WaXNhPC9kaXYgPgogICAgICAgIDwvZGl2ID4KICAgICAgICA8ZGl2IGNsYXNzPSJtZXRob2QiID48aW1nIHRpdGxlPSJBbWVyaWNhbiBFeHByZXNzIiBhbHQ9IkFtZXJpY2FuIEV4cHJlc3MiIHNyYz0iL2ltYWdlcy9hbWV4LnBuZyIgPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXB0aW9uIiA+QW1leDwvZGl2ID4KICAgICAgICA8L2RpdiA+CiAgICAgICAgPGRpdiBjbGFzcz0ibWV0aG9kIiA+PGltZyB0aXRsZT0iU29mb3J0IiBhbHQ9IlNvZm9ydCIgc3JjPSIvaW1hZ2VzL3NvZm9ydC5wbmciID4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FwdGlvbiIgPlNvZm9ydDwvZGl2ID4KICAgICAgICA8L2RpdiA+CiAgICAgICAgPGRpdiBjbGFzcz0ibWV0aG9kIiA+PGltZyB0aXRsZT0iQmFuY29udGFjdCIgYWx0PSJCYW5jb250YWN0IiBzcmM9Ii9pbWFnZXMvYmFuY29udGFjdC5wbmciID4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FwdGlvbiIgPkJhbmNvbnRhY3Q8L2RpdiA+CiAgICAgICAgPC9kaXYgPgogICAgICAgIDxkaXYgY2xhc3M9Im1ldGhvZCIgPjxpbWcgdGl0bGU9IktCQyAvIENCQyIgYWx0PSJLQkMgLyBDQkMiIHNyYz0iL2ltYWdlcy9rYmMucG5nIiA+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcHRpb24iID5LQkMvQ0JDPC9kaXYgPgogICAgICAgIDwvZGl2ID4KICAgICAgICA8ZGl2IGNsYXNzPSJtZXRob2QiID48aW1nIHRpdGxlPSJCZWxmaXVzIiBhbHQ9IkJlbGZpdXMiIHNyYz0iL2ltYWdlcy9iZWxmaXVzLnBuZyIgPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXB0aW9uIiA+QmVsZml1czwvZGl2ID4KICAgICAgICA8L2RpdiA+CiAgICA8L2RpdiA+CiAgICA8ZGl2IGNsYXNzPSJwaW5jb2RlIj4KICAgICAgICA8aDI+RW50ZXIgeW91ciBwaW5jb2RlPC9oMj4KICAgICAgICA8Zm9ybSBtZXRob2Q9InBvc3QiIGFjdGlvbj0iL3BpbmNvZGUiPgogICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJ1cmwiIHZhbHVlPSJ7eyR1cmx9fSI+CiAgICAgICAgICAgIHt7IGNzcmZfZmllbGQoKSB9fQogICAgICAgICAgICA8aW5wdXQgdHlwZT0icGFzc3dvcmQiIG5hbWU9InBpbiIgbWF4bGVuZ3RoPSI0Ij48YnV0dG9uIHR5cGU9InN1Ym1pdCI+Y29uZmlybTwvYnV0dG9uPgogICAgICAgIDwvZm9ybT4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
