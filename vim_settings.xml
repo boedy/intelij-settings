@@ -793,11 +793,12 @@
         <mark key="^" line="169" column="20" />
         <mark key="." line="169" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/untitled/fingerprint.js" timestamp="1502732764085">
-        <mark key="[" line="68" column="22" />
-        <mark key="]" line="68" column="41" />
-        <mark key="^" line="68" column="21" />
-        <mark key="." line="68" column="22" />
+      <file name="$USER_HOME$/projects/atmosphere/untitled/fingerprint.js" timestamp="1502743130421">
+        <mark key="'" line="98" column="4" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="77" column="16" />
+        <mark key="." line="77" column="16" />
+        <mark key="^" line="77" column="16" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/vendor/jasny/audio/src/Jasny/Audio/Waveform.php" timestamp="1495465466771">
         <mark key="[" line="130" column="21" />
@@ -2974,7 +2975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="9" filename="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" />
       <jump line="66" column="8" filename="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" />
       <jump line="56" column="11" filename="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" />
@@ -3074,10 +3074,11 @@
       <jump line="1483" column="42" filename="$USER_HOME$/projects/atmosphere/untitled/data.json" />
       <jump line="42" column="32" filename="$USER_HOME$/projects/atmosphere/untitled/node_modules/acr-cloud/example/example.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/untitled/node_modules/acr-cloud/example/example.js" />
+      <jump line="94" column="4" filename="$USER_HOME$/projects/atmosphere/untitled/fingerprint.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>response.status.msg</text>
+        <text>identify</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3089,16 +3090,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>identify</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaW5jb2RlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>response.status.msg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0lkZW50aWZpZWQ6ICcsIGl0ZW0udHJhY2sudGl0bGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJycpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3114,31 +3115,39 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
+      <register name="2" type="4">
         <text>{
-              bufferLength: buffer.length
-            }</text>
+          // required
+          // access_key: '25c7c2dc79eb2dee7786b7c7217dd9e1',
+          // access_secret: 'nNUC2YaLEgAyQgesteACPBuFSO2MJhDEIs7ZP4vT',
+          access_key: '6c0b4b1317a1e02664627c569d4a93ff',
+          access_secret: 'ZYn5JkOFiBWvrMIwFgm5YrJ9IBmBXPphC9olV309',
+          requrl: 'identify-eu-west-1.acrcloud.com',
+          http_method: 'POST',
+          http_uri: '/v1/identify',
+          data_type: 'audio',
+        }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dmFyIGFjciA9IG5ldyBBQ1JDbG91ZCh7CiAgLy8gcmVxdWlyZWQKICAvLyBhY2Nlc3Nfa2V5OiAnMjVjN2MyZGM3OWViMmRlZTc3ODZiN2M3MjE3ZGQ5ZTEnLAogIC8vIGFjY2Vzc19zZWNyZXQ6ICduTlVDMllhTEVnQXlRZ2VzdGVBQ1BCdUZTTzJNSmhERUlzN1pQNHZUJywKICBhY2Nlc3Nfa2V5OiAnNmMwYjRiMTMxN2ExZTAyNjY0NjI3YzU2OWQ0YTkzZmYnLAogIGFjY2Vzc19zZWNyZXQ6ICdaWW41SmtPRmlCV3ZyTUl3RmdtNVlySjlJQm1CWFBwaEM5b2xWMzA5JywKICByZXF1cmw6ICdpZGVudGlmeS1ldS13ZXN0LTEuYWNyY2xvdWQuY29tJywKICBodHRwX21ldGhvZDogJ1BPU1QnLAogIGh0dHBfdXJpOiAnL3YxL2lkZW50aWZ5JywKICBkYXRhX3R5cGU6ICdhdWRpbycsCn0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2Uuc3RhdHVzLm1zZyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0ZW0ubWV0YWRhdGEgPSB7CiAgICAgICAgICAgIGJ1ZmZlckxlbmd0aDogYnVmZmVyLmxlbmd0aAogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdJZGVudGlmeWluZzogJywgaXRlbS50cmFjay50aXRsZSk7CiAgICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5zdGF0dXMubXNnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLm1ldGFkYXRhID0gewogICAgICAgICAgYnVmZmVyTGVuZ3RoOiBidWZmZXIubGVuZ3RoCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlKGl0ZW0pCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnSWRlbnRpZnlpbmc6ICcsIGl0ZW0udHJhY2sudGl0bGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlYWNoZWQgZW5kOiAnLCBpdGVtLnRyYWNrLnRpdGxlKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
