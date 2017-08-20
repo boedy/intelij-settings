@@ -1161,11 +1161,11 @@
         <mark key="^" line="48" column="70" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/test/soulseek/robot/index.js" timestamp="1503243744177">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="21" column="28" />
+      <file name="$USER_HOME$/projects/test/soulseek/robot/index.js" timestamp="1503252414882">
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="58" column="28" />
+        <mark key="." line="58" column="28" />
+        <mark key="^" line="58" column="28" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/objectMappers/facebook/FacebookPostMapper.php" timestamp="1497006449348">
         <mark key="[" line="13" column="0" />
@@ -3137,7 +3137,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>x</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3149,16 +3149,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaW5jb2RlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>JSON.stringify(img)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCB4U3RhcnQgPSA3ODI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coaW1nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3175,28 +3175,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZG9uZScpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnMucmVhZEZpbGUoJ2xvZ28nLCB7fSwgKGVyciwgZmlsZSkgPT4ge2NvbnNvbGUubG9nKGZpbGUpO30pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmcy5yZWFkRmlsZSgnbG9nbycsIHt9LCAoZmlsZSkgPT4ge2NvbnNvbGUubG9nKGZpbGUpO30pOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZG9uZScpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGluaXRGb2xkZXJzKCkgewogIC8vIERlZmluZSB0aGUgdmFycwogIHZhciBjb3ZlckFydERpciA9IF9fZGlybmFtZSArICIvaW1nIjsKICB2YXIgbXAzRmlsZXNEaXIgPSBfX2Rpcm5hbWUgKyAiL21wMyI7CgogIC8vIENoZWNrIGlmIGZvbGRlciBmb3IgY292ZXJzIGV4aXN0cy4gQ3JlYXRlIGlmIG5vdAogIGlmIChmcy5leGlzdHNTeW5jKGNvdmVyQXJ0RGlyKSkgewoKICAgIC8vIERlbGV0ZSBlYWNoIGZpbGUgaW5zaWRlIHRoZSBmb2xkZXIKICAgIGZzLnJlYWRkaXJTeW5jKGNvdmVyQXJ0RGlyKS5mb3JFYWNoKGZ1bmN0aW9uIChmaWxlLCBpbmRleCkgewogICAgICB2YXIgY3VyUGF0aCA9IGNvdmVyQXJ0RGlyICsgIi8iICsgZmlsZTsKICAgICAgZnMudW5saW5rU3luYyhjdXJQYXRoKTsKICAgIH0pOwoKICAgIC8vIERlbGV0ZSB0aGUgZm9sZGVyIGFuZCBtYWtlIGEgbmV3IG9uZQogICAgZnMucm1kaXIoY292ZXJBcnREaXIsIGZ1bmN0aW9uIChlcnIpIHsKICAgICAgZnMubWtkaXJTeW5jKF9fZGlybmFtZSArICIvaW1nIik7CiAgICB9KTsKICB9IGVsc2UgewogICAgZnMubWtkaXJTeW5jKF9fZGlybmFtZSArICIvaW1nIik7CiAgfQoKICAvLyBDcmVhdGUgaWYgZm9sZGVyIGZvciBhdWRpbyBmaWxlcyBkb2VzIG5vdCBleGlzdAogIGlmICghZnMuZXhpc3RzU3luYyhtcDNGaWxlc0RpcikpIHsKICAgIGZzLm1rZGlyU3luYyhtcDNGaWxlc0RpcikKICB9Cn0KCmZ1bmN0aW9uIHNldHRpbmdzUmVnZXgobWV0YWRhdGEsIGZpbGVuYW1lLCBwbGF5bGlzdCkgewogIGZpbGVuYW1lID0gZmlsZW5hbWUucmVwbGFjZSgvJXRpdGxlJS9nLCBtZXRhZGF0YS50aXRsZSk7CiAgZmlsZW5hbWUgPSBmaWxlbmFtZS5yZXBsYWNlKC8lYWxidW0lL2csIG1ldGFkYXRhLmFsYnVtKTsKICBmaWxlbmFtZSA9IGZpbGVuYW1lLnJlcGxhY2UoLyVhcnRpc3QlL2csIG1ldGFkYXRhLmFydGlzdCk7CiAgaWYgKHBsYXlsaXN0KSB7CiAgICBmaWxlbmFtZSA9IGZpbGVuYW1lLnJlcGxhY2UoLyVudW1iZXIlL2csIHBhZChwbGF5bGlzdC5wb3NpdGlvbiArIDEsIHBsYXlsaXN0LmZ1bGxTaXplLnRvU3RyaW5nKCkubGVuZ3RoKSk7CiAgfQogIHJldHVybiBmaWxlbmFtZTsKfQoKZnVuY3Rpb24gcGFkKHN0ciwgbWF4KSB7CiAgc3RyID0gc3RyLnRvU3RyaW5nKCk7CiAgcmV0dXJuIHN0ci5sZW5ndGggPCBtYXggPyBwYWQoIjAiICsgc3RyLCBtYXgpIDogc3RyOwp9Cgpwcm9jZXNzLm9uKCd1bmNhdWdodEV4Y2VwdGlvbicsIGZ1bmN0aW9uIChlcnIpIHsKICBjb25zb2xlLmxvZygiVW5jYXVnaHQgRXhjZXB0aW9uOiIsIGVycik7CiAgcHJvY2Vzcy5leGl0KDEpOyAgLy8gVGhpcyBpcyBWSVRBTC4gRG9uJ3Qgc3dhbGxvdyB0aGUgZXJyIGFuZCB0cnkgdG8gY29udGludWUuCn0pOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmKGltZy5jb2xvckF0KHgsIHkpID09ICcwMDAwMDAnKXsKICAgICAgY29uc3QgZmlsZSA9IHt9OwogICAgICBhd2FpdCBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7CiAgICAgICAgcm9ib3QubW92ZU1vdXNlKHgsIHlTdGFydCt5KTsKICAgICAgICBmaWxlLm5hbWUgPSBjb3B5VW5kZXJDdXJzb3IoKTsKICAgICAgICByb2JvdC5tb3ZlTW91c2UoMTEyMCwgeVN0YXJ0K3kpOwogICAgICAgIGZpbGUuc2l6ZSA9IGNvcHlVbmRlckN1cnNvcigpOwogICAgICAgIHJvYm90Lm1vdmVNb3VzZSgxMjIwLCB5U3RhcnQreSk7CiAgICAgICAgZmlsZS5hdHRyID0gY29weVVuZGVyQ3Vyc29yKCkuc3BsaXQoJywnKTsKICAgICAgICBmaWxlLmF0dHIgPSBmaWxlLmF0dHIuZmlsdGVyKCh2YWwpID0+ICh2YWwpKTsKCiAgICAgICAgZmlsZXMucHVzaChmaWxlKTsKICAgICAgICB5Kz0gMTM7CiAgICAgICAgcmVzb2x2ZSgpOwogICAgICAgIC8vIHNldFRpbWVvdXQocmVzb2x2ZSwgNTAwKTsKICAgICAgfSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICByZXR1cm4gbmNwLmNvcHkocSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbml0aWFsaXplZCA9IHRydWU7CiAgLy8gZG93bmxvYWRQbGF5bGlzdCgnMTczOTE4NzQyMicpOwo=</text>
+        <text encoding="base64">Y29weWxpc3RpbmcoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
