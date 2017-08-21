@@ -2053,11 +2053,10 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/test/soulseek/robot/linux.js" timestamp="1503318911915">
-        <mark key="[" line="91" column="24" />
-        <mark key="]" line="92" column="3" />
-        <mark key="^" line="92" column="3" />
-        <mark key="." line="92" column="3" />
+      <file name="$USER_HOME$/projects/test/soulseek/robot/linux.js" timestamp="1503321459894">
+        <mark key="[" line="49" column="34" />
+        <mark key="]" line="49" column="2" />
+        <mark key="." line="49" column="2" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/.env.wercker" timestamp="1499869640500">
         <mark key="[" line="0" column="8" />
@@ -3143,8 +3142,8 @@
       <jump line="19" column="38" filename="$USER_HOME$/projects/atmosphere/payments/app/Accounting.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5jcC5jb3B5KCcnKTsKICAgIHByZXZpb3VzQ29weSA9IG51bGw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3156,16 +3155,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>408</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaW5jb2RlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBmb3IobGV0IGkgPSAwOyBpIDwgZm9sZGVycy5sZW5ndGg7IGkrKyl7Cg==</text>
+      <register name="0" type="4">
+        <text>robot.getPixelColor(392,160)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5jcC5jb3B5KCcnKTsKICAgIHByZXZpb3VzQ29weSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICB9CiAgcmV0dXJuOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3182,31 +3181,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmb2xkZXJzLnB1c2goe2ZvbGRlcjogY29weX0pCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb2JvdC5nZXRQaXhlbENvbG9yKDM5MiwxNjApKTsKICBpZihyb2JvdC5nZXRQaXhlbENvbG9yKDM5MiwxNjApID09ICdmZGZjZmEnKXsKICAgIGNvbnNvbGUubG9nKCd0cnVlJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBza2lwcyA9IDA7Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>else{
-        skips++;
-        folders[folders.length-1].skips = skips;
-      }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcmV2aW91c0NvcHkpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBuY3AuY29weSgnbWluYml0cmF0ZTozMjAnKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICByb2JvdC50eXBlU3RyaW5nKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICByb2JvdC5rZXlUYXAoJ2VudGVyJyk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb3IobGV0IGogPSAwOyBqIDwgdHJhY2tzW2ldLnNraXBzOyBqKyspewogICAgcm9ib3Qua2V5VGFwKCdkb3duJyk7CiAgICByb2JvdC5rZXlUYXAoJ2MnLCAnY29udHJvbCcpOwogICAgY29uc3QgY29weSA9IG5jcC5wYXN0ZSgpOwogICAgaWYoY29weSA9PSAnJykgY29udGludWU7CiAgICBpZihjb3B5ICE9IHByZXZpb3VzQ29weSl7CiAgICAgIC8vIGZvbGRlcnMucHVzaCh7Zm9sZGVyOiBjb3B5fSkKICAgICAgcHJldmlvdXNDb3B5ID0gY29weTsKICAgICAgZm9sZGVyc1tpXS50cmFja3MucHVzaChjb3B5KQogICAgICBjb25zb2xlLmxvZyhwcmV2aW91c0NvcHkpOwogICAgICBza2lwcyA9IDA7CiAgICB9ZWxzZXsKICAgICAgc2tpcHMrKzsKICAgICAgZm9sZGVyc1tmb2xkZXJzLmxlbmd0aC0xXS5za2lwcyA9IHNraXBzOwogICAgfQogIH0K</text>
+        <text encoding="base64">ICByb2JvdC5tb3ZlTW91c2UoNzc1LDcwNSk7CiAgcm9ib3QubW91c2VDbGljaygnbGVmdCcsIGZhbHNlKTsKICByb2JvdC5rZXlUYXAoJ2EnLCAnY29udHJvbCcpOwogIHJvYm90LnR5cGVTdHJpbmcoJ2JpdHJhdGU6MzIwJykKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcmV2aW91c0NvcHkpOwo=</text>
+        <text encoding="base64">ICAKICAvLyByb2JvdC50eXBlU3RyaW5nKHEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmb2xkZXJzLnB1c2goe2ZvbGRlcjogY29weX0pCg==</text>
+        <text encoding="base64">ICByb2JvdC5tb3ZlTW91c2UoNzc1LDcwNSk7CiAgcm9ib3QubW91c2VDbGljaygnbGVmdCcsIGZhbHNlKTsKICByb2JvdC5rZXlUYXAoJ2EnLCAnY29udHJvbCcpOwogIHJvYm90LnR5cGVTdHJpbmcoJ2JpdHJhdGU6MzIwJykK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
