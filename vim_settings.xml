@@ -11,9 +11,6 @@
         <mark key="^" line="207" column="22" />
         <mark key="." line="208" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1502886277792">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/index.html" timestamp="1482229192839">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="37" />
@@ -605,6 +602,12 @@
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/test/soulseek/robot/mouse.js" timestamp="1503307068013">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="5" column="36" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/assets/sass/app.scss" timestamp="1502463469007">
         <mark key="[" line="187" column="13" />
@@ -1615,9 +1618,6 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Downloads/gnsdk-3.07.7.3701o-20150714/wrappers/gnsdk_cplusplus/samples/musicid_stream/main.cpp" timestamp="1502803924680">
-        <mark key="[" line="128" column="7" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/backstage/index.html" timestamp="1497868220725">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="7" />
@@ -1855,6 +1855,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/test/soulseek/robot/node_modules/copy-paste/index.js" timestamp="1503309804637" />
       <file name="$USER_HOME$/projects/kollekt/mitsubishi/index.html" timestamp="1499365358639">
         <mark key="[" line="31" column="68" />
         <mark key="]" line="5" column="58" />
@@ -2052,10 +2053,11 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/test/soulseek/robot/linux.js" timestamp="1503304215423">
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/projects/test/soulseek/robot/linux.js" timestamp="1503310253676">
+        <mark key="[" line="57" column="19" />
+        <mark key="]" line="57" column="20" />
+        <mark key="." line="57" column="20" />
+        <mark key="^" line="78" column="28" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/.env.wercker" timestamp="1499869640500">
         <mark key="[" line="0" column="8" />
@@ -3141,8 +3143,8 @@
       <jump line="19" column="38" filename="$USER_HOME$/projects/atmosphere/payments/app/Accounting.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>I am incontrol</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3154,16 +3156,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>I am incontrol</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaW5jb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bmNwLmNvcHkoJ0kgYW0gaW4gY29udHJvbCcpOwo=</text>
+        <text encoding="base64">ICBhd2FpdCBzbGVlcCgwLjUpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cm9ib3QudHlwZVN0cmluZygpOwo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3180,28 +3182,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHNsZWVwKDAuNSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKGltZy5jb2xvckF0KHgsIHkpID09ICcwMDAwMDAnKXsKICAgICAgY29uc3QgZmlsZSA9IHt9OwogICAgICBhd2FpdCBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7CiAgICAgICAgcm9ib3QubW92ZU1vdXNlKHgsIHlTdGFydCt5KTsKICAgICAgICBmaWxlLm5hbWUgPSBjb3B5VW5kZXJDdXJzb3IoKTsKICAgICAgICByb2JvdC5tb3ZlTW91c2UoMTEyMCwgeVN0YXJ0K3kpOwogICAgICAgIGZpbGUuc2l6ZSA9IGNvcHlVbmRlckN1cnNvcigpOwogICAgICAgIHJvYm90Lm1vdmVNb3VzZSgxMjIwLCB5U3RhcnQreSk7CiAgICAgICAgZmlsZS5hdHRyID0gY29weVVuZGVyQ3Vyc29yKCkuc3BsaXQoJywnKTsKICAgICAgICBmaWxlLmF0dHIgPSBmaWxlLmF0dHIuZmlsdGVyKCh2YWwpID0+ICh2YWwpKTsKCiAgICAgICAgZmlsZXMucHVzaChmaWxlKTsKICAgICAgICB5Kz0gMTM7CiAgICAgICAgcmVzb2x2ZSgpOwogICAgICAgIC8vIHNldFRpbWVvdXQocmVzb2x2ZSwgNTAwKTsKICAgICAgfSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhd2FpdCBzbGVlcCgxKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICBhd2FpdCBzbGVlcCgxKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmNwLmNvcHkocSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbWcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
