@@ -691,7 +691,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504616340226">
+      <file name="/Dummy.txt" timestamp="1504617774524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -707,6 +707,12 @@
         <mark key="]" line="31" column="25" />
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NotificationService.php" timestamp="1504618262324">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.scss" timestamp="1482088269660">
         <mark key="[" line="0" column="0" />
@@ -2928,12 +2934,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/TriggerCommentNotificationJob.php" timestamp="1504616747237">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/TriggerCommentNotificationJob.php" timestamp="1504618250162">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="53" />
-        <mark key="]" line="58" column="53" />
-        <mark key="^" line="58" column="81" />
-        <mark key="." line="58" column="53" />
+        <mark key="[" line="58" column="65" />
+        <mark key="]" line="58" column="66" />
+        <mark key="." line="58" column="66" />
+        <mark key="^" line="58" column="66" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Event/UserEvent.php" timestamp="1499780078588">
         <mark key="[" line="19" column="31" />
@@ -3217,8 +3223,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Jobs/TriggerCommentNotificationJob.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JiY=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXJzOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3230,7 +3236,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiY=</text>
+        <text>$users =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaW5jb2RlXD4=</text>
@@ -3239,7 +3245,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0xvY2F0aW9uTWFuZ2VyKFVzZXIgJHVzZXIsIExvY2F0aW9uICRsb2NhdGlvbikKICAgIHsKICAgICAgICBpZigkdGhpcy0+YWNsLT5pc0FsbG93ZWQoJHVzZXIsIEFjdGlvbnM6OkVESVQsICRsb2NhdGlvbikpewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXJzOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3256,28 +3262,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0NvbnN1bWVyKFVzZXIgJHVzZXIsIEwgJHBsYXlsaXN0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1c2VycykK</text>
+        <text encoding="base64">ICAgICAgICAkbm90aWZpY2F0aW9uU2VydmljZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgJGF1dGhvcml6YXRpb24tPmdldEVudGl0eUNsYXNzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVE9ETzogdGVtcCByZWZhY3RvciBmdW5jdGlvbgogICAgICogQHJldHVybiBDb2xsZWN0aW9ufEF1dGhvcml6YXRpb25bXQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QXV0aG9yaXphdGlvbnMoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+YXV0aG9yaXphdGlvbnM7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG86IGV4dHJhY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVcsIEFjdGlvbnM6OkVESVRdKSwgJHRoaXMtPmxvY2F0aW9uLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG86IGV4dHJhY3QKICAgICAgICAvL2V4Y2x1ZGUgYWN0b3IgYW5kIGRldmljZXMgZnJvbSByZWNlaXZlcnMKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxEb2N0cmluZVxFeHRlbnNpb25zXFRpbWVzdGFtcHNcVGltZXN0YW1wczsKdXNlIE15Q0xhYnNcQUNMXEFDTDsKdXNlIE15Q0xhYnNcQUNMXE1vZGVsXFJvbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlcnMgPSAkYWNjZXNzQ29udHJvbFNlcnZpY2UtPmdldFVzZXJzV2l0aEFjY2Vzc1RvUmVzb3VyY2UoJHJlc291cmNlKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmludCAkYXV0aG9yaXphdGlvbi0+Z2V0RW50aXR5Q2xhc3MoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
