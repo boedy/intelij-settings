@@ -270,6 +270,12 @@
         <mark key="." line="12" column="68" />
         <mark key="^" line="12" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Domain/Notification/NotificationServiceTest.php" timestamp="1504619459299">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="37" />
+        <mark key="^" line="26" column="37" />
+        <mark key="." line="26" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/cache/Memcached.php" timestamp="1493477307495">
         <mark key="[" line="29" column="67" />
         <mark key="]" line="30" column="37" />
@@ -691,7 +697,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504617774524">
+      <file name="/Dummy.txt" timestamp="1504619624328">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -708,11 +714,11 @@
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NotificationService.php" timestamp="1504618262324">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NotificationService.php" timestamp="1504619462939">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.scss" timestamp="1482088269660">
         <mark key="[" line="0" column="0" />
@@ -1253,6 +1259,10 @@
         <mark key="]" line="20" column="41" />
         <mark key="^" line="17" column="54" />
         <mark key="." line="20" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Domain/Track/TrackTest.php" timestamp="1504618788682">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="58" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" timestamp="1500551139169">
         <mark key="[" line="69" column="16" />
@@ -2934,7 +2944,7 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/TriggerCommentNotificationJob.php" timestamp="1504618250162">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/TriggerCommentNotificationJob.php" timestamp="1504619590500">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="65" />
         <mark key="]" line="58" column="66" />
@@ -3224,7 +3234,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9jayBpbnN0YW5jZW9mIERldmljZSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3236,16 +3246,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$users =</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaW5jb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0xvY2F0aW9uTWFuZ2VyKFVzZXIgJHVzZXIsIExvY2F0aW9uICRsb2NhdGlvbikKICAgIHsKICAgICAgICBpZigkdGhpcy0+YWNsLT5pc0FsbG93ZWQoJHVzZXIsIEFjdGlvbnM6OkVESVQsICRsb2NhdGlvbikpewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDMsICR1c2Vyc1swXS0+Z2V0SWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9jayBpbnN0YW5jZW9mIERldmljZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3262,25 +3272,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJHVzZXJzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbm90aWZpY2F0aW9uU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG86IGV4dHJhY3QK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG86IGV4dHJhY3QKICAgICAgICAvL2V4Y2x1ZGUgYWN0b3IgYW5kIGRldmljZXMgZnJvbSByZWNlaXZlcnMKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcnMgPSAkYWNjZXNzQ29udHJvbFNlcnZpY2UtPmdldFVzZXJzV2l0aEFjY2Vzc1RvUmVzb3VyY2UoJHJlc291cmNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdXNlcnMgPSBbXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbW9jay0+c2hvdWxkUmVjZWl2ZSgnYXNzaWduVG9UcmFjaycpLT5hbmRSZXR1cm4oKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
