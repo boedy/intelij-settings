@@ -545,6 +545,12 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="106" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Email/MailgunMailer.php" timestamp="1504693713136">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NewCommentNotification.php" timestamp="1499934801873">
         <mark key="[" line="27" column="56" />
         <mark key="]" line="27" column="56" />
@@ -697,7 +703,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504626145418">
+      <file name="/Dummy.txt" timestamp="1504693719198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -2146,11 +2152,11 @@
         <mark key="." line="59" column="23" />
         <mark key="^" line="64" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/.env.wercker" timestamp="1499869640500">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/projects/atmosphere/api/.env.wercker" timestamp="1504693483662">
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="24" />
+        <mark key="^" line="41" column="13" />
+        <mark key="." line="41" column="24" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1498638202878">
         <mark key="[" line="6" column="0" />
@@ -3227,8 +3233,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Jobs/TriggerCommentNotificationJob.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9jayBpbnN0YW5jZW9mIERldmljZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>info</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3240,7 +3246,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaW5jb2RlXD4=</text>
