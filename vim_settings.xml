@@ -872,12 +872,12 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" timestamp="1505395602461">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="55" column="18" />
-        <mark key="]" line="55" column="19" />
-        <mark key="." line="55" column="19" />
-        <mark key="^" line="52" column="22" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" timestamp="1505399318952">
+        <mark key="'" line="144" column="24" />
+        <mark key="[" line="114" column="55" />
+        <mark key="]" line="114" column="61" />
+        <mark key="." line="114" column="61" />
+        <mark key="^" line="114" column="61" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Roles/OrganisationManager.php" timestamp="1497961681051">
         <mark key="[" line="42" column="0" />
@@ -1082,7 +1082,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1505393585153">
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1505399157936">
         <mark key="'" line="121" column="23" />
         <mark key="[" line="121" column="34" />
         <mark key="]" line="121" column="34" />
@@ -1810,9 +1810,12 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Playlists.js" timestamp="1505387065422">
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Playlists.js" timestamp="1505399074078">
         <mark key="i" line="28" column="2" />
-        <mark key="^" line="34" column="25" />
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="43" column="18" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/backstage/index.html" timestamp="1497868220725">
         <mark key="[" line="16" column="20" />
@@ -3256,11 +3259,12 @@
         <mark key="." line="44" column="2" />
         <mark key="^" line="44" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Playlist.js" timestamp="1505386968951">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="23" column="30" />
-        <mark key="^" line="23" column="30" />
-        <mark key="." line="23" column="30" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Playlist.js" timestamp="1505399109319">
+        <mark key="'" line="20" column="28" />
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="48" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="20" column="48" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Events/ContractCreatedEvent.php" timestamp="1487874306833">
         <mark key="[" line="41" column="0" />
@@ -3324,8 +3328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="8" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/MainMenu.js" />
-      <jump line="56" column="5" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Playlist.js" />
       <jump line="36" column="12" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Playlist.js" />
@@ -3424,10 +3426,12 @@
       <jump line="103" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="5" column="9" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/ProgressBar.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/ProgressBar.js" />
+      <jump line="143" column="24" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
+      <jump line="20" column="28" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Playlist.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>playlistId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3439,7 +3443,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>span</text>
+        <text>playlistId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -3448,7 +3452,7 @@
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7aXNQbGF5aW5nOiBmYWxzZX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0SWQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3465,28 +3469,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2hpdGUtc3BhY2U6IG5vd3JhcDsKICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgICAgdGV4dC1vdmVyZmxvdzogZWxsaXBzaXM7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBoYW5kbGVDbGljayhwbGF5bGlzdElkKXsKICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0SWQpOwogIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDMwMHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXVkaW8gPSBuZXcgQXVkaW8ocHJvcHMucmVzdWx0LnByZXZpZXcpOwo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhdWRpbzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2hpdGUtc3BhY2U6IG5vd3JhcDsKICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgICAgdGV4dC1vdmVyZmxvdzogZWxsaXBzaXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
