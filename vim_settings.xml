@@ -279,7 +279,7 @@
         <mark key="]" line="28" column="40" />
         <mark key="." line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/deezer/sync.js" timestamp="1505403638525">
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/deezer/sync.js" timestamp="1505470904747">
         <mark key="'" line="216" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1642,10 +1642,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/index.js" timestamp="1505402783141">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/index.js" timestamp="1505471776280">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="29" column="25" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.html" timestamp="1482088343883">
         <mark key="[" line="3" column="66" />
@@ -3352,11 +3354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="12" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Playlist.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Playlist.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Playlist.js" />
-      <jump line="49" column="2" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistHeader.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistHeader.js" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistHeader.js" />
       <jump line="36" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/public/v1/index.php" />
       <jump line="450" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/public/v1/index.php" />
@@ -3452,10 +3449,15 @@
       <jump line="20" column="28" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Playlist.js" />
       <jump line="195" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/deezer/sync.js" />
       <jump line="215" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/deezer/sync.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/index.js" />
+      <jump line="1" column="16" filename="$USER_HOME$/projects/atmosphere/content-digger/index.js" />
+      <jump line="44" column="2" filename="$USER_HOME$/projects/atmosphere/content-digger/index.js" />
+      <jump line="45" column="2" filename="$USER_HOME$/projects/atmosphere/content-digger/index.js" />
+      <jump line="28" column="26" filename="$USER_HOME$/projects/atmosphere/content-digger/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGF0IHRoZSBiYXIu</text>
+        <text>req</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3467,10 +3469,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGF0IHRoZSBiYXIu</text>
+        <text>req</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRcPg==</text>
+        <text>req</text>
       </register>
       <register name="0" type="4">
         <text>'**/.idea/**'</text>
@@ -3521,18 +3523,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRcPg==</last-search>
+      <last-search>req</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRcPg==</last-pattern>
+      <last-pattern>req</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXN0XD4=</entry>
-        <entry>persi</entry>
         <entry>playlist</entry>
         <entry>Playlist</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
@@ -3551,6 +3551,8 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxwaW5jb2RlXD4=</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry>get</entry>
+        <entry>req</entry>
       </history-search>
       <history-cmd>
         <entry>map ss :action AceAction</entry>
