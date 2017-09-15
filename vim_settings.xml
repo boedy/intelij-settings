@@ -328,11 +328,11 @@
         <mark key="." line="21" column="19" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/js/send_tracks.js" timestamp="1505294629191">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="20" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/js/send_tracks.js" timestamp="1505495824329">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/index.js" timestamp="1482228867014">
         <mark key="[" line="19" column="36" />
@@ -1311,11 +1311,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/scraper.js" timestamp="1505294750204">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="24" column="2" />
-        <mark key="^" line="23" column="7" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/scraper.js" timestamp="1505495946099">
+        <mark key="[" line="21" column="78" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/objectMappers/facebook/FacebookPostMapper.php" timestamp="1497006449348">
         <mark key="[" line="13" column="0" />
@@ -1643,6 +1643,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/index.js" timestamp="1505495183877">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="32" />
+        <mark key="^" line="30" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.html" timestamp="1482088343883">
         <mark key="[" line="3" column="66" />
         <mark key="]" line="3" column="69" />
@@ -1702,11 +1708,11 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" timestamp="1505402555164">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="54" />
-        <mark key="^" line="6" column="36" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" timestamp="1505496056466">
+        <mark key="[" line="37" column="69" />
+        <mark key="]" line="39" column="20" />
+        <mark key="^" line="39" column="20" />
+        <mark key="." line="39" column="20" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Customer/CustomerEsRepository.php" timestamp="1485859656755">
         <mark key="[" line="13" column="0" />
@@ -3456,7 +3462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBvc3QoJy90cmFja3MnLCByb3V0ZXMuYWRkVHJhY2spCg==</text>
+        <text encoding="base64">Ly8gc3RyID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoImh0bWwiKVswXS5pbm5lckhUTUw7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3468,16 +3474,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jwtAuth('g4nIp9kZ1drLpEi5mjG6TkBZOO9JV86Z')</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByb3V0ZXIoCiAgICBnZXQoJy9zZWFyY2gnLCByb3V0ZXMuc2VhcmNoKSwKICAgIGdldCgnL3ByZXZpZXcvOmhhc2gnLCByb3V0ZXMucHJldmlldyksCiAgICBwb3N0KCcvdHJhY2tzJywgcm91dGVzLmFkZFRyYWNrKQopKTsK</text>
+      <register name="0" type="4">
+        <text>document.getElementsByClassName('title')[0].innerHTML;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc3QoJy90cmFja3MnLCByb3V0ZXMuYWRkVHJhY2spCg==</text>
+        <text encoding="base64">Ly8gc3RyID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoImh0bWwiKVswXS5pbm5lckhUTUw7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3494,25 +3500,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvc3QoJy90cmFja3MnLCByb3V0ZXMuYWRkVHJhY2spCg==</text>
+        <text encoding="base64">ICBjb25zdCBzdHJpbmcgPSBlbmNvZGVVUklDb21wb25lbnQoZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldCgnL3NlYXJjaCcsIHJvdXRlcy5zZWFyY2gpLAo=</text>
+        <text encoding="base64">ICAgIHBvc3QoJy90cmFja3MnLCByb3V0ZXMuYWRkVHJhY2spCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldCgnL3ByZXZpZXcvOmhhc2gnLCByb3V0ZXMucHJldmlldyksCg==</text>
+        <text encoding="base64">ICAgIHBvc3QoJy90cmFja3MnLCByb3V0ZXMuYWRkVHJhY2spCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNyYyk7Cg==</text>
+        <text encoding="base64">ICAgIGdldCgnL3NlYXJjaCcsIHJvdXRlcy5zZWFyY2gpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmV3QXVkaW9FbGVtZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgIGdldCgnL3ByZXZpZXcvOmhhc2gnLCByb3V0ZXMucHJldmlldyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNyYyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubmV3QXVkaW9FbGVtZW50KCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
