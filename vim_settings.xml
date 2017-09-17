@@ -778,7 +778,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505661694972">
+      <file name="/Dummy.txt" timestamp="1505663901415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -1110,11 +1110,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1505605101168">
-        <mark key="'" line="122" column="23" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="91" column="9" />
-      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/config/main.php" timestamp="1487694630285">
         <mark key="[" line="54" column="26" />
         <mark key="]" line="54" column="31" />
@@ -1318,11 +1313,11 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="58" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.wercker.yml" timestamp="1505661451750">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="37" />
-        <mark key="^" line="10" column="37" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.wercker.yml" timestamp="1505663548093">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/scraper.js" timestamp="1505512496054">
         <mark key="[" line="21" column="78" />
@@ -1943,6 +1938,12 @@
         <mark key="^" line="15" column="59" />
         <mark key="." line="15" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/wercker.yml" timestamp="1505663879436">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="24" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/go/3rdparty/src/github.com/rancher/go-rancher/client/common.go" timestamp="1479647102501">
         <mark key="[" line="41" column="2" />
         <mark key="]" line="41" column="2" />
@@ -2366,9 +2367,9 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1498638202878">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="19" />
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1505662495829">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="59" />
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
@@ -3478,7 +3479,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8lbw25ELp7</text>
+        <text>/var/www/html/rancher-compose.yml.wercker</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3490,16 +3491,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8lbw25ELp7</text>
+        <text>/var/www/html/rancher-compose.yml.wercker</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
       </register>
-      <register name="0" type="4">
-        <text>chuckremes/docker-openvpn-client:latest</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxhYmVsczoKICAgICAgaW8ucmFuY2hlci5zY2hlZHVsZXIuYWZmaW5pdHk6aG9zdF9sYWJlbDogZGlnZ2VyPXRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi92cG4vbmw3Lm92cG46L2V0Yy9vcGVudnBuL2N1c3RvbS9kZWZhdWx0Lm92cG4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3515,29 +3516,29 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgCiAgIAogICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi86L2FwcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhZnRlci1zdGVwczoKICAgICAtIHNsYWNrLW5vdGlmaWVyOgogICAgICAgICB1cmw6ICRTTEFDS19VUkwKICAgICAgICAgY2hhbm5lbDogYmFja2VuZF9kZXYKICAgICAgICAgdXNlcm5hbWU6IHdlcmtjZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2b2x1bWVzOiAvdmFyL3d3dy9odG1sLCAvZXRjL25naW54L2NvbmYuZC8sIC9ldGMvc3VwZXJ2aXNvci9jb25mLmQvCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgCiAgIAogICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAtIGludGVybmFsL2RvY2tlci1wdXNoOgogICAgICAgICAgdXNlcm5hbWU6ICRET0NLRVJfUkVQT19VU0VSTkFNRQogICAgICAgICAgcGFzc3dvcmQ6ICRET0NLRVJfUkVQT19QQVNTV09SRAogICAgICAgICAgZW1haWw6IGluZm9Aa29sbGVrdC5mbQogICAgICAgICAgcmVwb3NpdG9yeToga29sbGVrdC9jb250ZW50LWRpZ2dlcgogICAgICAgICAgdm9sdW1lczogIi92YXIvd3d3L2h0bWwiCiAgICAgICAgICB3b3JraW5nLWRpcjogIi92YXIvd3d3L2h0bWwiCiAgICAgICAgICB0YWc6ICRXRVJDS0VSX01BSU5fUElQRUxJTkVfU1RBUlRFRAo=</text>
+        <text encoding="base64">ICBhZnRlci1zdGVwczoKICAgICAtIHNsYWNrLW5vdGlmaWVyOgogICAgICAgICB1cmw6ICRTTEFDS19VUkwKICAgICAgICAgY2hhbm5lbDogYmFja2VuZF9kZXYKICAgICAgICAgdXNlcm5hbWU6IHdlcmtjZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZ2lzdHJ5OiBodHRwczovL3F1YXkuaW8K</text>
+        <text encoding="base64">ICAgICAgICB2b2x1bWVzOiAvdmFyL3d3dy9odG1sLCAvZXRjL25naW54L2NvbmYuZC8sIC9ldGMvc3VwZXJ2aXNvci9jb25mLmQvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiB3ZWJwYWNrIGJ1aWxkCiAgICAgICAgY29kZTogLi9ub2RlX21vZHVsZXMvd2VicGFjay9iaW4vd2VicGFjay5qcyAtcCAtLWVudi4kV0VSQ0tFUl9ERVBMT1lUQVJHRVRfTkFNRQogICAgLSBzM3N5bmM6CiAgICAgICAga2V5LWlkOiAkQU1BWk9OX0tFWQogICAgICAgIGtleS1zZWNyZXQ6ICRBTUFaT05fU0VDUkVUX0tFWQogICAgICAgIGJ1Y2tldC11cmw6IFMzOi8vJEFXU19TM19CVUNLRVQKICAgICAgICBzb3VyY2UtZGlyOiAuL3d3dy8KICAgIC0gbWFlc3Ryb2hlYWx0aGNhcmV0ZWNobm9sb2dpZXMvaW52YWxpZGF0ZS1jbG91ZGZyb250OgogICAgICAgIGtleTogJEFNQVpPTl9LRVkKICAgICAgICBzZWNyZXQ6ICRBTUFaT05fU0VDUkVUX0tFWQogICAgICAgIGRpc3RyaWJ1dGlvbjogJENMT1VERlJPTlRfRElTVFJJQlVUSU9OX0lECiAgICAgICAgcGF0aHM6IC9pbmRleC5odG1sCiAgICAgICAgd2FpdDogdHJ1ZQo=</text>
+        <text encoding="base64">CiAgICAtIGludGVybmFsL2RvY2tlci1wdXNoOgogICAgICAgICAgdXNlcm5hbWU6ICRET0NLRVJfUkVQT19VU0VSTkFNRQogICAgICAgICAgcGFzc3dvcmQ6ICRET0NLRVJfUkVQT19QQVNTV09SRAogICAgICAgICAgZW1haWw6IGluZm9Aa29sbGVrdC5mbQogICAgICAgICAgcmVwb3NpdG9yeToga29sbGVrdC9jb250ZW50LWRpZ2dlcgogICAgICAgICAgdm9sdW1lczogIi92YXIvd3d3L2h0bWwiCiAgICAgICAgICB3b3JraW5nLWRpcjogIi92YXIvd3d3L2h0bWwiCiAgICAgICAgICB0YWc6ICRXRVJDS0VSX01BSU5fUElQRUxJTkVfU1RBUlRFRAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RlJPTSBub2RlOjgtc2xpbQoKQUREIC4vCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZ2lzdHJ5OiBodHRwczovL3F1YXkuaW8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm94eToKICAgIGltYWdlOiBzYW1lZXJzYm4vc3F1aWQKICAgIHBvcnRzOgogICAgICAtICIzMTI4OjMxMjgiCg==</text>
+        <text encoding="base64">CiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiB3ZWJwYWNrIGJ1aWxkCiAgICAgICAgY29kZTogLi9ub2RlX21vZHVsZXMvd2VicGFjay9iaW4vd2VicGFjay5qcyAtcCAtLWVudi4kV0VSQ0tFUl9ERVBMT1lUQVJHRVRfTkFNRQogICAgLSBzM3N5bmM6CiAgICAgICAga2V5LWlkOiAkQU1BWk9OX0tFWQogICAgICAgIGtleS1zZWNyZXQ6ICRBTUFaT05fU0VDUkVUX0tFWQogICAgICAgIGJ1Y2tldC11cmw6IFMzOi8vJEFXU19TM19CVUNLRVQKICAgICAgICBzb3VyY2UtZGlyOiAuL3d3dy8KICAgIC0gbWFlc3Ryb2hlYWx0aGNhcmV0ZWNobm9sb2dpZXMvaW52YWxpZGF0ZS1jbG91ZGZyb250OgogICAgICAgIGtleTogJEFNQVpPTl9LRVkKICAgICAgICBzZWNyZXQ6ICRBTUFaT05fU0VDUkVUX0tFWQogICAgICAgIGRpc3RyaWJ1dGlvbjogJENMT1VERlJPTlRfRElTVFJJQlVUSU9OX0lECiAgICAgICAgcGF0aHM6IC9pbmRleC5odG1sCiAgICAgICAgd2FpdDogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
