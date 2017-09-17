@@ -284,7 +284,7 @@
         <mark key="]" line="28" column="40" />
         <mark key="." line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/deezer/sync.js" timestamp="1505659522639">
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/deezer/sync.js" timestamp="1505682103531">
         <mark key="'" line="117" column="28" />
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="23" />
@@ -457,13 +457,13 @@
         <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" timestamp="1505648112303">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="61" column="21" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" timestamp="1505681556464">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="68" column="2" />
         <mark key="m" line="54" column="42" />
-        <mark key="]" line="61" column="24" />
-        <mark key="." line="61" column="24" />
-        <mark key="^" line="61" column="24" />
+        <mark key="]" line="68" column="10" />
+        <mark key="." line="68" column="10" />
+        <mark key="^" line="68" column="10" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/Discount.php" timestamp="1486591298938">
         <mark key="[" line="37" column="27" />
@@ -778,7 +778,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505680963390">
+      <file name="/Dummy.txt" timestamp="1505682151934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -1841,6 +1841,13 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Playlists.js" timestamp="1505681766454">
+        <mark key="i" line="29" column="2" />
+        <mark key="[" line="37" column="29" />
+        <mark key="]" line="37" column="29" />
+        <mark key="^" line="37" column="48" />
+        <mark key="." line="37" column="29" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/backstage/index.html" timestamp="1497868220725">
         <mark key="[" line="16" column="20" />
@@ -3478,7 +3485,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>diggerapi</text>
+        <text>!</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3490,13 +3497,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>diggerapi</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>req</text>
+        <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtfbW9kZTogImNvbnRhaW5lcjp2cG4iCg==</text>
+        <text encoding="base64">ICBhcGkuZGVmYXVsdHMuaGVhZGVyc1snQXV0aG9yaXphdGlvbiddID0gYEJlYXJlciAke3Rva2VufWA7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG5ldHdvcmtfbW9kZTogImNvbnRhaW5lcjp2cG4iCg==</text>
@@ -3544,9 +3551,9 @@
       </register>
     </registers>
     <search>
-      <last-search>req</last-search>
+      <last-search>img</last-search>
       <last-offset />
-      <last-pattern>req</last-pattern>
+      <last-pattern>img</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
       <last-dir>1</last-dir>
@@ -3554,7 +3561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>playlist</entry>
         <entry>Playlist</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDxhYnNvbHV0ZVw+</entry>
@@ -3574,6 +3580,7 @@
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>get</entry>
         <entry>req</entry>
+        <entry>img</entry>
       </history-search>
       <history-cmd>
         <entry>map ss :action AceAction</entry>
