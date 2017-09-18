@@ -1178,6 +1178,12 @@
         <mark key="." line="18" column="68" />
         <mark key="^" line="18" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/resolve.conf" timestamp="1505755459819">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/config.xml" timestamp="1481813686694">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -2889,11 +2895,11 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/Dockerfile" timestamp="1505754214311">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="26" column="4" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/Dockerfile" timestamp="1505755566264">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="43" />
+        <mark key="^" line="24" column="43" />
+        <mark key="." line="24" column="43" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceLine.php" timestamp="1487778393800">
         <mark key="[" line="86" column="23" />
@@ -3479,7 +3485,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">UlVOIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3491,7 +3497,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">UlVOIA==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -3500,7 +3506,7 @@
         <text>/etc/openvpn/iptables.sh</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGNobW9kICt4IC9ldGMvb3BlbnZwbi9zdGFydC5zaAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3517,28 +3523,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAiZG9uZSIK</text>
+        <text encoding="base64">UlVOIGNobW9kICt4IC9ldGMvb3BlbnZwbi9zdGFydC5zaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IC9ldGMvb3BlbnZwbi9pcHRhYmxlcy5zaAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZWNobyAiZG9uZSIK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">VVNFUiBraWxsc3dpdGNoCg==</text>
+        <text encoding="base64">IC9ldGMvb3BlbnZwbi9pcHRhYmxlcy5zaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAuL3Zwbi9ubGh1Yjcub3ZwbjovZXRjL29wZW52cG4vY3VzdG9tL2RlZmF1bHQub3Zwbjpybwo=</text>
+        <text encoding="base64">VVNFUiBraWxsc3dpdGNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIC9ldGMvb3BlbnZwbi9pcHRhYmxlcy5zaAo=</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmlwdGFibGVzIC1GCmlwdGFibGVzIC1BIElOUFVUIC1pIHR1bisgLWogQUNDRVBUCmlwdGFibGVzIC1BIE9VVFBVVCAtbyB0dW4rIC1qIEFDQ0VQVAppcHRhYmxlcyAtQSBJTlBVVCAtcyAxMjcuMC4wLjEgLWogQUNDRVBUCmlwdGFibGVzIC1BIE9VVFBVVCAtZCAxMjcuMC4wLjEgLWogQUNDRVBUCmlwdGFibGVzIC1BIElOUFVUIC1zICR0cnVzdGVkX2lwIC1qIEFDQ0VQVAppcHRhYmxlcyAtQSBPVVRQVVQgLWQgJHRydXN0ZWRfaXAgLWogQUNDRVBUCiNBZGQgcnVsZXMgdG8gYWxsb3cgdGhpbmdzIGxpa2UgU1NIIGFjY2Vzcywgb3IgYW55IG90aGVyIG5lY2Vzc2FyeSBpcHRhYmxlcyBydWxlcyBoZXJlLgppcHRhYmxlcyAtQSBJTlBVVCAtaiBEUk9QCmlwdGFibGVzIC1BIE9VVFBVVCAtaiBEUk9QCiNQdXQgY29kZSBoZXJlIHRvIGxhdW5jaCBhcHBsaWNhdGlvbnMgdGhhdCBzaG91bGQgb25seSBiZSBzdGFydGVkIHBvc3QtbGVhayBwcm90ZWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgLSAuL3Zwbi9ubGh1Yjcub3ZwbjovZXRjL29wZW52cG4vY3VzdG9tL2RlZmF1bHQub3Zwbjpybwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
