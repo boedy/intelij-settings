@@ -389,7 +389,6 @@
         <mark key="^" line="25" column="59" />
         <mark key="." line="27" column="117" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/wercker.yml" timestamp="1505661167097" />
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Scenarios/Billing/CoffeeAndCoconuts.php" timestamp="1483716683046">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="4" column="40" />
@@ -589,11 +588,11 @@
         <mark key="." line="73" column="51" />
         <mark key="^" line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/up-script.sh" timestamp="1505741119854">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/up-script.sh" timestamp="1505742477723">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/DoctrineQuery.php" timestamp="1498051332040">
         <mark key="[" line="42" column="0" />
@@ -736,11 +735,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.yml" timestamp="1505685162988">
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="27" column="14" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.yml" timestamp="1505742588951">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/.env.wercker" timestamp="1487696181637">
         <mark key="[" line="22" column="24" />
@@ -1037,11 +1036,11 @@
         <mark key="^" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/start.sh" timestamp="1505740818308">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="53" column="52" />
-        <mark key="^" line="53" column="52" />
-        <mark key="." line="53" column="52" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/start.sh" timestamp="1505742302462">
+        <mark key="[" line="53" column="53" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/.babelrc" timestamp="1505229722222">
         <mark key="[" line="1" column="22" />
@@ -2575,6 +2574,7 @@
         <mark key="^" line="59" column="34" />
         <mark key="." line="59" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1505741172088" />
       <file name="$USER_HOME$/projects/atmosphere/sales-data-api/routes/index.js" timestamp="1500981906869">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="16" />
@@ -2871,11 +2871,11 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/Dockerfile" timestamp="1505740779443">
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="2" column="45" />
-        <mark key="^" line="2" column="45" />
-        <mark key="." line="2" column="45" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/Dockerfile" timestamp="1505742843221">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="34" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceLine.php" timestamp="1487778393800">
         <mark key="[" line="86" column="23" />
@@ -3460,8 +3460,8 @@
       <jump line="368" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/deezer/deezer-api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="&quot;" type="4">
+        <text>start</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3473,13 +3473,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>vpn</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhcGkuZGVmYXVsdHMuaGVhZGVyc1snQXV0aG9yaXphdGlvbiddID0gYEJlYXJlciAke3Rva2VufWA7Cg==</text>
+        <text encoding="base64">UlVOIGNobW9kICt4IC9ldGMvb3BlbnZwbi9zdGFydC5zaAo=</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
