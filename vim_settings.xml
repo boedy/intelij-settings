@@ -2895,11 +2895,12 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/Dockerfile" timestamp="1505755566264">
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="43" />
-        <mark key="^" line="24" column="43" />
-        <mark key="." line="24" column="43" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/vpn/Dockerfile" timestamp="1505757190997">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceLine.php" timestamp="1487778393800">
         <mark key="[" line="86" column="23" />
@@ -3382,7 +3383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/user_mapping.json" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/user_mapping.json" />
       <jump line="47" column="16" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" />
       <jump line="2" column="21" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/ProgressBar.js" />
@@ -3482,10 +3482,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="72" column="9" filename="$USER_HOME$/projects/atmosphere/content-digger/deezer/deezer-api.js" />
       <jump line="368" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/deezer/deezer-api.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/vpn/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UlVOIA==</text>
+        <text encoding="base64">YWRkZ3JvdXAgLVMga2lsbHN3aXRjaCAmJiA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3497,10 +3498,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UlVOIA==</text>
+        <text encoding="base64">YWRkZ3JvdXAgLVMga2lsbHN3aXRjaCAmJiA=</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text encoding="base64">XDxBRERcPg==</text>
       </register>
       <register name="0" type="4">
         <text>/etc/openvpn/iptables.sh</text>
@@ -3551,12 +3552,12 @@
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search encoding="base64">XDxBRERcPg==</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern encoding="base64">XDxBRERcPg==</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -3568,7 +3569,6 @@
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
         <entry encoding="base64">XDx3aWR0aFw+</entry>
-        <entry encoding="base64">XDxBRERcPg==</entry>
         <entry encoding="base64">XDxDdXN0b21lcklkXD4=</entry>
         <entry encoding="base64">XDxfX2NvbnN0cnVjdFw+</entry>
         <entry encoding="base64">XDxkaWZmXD4=</entry>
@@ -3581,6 +3581,7 @@
         <entry>get</entry>
         <entry>req</entry>
         <entry>img</entry>
+        <entry encoding="base64">XDxBRERcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>map ss :action AceAction</entry>
