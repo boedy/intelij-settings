@@ -314,6 +314,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="52" column="95" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/domain/playlist/Playlist.php" timestamp="1505988106878">
+        <mark key="[" line="88" column="26" />
+        <mark key="]" line="88" column="37" />
+        <mark key="." line="88" column="37" />
+        <mark key="^" line="88" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/cache/Memcached.php" timestamp="1505859515557">
         <mark key="[" line="125" column="45" />
         <mark key="]" line="125" column="45" />
@@ -771,7 +777,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505981186040">
+      <file name="/Dummy.txt" timestamp="1505988382323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -2996,6 +3002,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/domain/comment/Comment.php" timestamp="1505988079367">
+        <mark key="[" line="49" column="36" />
+        <mark key="]" line="49" column="47" />
+        <mark key="." line="49" column="47" />
+        <mark key="^" line="49" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/single.css" timestamp="1493722025315">
         <mark key="[" line="42" column="84" />
         <mark key="]" line="42" column="75" />
@@ -3506,8 +3518,8 @@
       <jump line="1090" column="37" filename="$USER_HOME$/projects/kollekt/backend/src/api/domain/playlist/PlaylistService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgInR5cGUiOiAidmNzIiwKICAgICAgInVybCI6ICJodHRwczovL2dpdGh1Yi5jb20vYm9lZHkvdXBsb2FkIgogICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3519,7 +3531,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
