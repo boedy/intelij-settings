@@ -142,11 +142,11 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendNewTracksNotificationEmail.php" timestamp="1506349498170">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="72" column="104" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendNewTracksNotificationEmail.php" timestamp="1506352726354">
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="49" column="10" />
+        <mark key="." line="49" column="10" />
+        <mark key="^" line="49" column="10" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/routes/web.php" timestamp="1502885090707">
         <mark key="[" line="15" column="60" />
@@ -954,11 +954,11 @@
         <mark key="." line="112" column="28" />
         <mark key="^" line="112" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendNewCommentsNotificationEmail.php" timestamp="1506345922121">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="77" column="3" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendNewCommentsNotificationEmail.php" timestamp="1506352720555">
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="50" column="10" />
+        <mark key="^" line="50" column="10" />
+        <mark key="." line="50" column="10" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.js" timestamp="1482088228038">
         <mark key="[" line="18" column="27" />
@@ -3539,8 +3539,8 @@
       <jump line="1090" column="37" filename="$USER_HOME$/projects/kollekt/backend/src/api/domain/playlist/PlaylistService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3552,7 +3552,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGVjaG8gJ05vIG5ldyBub3RpZmljYXRpb25zLiBUSElTIElTIE5PVCBTVVBQT1NFRCBUTyBIQVBQRU4nOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
@@ -3561,7 +3561,7 @@
         <text>Review {{ count == 1 ? 'Track' : 'Tracks' }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3581,25 +3581,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50LT5zZW5kTWVzc2FnZSgkdGhpcy0+ZG9tYWluLCAkbWVzc2FnZUJ1aWxkZXItPmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgMTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50LT5zZW5kTWVzc2FnZSgkdGhpcy0+ZG9tYWluLCAkbWVzc2FnZUJ1aWxkZXItPmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgMTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCAxOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ3Rlc3QnOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAxOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAxOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ3Rlc3QnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
@@ -3656,8 +3656,8 @@
         <entry>w</entry>
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action AceJumpAction</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
