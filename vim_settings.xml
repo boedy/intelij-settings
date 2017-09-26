@@ -775,7 +775,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506086409760">
+      <file name="/Dummy.txt" timestamp="1506423263815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -1657,12 +1657,6 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Normalization/AbstractVolumeNormalizer.php" timestamp="1506009393554">
-        <mark key="[" line="19" column="0" />
-        <mark key="m" line="21" column="4" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/ContractRepository.php" timestamp="1485859582619">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="22" />
@@ -1681,11 +1675,11 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/index.js" timestamp="1505679052039">
-        <mark key="[" line="43" column="49" />
-        <mark key="]" line="43" column="73" />
-        <mark key="." line="43" column="73" />
-        <mark key="^" line="43" column="73" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/index.js" timestamp="1506420257865">
+        <mark key="[" line="43" column="121" />
+        <mark key="]" line="43" column="119" />
+        <mark key="." line="43" column="119" />
+        <mark key="^" line="43" column="119" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.html" timestamp="1482088343883">
         <mark key="[" line="3" column="66" />
@@ -1746,11 +1740,11 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" timestamp="1505680925034">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" timestamp="1506423201728">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="40" column="72" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Customer/CustomerEsRepository.php" timestamp="1485859656755">
         <mark key="[" line="13" column="0" />
@@ -3540,7 +3534,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgZGlkWW91TWVhbiA9IHJlcXVpcmUoJ2RpZHlvdW1lYW4yJyk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3552,16 +3546,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVjaG8gJ05vIG5ldyBub3RpZmljYXRpb25zLiBUSElTIElTIE5PVCBTVVBQT1NFRCBUTyBIQVBQRU4nOw==</text>
+        <text>artist</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>Review {{ count == 1 ? 'Track' : 'Tracks' }}</text>
+        <text>artist.slice(1, -1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgZGlkWW91TWVhbiA9IHJlcXVpcmUoJ2RpZHlvdW1lYW4yJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3578,28 +3572,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IG1hdGNoZXMgPSBib2R5LmRhdGEubWFwKChpdGVtKSA9PiBgJHtpdGVtLmFydGlzdC5uYW1lfSAtICR7aXRlbS50aXRsZX1gKTsKICAgIC8vIGNvbnNvbGUubG9nKG1hdGNoZXMpOwogICAgLy8gICBjb25zdCBiZXN0TWF0Y2ggPSBkaWRZb3VNZWFuKGAke2RhdGEuYXJ0aXN0fSAtICR7ZGF0YS50cmFja31gLCBtYXRjaGVzKTsKCiAgICAvLyBjb25zdCBmaXJzdCA9IGJvZHkuZGF0YVttYXRjaGVzLmluZGV4T2YoYmVzdE1hdGNoKV07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50LT5zZW5kTWVzc2FnZSgkdGhpcy0+ZG9tYWluLCAkbWVzc2FnZUJ1aWxkZXItPmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0uYXJ0aXN0Lm5hbWUudG9Mb3dlckNhc2UoKSwgJyAtICcsIGFydGlzdC5zbGljZSgxLCAtMSkudG9Mb3dlckNhc2UoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAxOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ3Rlc3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
