@@ -319,11 +319,11 @@
         <mark key="." line="88" column="37" />
         <mark key="^" line="88" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/cache/Memcached.php" timestamp="1505859515557">
-        <mark key="[" line="125" column="45" />
-        <mark key="]" line="125" column="45" />
+      <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/cache/Memcached.php" timestamp="1506459812520">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
         <mark key="^" line="30" column="37" />
-        <mark key="." line="125" column="45" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Comment/Commentable.php" timestamp="1499776458521">
         <mark key="[" line="13" column="38" />
@@ -3535,8 +3535,8 @@
       <jump line="1090" column="37" filename="$USER_HOME$/projects/kollekt/backend/src/api/domain/playlist/PlaylistService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>127.0.0.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3557,7 +3557,7 @@
         <text>artist.slice(1, -1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UVVFVUVfRFJJVkVSPWRhdGFiYXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3574,28 +3574,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2V5cyA9ICR0aGlzLT5nZXRNdWx0aShhcnJheV9tYXAoZnVuY3Rpb24gKCR0YWcpIHsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIG9uUXVldWUoJHF1ZXVlKQogICAgewogICAgfQo=</text>
+        <text encoding="base64">UVVFVUVfRFJJVkVSPWRhdGFiYXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkc2VuZEF0OGFtT25Nb25kYXkgPSAkbmV4dE1vbmRheSAtICRub3ctPmdldFRpbWVzdGFtcCgpICsgOCAqIDM2MDA7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIG9uUXVldWUoJHF1ZXVlKQogICAgewogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZGlkWW91TWVhbiA9IHJlcXVpcmUoJ2RpZHlvdW1lYW4yJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IG1hdGNoZXMgPSBib2R5LmRhdGEubWFwKChpdGVtKSA9PiBgJHtpdGVtLmFydGlzdC5uYW1lfSAtICR7aXRlbS50aXRsZX1gKTsKICAgIC8vIGNvbnNvbGUubG9nKG1hdGNoZXMpOwogICAgLy8gICBjb25zdCBiZXN0TWF0Y2ggPSBkaWRZb3VNZWFuKGAke2RhdGEuYXJ0aXN0fSAtICR7ZGF0YS50cmFja31gLCBtYXRjaGVzKTsKCiAgICAvLyBjb25zdCBmaXJzdCA9IGJvZHkuZGF0YVttYXRjaGVzLmluZGV4T2YoYmVzdE1hdGNoKV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2VuZEF0OGFtT25Nb25kYXkgPSAkbmV4dE1vbmRheSAtICRub3ctPmdldFRpbWVzdGFtcCgpICsgOCAqIDM2MDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgZGlkWW91TWVhbiA9IHJlcXVpcmUoJ2RpZHlvdW1lYW4yJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IG1hdGNoZXMgPSBib2R5LmRhdGEubWFwKChpdGVtKSA9PiBgJHtpdGVtLmFydGlzdC5uYW1lfSAtICR7aXRlbS50aXRsZX1gKTsKICAgIC8vIGNvbnNvbGUubG9nKG1hdGNoZXMpOwogICAgLy8gICBjb25zdCBiZXN0TWF0Y2ggPSBkaWRZb3VNZWFuKGAke2RhdGEuYXJ0aXN0fSAtICR7ZGF0YS50cmFja31gLCBtYXRjaGVzKTsKCiAgICAvLyBjb25zdCBmaXJzdCA9IGJvZHkuZGF0YVttYXRjaGVzLmluZGV4T2YoYmVzdE1hdGNoKV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
