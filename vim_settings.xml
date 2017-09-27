@@ -916,6 +916,12 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" timestamp="1506518088922">
+        <mark key="'" line="418" column="0" />
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="370" column="8" />
+        <mark key="." line="361" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/core/actions/player.js" timestamp="1479996440789">
         <mark key="[" line="98" column="26" />
         <mark key="]" line="98" column="26" />
@@ -3439,8 +3445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="11" filename="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/PlaylistItemPresenter.php" />
-      <jump line="129" column="37" filename="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" />
       <jump line="10" column="20" filename="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/Tracks.js" />
       <jump line="45" column="1" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItem.js" />
       <jump line="93" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItem.js" />
@@ -3539,10 +3543,12 @@
       <jump line="101" column="15" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Common/Auth.js" />
       <jump line="51" column="23" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Common/Auth.js" />
       <jump line="1090" column="37" filename="$USER_HOME$/projects/kollekt/backend/src/api/domain/playlist/PlaylistService.php" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" />
+      <jump line="318" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Review {{ count == 1 ? 'Track' : 'Tracks' }}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgICJzdGFydF90aW1lIjogIjAxOjAwIiwKICAgICAgICAiZW5kX3RpbWUiOiAiMDM6MDAiLAogICAgICAgICJwbGF5bGlzdF9pZCI6ICIxM2Q0bTcxNG0iCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAic3RhcnRfdGltZSI6ICIzOjAwIiwKICAgICAgICAiZW5kX3RpbWUiOiAiMDc6MDAiLAogICAgICAgICJwbGF5bGlzdF9pZCI6ICI2OTI4M2RnNGciCiAgICAgIH0sCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3554,16 +3560,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Review {{ count == 1 ? 'Track' : 'Tracks' }}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>Review {{ count == 1 ? 'it' : 'them' }} now</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgICJzdGFydF90aW1lIjogIjAxOjAwIiwKICAgICAgICAiZW5kX3RpbWUiOiAiMDM6MDAiLAogICAgICAgICJwbGF5bGlzdF9pZCI6ICIxM2Q0bTcxNG0iCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAic3RhcnRfdGltZSI6ICIzOjAwIiwKICAgICAgICAiZW5kX3RpbWUiOiAiMDc6MDAiLAogICAgICAgICJwbGF5bGlzdF9pZCI6ICI2OTI4M2RnNGciCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICJzdGFydF90aW1lIjogIjAxOjAwIiwKICAgICAgICAiZW5kX3RpbWUiOiAiMDM6MDAiLAogICAgICAgICJwbGF5bGlzdF9pZCI6ICIxM2Q0bTcxNG0iCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAic3RhcnRfdGltZSI6ICIzOjAwIiwKICAgICAgICAiZW5kX3RpbWUiOiAiMDc6MDAiLAogICAgICAgICJwbGF5bGlzdF9pZCI6ICI2OTI4M2RnNGciCiAgICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3580,28 +3586,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgMSAuICBcQ2FjaGU6OmdldCgndGVzdCcpOwogICAgICAgICAgICBcQ2FjaGU6OnB1dCgndGVzdCcsICdIZWxsbyBSZWRpcycsIDIpOwoKICAgICAgICAgICAgcmV0dXJuOwoKICAgICAgICAgICAgJG5vdyA9IG5ldyBEYXRlVGltZSgpOwogICAgICAgICAgICAkbmV4dE1vbmRheSA9IHN0cnRvdGltZSgnbmV4dCBtb25kYXkgMSBQTScpOwoKICAgICAgICAgICAgcHJpbnQgJG5leHRNb25kYXk7CiAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXENhY2hlOjpnZXQoJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgMSAuICBcQ2FjaGU6OmdldCgndGVzdCcpOwogICAgICAgICAgICBcQ2FjaGU6OnB1dCgndGVzdCcsICdIZWxsbyBSZWRpcycsIDIpOwoKICAgICAgICAgICAgcmV0dXJuOwoKICAgICAgICAgICAgJG5vdyA9IG5ldyBEYXRlVGltZSgpOwogICAgICAgICAgICAkbmV4dE1vbmRheSA9IHN0cnRvdGltZSgnbmV4dCBtb25kYXkgMSBQTScpOwoKICAgICAgICAgICAgcHJpbnQgJG5leHRNb25kYXk7CiAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXENhY2hlOjpnZXQoJ3Rlc3QnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGFwcC0+Y29uZmlndXJlKCdjYWNoZScpOwo=</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiggJHNlc3Npb24pIHJldHVybiAnJzsKCQlrCg==</text>
+        <text encoding="base64">JGFwcC0+Y29uZmlndXJlKCdjYWNoZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CQlpZiggJHNlc3Npb24pIHJldHVybiAnJzsKCQlrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSBcCiAgc3VwZXJ2aXNvcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSBcCiAgc3VwZXJ2aXNvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
