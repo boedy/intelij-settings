@@ -1334,6 +1334,9 @@
         <mark key="." line="28" column="25" />
         <mark key="^" line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/ReadModels/Playlist.php" timestamp="1506586397080">
+        <mark key="[" line="21" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewSinglePlaylistItem.php" timestamp="1495624827827">
         <mark key="[" line="14" column="79" />
         <mark key="]" line="14" column="87" />
@@ -2078,11 +2081,11 @@
         <mark key="^" line="45" column="60" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistStatsQuery.php" timestamp="1506551089925">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="29" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="31" column="29" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistStatsQuery.php" timestamp="1506586684080">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="36" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/app/Http/Controllers/MixpanelController.php" timestamp="1481037969290">
         <mark key="[" line="45" column="45" />
@@ -3354,8 +3357,8 @@
       <jump line="318" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
+      <register name="&quot;" type="4">
+        <text>p.*, playlist_item.*</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3367,7 +3370,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>updated</text>
+        <text>p.*, playlist_item.*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
@@ -3376,7 +3379,7 @@
         <text>$data['id'] ?? null;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiB0cmFja19zb3VyY2UgdHMgT04gdHMudHJhY2tfaWQgPSBwbGF5bGlzdF9pdGVtLnRyYWNrX2lkCiAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gcGxheWxpc3QgcCBvbiBwbGF5bGlzdF9pZCA9IHAuaWQgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3393,19 +3396,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkY3JlYXRlZEF0CiAgICAgKiBAcGFyYW0gJHVwZGF0ZWRBdAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCRxdWVyeS0+YnlQbGF5bGlzdElkKDEpKTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkY3JlYXRlZEF0CiAgICAgKiBAcGFyYW0gJHVwZGF0ZWRBdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHF1ZXJ5LT5ieVBsYXlsaXN0SWQoMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCRxdWVyeS0+YnlQbGF5bGlzdElkKDEpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHF1ZXJ5LT5ieVBsYXlsaXN0SWQoMSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRlbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRlbSk7Cg==</text>
@@ -3414,7 +3417,7 @@
         <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRlbSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRlbSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
