@@ -65,11 +65,11 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" timestamp="1506620279387">
-        <mark key="[" line="68" column="25" />
-        <mark key="]" line="68" column="35" />
-        <mark key="^" line="68" column="35" />
-        <mark key="." line="68" column="35" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" timestamp="1506625309156">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="^" line="108" column="7" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineSourceRepository.php" timestamp="1499960750585">
         <mark key="[" line="20" column="121" />
@@ -1518,7 +1518,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Query/Playlist/PlaylistQuery.php" timestamp="1506591226027">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Query/Playlist/PlaylistQuery.php" timestamp="1506625200926">
         <mark key="[" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Events/LicenceAdded.php" timestamp="1487430891947">
@@ -2614,11 +2614,11 @@
         <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewPlaylists.php" timestamp="1506617940084">
-        <mark key="[" line="16" column="69" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="22" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewPlaylists.php" timestamp="1506625161751">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/artist_search.json" timestamp="1495024604755">
         <mark key="[" line="12" column="0" />
@@ -3383,8 +3383,8 @@
       <jump line="35" column="41" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistStatsDoctrineQuery.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>on</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3396,16 +3396,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>on</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>\'App\\Domain\\Playlist\\Playlist\'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bm9DYWNoZSgpOwoKICAgICAgICAkcnNtID0gbmV3IFJlc3VsdFNldE1hcHBpbmdCdWlsZGVyKCR0aGlzLT5lbSk7CiAgICAgICAgJHJzbS0+YWRkUm9vdEVudGl0eUZyb21DbGFzc01ldGFkYXRhKCdBcHBcRG9tYWluXFBsYXlsaXN0XFBsYXlsaXN0JywgJ3AnKTsKICAgICAgICAkcnNtLT5hZGRNZXRhUmVzdWx0KCdwJywgJ2l0ZW1fY291bnQnLCAnaXRlbV9jb3VudCcsIGZhbHNlLCAnaW50ZWdlcicpOwogICAgICAgICRyc20tPmFkZE1ldGFSZXN1bHQoJ3AnLCAnZHVyYXRpb24nLCAnZHVyYXRpb24nLCBmYWxzZSwgJ2ludGVnZXInKTsKCiAgICAgICAgJHF1ZXJ5U3RyaW5nID0gJ1NFTEVDVCBwbGF5bGlzdC4qLCBzdGF0cy5pdGVtX2NvdW50LCBzdGF0cy5kdXJhdGlvbgogICAgICAgICAgICAgICAgICAgICAgICBGUk9NIHBsYXlsaXN0CiAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gQUNMX0F1dGhvcml6YXRpb24gYWNsIG9uIHNlY3VyaXR5SWRlbnRpdHlfaWQgPSA/CiAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGFjbC5lbnRpdHlfaWQgPSBwbGF5bGlzdC5pZAogICAgICAgICAgICAgICAgICAgICAgICAgIEFORCBhY2wuZW50aXR5X2NsYXNzID0gIkFwcFxcXERvbWFpblxcXFBsYXlsaXN0XFxcUGxheWxpc3QiCiAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gKAogICAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVCBwaS5wbGF5bGlzdF9pZCwgQ09VTlQoKikgaXRlbV9jb3VudCwgcm91bmQoc3VtKHRzLnNpemUqOC90cy5iaXRyYXRlKSkgZHVyYXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICBGUk9NIHBsYXlsaXN0X2l0ZW0gcGkgCiAgICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiB0cmFja19zb3VyY2UgdHMgT04gdHMudHJhY2tfaWQgPSBwaS50cmFja19pZAogICAgICAgICAgICAgICAgICAgICAgICAgIEdST1VQIEJZIHBpLnBsYXlsaXN0X2lkCiAgICAgICAgICAgICAgICAgICAgICAgICkgc3RhdHMgT04gc3RhdHMucGxheWxpc3RfaWQgPSBwbGF5bGlzdC5pZCc7CgogICAgICAgICRxdWVyeSA9ICR0aGlzLT5lbS0+Y3JlYXRlTmF0aXZlUXVlcnkoJHF1ZXJ5U3RyaW5nLCAkcnNtKTsKICAgICAgICAkcXVlcnktPnNldFBhcmFtZXRlcigxLCAkdXNlcklkKTsKICAgICAgICAkcXVlcnktPnNldENhY2hlYWJsZShmYWxzZSk7CiAgICAgICAgcmV0dXJuICRxdWVyeS0+Z2V0QXJyYXlSZXN1bHQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBKT0lOIGxvY2F0aW9uX3BsYXlsaXN0IGxwIG9uIHBsYXlsaXN0LmlkID0gbHAucGxheWxpc3RfaWQgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3422,28 +3422,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiBsb2NhdGlvbl9wbGF5bGlzdCBscCBvbiBwbGF5bGlzdC5pZCA9IGxwLnBsYXlsaXN0X2lkIAogICAgICAgICAgICAgICAgICAgICAgICBKT0lOIHBsYXlsaXN0X2l0ZW0gcGkgb24gcGxheWxpc3QuaWQgPSBwaS5wbGF5bGlzdF9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cWItPmlubmVySm9pbigKICAgICAgICAgICAgJ015Q0xhYnNcQUNMXE1vZGVsXEF1dGhvcml6YXRpb24nLAogICAgICAgICAgICAnYXV0aG9yaXphdGlvbicsCiAgICAgICAgICAgICdXSVRIJywKICAgICAgICAgICAgJ2F1dGhvcml6YXRpb24uZW50aXR5SWQgPSBwbGF5bGlzdC5pZCcKICAgICAgICApOwoKICAgICAgICAkdGhpcy0+cWItPmFuZFdoZXJlKCdhdXRob3JpemF0aW9uLmVudGl0eUNsYXNzID0gXCdBcHBcXERvbWFpblxcUGxheWxpc3RcXFBsYXlsaXN0XCcnKTsKICAgICAgICAkdGhpcy0+cWItPmFuZFdoZXJlKCdhdXRob3JpemF0aW9uLnNlY3VyaXR5SWRlbnRpdHkgPSA6dXNlcl9pZCcpOwogICAgICAgICR0aGlzLT5zZXRQYXJhbWV0ZXIoJ3VzZXJfaWQnLCAkdXNlcklkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiBsb2NhdGlvbl9wbGF5bGlzdCBscCBvbiBwbGF5bGlzdC5pZCA9IGxwLnBsYXlsaXN0X2lkIAogICAgICAgICAgICAgICAgICAgICAgICBKT0lOIHBsYXlsaXN0X2l0ZW0gcGkgb24gcGxheWxpc3QuaWQgPSBwaS5wbGF5bGlzdF9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPnNldFBhcmFtZXRlcigxLCAkdXNlcklkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgYWNsLmVudGl0eV9pZCA9IHBsYXlsaXN0LmlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGFjbC5lbnRpdHlfY2xhc3MgPSBcJ0FwcFxcRG9tYWluXFxQbGF5bGlzdFxcUGxheWxpc3RcJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiBBQ0xfQXV0aG9yaXphdGlvbiBhY2wgb24gc2VjdXJpdHlJZGVudGl0eV9pZCA9ID8KICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgYWNsLmVudGl0eV9pZCA9IHBsYXlsaXN0LmlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGFjbC5lbnRpdHlfY2xhc3MgPSAiQXBwXFxcRG9tYWluXFxcUGxheWxpc3RcXFxQbGF5bGlzdCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWyd0ZXN0J10K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cWItPnNlbGVjdCgncGxheWxpc3QnKS0+ZnJvbSgnQXBwXERvbWFpblxQbGF5bGlzdFxQbGF5bGlzdCcsICdwbGF5bGlzdCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoMSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgYWNsLmVudGl0eV9pZCA9IHBsYXlsaXN0LmlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGFjbC5lbnRpdHlfY2xhc3MgPSBcJ0FwcFxcRG9tYWluXFxQbGF5bGlzdFxcUGxheWxpc3RcJwogICAgICAgICAgICAgICAgICAgICAgICBKT0lOIGxvY2F0aW9uX3BsYXlsaXN0IGxwIG9uIHBsYXlsaXN0LmlkID0gbHAucGxheWxpc3RfaWQgCiAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gcGxheWxpc3RfaXRlbSBwaSBvbiBwbGF5bGlzdC5pZCA9IHBpZC5wbGF5bGlzdF9pZAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICgKICAgICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgQ09VTlQoKiksIHJvdW5kKHN1bSh0cy5zaXplKjgvdHMuYml0cmF0ZSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBwbGF5bGlzdF9pdGVtIHBpIAogICAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gdHJhY2tfc291cmNlIHRzIE9OIHRzLnRyYWNrX2lkID0gcGkudHJhY2tfaWQKICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBwbGF5bGlzdC5pZCA9IHBpLnBsYXlsaXN0X2lkCiAgICAgICAgICAgICAgICAgICAgICAgICkgdA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgYWNsLmVudGl0eV9pZCA9IHBsYXlsaXN0LmlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGFjbC5lbnRpdHlfY2xhc3MgPSBcJ0FwcFxcRG9tYWluXFxQbGF5bGlzdFxcUGxheWxpc3RcJwogICAgICAgICAgICAgICAgICAgICAgICBKT0lOIGxvY2F0aW9uX3BsYXlsaXN0IGxwIG9uIHBsYXlsaXN0LmlkID0gbHAucGxheWxpc3RfaWQgCiAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gcGxheWxpc3RfaXRlbSBwaSBvbiBwbGF5bGlzdC5pZCA9IHBpZC5wbGF5bGlzdF9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKSB0Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBBTkQgYWNsLmVudGl0eV9pZCA9IHBsYXlsaXN0LmlkCiAgQU5EIGFjbC5lbnRpdHlfY2xhc3MgPSAnQXBwXFxEb21haW5cXFBsYXlsaXN0XFxQbGF5bGlzdCcKSk9JTiBsb2NhdGlvbl9wbGF5bGlzdCBscCBvbiBwbGF5bGlzdC5pZCA9IGxwLnBsYXlsaXN0X2lkIApKT0lOIHBsYXlsaXN0X2l0ZW0gcGkgb24gcGxheWxpc3QuaWQgPSBwaWQucGxheWxpc3RfaWQKR1JPVVAgQlkgcGxheWxpc3QuaWQK</text>
+      <register name="9" type="4">
+        <text>(
+                          SELECT COUNT(*), round(sum(ts.size*8/ts.bitrate))
+                          FROM playlist_item pi 
+                          JOIN track_source ts ON ts.track_id = pi.track_id
+                          WHERE playlist.id = pi.playlist_id
+                        ) t</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
