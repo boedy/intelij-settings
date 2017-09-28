@@ -766,7 +766,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506603186242">
+      <file name="/Dummy.txt" timestamp="1506604650906">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -822,6 +822,12 @@
         <mark key="]" line="8" column="39" />
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/frontend/Gruntfile.js" timestamp="1506604551989">
+        <mark key="[" line="362" column="44" />
+        <mark key="]" line="362" column="44" />
+        <mark key="." line="362" column="44" />
+        <mark key="^" line="355" column="23" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/Handlers/CustomerHandler.php" timestamp="1487428909200">
         <mark key="[" line="41" column="84" />
@@ -900,12 +906,6 @@
         <mark key="]" line="34" column="52" />
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" timestamp="1506518088922">
-        <mark key="'" line="418" column="0" />
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="370" column="8" />
-        <mark key="." line="361" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/core/actions/player.js" timestamp="1479996440789">
         <mark key="[" line="98" column="26" />
@@ -3366,8 +3366,8 @@
       <jump line="35" column="41" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistStatsDoctrineQuery.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:9000</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3379,7 +3379,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>song_count</text>
+        <text>:9000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
