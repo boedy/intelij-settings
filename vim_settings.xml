@@ -65,11 +65,11 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" timestamp="1506544556976">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="18" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" timestamp="1506591796341">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="79" />
+        <mark key="." line="26" column="54" />
+        <mark key="^" line="26" column="54" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineSourceRepository.php" timestamp="1499960750585">
         <mark key="[" line="20" column="121" />
@@ -244,6 +244,12 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewPlaylist.php" timestamp="1506591272480">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="40" />
+        <mark key="^" line="20" column="40" />
+        <mark key="." line="20" column="40" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/containers/SelectOutputDeviceModalContainer.js" timestamp="1482164328612">
         <mark key="[" line="3" column="46" />
@@ -755,7 +761,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506585606556">
+      <file name="/Dummy.txt" timestamp="1506591542963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -823,6 +829,12 @@
         <mark key="]" line="9" column="32" />
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistStatsDoctrineQuery.php" timestamp="1506590878863">
+        <mark key="'" line="34" column="41" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/services/fileStorage.js" timestamp="1481892339213">
         <mark key="[" line="3" column="75" />
@@ -1406,11 +1418,11 @@
         <mark key="." line="40" column="18" />
         <mark key="^" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/PlaylistController.php" timestamp="1506001612183">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="99" column="9" />
-        <mark key="." line="139" column="52" />
-        <mark key="^" line="139" column="52" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/PlaylistController.php" timestamp="1506591173563">
+        <mark key="[" line="126" column="52" />
+        <mark key="]" line="126" column="59" />
+        <mark key="." line="126" column="59" />
+        <mark key="^" line="126" column="59" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/User/NameGenerator.php" timestamp="1465761765929">
         <mark key="[" line="7" column="1" />
@@ -1489,6 +1501,9 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="53" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Query/Playlist/PlaylistQuery.php" timestamp="1506591226027">
+        <mark key="[" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Events/LicenceAdded.php" timestamp="1487430891947">
         <mark key="[" line="10" column="9" />
@@ -2081,11 +2096,11 @@
         <mark key="^" line="45" column="60" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistStatsQuery.php" timestamp="1506586684080">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="36" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistStatsQuery.php" timestamp="1506591062943">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="34" column="44" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/app/Http/Controllers/MixpanelController.php" timestamp="1481037969290">
         <mark key="[" line="45" column="45" />
@@ -2766,11 +2781,8 @@
         <mark key="^" line="179" column="0" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/PlaylistPresenter.php" timestamp="1495622588105">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="71" />
-        <mark key="." line="26" column="77" />
-        <mark key="^" line="26" column="77" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/PlaylistPresenter.php" timestamp="1506590640964">
+        <mark key="^" line="24" column="77" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/RemoveCommentNotification.php" timestamp="1499933504994">
         <mark key="[" line="26" column="64" />
@@ -3241,12 +3253,6 @@
         <mark key="." line="60" column="53" />
         <mark key="^" line="60" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" timestamp="1506550994254">
-        <mark key="[" line="24" column="105" />
-        <mark key="]" line="24" column="105" />
-        <mark key="." line="24" column="105" />
-        <mark key="^" line="24" column="105" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/config/database.php" timestamp="1483453913645">
         <mark key="[" line="60" column="46" />
         <mark key="]" line="60" column="49" />
@@ -3255,7 +3261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="20" filename="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/Tracks.js" />
       <jump line="45" column="1" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItem.js" />
       <jump line="93" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItem.js" />
       <jump line="105" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItem.js" />
@@ -3355,10 +3360,11 @@
       <jump line="1090" column="37" filename="$USER_HOME$/projects/kollekt/backend/src/api/domain/playlist/PlaylistService.php" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" />
       <jump line="318" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" />
+      <jump line="35" column="41" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistStatsDoctrineQuery.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p.*, playlist_item.*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkcnNtLT5hZGRNZXRhUmVzdWx0KCdwJywgJ2l0ZW1fY291bnQnLCAnaXRlbV9jb3VudCcsIGZhbHNlLCAnaW50ZWdlcicpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3370,16 +3376,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p.*, playlist_item.*</text>
+        <text>song_count</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>$data['id'] ?? null;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkcnNtLT5hZGRNZXRhUmVzdWx0KCdwJywgJ2l0ZW1fY291bnQnLCAnaXRlbV9jb3VudCcsIGZhbHNlLCAnaW50ZWdlcicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiB0cmFja19zb3VyY2UgdHMgT04gdHMudHJhY2tfaWQgPSBwbGF5bGlzdF9pdGVtLnRyYWNrX2lkCiAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gcGxheWxpc3QgcCBvbiBwbGF5bGlzdF9pZCA9IHAuaWQgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHBsYXlsaXN0Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3396,28 +3402,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkY3JlYXRlZEF0CiAgICAgKiBAcGFyYW0gJHVwZGF0ZWRBdAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCRxdWVyeS0+YnlQbGF5bGlzdElkKDEpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHF1ZXJ5LT5ieVBsYXlsaXN0SWQoMSkpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cWItPgogICAgICAgICR0aGlzLT5xYi0+d2hlcmUoJ3BsYXlsaXN0LmlkID0gOnBsYXlsaXN0X2lkJyk7CiAgICAgICAgJHRoaXMtPnFiLT5zZXRQYXJhbWV0ZXIoJ3BsYXlsaXN0X2lkJywgJHBsYXlsaXN0SWQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpdGVtQ291bnQoKQogICAgewogICAgICAgIC8vdG9kbzogdmVyeSB1Z2x5IHRvIG1ha2UgY2FsbCBoZXJlLiBGaW5kIG90aGVyIHNvbHV0aW9uCiAgICAgICAgJHF1ZXJ5ID0gbmV3IFBsYXlsaXN0SXRlbUNvdW50UXVlcnkoYXBwKEVudGl0eU1hbmFnZXI6OmNsYXNzKSk7CiAgICAgICAgJHF1ZXJ5LT51c2VDYWNoZSgncGxheWxpc3Q6Jy4kdGhpcy0+b2JqZWN0WydpZCddLic6aXRlbXM6Y291bnQnKTsKICAgICAgICAkcXVlcnktPmJ5UGxheWxpc3RJZCgkdGhpcy0+b2JqZWN0WydpZCddKTsKICAgICAgICByZXR1cm4gJHF1ZXJ5LT5mZXRjaCgpOwogICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiB0cmFja19zb3VyY2UgdHMgT04gdHMudHJhY2tfaWQgPSBwbGF5bGlzdF9pdGVtLnRyYWNrX2lkCiAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gcGxheWxpc3QgcCBvbiBwbGF5bGlzdF9pZCA9IHAuaWQgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkY3JlYXRlZEF0CiAgICAgKiBAcGFyYW0gJHVwZGF0ZWRBdAo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
