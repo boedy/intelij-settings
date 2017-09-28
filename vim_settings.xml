@@ -65,11 +65,11 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" timestamp="1506615496472">
-        <mark key="[" line="26" column="82" />
-        <mark key="]" line="26" column="82" />
-        <mark key="." line="26" column="82" />
-        <mark key="^" line="26" column="61" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" timestamp="1506620279387">
+        <mark key="[" line="68" column="25" />
+        <mark key="]" line="68" column="35" />
+        <mark key="^" line="68" column="35" />
+        <mark key="." line="68" column="35" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineSourceRepository.php" timestamp="1499960750585">
         <mark key="[" line="20" column="121" />
@@ -2614,6 +2614,12 @@
         <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewPlaylists.php" timestamp="1506617940084">
+        <mark key="[" line="16" column="69" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/artist_search.json" timestamp="1495024604755">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -3378,7 +3384,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>on</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3390,16 +3396,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>on</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>MusicPlayerService.playing()</text>
+        <text>\'App\\Domain\\Playlist\\Playlist\'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coTXVzaWNQbGF5ZXJTZXJ2aWNlLnBsYXlpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBKT0lOIGxvY2F0aW9uX3BsYXlsaXN0IGxwIG9uIHBsYXlsaXN0LmlkID0gbHAucGxheWxpc3RfaWQgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3416,28 +3422,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxheWVyLnBsYXlWaWRlbygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiBsb2NhdGlvbl9wbGF5bGlzdCBscCBvbiBwbGF5bGlzdC5pZCA9IGxwLnBsYXlsaXN0X2lkIAogICAgICAgICAgICAgICAgICAgICAgICBKT0lOIHBsYXlsaXN0X2l0ZW0gcGkgb24gcGxheWxpc3QuaWQgPSBwaS5wbGF5bGlzdF9pZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGF5ZXIubG9hZFZpZGVvQnlJZChnZXRWaWRlb0lEKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiBsb2NhdGlvbl9wbGF5bGlzdCBscCBvbiBwbGF5bGlzdC5pZCA9IGxwLnBsYXlsaXN0X2lkIAogICAgICAgICAgICAgICAgICAgICAgICBKT0lOIHBsYXlsaXN0X2l0ZW0gcGkgb24gcGxheWxpc3QuaWQgPSBwaS5wbGF5bGlzdF9pZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy90b2RvOmhhY2sKICAgICAgICAgICAgICAgICAgICAgIHNldFRpbWVvdXQocGxheWVyLnBsYXlWaWRlbywgMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgYWNsLmVudGl0eV9pZCA9IHBsYXlsaXN0LmlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGFjbC5lbnRpdHlfY2xhc3MgPSBcJ0FwcFxcRG9tYWluXFxQbGF5bGlzdFxcUGxheWxpc3RcJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWyd0ZXN0J10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxDb2x1bW4odHlwZT0iaW50ZWdlciIpCiAgICAgKi8KICAgIHByb3RlY3RlZCAkaXRlbV9jb3VudDsKCiAgICAvKioKICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9ImludGVnZXIiKQogICAgICovCiAgICBwcm90ZWN0ZWQgJGR1cmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgYWNsLmVudGl0eV9pZCA9IHBsYXlsaXN0LmlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGFjbC5lbnRpdHlfY2xhc3MgPSBcJ0FwcFxcRG9tYWluXFxQbGF5bGlzdFxcUGxheWxpc3RcJwogICAgICAgICAgICAgICAgICAgICAgICBKT0lOIGxvY2F0aW9uX3BsYXlsaXN0IGxwIG9uIHBsYXlsaXN0LmlkID0gbHAucGxheWxpc3RfaWQgCiAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gcGxheWxpc3RfaXRlbSBwaSBvbiBwbGF5bGlzdC5pZCA9IHBpZC5wbGF5bGlzdF9pZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgYWNsLmVudGl0eV9pZCA9IHBsYXlsaXN0LmlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGFjbC5lbnRpdHlfY2xhc3MgPSBcJ0FwcFxcRG9tYWluXFxQbGF5bGlzdFxcUGxheWxpc3RcJwogICAgICAgICAgICAgICAgICAgICAgICBKT0lOIGxvY2F0aW9uX3BsYXlsaXN0IGxwIG9uIHBsYXlsaXN0LmlkID0gbHAucGxheWxpc3RfaWQgCiAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gcGxheWxpc3RfaXRlbSBwaSBvbiBwbGF5bGlzdC5pZCA9IHBpZC5wbGF5bGlzdF9pZAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhZGRJdGVtKFBsYXlsaXN0SXRlbSAkaXRlbSkKICAgIHsKICAgICAgICAkaXRlbS0+YXNzaWduVG9QbGF5bGlzdCgkdGhpcyk7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBBTkQgYWNsLmVudGl0eV9pZCA9IHBsYXlsaXN0LmlkCiAgQU5EIGFjbC5lbnRpdHlfY2xhc3MgPSAnQXBwXFxEb21haW5cXFBsYXlsaXN0XFxQbGF5bGlzdCcKSk9JTiBsb2NhdGlvbl9wbGF5bGlzdCBscCBvbiBwbGF5bGlzdC5pZCA9IGxwLnBsYXlsaXN0X2lkIApKT0lOIHBsYXlsaXN0X2l0ZW0gcGkgb24gcGxheWxpc3QuaWQgPSBwaWQucGxheWxpc3RfaWQKR1JPVVAgQlkgcGxheWxpc3QuaWQK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
