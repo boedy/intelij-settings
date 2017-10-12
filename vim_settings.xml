@@ -312,11 +312,11 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Command/RegisterPerson.php" timestamp="1504701199534">
-        <mark key="[" line="37" column="72" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="52" column="95" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Command/RegisterPerson.php" timestamp="1507800255142">
+        <mark key="[" line="43" column="103" />
+        <mark key="]" line="43" column="135" />
+        <mark key="." line="43" column="135" />
+        <mark key="^" line="43" column="135" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/domain/playlist/Playlist.php" timestamp="1505988106878">
         <mark key="[" line="88" column="26" />
@@ -722,6 +722,12 @@
         <mark key="." line="187" column="14" />
         <mark key="^" line="186" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/DoctrineCacheInvalidation.php" timestamp="1507801275334">
+        <mark key="[" line="210" column="32" />
+        <mark key="]" line="210" column="37" />
+        <mark key="^" line="210" column="37" />
+        <mark key="." line="210" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/services/htmlAudioPlayer.js" timestamp="1505393093209">
         <mark key="[" line="26" column="36" />
         <mark key="]" line="26" column="41" />
@@ -776,7 +782,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507799119340">
+      <file name="/Dummy.txt" timestamp="1507801396642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -2617,11 +2623,12 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/User/Person.php" timestamp="1507799835623">
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="16" />
-        <mark key="." line="46" column="16" />
-        <mark key="^" line="46" column="16" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/User/Person.php" timestamp="1507801159507">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="68" />
+        <mark key="." line="46" column="68" />
+        <mark key="^" line="46" column="68" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/LicenseAgreement/Curator.php" timestamp="1483637197802">
         <mark key="[" line="18" column="31" />
@@ -3311,8 +3318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/PlaylistDomainService.php" />
-      <jump line="66" column="116" filename="$USER_HOME$/projects/atmosphere/backstage/index.html" />
       <jump line="105" column="4" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Organisation.php" />
       <jump line="132" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Organisation.php" />
       <jump line="658" column="8" filename="$USER_HOME$/projects/atmosphere/deezersync/index.js" />
@@ -3411,10 +3416,12 @@
       <jump line="5" column="24" filename="$USER_HOME$/projects/atmosphere/content-digger/test.js" />
       <jump line="77" column="47" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" />
       <jump line="37" column="49" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" />
+      <jump line="46" column="68" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/User/Person.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/User/Person.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>Person</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3426,13 +3433,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>Person</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcnNtLT5hZGRNZXRhUmVzdWx0KCdwJywgJ2R1cmF0aW9uJywgJ2R1cmF0aW9uJywgZmFsc2UsICdpbnRlZ2VyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0FwcFxcRG9tYWluXFxVc2VyXFxQZXJzb24nID0+IGFycmF5KAogICAgICAgICAgICAgICAgYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgJ2lkJyAgICAgPT4gJ3VzZXJzJywKICAgICAgICAgICAgICAgICAgICAnY2hhbmdlJyA9PiAnYW55JywKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlci0+dGVsZXBob25lTnIgPSAkcGhvbmVOdW1iZXI7Cg==</text>
@@ -3480,7 +3487,7 @@
 }</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -3531,11 +3538,11 @@
         <entry>sp</entry>
         <entry>action EditorSelectWord</entry>
         <entry>w</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action AceJumpAction</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>x</entry>
         <entry>vsp</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
