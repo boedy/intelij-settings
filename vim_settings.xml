@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="20" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" />
     </globalmarks>
@@ -228,6 +228,12 @@
         <mark key="^" line="66" column="32" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/index.js" timestamp="1507996845905">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="3" column="56" />
+        <mark key="." line="3" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/controllers/PlaylistController.php" timestamp="1495187929994">
         <mark key="[" line="30" column="56" />
         <mark key="]" line="30" column="55" />
@@ -413,11 +419,6 @@
         <mark key="]" line="27" column="117" />
         <mark key="^" line="25" column="59" />
         <mark key="." line="27" column="117" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/wercker.yml" timestamp="1507206390228">
-        <mark key="[" line="50" column="42" />
-        <mark key="]" line="50" column="43" />
-        <mark key="." line="50" column="43" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Scenarios/Billing/CoffeeAndCoconuts.php" timestamp="1483716683046">
         <mark key="[" line="10" column="16" />
@@ -667,11 +668,6 @@
         <mark key="]" line="47" column="49" />
         <mark key="." line="47" column="49" />
         <mark key="^" line="47" column="49" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Query/ViewPlaylistsOfLocation.php" timestamp="1507805216048">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/node/index.js" timestamp="1482228312142">
         <mark key="[" line="0" column="18" />
@@ -1471,6 +1467,12 @@
         <mark key="]" line="67" column="15" />
         <mark key="^" line="67" column="15" />
         <mark key="." line="67" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/package.json" timestamp="1507996014889">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/www/index.html" timestamp="1493802973228">
         <mark key="[" line="5" column="0" />
@@ -3465,8 +3467,8 @@
       <jump line="30" column="43" filename="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewPlaylistItems.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHsKICAgICAgc2NyaXB0OiBtZXRob2QsCiAgICAgIHBhcmFtczogeyBwbGF5bGlzdElkOiBwbGF5bGlzdElkIH0KICAgIH0pKTsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3478,7 +3480,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>params.playlistId</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
