@@ -1098,11 +1098,11 @@
         <mark key="^" line="66" column="90" />
         <mark key="." line="26" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/quickstart.js" timestamp="1508000444235">
-        <mark key="[" line="110" column="8" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="110" column="8" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/quickstart.js" timestamp="1508014224560">
+        <mark key="[" line="111" column="25" />
+        <mark key="]" line="111" column="25" />
+        <mark key="^" line="111" column="26" />
+        <mark key="." line="111" column="25" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/app/Providers/AuthServiceProvider.php" timestamp="1482168127791">
         <mark key="[" line="45" column="0" />
@@ -3461,8 +3461,8 @@
       <jump line="30" column="43" filename="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewPlaylistItems.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgInJhbmdlIjogc3RyaW5nLAogICAgICAibWFqb3JEaW1lbnNpb24iOiBlbnVtKERpbWVuc2lvbiksCg==</text>
+      <register name="&quot;" type="4">
+        <text>ROWS</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3474,16 +3474,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>ROWS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChlcnIpIHsKICAgICAgY29uc29sZS5sb2coJ1RoZSBBUEkgcmV0dXJuZWQgYW4gZXJyb3I6ICcgKyBlcnIpOwogICAgICByZXR1cm47Cg==</text>
+      <register name="0" type="4">
+        <text>'Blad1!A1'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgInJhbmdlIjogc3RyaW5nLAogICAgICAibWFqb3JEaW1lbnNpb24iOiBlbnVtKERpbWVuc2lvbiksCg==</text>
+        <text encoding="base64">ICAgIHJhbmdlOiAnQmxhZDEhQTEnLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3500,28 +3500,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Im51bWJlcl92YWx1ZSI6IDF9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNbcmVzLmxlbmd0aCAtMV0uZGV0YWlscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgInJhbmdlIjogc3RyaW5nLAogICAgICAibWFqb3JEaW1lbnNpb24iOiBlbnVtKERpbWVuc2lvbiksCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNbcmVzLmxlbmd0aCAtMV0uZGV0YWlscyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGVsc2V7CiAgICAgIAogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IGVsc2V7CiAgICAgIAogICAgfQ==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHsKICAgICAgc2NyaXB0OiBtZXRob2QsCiAgICAgIHBhcmFtczogeyBwbGF5bGlzdElkOiBwbGF5bGlzdElkIH0KICAgIH0pKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdyZXNwJywgcmVzcCk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">YGA7CmZ1bmN0aW9uIG1haW4oKSB7IHJldHVybiBqb2luKCBQZW9wbGUoKSwgRXZlbnRzKHsgZnJvbV9kYXRlOiAiMjAxNy0wOS0xIiwgdG9fZGF0ZTogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLnNwbGl0KCdUJylbMF0sIGV2ZW50X3NlbGVjdG9yczogW3tldmVudDogIk5FWFRfVFJBQ0sifV0gfSkgKS5maWx0ZXIoZnVuY3Rpb24odHVwbGUpIHsgaWYgKCF0dXBsZS51c2VyIHx8ICF0dXBsZS5ldmVudCkgcmV0dXJuIGZhbHNlOyB2YXIgcGxheWxpc3RJZCA9IHR1cGxlLmV2ZW50LnByb3BlcnRpZXMucGxheWxpc3RJRDsgcmV0dXJuIHBsYXlsaXN0SWQgPT0gcGFyYW1zLnBsYXlsaXN0SWQgfSkgLmdyb3VwQnkoWyAiZXZlbnQucHJvcGVydGllcy50cmFja0lEIiwgXSwgbWl4cGFuZWwucmVkdWNlci5jb3VudCgpKSAuc29ydERlc2MoJ3ZhbHVlJyk7IH0g</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
