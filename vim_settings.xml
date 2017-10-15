@@ -228,12 +228,12 @@
         <mark key="^" line="66" column="32" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/index.js" timestamp="1508071192976">
-        <mark key="'" line="51" column="15" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="4" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/index.js" timestamp="1508073818058">
+        <mark key="'" line="57" column="15" />
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/controllers/PlaylistController.php" timestamp="1495187929994">
         <mark key="[" line="30" column="56" />
@@ -1623,13 +1623,6 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/test.js" timestamp="1506774272613">
-        <mark key="'" line="3" column="24" />
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/node/sagas/init.js" timestamp="1487027631977">
         <mark key="[" line="67" column="30" />
         <mark key="]" line="68" column="18" />
@@ -2190,6 +2183,12 @@
         <mark key="]" line="45" column="61" />
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/moneybird-api.js" timestamp="1508073587048">
+        <mark key="[" line="48" column="79" />
+        <mark key="]" line="48" column="80" />
+        <mark key="^" line="55" column="22" />
+        <mark key="." line="48" column="80" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceGenerator.php" timestamp="1487870517096">
         <mark key="[" line="99" column="64" />
@@ -3469,8 +3468,8 @@
       <jump line="37" column="15" filename="$USER_HOME$/projects/kollekt/team-dashboard/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{filter: [{id: '201383496920336381'}]}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3482,16 +3481,26 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.join('/')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gbW9uZXlCaXJkQ2xpZW50LmdldCgnZmluYW5jaWFsX211dGF0aW9ucy9zeW5jaHJvbml6YXRpb24nKS50aGVuKHJlcyA9PiB7Cg==</text>
+      <register name="0" type="4">
+        <text>{filter: [{id: '201383496920336381'}]}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+      'baseUrl': `https://moneybird.com/api/${this.version}/${this.administrationId}/`,
+      'headers': {
+        'Authorization': 'Bearer ' + this.token
+      },
+      'uri': (Client.requestHasBody(method) ? args.slice(1, -1) : args.slice(1)).join('/') + '.' + this.format,
+      'qs' : (Client.requestHasBody(method) ? null : args.slice(-1)[0]),
+      'method': method,
+      'body': (Client.requestHasBody(method) ? args.slice(-1)[0] : null),
+      'json': this.format === 'json'
+    }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3508,30 +3517,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gbW9uZXlCaXJkQ2xpZW50LmdldCgnZmluYW5jaWFsX211dGF0aW9ucycpLnRoZW4ocmVzID0+IHsKICAgIGNvbnNvbGUubG9nKHJlcyk7CiAgICByZXR1cm4gcmVzOwogICAgY29uc3QgcmVzdWx0ID0gcmVzLnJlZHVjZSgoYWNjLCB2YWwpID0+IHsKICAgICAgY29uc3Qga2V5ID0gbW9tZW50KHZhbC5jcmVhdGVkX2F0KS5mb3JtYXQoJ1l3dycpOwogICAgICByZXR1cm4gYWNjLm1hcCgoaSkgPT4gewogICAgICAgIGlmKGtleSA8PSBpLndlZWspewogICAgICAgICAgaS52YWx1ZSs9IGdldE1yckZvclJlY3VycmluZ0ludm9pY2UodmFsKSA7CiAgICAgICAgfQogICAgICAgIHJldHVybiBpOwogICAgICB9KTsKICAgIH0sIGdldDUyd2Vla3NTdHJ1Y3R1cmUoKSk7CgogICAgcmV0dXJuIHJlc3VsdDsKCiAgfSkuY2F0Y2goZXJyID0+IHsKICAgIGNvbnNvbGUubG9nKCdXaG9vcHMsIHNvbWV0aGluZyB3ZW50IHdyb25nIScsIGVycik7CiAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMuYnVybigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgcnAgPSByZXF1aXJlKCdyZXF1ZXN0LXByb21pc2UnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">CiAgZ2V0ICguLi5hcmdzKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2Vla3NBZ286IGksCg==</text>
+        <text encoding="base64">dmFyIG9wdGlvbnMgPSB7CiAgbWV0aG9kOiAnUE9TVCcsCiAgdXJpOiAnaHR0cHM6Ly9tb25leWJpcmQuY29tL2FwaS92Mi8nLAogIGJvZHk6IHsKICAgIHNvbWU6ICdwYXlsb2FkJwogIH0sCiAganNvbjogdHJ1ZSAvLyBBdXRvbWF0aWNhbGx5IHN0cmluZ2lmaWVzIHRoZSBib2R5IHRvIEpTT04KfTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5zb3J0KChhLCBiKSA9PiB7CiAgICAgIHJldHVybiBhLndlZWtzQWdvIC0gYi53ZWVrc0FnbzsKICAgIH0pKTsK</text>
+        <text encoding="base64">Y29uc3QgbW9uZXliaXJkQXBpID0gKGFkbWluaXN0cmF0aW9uSWQpID0+IHsKCn07Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGF0YS5zb3J0KChhLCBiKSA9PiB7CiAgICAgICAgICByZXR1cm4gcGFyc2VGbG9hdChhLnByaWNlKSAtIHBhcnNlRmxvYXQoYi5wcmljZSk7CiAgICAgICAgfSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJ3BvcnQnOiA0NDMsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>[
-          [2,1],[3]
-        ]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
