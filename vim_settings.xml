@@ -289,11 +289,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/spotify.js" timestamp="1508426680391">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/spotify.js" timestamp="1508430655889">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/Playlist/PlaylistRepository.php" timestamp="1475050312296">
         <mark key="[" line="13" column="29" />
@@ -1314,8 +1314,8 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/manifest.json" timestamp="1508426511858">
-        <mark key="[" line="17" column="19" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/manifest.json" timestamp="1508428511664">
+        <mark key="[" line="18" column="33" />
         <mark key="]" line="17" column="19" />
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="19" />
@@ -1386,10 +1386,10 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="58" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/scraper.js" timestamp="1508426851525">
-        <mark key="[" line="20" column="49" />
-        <mark key="]" line="20" column="92" />
-        <mark key="." line="20" column="92" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/scraper.js" timestamp="1508428666131">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="69" />
+        <mark key="." line="20" column="66" />
         <mark key="^" line="20" column="92" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/objectMappers/facebook/FacebookPostMapper.php" timestamp="1497006449348">
@@ -3518,7 +3518,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUudGFyZ2V0LnF1ZXJ5U2VsZWN0b3IoJy5iYWNrc3RhZ2UnKSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3530,16 +3530,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>.target</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICcuL3NyYy9iYWNrZ3JvdW5kLmpzJwo=</text>
+      <register name="0" type="4">
+        <text>document.getElementsByClassName('react-contextmenu react-contextmenu--visible')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUudGFyZ2V0LnF1ZXJ5U2VsZWN0b3IoJy5iYWNrc3RhZ2UnKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3556,28 +3556,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG9jdW1lbnQuYm9keS5zdHlsZS5iYWNrZ3JvdW5kQ29sb3IgPSAieWVsbG93IjsKdmFyIGJ1dHRvbiA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImJ1dHRvbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB5b3VyRElWLmFwcGVuZENoaWxkKCd0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhciBpRGl2ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CiAgICBpRGl2LmNsYXNzTmFtZSA9ICdyZWFjdC1jb250ZXh0bWVudS1pdGVtIGJhY2tzdGFnZSc7CiAgICBpRGl2LmlubmVySFRNTCA9ICdBZGQgdG8gQmFja3N0YWdlJzsKICAgIGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ3JlYWN0LWNvbnRleHRtZW51IHJlYWN0LWNvbnRleHRtZW51LS12aXNpYmxlJylbMF0uYXBwZW5kQ2hpbGQoaURpdik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZWFyY2goKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmVudC5xdWVyeVNlbGVjdG9yKCcuYXJ0aXN0cy1hbGJ1bSAubGluay1zdWJ0bGUnKS5pbm5lckhUTUwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBwZW5kaW5nOiB0cnVlLCBlcnJvcjogZmFsc2UgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciBjaGlsZHJlbiA9IHBhcmVudC5jaGlsZHJlbjsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
