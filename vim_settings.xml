@@ -769,6 +769,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.yml" timestamp="1508417662889">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="19" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/.env.wercker" timestamp="1487696181637">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="31" />
@@ -1089,6 +1095,12 @@
         <mark key="]" line="46" column="53" />
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/nginx/nginx-proxy.local.conf" timestamp="1508417430377">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/js/main.js" timestamp="1505298761936">
         <mark key="[" line="233" column="0" />
@@ -1746,11 +1758,11 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" timestamp="1508415365238">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="40" column="72" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" timestamp="1508417882928">
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Customer/CustomerEsRepository.php" timestamp="1485859656755">
         <mark key="[" line="13" column="0" />
@@ -3476,8 +3488,8 @@
       <jump line="37" column="15" filename="$USER_HOME$/projects/kollekt/team-dashboard/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>start</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3489,7 +3501,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MRR</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
@@ -3498,7 +3510,7 @@
         <text encoding="base64">ICBtcnIoKS50aGVuKChyZXMpID0+IHsKICAgIGNvbnN0IGRhdGEgPSByZXMuc29ydCgoYSwgYikgPT4gewogICAgICByZXR1cm4gYS5kYXRlIC0gYi5kYXRlOwogICAgfSkubWFwKChpKSA9PiBbaS5zdHJpbmcsIGkudmFsdWVdKTsKCiAgICBzaGVldHMuc3ByZWFkc2hlZXRzLnZhbHVlcy51cGRhdGUoewogICAgICBhdXRoOiBhdXRoLAogICAgICBzcHJlYWRzaGVldElkOiAnMTdEVjZlNVY1ZUFNajRRZmNJQjV0V1p5M0hTeHRqaTBxcjJSVDdKNC1jNG8nLAogICAgICByYW5nZTogJ01SUiFBMjpCJywKICAgICAgdmFsdWVJbnB1dE9wdGlvbjogJ1VTRVJfRU5URVJFRCcsCiAgICAgIHJlc291cmNlOiB7CiAgICAgICAgLy8gInJhbmdlIjogJ1NoZWV0MSFBMScsCiAgICAgICAgIm1ham9yRGltZW5zaW9uIjogJ3Jvd3MnLAogICAgICAgICJ2YWx1ZXMiOiBkYXRhLAogICAgICB9CiAgICB9LCBmdW5jdGlvbihlcnIsIHJlc3BvbnNlKSB7CiAgICAgIGlmIChlcnIpIHsKICAgICAgICBjb25zb2xlLmxvZygnVGhlIEFQSSByZXR1cm5lZCBhbiBlcnJvcjogJyArIGVycik7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICB9KTsKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNvbHZlciAxNjkuMjU0LjE2OS4yNTAgdmFsaWQ9NXMgaXB2Nj1vZmY7CiAgICAgICAgc2V0ICR0YXJnZXQgIndlYmFwcCI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3515,28 +3527,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9pZiBvbiBLT0xMRUtULkZNCmlmICh1cmxTZWxmLmluZGV4T2YoJ2h0dHBzOi8va29sbGVrdC5mbScpID4gLTEpIHsKICBkYXRhLmVycm9yID0gJ29uS09MTEVLVC5GTSc7Cn0K</text>
+        <text encoding="base64">ICAgICAgaXRlbS5hcnRpc3QubmFtZS50b0xvd2VyQ2FzZSgpLmluZGV4T2YoKSA9PT0gYXJ0aXN0LnNsaWNlKDEsIC0xKS50b0xvd2VyQ2FzZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcGFpZEF0ID0gbW9tZW50KHZhbC5zZW50X2F0KS5mb3JtYXQoJ1lNTScpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAobGV0IHBhcmFtcyA9IGdldEV4YWN0S2V5d29yZHMoYXJ0aXN0KSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW52b2ljZXMoKS50aGVuKHJlcyA9PiB7CiAgY29uc29sZS5sb2cocmVzLmZpbHRlcihlID0+IGUuc3RhdGUgPT09ICdwYWlkJykucmVkdWNlKChhY2MsIHZhbCkgPT4gewogICAgY29uc3Qgc2VudEF0ID0gbW9tZW50KHZhbC5zZW50X2F0KS5mb3JtYXQoJ1lNTScpOwogICAgY29uc3QgcGFpZEF0ID0gbW9tZW50KHZhbC5zZW50X2F0KS5mb3JtYXQoJ1lNTScpOwoKICAgIHJldHVybiBhY2MubWFwKChpKSA9PiB7CiAgICAgIGlmIChzZW50QXQgPT09IGkuZGF0ZSkgewogICAgICAgIGkudmFsdWUgKz0gbW9tZW50KHZhbC5wYWlkX2F0KS5kaWZmKG1vbWVudCh2YWwuc2VudF9hdCksICdkYXlzJyk7CiAgICAgICAgaS52YWx1ZTIrKzsKICAgICAgfQogICAgICByZXR1cm4gaTsKICAgIH0pOwogIH0sIGdldDEyTW9udGhzU3RydWN0KCkpKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbnRBdCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcGFyYW1bMF0gPT09ICciJyAmJiBwYXJhbVtwYXJhbS5sZW5ndGggLSAxXSA9PT0gJyInOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
