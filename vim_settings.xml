@@ -806,7 +806,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508772357039">
+      <file name="/Dummy.txt" timestamp="1508772913240">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -1829,11 +1829,11 @@
         <mark key="^" line="52" column="92" />
         <mark key="." line="64" column="91" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/Mixpanel.js" timestamp="1507912396530">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="26" column="346" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/Mixpanel.js" timestamp="1508772796865">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/PlaylistItem.php" timestamp="1507826034175">
         <mark key="[" line="15" column="96" />
@@ -3507,7 +3507,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>div</text>
+        <text>mixpanelKey</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3519,7 +3519,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>mixpanelKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
@@ -3527,8 +3527,8 @@
       <register name="0" type="4">
         <text encoding="base64">e2l0ZW0uc2tpcHBlZENvdW50IDwgOSA/ICcjRTRFNEU0JyA6ICdyZWQnfQ==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy8gLnRoZW4oKGUpID0+IDApOwoKCiAgICAvLyAgIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gewogICAgLy8KICAgIC8vICAgY29uc29sZS5sb2coJ3F1ZXJ5IHNraXBwZWQgdHJhY2tzJyk7CiAgICAvLyAgIHNldFRpbWVvdXQoKCkgPT4gcmVzb2x2ZSgnYXdlc29tZSBzYXVjZScpLCA1MDAwKTsKICAgIC8vCiAgICAvLyB9KTsKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3544,29 +3544,29 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAyMXB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJpZ2h0OjZweDsK</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAyMXB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
+        <text encoding="base64">ICAgIHJpZ2h0OjZweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
