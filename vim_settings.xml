@@ -2312,11 +2312,11 @@
         <mark key="." line="75" column="90" />
         <mark key="^" line="75" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/k2i/app/Music/SilenceRemover.php" timestamp="1509012157836">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="13" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="15" column="13" />
+      <file name="$USER_HOME$/projects/atmosphere/k2i/app/Music/SilenceRemover.php" timestamp="1509019484542">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/scripts/chcp.js" timestamp="1479988907728">
         <mark key="[" line="6" column="11" />
@@ -3520,8 +3520,8 @@
       <jump line="37" column="15" filename="$USER_HOME$/projects/kollekt/team-dashboard/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sox \&quot;$filePath\&quot; \&quot;$filePath.temp.mp3\&quot; silence 1 0.1 0.1% reverse silence 1 0.1 0.1% reverse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzdGhydSgKICAgICAgICAgICAgInNveCBcIiRmaWxlUGF0aFwiIFwiJGZpbGVQYXRoLnRlbXAubXAzXCIgc2lsZW5jZSAxIDAuMSAwLjElIHJldmVyc2Ugc2lsZW5jZSAxIDAuMSAwLjElIHJldmVyc2UiCiAgICAgICAgKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3533,7 +3533,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sox \&quot;$filePath\&quot; \&quot;$filePath.temp.mp3\&quot; silence 1 0.1 0.1% reverse silence 1 0.1 0.1% reverse</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
@@ -3542,7 +3542,7 @@
         <text encoding="base64">e2l0ZW0uc2tpcHBlZENvdW50IDwgOSA/ICcjRTRFNEU0JyA6ICdyZWQnfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gLnRoZW4oKGUpID0+IDApOwoKCiAgICAvLyAgIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gewogICAgLy8KICAgIC8vICAgY29uc29sZS5sb2coJ3F1ZXJ5IHNraXBwZWQgdHJhY2tzJyk7CiAgICAvLyAgIHNldFRpbWVvdXQoKCkgPT4gcmVzb2x2ZSgnYXdlc29tZSBzYXVjZScpLCA1MDAwKTsKICAgIC8vCiAgICAvLyB9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzdGhydSgKICAgICAgICAgICAgInNveCBcIiRmaWxlUGF0aFwiIFwiJGZpbGVQYXRoLnRlbXAubXAzXCIgc2lsZW5jZSAxIDAuMSAwLjElIHJldmVyc2Ugc2lsZW5jZSAxIDAuMSAwLjElIHJldmVyc2UiCiAgICAgICAgKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3558,29 +3558,29 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gLnRoZW4oKGUpID0+IDApOwoKCiAgICAvLyAgIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gewogICAgLy8KICAgIC8vICAgY29uc29sZS5sb2coJ3F1ZXJ5IHNraXBwZWQgdHJhY2tzJyk7CiAgICAvLyAgIHNldFRpbWVvdXQoKCkgPT4gcmVzb2x2ZSgnYXdlc29tZSBzYXVjZScpLCA1MDAwKTsKICAgIC8vCiAgICAvLyB9KTsKCg==</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAyMXB4Owo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJpZ2h0OjZweDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
