@@ -2205,6 +2205,12 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/k2i/docker-config/jobs/Dockerfile" timestamp="1509011954109">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/popup.html" timestamp="1505221682280">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="8" />
@@ -2306,7 +2312,12 @@
         <mark key="." line="75" column="90" />
         <mark key="^" line="75" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/k2i/app/Music/SilenceRemover.php" timestamp="1508968264313" />
+      <file name="$USER_HOME$/projects/atmosphere/k2i/app/Music/SilenceRemover.php" timestamp="1509012157836">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="15" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/scripts/chcp.js" timestamp="1479988907728">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="10" />
@@ -2421,7 +2432,7 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/k2i/app/Music/Mp3Gain.php" timestamp="1508968596012" />
+      <file name="$USER_HOME$/projects/atmosphere/k2i/app/Music/Mp3Gain.php" timestamp="1509011643739" />
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/Notification/NewResourcePresenter.php" timestamp="1498222276324">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="8" column="51" />
@@ -3510,7 +3521,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mixpanelKey</text>
+        <text>sox \&quot;$filePath\&quot; \&quot;$filePath.temp.mp3\&quot; silence 1 0.1 0.1% reverse silence 1 0.1 0.1% reverse</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3522,7 +3533,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mixpanelKey</text>
+        <text>sox \&quot;$filePath\&quot; \&quot;$filePath.temp.mp3\&quot; silence 1 0.1 0.1% reverse silence 1 0.1 0.1% reverse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
