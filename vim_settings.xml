@@ -2908,11 +2908,12 @@
         <mark key="." line="45" column="18" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/CustomerController.php" timestamp="1487428977844">
-        <mark key="[" line="49" column="71" />
-        <mark key="]" line="49" column="93" />
-        <mark key="^" line="49" column="93" />
-        <mark key="." line="49" column="93" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/CustomerController.php" timestamp="1509533322138">
+        <mark key="'" line="56" column="34" />
+        <mark key="[" line="50" column="105" />
+        <mark key="]" line="50" column="105" />
+        <mark key="^" line="50" column="105" />
+        <mark key="." line="50" column="105" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Exceptions/Handler.php" timestamp="1504104462069">
         <mark key="[" line="70" column="0" />
@@ -3464,7 +3465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="698" column="0" filename="$USER_HOME$/projects/atmosphere/deezersync/index.js" />
       <jump line="719" column="0" filename="$USER_HOME$/projects/atmosphere/deezersync/index.js" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/atmosphere/deezersync/index.js" />
       <jump line="14" column="6" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NotificationReceiver.php" />
@@ -3564,10 +3564,11 @@
       <jump line="30" column="43" filename="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewPlaylistItems.php" />
       <jump line="37" column="15" filename="$USER_HOME$/projects/kollekt/team-dashboard/index.js" />
       <jump line="7" column="38" filename="$USER_HOME$/projects/atmosphere/k2i/test.php" />
+      <jump line="56" column="34" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/CustomerController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdjb3VudHJ5JyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAnYWRkcmVzc19saW5lXzEnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdhZGRyZXNzX2xpbmVfMicgPT4gJycsCiAgICAgICAgICAgICdjb250YWN0X2VtYWlsJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAncG9zdGFsX2NvZGUnID0+ICd6aXBjb2RlOmNvdW50cnknLAogICAgICAgICAgICAndGVsZXBob25lX25yJyA9PiAncGhvbmVudW1iZXI6Y291bnRyeScK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRleCgpCiAgICB7CiAgICAgICAgJGN1c3RvbWVycyA9ICR0aGlzLT5jdXN0b21lclJlcG9zaXRvcnktPmFsbCgpOwogICAgICAgIHByaW50ICRjdXN0b21lcnNbMF0tPmdldEFnZ3JlZ2F0ZVJvb3RJZCgpLT50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3579,7 +3580,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getAddress</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
@@ -3588,7 +3589,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdhZGRyZXNzX2xpbmVfMScgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ2FkZHJlc3NfbGluZV8yJyA9PiAnJywKICAgICAgICAgICAgJ3Bvc3RhbF9jb2RlJyA9PiAnemlwY29kZTpjb3VudHJ5JywKICAgICAgICAgICAgJ2NvdW50cnknID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdjb250YWN0X2VtYWlsJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAndGVsZXBob25lX25yJyA9PiAncGhvbmVudW1iZXI6Y291bnRyeScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdjb3VudHJ5JyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAnYWRkcmVzc19saW5lXzEnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdhZGRyZXNzX2xpbmVfMicgPT4gJycsCiAgICAgICAgICAgICdjb250YWN0X2VtYWlsJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAncG9zdGFsX2NvZGUnID0+ICd6aXBjb2RlOmNvdW50cnknLAogICAgICAgICAgICAndGVsZXBob25lX25yJyA9PiAncGhvbmVudW1iZXI6Y291bnRyeScK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRleCgpCiAgICB7CiAgICAgICAgJGN1c3RvbWVycyA9ICR0aGlzLT5jdXN0b21lclJlcG9zaXRvcnktPmFsbCgpOwogICAgICAgIHByaW50ICRjdXN0b21lcnNbMF0tPmdldEFnZ3JlZ2F0ZVJvb3RJZCgpLT50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3605,28 +3606,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Bvc3RhbF9jb2RlJyA9PiAnemlwY29kZTpjb3VudHJ5JywKICAgICAgICAgICAgJ2NvdW50cnknID0+ICdyZXF1aXJlZCcsCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gaW5kZXgoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NvdW50cnknID0+ICdyZXF1aXJlZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdjb3VudHJ5JyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAnYWRkcmVzc19saW5lXzEnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdhZGRyZXNzX2xpbmVfMicgPT4gJycsCiAgICAgICAgICAgICdjb250YWN0X2VtYWlsJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAncG9zdGFsX2NvZGUnID0+ICd6aXBjb2RlOmNvdW50cnknLAogICAgICAgICAgICAndGVsZXBob25lX25yJyA9PiAncGhvbmVudW1iZXI6Y291bnRyeScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Bvc3RhbF9jb2RlJyA9PiAnemlwY29kZTpjb3VudHJ5JywKICAgICAgICAgICAgJ2NvdW50cnknID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGR0by0+Z2V0VGVsZXBob25lTnVtYmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvdW50cnknID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9jYXRpb24tPnNldEFkZHJlc3MoJGRhdGEtPmdldEFkZHJlc3MoKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGR0by0+Z2V0VGVsZXBob25lTnVtYmVyKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgICAgICAkbG9jYXRpb24tPnNldEFkZHJlc3MoJGRhdGEtPmdldEFkZHJlc3MoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QWRkcmVzcygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5hZGRyZXNzOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
@@ -3665,12 +3666,6 @@
         <entry encoding="base64">XDxBRERcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">YWN0aW9uIEFjZUFjdGlvbjxDUj4=</entry>
-        <entry encoding="base64">bWFwIHNzIDphY3Rpb24gQWNlQWN0aW9uPENSPg==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
-        <entry>action AceAction</entry>
-        <entry>action EditorUnSelectWord</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcFNpbmdsZVF1b3Rlcw==</entry>
         <entry>action Macro.wrapParentesis</entry>
         <entry>action Macro.wrapSingleQuotes</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
@@ -3681,9 +3676,15 @@
         <entry>w</entry>
         <entry>action AceJumpAction</entry>
         <entry>x</entry>
-        <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVGFiU2hpZnRBY3Rpb25zLk1vdmVGb2N1c0xlZnQ=</entry>
+        <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>set number</entry>
+        <entry>set rnu</entry>
+        <entry>set nonumbers</entry>
+        <entry>set nornu</entry>
+        <entry>set nu</entry>
+        <entry>set nonu</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
