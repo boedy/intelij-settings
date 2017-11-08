@@ -817,7 +817,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509964757209">
+      <file name="/Dummy.txt" timestamp="1510140813697">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -1092,10 +1092,6 @@
         <mark key="]" line="63" column="21" />
         <mark key="." line="63" column="21" />
         <mark key="^" line="56" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Projectors/MoneyBirdProjector.php" timestamp="1509621247921">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="80" column="26" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/BillingScenario.php" timestamp="1483718234393">
         <mark key="[" line="14" column="32" />
@@ -2080,6 +2076,12 @@
         <mark key="^" line="53" column="72" />
         <mark key="." line="53" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20171031122259.php" timestamp="1510140027382">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+        <mark key="^" line="26" column="162" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/uglify.js" timestamp="1491815553928">
         <mark key="[" line="1" column="117" />
         <mark key="]" line="1" column="121" />
@@ -2133,11 +2135,11 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/User/User.php" timestamp="1507802386241">
-        <mark key="[" line="68" column="31" />
-        <mark key="]" line="68" column="37" />
-        <mark key="^" line="68" column="37" />
-        <mark key="." line="68" column="37" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/User/User.php" timestamp="1510140641852">
+        <mark key="[" line="104" column="49" />
+        <mark key="]" line="104" column="29" />
+        <mark key="^" line="104" column="29" />
+        <mark key="." line="104" column="29" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/.env" timestamp="1482168024132">
         <mark key="[" line="1" column="10" />
@@ -2298,7 +2300,6 @@
         <mark key="[" line="41" column="22" />
         <mark key="]" line="41" column="22" />
         <mark key="." line="41" column="22" />
-        <mark key="^" line="135" column="26" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/database/ElasticSearch.php" timestamp="1495030674937">
         <mark key="[" line="143" column="18" />
@@ -3621,8 +3622,8 @@
       <jump line="73" column="20" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/CustomerController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRob3JpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QUREIGFkZHJlc3MgVkFSQ0hBUigyNTUpIERFRkFVTFQgTlVMTCBDT0xMQVRFIHV0ZjhfdW5pY29kZV9jaSwg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3634,13 +3635,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">QUREIGFkZHJlc3MgVkFSQ0hBUigyNTUpIERFRkFVTFQgTlVMTCBDT0xMQVRFIHV0ZjhfdW5pY29kZV9jaSwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRERcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPmdldCgnYWRkcmVzc0xpbmUxJyksCg==</text>
+      <register name="0" type="4">
+        <text>CHANGE address address_line1 VARCHAR(255) DEFAULT NULL</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBBdXRob3JpCg==</text>
