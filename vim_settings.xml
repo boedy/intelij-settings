@@ -221,12 +221,12 @@
         <mark key="^" line="66" column="32" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/index.js" timestamp="1510403647683">
-        <mark key="[" line="134" column="16" />
-        <mark key="m" line="141" column="23" />
-        <mark key="]" line="134" column="27" />
-        <mark key="." line="134" column="27" />
-        <mark key="^" line="134" column="27" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/index.js" timestamp="1510404649347">
+        <mark key="[" line="137" column="0" />
+        <mark key="m" line="123" column="23" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="121" column="33" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/controllers/PlaylistController.php" timestamp="1495187929994">
         <mark key="[" line="30" column="56" />
@@ -560,6 +560,12 @@
         <mark key="]" line="31" column="20" />
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" timestamp="1510406396204">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendInvitationEmailJob.php" timestamp="1504702152487">
         <mark key="[" line="65" column="0" />
@@ -1154,11 +1160,10 @@
         <mark key="^" line="66" column="90" />
         <mark key="." line="26" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/quickstart.js" timestamp="1508182328350">
-        <mark key="[" line="126" column="5" />
-        <mark key="]" line="113" column="20" />
-        <mark key="^" line="113" column="20" />
-        <mark key="." line="113" column="20" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/quickstart.js" timestamp="1510404565554">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/monitoring-dashboard/app/Providers/AuthServiceProvider.php" timestamp="1482168127791">
         <mark key="[" line="45" column="0" />
@@ -3526,7 +3531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/projects/atmosphere/deezersync/index.js" />
       <jump line="14" column="6" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NotificationReceiver.php" />
       <jump line="63" column="32" filename="$USER_HOME$/projects/kollekt/mitsubishi/js/srv.js" />
       <jump line="33" column="14" filename="$USER_HOME$/projects/kollekt/mitsubishi/songs.js" />
@@ -3626,10 +3630,11 @@
       <jump line="7" column="38" filename="$USER_HOME$/projects/atmosphere/k2i/test.php" />
       <jump line="56" column="34" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/CustomerController.php" />
       <jump line="73" column="20" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/CustomerController.php" />
+      <jump line="135" column="26" filename="$USER_HOME$/projects/kollekt/team-dashboard/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWNjKTsK</text>
+      <register name="&quot;" type="4">
+        <text>val</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3641,16 +3646,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, val</text>
+        <text>val</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBRERcPg==</text>
+        <text>from</text>
       </register>
       <register name="0" type="4">
-        <text>acc[sentAt]</text>
+        <text>unpaid[index]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWNjKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3667,45 +3672,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFhY2Nbc2VudEF0XSkgcmV0dXJuIGFjYzsK</text>
+        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGFjYzsK</text>
+      <register name="3" type="4">
+        <text>[
+      val.string,
+      val.totalDays / val.totalInvoices,
+      (val.value + unpaid[index].totalInvoices) / (val.totalInvoices + unpaid[index].totalInvoices)]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWNjKTsK</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICB1bnBhaWRbaW5kZXhdLnRvdGFsVW5wYWlkRGF5cyA9IHVuUGFpZE1vbnRoLnZhbHVlOwogICAgICAgIC50b3RhbFVucGFpZEludm9pY2VzID0gdW5QYWlkTW9udGgudmFsdWUyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2VudEF0ID0gbW9tZW50KHZhbC5zZW50X2F0KS5mb3JtYXQoJ1lNTScpOwogICAgICBjb25zb2xlLmxvZyhhY2MsIHZhbCk7CiAgICAgIGlmICghYWNjW3NlbnRBdF0pIHJldHVybjsKICAgICAgYWNjW3NlbnRBdF0udG90YWxEYXlzICs9IG1vbWVudCh2YWwucGFpZF9hdCkuZGlmZihtb21lbnQodmFsLnNlbnRfYXQpLCAnZGF5cycpOwogICAgICBhY2Nbc2VudEF0XS50b3RhbEludm9pY2VzICs9IG1vbWVudCh2YWwucGFpZF9hdCkuZGlmZihtb21lbnQodmFsLnNlbnRfYXQpLCAnZGF5cycpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZ2V0MTJNb250aHNPYmooe30pKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHVuUGFpZE1vbnRoLnN0cmluZyA9PT0gaS5zdHJpbmcpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh5ZWFyKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">c29ydCgoYSwgYikgPT4gewogICAgcmV0dXJuIGEuZGF0ZSAtIGIuZGF0ZTsKICB9KQ==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBRERcPg==</last-search>
+      <last-search>from</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBRERcPg==</last-pattern>
+      <last-pattern>from</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Playlist</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDxhYnNvbHV0ZVw+</entry>
         <entry encoding="base64">XDxqYXZhc2NyaXB0XD4=</entry>
@@ -3725,6 +3732,7 @@
         <entry>req</entry>
         <entry>img</entry>
         <entry encoding="base64">XDxBRERcPg==</entry>
+        <entry>from</entry>
       </history-search>
       <history-cmd>
         <entry>action Macro.wrapParentesis</entry>
@@ -3737,16 +3745,16 @@
         <entry>action AceJumpAction</entry>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVGFiU2hpZnRBY3Rpb25zLk1vdmVGb2N1c0xlZnQ=</entry>
-        <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>set number</entry>
         <entry>set rnu</entry>
         <entry>set nonumbers</entry>
         <entry>set nornu</entry>
         <entry>set nu</entry>
         <entry>set nonu</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
