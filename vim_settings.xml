@@ -11,11 +11,11 @@
         <mark key="^" line="207" column="22" />
         <mark key="." line="208" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/test.js" timestamp="1510591286744">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="59" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/test.js" timestamp="1510602415255">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/controllers/RequestController.php" timestamp="1505836862623">
         <mark key="[" line="28" column="55" />
@@ -566,12 +566,12 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" timestamp="1510598142698">
-        <mark key="'" line="46" column="36" />
-        <mark key="[" line="102" column="16" />
-        <mark key="]" line="102" column="21" />
-        <mark key="." line="102" column="21" />
-        <mark key="^" line="102" column="21" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" timestamp="1510603348559">
+        <mark key="'" line="130" column="20" />
+        <mark key="[" line="115" column="43" />
+        <mark key="]" line="115" column="59" />
+        <mark key="." line="115" column="59" />
+        <mark key="^" line="115" column="59" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendInvitationEmailJob.php" timestamp="1504702152487">
         <mark key="[" line="65" column="0" />
@@ -579,12 +579,12 @@
         <mark key="." line="64" column="71" />
         <mark key="^" line="64" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/queries.js" timestamp="1510591818206">
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/queries.js" timestamp="1510602992274">
         <mark key="'" line="247" column="0" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="24" />
-        <mark key="^" line="213" column="24" />
-        <mark key="." line="213" column="24" />
+        <mark key="[" line="213" column="55" />
+        <mark key="]" line="219" column="43" />
+        <mark key="^" line="219" column="40" />
+        <mark key="." line="219" column="43" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.production.yml" timestamp="1487284971689">
         <mark key="[" line="25" column="29" />
@@ -3022,11 +3022,10 @@
         <mark key="." line="81" column="48" />
         <mark key="^" line="81" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510597556036">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="63" column="26" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510602273306">
+        <mark key="[" line="47" column="89" />
+        <mark key="]" line="47" column="98" />
+        <mark key="^" line="63" column="38" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Notification/DoctrineNotificationsQuery.php" timestamp="1498222108548">
         <mark key="[" line="32" column="61" />
@@ -3586,7 +3585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="40" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineNotificationRepository.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineNotificationRepository.php" />
       <jump line="106" column="33" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Login.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Login.js" />
@@ -3686,10 +3684,11 @@
       <jump line="9" column="7" filename="$USER_HOME$/projects/kollekt/team-dashboard/google-sheets.js" />
       <jump line="10" column="4" filename="$USER_HOME$/projects/kollekt/team-dashboard/google-sheets.js" />
       <jump line="45" column="36" filename="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" />
+      <jump line="127" column="20" filename="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[res[stageId][month].deals]</text>
+        <text>month</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3701,16 +3700,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[res[stageId][month].deals]</text>
+        <text>month</text>
       </register>
       <register name="/" type="4">
         <text>TOKEN_PATH</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29sdW1uID0gW3Jlc1tzdGFnZUlkXVttb250aF0uZGVhbHNdLmNvbmNhdChyZXNbc3RhZ2VJZF1bbW9udGhdLmRlYWxzKTsK</text>
+      <register name="0" type="4">
+        <text>{deals:[]}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm47Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3727,28 +3726,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBPYmplY3Qua2V5cyhtb250aE9iaigpKS5mb3JFYWNoKChtb250aCwgaW5kZXgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzW3N0YWdlSWRdLm5hbWUsIG1vbnRoLCByZXNbc3RhZ2VJZF0ubW9udGhzW21vbnRoXS5kZWFscy5sZW5ndGgpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBtb250aE8K</text>
+      <register name="3" type="4">
+        <text>{
+      string: date.format('Y - MMM'),
+      ...params
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN0YWdlc01hcCk7Cg==</text>
+        <text encoding="base64">dCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgbGltaXQgPSByZXF1aXJlKCJzaW1wbGUtcmF0ZS1saW1pdGVyIik7CnZhciByZXF1ZXN0ID0gbGltaXQoKGkpID0+IGNvbnNvbGUubG9nKGkpKS50bygyKS5wZXIoMTAwMCk7Cgpjb25zdCBkYXRhID0gWzEsMiwzLDQsNSw2LDcsOCw5XTsKCmRhdGEuZm9yRWFjaCgoaSkgPT4gcmVxdWVzdChpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIGlmKG1vbnRoID09ICcyMDE3MTEnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGVhbENoYW5nZXMubGVuZ3RoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ1ttb250aF0gPSAxOwo=</text>
+        <text encoding="base64">ICAgIGxldCBoZWFkZXIgPSBvYmo7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
