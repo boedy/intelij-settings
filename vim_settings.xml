@@ -566,12 +566,12 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" timestamp="1510592704035">
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" timestamp="1510598142698">
         <mark key="'" line="46" column="36" />
-        <mark key="[" line="96" column="20" />
-        <mark key="]" line="96" column="21" />
-        <mark key="." line="96" column="21" />
-        <mark key="^" line="96" column="57" />
+        <mark key="[" line="102" column="16" />
+        <mark key="]" line="102" column="21" />
+        <mark key="." line="102" column="21" />
+        <mark key="^" line="102" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendInvitationEmailJob.php" timestamp="1504702152487">
         <mark key="[" line="65" column="0" />
@@ -3022,11 +3022,11 @@
         <mark key="." line="81" column="48" />
         <mark key="^" line="81" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510594213720">
-        <mark key="[" line="52" column="37" />
-        <mark key="]" line="52" column="37" />
-        <mark key="." line="52" column="37" />
-        <mark key="^" line="52" column="37" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510597556036">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="63" column="26" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Notification/DoctrineNotificationsQuery.php" timestamp="1498222108548">
         <mark key="[" line="32" column="61" />
@@ -3689,7 +3689,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>[res[stageId][month].deals]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3701,16 +3701,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>[res[stageId][month].deals]</text>
       </register>
       <register name="/" type="4">
         <text>TOKEN_PATH</text>
       </register>
-      <register name="0" type="4">
-        <text>console.log('done')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgY29sdW1uID0gW3Jlc1tzdGFnZUlkXVttb250aF0uZGVhbHNdLmNvbmNhdChyZXNbc3RhZ2VJZF1bbW9udGhdLmRlYWxzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpbWl0ZXIub24oJ2VtcHR5JywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAvLyBUaGlzIHdpbGwgYmUgY2FsbGVkIHdoZW4gdGhlIG5iUXVldWVkKCkgZHJvcHMgdG8gMC4KICAgICAgICAgICAgY29uc29sZS5sb2coJ2RvbmUnKQogICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3726,29 +3726,29 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KGRlYWwpLnRoZW4ocmVzcG9uc2UgPT4gcmVzcG9uc2UuZm9yRWFjaChpID0+IHsKICAgICAgICAgICAgLy8gc3RhZ2VzTWFwW2RlYWwuc3RhZ2VfaWRdLgogICAgICAgICAgICBjb25zb2xlLmxvZygxKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBPYmplY3Qua2V5cyhtb250aE9iaigpKS5mb3JFYWNoKChtb250aCwgaW5kZXgpID0+IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICBjb25zdCBtb250aE8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN0YWdlc01hcCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ1ttb250aF0gPSAxOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
