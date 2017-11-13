@@ -11,11 +11,11 @@
         <mark key="^" line="207" column="22" />
         <mark key="." line="208" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/test.js" timestamp="1510602415255">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="25" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/test.js" timestamp="1510605764191">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="56" />
+        <mark key="." line="1" column="56" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/controllers/RequestController.php" timestamp="1505836862623">
         <mark key="[" line="28" column="55" />
@@ -566,11 +566,11 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" timestamp="1510604745440">
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" timestamp="1510605778577">
         <mark key="'" line="130" column="20" />
-        <mark key="[" line="115" column="42" />
-        <mark key="]" line="115" column="40" />
-        <mark key="." line="115" column="40" />
+        <mark key="[" line="115" column="39" />
+        <mark key="]" line="115" column="61" />
+        <mark key="." line="115" column="38" />
         <mark key="^" line="115" column="40" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendInvitationEmailJob.php" timestamp="1504702152487">
@@ -3689,7 +3689,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>month</text>
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3701,16 +3701,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>month</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>TOKEN_PATH</text>
       </register>
       <register name="0" type="4">
-        <text>Object.keys(months).map</text>
+        <text>moment(month, 'YMM').format('YYYY-MMM')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgeyBtb250aE9ian0gPSByZXF1aXJlKCcuL3F1ZXJpZXMnKTsKCgpjb25zdCBhID0gbW9udGhPYmooe2RlYWxzOltdfSk7CmNvbnN0IGIgPSBtb250aE9iaih7ZGVhbHM6W119KTsKCmFbJzIwMTcxMSddLmRlYWxzLnB1c2goMSk7CmNvbnNvbGUubG9nKGEpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3727,31 +3727,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3RhZ2VzTWFwW2RlYWxDaGFuZ2UuZGF0YS5vbGRfdmFsdWVdLm1vbnRocy5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgaWYobSA+PSBtb250aCkgbW9udGguZGVhbHMucHVzaChkZWFsLnZhbHVlKTsKICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3RhZ2VzTWFwW2RlYWxDaGFuZ2UuZGF0YS5vbGRfdmFsdWVdLm1vbnRocy5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgaWYobSA+PSBtb250aCkgbW9udGguZGVhbHMucHVzaChkZWFsLnZhbHVlKTsKICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcgo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAvLyByZXR1cm47Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzW3N0YWdlSWRdLm5hbWUsIG1vbnRoLCByZXNbc3RhZ2VJZF0ubW9udGhzW21vbnRoXS5kZWFscy5sZW5ndGgpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
       string: date.format('Y - MMM'),
       ...params
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dCAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgbGltaXQgPSByZXF1aXJlKCJzaW1wbGUtcmF0ZS1saW1pdGVyIik7CnZhciByZXF1ZXN0ID0gbGltaXQoKGkpID0+IGNvbnNvbGUubG9nKGkpKS50bygyKS5wZXIoMTAwMCk7Cgpjb25zdCBkYXRhID0gWzEsMiwzLDQsNSw2LDcsOCw5XTsKCmRhdGEuZm9yRWFjaCgoaSkgPT4gcmVxdWVzdChpKSk7Cg==</text>
+        <text encoding="base64">dCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
