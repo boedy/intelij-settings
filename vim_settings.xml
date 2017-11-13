@@ -11,6 +11,12 @@
         <mark key="^" line="207" column="22" />
         <mark key="." line="208" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/test.js" timestamp="1510591286744">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="59" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/controllers/RequestController.php" timestamp="1505836862623">
         <mark key="[" line="28" column="55" />
         <mark key="]" line="28" column="55" />
@@ -560,12 +566,12 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" timestamp="1510586242161">
-        <mark key="'" line="47" column="36" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="113" column="63" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" timestamp="1510592704035">
+        <mark key="'" line="46" column="36" />
+        <mark key="[" line="96" column="20" />
+        <mark key="]" line="96" column="21" />
+        <mark key="." line="96" column="21" />
+        <mark key="^" line="96" column="57" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendInvitationEmailJob.php" timestamp="1504702152487">
         <mark key="[" line="65" column="0" />
@@ -573,12 +579,12 @@
         <mark key="." line="64" column="71" />
         <mark key="^" line="64" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/queries.js" timestamp="1510569560663">
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/queries.js" timestamp="1510591818206">
         <mark key="'" line="247" column="0" />
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="44" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="5" column="44" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="24" />
+        <mark key="^" line="213" column="24" />
+        <mark key="." line="213" column="24" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.production.yml" timestamp="1487284971689">
         <mark key="[" line="25" column="29" />
@@ -3016,10 +3022,11 @@
         <mark key="." line="81" column="48" />
         <mark key="^" line="81" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510583152411">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510594213720">
+        <mark key="[" line="52" column="37" />
+        <mark key="]" line="52" column="37" />
+        <mark key="." line="52" column="37" />
+        <mark key="^" line="52" column="37" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Notification/DoctrineNotificationsQuery.php" timestamp="1498222108548">
         <mark key="[" line="32" column="61" />
@@ -3681,8 +3688,8 @@
       <jump line="45" column="36" filename="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cGRhdGVzLnVybC5ocmVmKTsK</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3694,16 +3701,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>TOKEN_PATH</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYoZGVhbC5pZCA9PSAzOTQpIGNvbnNvbGUubG9nKGRlYWwpOwo=</text>
+      <register name="0" type="4">
+        <text>console.log('done')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cGRhdGVzLnVybC5ocmVmKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGxpbWl0ZXIub24oJ2VtcHR5JywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAvLyBUaGlzIHdpbGwgYmUgY2FsbGVkIHdoZW4gdGhlIG5iUXVldWVkKCkgZHJvcHMgdG8gMC4KICAgICAgICAgICAgY29uc29sZS5sb2coJ2RvbmUnKQogICAgICAgICAgfSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3719,29 +3726,29 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cGRhdGVzLnVybC5ocmVmKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">KGRlYWwpLnRoZW4ocmVzcG9uc2UgPT4gcmVzcG9uc2UuZm9yRWFjaChpID0+IHsKICAgICAgICAgICAgLy8gc3RhZ2VzTWFwW2RlYWwuc3RhZ2VfaWRdLgogICAgICAgICAgICBjb25zb2xlLmxvZygxKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0KDsK</text>
+        <text encoding="base64">ICAgICAgICAgIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYoZGVhbC5pZCA9PSAzOTQpIGNvbnNvbGUubG9nKGRlYWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWFscy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHBpcGVkcml2ZS5EZWFscy5nZXRBbGwoe2ZpbHRlcl9pZDogMSwgc3RhcnQ6IDEsIGxpbWl0OiA1MH0sIChlcnIsIGRlYWxzKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGVhbHNbMF0udGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgICAgYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
