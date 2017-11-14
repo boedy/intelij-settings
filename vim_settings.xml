@@ -3022,11 +3022,11 @@
         <mark key="." line="81" column="48" />
         <mark key="^" line="81" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510666448665">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="75" column="34" />
-        <mark key="^" line="75" column="34" />
-        <mark key="." line="75" column="34" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510674601313">
+        <mark key="'" line="62" column="43" />
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="93" column="21" />
+        <mark key="." line="85" column="19" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Notification/DoctrineNotificationsQuery.php" timestamp="1498222108548">
         <mark key="[" line="32" column="61" />
@@ -3586,7 +3586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineNotificationRepository.php" />
       <jump line="106" column="33" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Login.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Login.js" />
       <jump line="180" column="77" filename="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" />
@@ -3686,10 +3685,11 @@
       <jump line="10" column="4" filename="$USER_HOME$/projects/kollekt/team-dashboard/google-sheets.js" />
       <jump line="45" column="36" filename="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" />
       <jump line="127" column="20" filename="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" />
+      <jump line="61" column="43" filename="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{filter_id: 1}</text>
+        <text encoding="base64">ZWxzZSBpZiAoc3RhZ2VzTWFwW2RlYWwuc3RhZ2VfaWRdKSB7CiAgICAgICAgICAgICAgICAgICAgICBjb25zdCBtb250aHMgPSBzdGFnZXNNYXBbZGVhbC5zdGFnZV9pZF0ubW9udGhzOwogICAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMobW9udGhzKS5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtID49IG1vbnRoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ29ubHlfYWRkJywgbSwgZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbW9udGhzW21dLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3701,16 +3701,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{filter_id: 1}</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>TOKEN_PATH</text>
       </register>
       <register name="0" type="4">
-        <text>moment(month, 'YMM').format('YYYY-MMM')</text>
+        <text encoding="base64">aWYgKHN0YWdlc01hcFtkZWFsLnN0YWdlX2lkXSkgewogICAgICAgICAgICAgICAgICAgIGNvbnN0IG1vbnRocyA9IHN0YWdlc01hcFtkZWFsLnN0YWdlX2lkXS5tb250aHM7CiAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMobW9udGhzKS5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICBpZiAobSA+PSBtb250aCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbmx5X2FkZCcsIG0sIGRlYWwudmFsdWUpOwogICAgICAgICAgICAgICAgICAgICAgICBtb250aHNbbV0uZGVhbHMucHVzaChkZWFsLnZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgeyBtb250aE9ian0gPSByZXF1aXJlKCcuL3F1ZXJpZXMnKTsKCgpjb25zdCBhID0gbW9udGhPYmooe2RlYWxzOltdfSk7CmNvbnN0IGIgPSBtb250aE9iaih7ZGVhbHM6W119KTsKCmFbJzIwMTcxMSddLmRlYWxzLnB1c2goMSk7CmNvbnNvbGUubG9nKGEpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZWxzZSBpZiAoc3RhZ2VzTWFwW2RlYWwuc3RhZ2VfaWRdKSB7CiAgICAgICAgICAgICAgICAgICAgICBjb25zdCBtb250aHMgPSBzdGFnZXNNYXBbZGVhbC5zdGFnZV9pZF0ubW9udGhzOwogICAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMobW9udGhzKS5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtID49IG1vbnRoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ29ubHlfYWRkJywgbSwgZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbW9udGhzW21dLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3727,31 +3727,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZWxzZXsKICAgICAgICAgICAgICAgICAgICBpZiAoc3RhZ2VzTWFwW2RlYWwuc3RhZ2VfaWRdKSB7CiAgICAgICAgICAgICAgICAgICAgICBjb25zdCBtb250aHMgPSBzdGFnZXNNYXBbZGVhbC5zdGFnZV9pZF0ubW9udGhzOwogICAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMobW9udGhzKS5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtID49IG1vbnRoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ29ubHlfYWRkJywgbSwgZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbW9udGhzW21dLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3RhZ2VzTWFwW2RlYWxDaGFuZ2UuZGF0YS5vbGRfdmFsdWVdLm1vbnRocy5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgaWYobSA+PSBtb250aCkgbW9udGguZGVhbHMucHVzaChkZWFsLnZhbHVlKTsKICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgaWYgKHN0YWdlc01hcFtkZWFsLnN0YWdlX2lkXSkgewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIGNvbnN0IG1vbnRocyA9IHN0YWdlc01hcFtkZWFsLnN0YWdlX2lkXS5tb250aHM7CiAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMobW9udGhzKS5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICBpZiAobSA+PSBtb250aCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdhZGQnLCBtLCBkZWFsLnZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgbW9udGhzW21dLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzW3N0YWdlSWRdLm5hbWUsIG1vbnRoLCByZXNbc3RhZ2VJZF0ubW9udGhzW21vbnRoXS5kZWFscy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb250aHNbbV0uZGVhbHMucHVzaChkZWFsLnZhbHVlKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-      string: date.format('Y - MMM'),
-      ...params
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3QgbW9udGggPSB0aW1lc3RhbXAuZm9ybWF0KCdZTU0nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IG1vbnRoID0gdGltZXN0YW1wLmZvcm1hdCgnWU1NJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
