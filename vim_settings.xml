@@ -3022,11 +3022,11 @@
         <mark key="." line="81" column="48" />
         <mark key="^" line="81" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510677457994">
-        <mark key="'" line="62" column="43" />
-        <mark key="[" line="60" column="79" />
-        <mark key="]" line="93" column="21" />
-        <mark key="." line="85" column="19" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510680127254">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="75" column="37" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Notification/DoctrineNotificationsQuery.php" timestamp="1498222108548">
         <mark key="[" line="32" column="61" />
@@ -3586,8 +3586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="33" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Login.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Login.js" />
       <jump line="180" column="77" filename="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" />
       <jump line="13720" column="0" filename="$USER_HOME$/projects/test/ios-storage-issue/myApp/www/js/index.js" />
       <jump line="17" column="56" filename="$USER_HOME$/projects/atmosphere/payments/database/migrations/2017_08_10_085310_create_recurring_invoice_table.php" />
@@ -3686,10 +3684,12 @@
       <jump line="45" column="36" filename="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" />
       <jump line="127" column="20" filename="$USER_HOME$/projects/kollekt/team-dashboard/dashboard.js" />
       <jump line="61" column="43" filename="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" />
+      <jump line="65" column="12" filename="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" />
+      <jump line="77" column="33" filename="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoc3RhZ2VzTWFwW2RlYWwuc3RhZ2VfaWRdKSB7CiAgICAgICAgICAgICAgICAgICAgICBjb25zdCBtb250aHMgPSBzdGFnZXNNYXBbZGVhbC5zdGFnZV9pZF0ubW9udGhzOwogICAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMobW9udGhzKS5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtID49IG1vbnRoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ29ubHlfYWRkJywgbSwgZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbW9udGhzW21dLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3QgdGltZXN0YW1wID0gbW9tZW50KGRlYWxDaGFuZ2UudGltZXN0YW1wKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3701,16 +3701,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>.data</text>
       </register>
       <register name="/" type="4">
         <text>TOKEN_PATH</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aWYgKHN0YWdlc01hcFtkZWFsLnN0YWdlX2lkXSkgewogICAgICAgICAgICAgICAgICAgIGNvbnN0IG1vbnRocyA9IHN0YWdlc01hcFtkZWFsLnN0YWdlX2lkXS5tb250aHM7CiAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMobW9udGhzKS5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICBpZiAobSA+PSBtb250aCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbmx5X2FkZCcsIG0sIGRlYWwudmFsdWUpOwogICAgICAgICAgICAgICAgICAgICAgICBtb250aHNbbV0uZGVhbHMucHVzaChkZWFsLnZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVhbC5pc0N1cnJlbnRseUFjdGl2ZSA9IGRlYWwuc3RhdHVzID09PSAnb3Blbic7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoc3RhZ2VzTWFwW2RlYWwuc3RhZ2VfaWRdKSB7CiAgICAgICAgICAgICAgICAgICAgICBjb25zdCBtb250aHMgPSBzdGFnZXNNYXBbZGVhbC5zdGFnZV9pZF0ubW9udGhzOwogICAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMobW9udGhzKS5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtID49IG1vbnRoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ29ubHlfYWRkJywgbSwgZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbW9udGhzW21dLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3QgdGltZXN0YW1wID0gbW9tZW50KGRlYWxDaGFuZ2UudGltZXN0YW1wKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3727,28 +3727,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3Qge2RhdGF9ID0gZGVhbENoYW5nZTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZWxzZXsKICAgICAgICAgICAgICAgICAgICBpZiAoc3RhZ2VzTWFwW2RlYWwuc3RhZ2VfaWRdKSB7CiAgICAgICAgICAgICAgICAgICAgICBjb25zdCBtb250aHMgPSBzdGFnZXNNYXBbZGVhbC5zdGFnZV9pZF0ubW9udGhzOwogICAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMobW9udGhzKS5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtID49IG1vbnRoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ29ubHlfYWRkJywgbSwgZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbW9udGhzW21dLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgaWYgKHN0YWdlc01hcFtkZWFsLnN0YWdlX2lkXSkgewo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIGNvbnN0IG1vbnRocyA9IHN0YWdlc01hcFtkZWFsLnN0YWdlX2lkXS5tb250aHM7CiAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMobW9udGhzKS5tYXAobSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICBpZiAobSA+PSBtb250aCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdhZGQnLCBtLCBkZWFsLnZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgbW9udGhzW21dLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRlYWwuaXNDdXJyZW50bHlBY3RpdmUgPSBkZWFsLnN0YXR1cyA9PT0gJ29wZW4nOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb250aHNbbV0uZGVhbHMucHVzaChkZWFsLnZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3QgbW9udGggPSB0aW1lc3RhbXAuZm9ybWF0KCdZTU0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IG1vbnRoID0gdGltZXN0YW1wLmZvcm1hdCgnWU1NJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZihkZWFsLnN0YXR1cyA9PT0gJ29wZW4nKXsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
