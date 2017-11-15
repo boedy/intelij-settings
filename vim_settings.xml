@@ -3022,12 +3022,12 @@
         <mark key="." line="81" column="48" />
         <mark key="^" line="81" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510740404438">
-        <mark key="'" line="126" column="70" />
-        <mark key="[" line="137" column="59" />
-        <mark key="]" line="137" column="67" />
-        <mark key="." line="137" column="67" />
-        <mark key="^" line="137" column="67" />
+      <file name="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" timestamp="1510743590993">
+        <mark key="'" line="140" column="24" />
+        <mark key="[" line="96" column="100" />
+        <mark key="]" line="96" column="103" />
+        <mark key="." line="96" column="103" />
+        <mark key="^" line="96" column="103" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Notification/DoctrineNotificationsQuery.php" timestamp="1498222108548">
         <mark key="[" line="32" column="61" />
@@ -3587,7 +3587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5793" column="162" filename="$USER_HOME$/projects/atmosphere/payments/storage/logs/laravel.log" />
       <jump line="5815" column="0" filename="$USER_HOME$/projects/atmosphere/payments/storage/logs/laravel.log" />
       <jump line="89" column="27" filename="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" />
       <jump line="92" column="19" filename="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" />
@@ -3687,10 +3686,11 @@
       <jump line="86" column="34" filename="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" />
       <jump line="109" column="72" filename="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" />
       <jump line="111" column="70" filename="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" />
+      <jump line="140" column="24" filename="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>status</text>
+        <text>.isAfter()</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3702,16 +3702,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>.isAfter()</text>
       </register>
       <register name="/" type="4">
-        <text>TOKEN_PATH</text>
+        <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aWYoZGVhbC5zdGF0dXMgPT09ICd3b24nIHx8IGRlYWwuc3RhdHVzID09PSAnbG9zdCcpewogICAgICAgICAgICAgIE9iamVjdC5rZXlzKGN1cnJlbnRTdGFnZU1vbnRocykubWFwKG1vbnRoSW5kZXggPT4gewogICAgICAgICAgICAgICAgaWYgKG1vbnRoSW5kZXggPD0gY3VycmVudE1vbnRoKSB7CiAgICAgICAgICAgICAgICAgIGFkZERlYWxUb01vbnRoKGRlYWwsIGN1cnJlbnRTdGFnZU1vbnRocywgbW9udGhJbmRleCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0=</text>
+        <text>data.new_value</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY3VycmVudFN0YWdlTW9udGhzW21vbnRoSW5kZXhdLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgZGVhbFN0YXR1c1N0YWUgPSBzdGFnZXNNYXBbZGF0YS5uZXdfdmFsdWVdICYmIHN0YWdlc01hcFtkZWFsLmN1cnJlbnRTdGFnZV0ubW9udGhzIHx8IHt9Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3728,45 +3728,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50U3RhZ2VNb250aHNbbW9udGhJbmRleF0uZGVhbHMucHVzaChkZWFsLnZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWRkRGVhbFRvTW9udGggPSAoZGVhbCwgbW9udGhzLCBtb250aEluZGV4KSA9PiB7CiAgICAgICAgICAgICAgbW9udGhzW21vbnRoSW5kZXhdLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3N0YXR1cyBjaGFuZ2UgLSBmaWxsIGJ1Y2tldCcsIG1vbnRoT2ZDaGFuZ2UsIG1vbnRoSW5kZXgsIGRlYWwudmFsdWUgKTsKICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIGNvbnN0IHJlbW92ZURlYWxGcm9tTW9udGggPSAoZGVhbCwgbW9udGhzLCBtb250aEluZGV4KSA9PiB7CiAgICAgICAgICAgICAgY29uc3QgaW5kZXggPSBtb250aHNbbW9udGhJbmRleF0uZGVhbHMuaW5kZXhPZihkZWFsLnZhbHVlKTsKICAgICAgICAgICAgICBpZiAoaW5kZXggPiAtMSkgewogICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3N0YXRlIGNoYW5nZSAtIGVtcHR5IGJ1Y2tldCcsIG1vbnRoT2ZDaGFuZ2UsIG1vbnRoSW5kZXgsIGRlYWwudmFsdWUgKTsKICAgICAgICAgICAgICAgIG1vbnRoc1ttb250aEluZGV4XS5kZWFscy5zcGxpY2UoaW5kZXgsIDEpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRhdGEubmV3X3ZhbHVlID09PSAnd29uJyB8fCBkYXRhLm5ld192YWx1ZSA9PT0gJ2xvc3QnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgT2JqZWN0LmtleXMoY3VycmVudFN0YWdlTW9udGhzKS5tYXAobW9udGhJbmRleCA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAobW9udGhJbmRleCA8PSBjdXJyZW50TW9udGgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBpbmRleCA9IHN0YWdlTW9udGhzW21vbnRoSW5kZXhdLmRlYWxzLmluZGV4T2YoZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGluZGV4ID4gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdhZGQgdGltZSAtIGVtcHR5IGJ1Y2tldCcsIG1vbnRoT2ZDaGFuZ2UsIG1vbnRoSW5kZXgsIGRlYWwudmFsdWUgKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YWdlTW9udGhzW21vbnRoSW5kZXhdLmRlYWxzLnNwbGljZShpbmRleCwgMSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZGV4ID0gc3RhZ2VNb250aHNbbW9udGhJbmRleF0uZGVhbHMuaW5kZXhPZihkZWFsLnZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpbmRleCA+IC0xKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdzdGF0ZSBjaGFuZ2UgLSBlbXB0eSBidWNrZXQnLCBtb250aE9mQ2hhbmdlLCBtb250aEluZGV4LCBkZWFsLnZhbHVlICk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YWdlTW9udGhzW21vbnRoSW5kZXhdLmRlYWxzLnNwbGljZShpbmRleCwgMSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdzdGF0ZSBjaGFuZ2UgLSBmaWxsIGJ1Y2tldCcsIG1vbnRoT2ZDaGFuZ2UsIG1vbnRoSW5kZXgsIGRlYWwudmFsdWUgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGlmIChkYXRhLm5ld192YWx1ZSA9PT0gJ3dvbicgfHwgZGF0YS5uZXdfdmFsdWUgPT09ICdsb3N0JykgewogICAgICAgICAgICAgICAgICAgICAgICBPYmplY3Qua2V5cyhjdXJyZW50U3RhZ2VNb250aHMpLm1hcChtb250aEluZGV4ID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAobW9udGhJbmRleCA8PSBjdXJyZW50TW9udGgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZERlYWxUb01vbnRoKGRlYWwsIGN1cnJlbnRTdGFnZU1vbnRocywgbW9udGhJbmRleCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ld1N0YWdlTW9udGhzW21vbnRoSW5kZXhdLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY3VycmVudFN0YWdlTW9udGhzW21vbnRoSW5kZXhdLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ld1N0YWdlTW9udGhzW21vbnRoSW5kZXhdLmRlYWxzLnB1c2goZGVhbC52YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygnc3RhdGUgY2hhbmdlIC0gZmlsbCBidWNrZXQnLCBtb250aE9mQ2hhbmdlLCBtb250aEluZGV4LCBkZWFsLnZhbHVlICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50U3RhZ2VNb250aHNbbW9udGhJbmRleF0uZGVhbHMucHVzaChkZWFsLnZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TOKEN_PATH</last-search>
+      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
       <last-offset />
-      <last-pattern>TOKEN_PATH</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqYXZhc2NyaXB0XD4=</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
         <entry encoding="base64">XDx3aWR0aFw+</entry>
@@ -3786,6 +3785,7 @@
         <entry>from</entry>
         <entry>mbToken</entry>
         <entry>TOKEN_PATH</entry>
+        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action Macro.wrapParentesis</entry>
