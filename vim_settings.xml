@@ -886,11 +886,11 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1510927512385">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/routes/web.php" timestamp="1511366019568">
+        <mark key="[" line="19" column="73" />
+        <mark key="]" line="19" column="73" />
+        <mark key="." line="19" column="73" />
+        <mark key="^" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/CreateCustomerCommand.php" timestamp="1509548198350">
         <mark key="[" line="29" column="28" />
@@ -3186,11 +3186,11 @@
         <mark key="." line="39" column="1" />
         <mark key="^" line="39" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/bootstrap/app.php" timestamp="1511360817943">
-        <mark key="[" line="84" column="62" />
-        <mark key="]" line="84" column="62" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/bootstrap/app.php" timestamp="1511365951655">
+        <mark key="[" line="84" column="39" />
+        <mark key="]" line="84" column="39" />
         <mark key="^" line="84" column="62" />
-        <mark key="." line="84" column="62" />
+        <mark key="." line="84" column="39" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/DeleteTrackFromStorage.php" timestamp="1496839697216">
         <mark key="[" line="35" column="0" />
@@ -3767,8 +3767,8 @@
       <jump line="140" column="24" filename="$USER_HOME$/projects/kollekt/team-dashboard/sales.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="&quot;" type="4">
+        <text>, $id</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3780,7 +3780,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBNb2RlbCA=</text>
+        <text>, $id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zb2xlXD4=</text>
