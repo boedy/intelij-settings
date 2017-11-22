@@ -173,11 +173,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/vendor/nmred/kafka-php/src/Kafka/Consumer/Process.php" timestamp="1511354009747">
-        <mark key="[" line="96" column="66" />
-        <mark key="]" line="96" column="64" />
-        <mark key="^" line="96" column="64" />
-        <mark key="." line="96" column="64" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/vendor/nmred/kafka-php/src/Kafka/Consumer/Process.php" timestamp="1511358853570">
+        <mark key="[" line="641" column="94" />
+        <mark key="]" line="642" column="33" />
+        <mark key="." line="642" column="33" />
+        <mark key="^" line="642" column="33" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/AddConsumerRole.php" timestamp="1504615808085">
         <mark key="[" line="12" column="10" />
@@ -2683,11 +2683,11 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Console/Commands/Subscribe.php" timestamp="1511353684690">
-        <mark key="[" line="57" column="29" />
-        <mark key="]" line="57" column="29" />
-        <mark key="^" line="63" column="49" />
-        <mark key="." line="57" column="29" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Console/Commands/Subscribe.php" timestamp="1511360245811">
+        <mark key="[" line="97" column="89" />
+        <mark key="]" line="97" column="94" />
+        <mark key="." line="97" column="94" />
+        <mark key="^" line="97" column="94" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/WaveformGenerator.php" timestamp="1495444432304">
         <mark key="[" line="9" column="29" />
@@ -3174,11 +3174,11 @@
         <mark key="." line="39" column="1" />
         <mark key="^" line="39" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/bootstrap/app.php" timestamp="1511342276821">
-        <mark key="[" line="83" column="15" />
-        <mark key="]" line="83" column="23" />
-        <mark key="^" line="83" column="23" />
-        <mark key="." line="83" column="23" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/bootstrap/app.php" timestamp="1511360817943">
+        <mark key="[" line="84" column="62" />
+        <mark key="]" line="84" column="62" />
+        <mark key="^" line="84" column="62" />
+        <mark key="." line="84" column="62" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/DeleteTrackFromStorage.php" timestamp="1496839697216">
         <mark key="[" line="35" column="0" />
@@ -3246,10 +3246,10 @@
         <mark key="." line="24" column="29" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/docker-compose.yml" timestamp="1485181320921">
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="33" column="22" />
-        <mark key="." line="33" column="22" />
+      <file name="$USER_HOME$/projects/atmosphere/billing/docker-compose.yml" timestamp="1511359198087">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
         <mark key="^" line="33" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/pipedrive/package.json" timestamp="1499449703292">
@@ -3756,7 +3756,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test6</text>
+        <text>'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3768,16 +3768,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test6</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnZXYnOwo=</text>
+      <register name="0" type="4">
+        <text>&quot;192.168.99.100:9092&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkdmFsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3794,28 +3794,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ3J1bm5pbmcnOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAkcmVzdWx0W10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJ3dhdGNoaW5nISEhJzsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJpbml0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRjb25zdW1lck9mZnNldCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvZmZzZXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAic2VuZGluZyEhISEiOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1zKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvZHVjZXItPnNldExvZ2dlcigkbG9nZ2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IDE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY29uZmlnLT5zZXRNZXRhZGF0YUJyb2tlckxpc3QoJzEwLjEzLjQuMTU5OjkxOTInKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY29uZmlnID0gXEthZmthXFByb2R1Y2VyQ29uZmlnOjpnZXRJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkdmFsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
