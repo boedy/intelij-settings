@@ -521,9 +521,9 @@
         <mark key="." line="14" column="77" />
         <mark key="^" line="14" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/Planning/WeekPlanningScheduler.php" timestamp="1511782608992">
-        <mark key="[" line="31" column="59" />
-        <mark key="]" line="31" column="70" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/Planning/WeekPlanningScheduler.php" timestamp="1511782861760">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="56" column="13" />
         <mark key="." line="31" column="70" />
         <mark key="^" line="31" column="70" />
       </file>
@@ -614,11 +614,11 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/ConfigurePlaylistPlanning.php" timestamp="1511782585684">
-        <mark key="[" line="52" column="85" />
-        <mark key="]" line="52" column="85" />
-        <mark key="^" line="51" column="54" />
-        <mark key="." line="52" column="85" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/ConfigurePlaylistPlanning.php" timestamp="1511782931970">
+        <mark key="[" line="56" column="49" />
+        <mark key="]" line="56" column="54" />
+        <mark key="^" line="56" column="54" />
+        <mark key="." line="56" column="54" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineInvitationRepository.php" timestamp="1504700391427">
         <mark key="[" line="53" column="56" />
@@ -3885,8 +3885,8 @@
       <jump line="18" column="21" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Doctrine/DoctrineConnectionWrapper.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkd2Vla1BsYW5uaW5nLT5wbGF5bGlzdElkcyA9IGFycmF5X3JlZHVjZSgkcGxheWxpc3RzLCBmdW5jdGlvbiAoJHBsYXlsaXN0KSB7ICRpZHNbXSA9ICRwbGF5bGlzdC0+Z2V0SWQoKX0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3898,13 +3898,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LT5zY2hlZHVsZShuZXcgXERhdGV0aW1lKCksICRsb2NhdGlvbiwgJHdlZWtQbGFubmluZy0+Z2V0RGF0YSgpKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHdlZWtQbGFubmluZy0+c2NoZWR1bGUoCiAgICAgICAgICAgICAgICAkZGF5T2ZXZWVrLAogICAgICAgICAgICAgICAgbmV3IFRpbWVTbG90KAogICAgICAgICAgICAgICAgICAgIFRpbWU6OmZyb21TdHJpbmcoJGVudHJ5WydzdGFydF90aW1lJ10pLAogICAgICAgICAgICAgICAgICAgIFRpbWU6OmZyb21TdHJpbmcoJGVudHJ5WydlbmRfdGltZSddKQogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICRwbGF5bGlzdAogICAgICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkd2Vla1BsYW5uaW5nLT5wbGF5bGlzdElkcyA9IGFycmF5X3JlZHVjZSgkcGxheWxpc3RzLCBmdW5jdGlvbiAoJHBsYXlsaXN0KSB7ICRpZHNbXSA9ICRwbGF5bGlzdC0+Z2V0SWQoKX0pOwo=</text>
