@@ -1202,11 +1202,10 @@
         <mark key="." line="66" column="37" />
         <mark key="^" line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" timestamp="1498143991218">
-        <mark key="[" line="126" column="55" />
-        <mark key="]" line="126" column="55" />
-        <mark key="." line="126" column="55" />
-        <mark key="^" line="126" column="54" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" timestamp="1511968941243">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/database/migrations/2017_08_10_140856_create_payment_table.php" timestamp="1502886072563">
         <mark key="[" line="21" column="29" />
@@ -2479,11 +2478,11 @@
         <mark key="^" line="16" column="78" />
         <mark key="." line="16" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" timestamp="1511967118326">
-        <mark key="[" line="48" column="73" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="42" column="68" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" timestamp="1511969273341">
+        <mark key="[" line="38" column="63" />
+        <mark key="]" line="38" column="63" />
+        <mark key="^" line="50" column="135" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Organisation/InviteUserToOrganisation.php" timestamp="1497961572317">
         <mark key="[" line="54" column="22" />
@@ -2626,10 +2625,11 @@
         <mark key="." line="111" column="1" />
         <mark key="^" line="111" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/Curator.php" timestamp="1511890982863">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/Curator.php" timestamp="1511969465490">
+        <mark key="[" line="25" column="75" />
+        <mark key="]" line="25" column="96" />
+        <mark key="." line="25" column="96" />
+        <mark key="^" line="25" column="96" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/database/ElasticSearch.php" timestamp="1495030674937">
         <mark key="[" line="143" column="18" />
@@ -3963,11 +3963,11 @@
         <mark key="^" line="46" column="11" />
         <mark key="." line="46" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/OrganisationManager.php" timestamp="1511961643006">
-        <mark key="[" line="45" column="75" />
-        <mark key="]" line="45" column="99" />
-        <mark key="." line="45" column="99" />
-        <mark key="^" line="45" column="99" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/OrganisationManager.php" timestamp="1511969414276">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="45" column="86" />
       </file>
       <file name="$USER_HOME$/projects/cordova-instore-app/package.json" timestamp="1445980158635">
         <mark key="[" line="24" column="23" />
@@ -4030,7 +4030,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1495" column="0" filename="$USER_HOME$/projects/atmosphere/untitled/data.json" />
       <jump line="1483" column="42" filename="$USER_HOME$/projects/atmosphere/untitled/data.json" />
       <jump line="42" column="32" filename="$USER_HOME$/projects/atmosphere/untitled/node_modules/acr-cloud/example/example.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/untitled/node_modules/acr-cloud/example/example.js" />
@@ -4130,10 +4129,11 @@
       <jump line="18" column="21" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Doctrine/DoctrineConnectionWrapper.php" />
       <jump line="60" column="26" filename="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/ConfigurePlaylistPlanning.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/ConfigurePlaylistPlanning.php" />
+      <jump line="102" column="34" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NewTrackAddedNotification</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4145,16 +4145,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>NewTrackAddedNotification</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0XD4=</text>
+        <text encoding="base64">XDxyclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbm90aWZpY2F0aW9uTW9jayA9IFxNb2NrZXJ5Ojptb2NrKE5ld0NvbW1lbnROb3RpZmljYXRpb246OmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhlY3V0b3ItPmV4ZWN1dGUoJHRoaXMtPmxvYWRlci0+Z2V0Rml4dHVyZXMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVddKSwgbmV3IENsYXNzUmVzb3VyY2UoTmV3VHJhY2tBZGRlZE5vdGlmaWNhdGlvbjo6Y2xhc3MpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4166,45 +4166,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkb3JnYW5pc2F0aW9uTW9jayA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVddKSwgbmV3IENsYXNzUmVzb3VyY2UoTmV3VHJhY2tBZGRlZE5vdGlmaWNhdGlvbjo6Y2xhc3MpKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0b3IgPSBcTW9ja2VyeTo6bW9jaygnQXBwXERvbWFpblxVc2VyXFBlcnNvbicpOwogICAgICAgICRhY3Rvci0+c2hvdWxkUmVjZWl2ZSgnYWRkUm9sZScpLT5hbmRSZXR1cm4oKS0+Z2V0TW9jaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhlY3V0b3ItPmV4ZWN1dGUoJHRoaXMtPmxvYWRlci0+Z2V0Rml4dHVyZXMoKSk7CiAgICAgICAgJG5vdGlmaWNhdGlvbk1vY2sgPSBcTW9ja2VyeTo6bW9jayhOZXdDb21tZW50Tm90aWZpY2F0aW9uOjpjbGFzcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWNsLT5pc0FsbG93ZWQoCiAgICAgICAgICAgICR1c2VyLAogICAgICAgICAgICAkYWN0aW9uLAogICAgICAgICAgICAkcmVzb3VyY2UKICAgICAgICApKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKiogQHZhciAgTm90aWZpY2F0aW9uU2VydmljZSAqLwogICAgcHJpdmF0ZSAkbm90aWZpY2F0aW9uU2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">dGhpcy0+CnRoaXMtPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkb3JnYW5pc2F0aW9uTW9jayA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbm90aWZpY2F0aW9uID0gbmV3IE5ld0NvbW1lbnROb3RpZmljYXRpb24oJHRoaXMtPikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tbWVudCA9IENvbW1lbnQ6Ogo=</text>
+        <text encoding="base64">ICAgICAgICAkYWN0b3IgPSBcTW9ja2VyeTo6bW9jaygnQXBwXERvbWFpblxVc2VyXFBlcnNvbicpOwogICAgICAgICRhY3Rvci0+c2hvdWxkUmVjZWl2ZSgnYWRkUm9sZScpLT5hbmRSZXR1cm4oKS0+Z2V0TW9jaygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxyclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyclw+</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
         <entry encoding="base64">XDx3aWR0aFw+</entry>
         <entry encoding="base64">XDxDdXN0b21lcklkXD4=</entry>
         <entry encoding="base64">XDxfX2NvbnN0cnVjdFw+</entry>
@@ -4224,6 +4223,7 @@
         <entry>TOKEN_PATH</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry encoding="base64">XDxyclw+</entry>
       </history-search>
       <history-cmd>
         <entry>action Macro.wrapParentesis</entry>
