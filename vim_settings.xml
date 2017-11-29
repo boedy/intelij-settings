@@ -346,9 +346,9 @@
         <mark key="." line="12" column="68" />
         <mark key="^" line="12" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/Domain/Notification/NotificationServiceTest.php" timestamp="1511963867376">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="74" />
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Domain/Notification/NotificationServiceTest.php" timestamp="1511966315558">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="69" />
         <mark key="." line="20" column="24" />
         <mark key="^" line="43" column="72" />
       </file>
@@ -2479,11 +2479,11 @@
         <mark key="^" line="16" column="78" />
         <mark key="." line="16" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" timestamp="1511964032971">
-        <mark key="[" line="33" column="55" />
-        <mark key="]" line="33" column="55" />
-        <mark key="^" line="33" column="64" />
-        <mark key="." line="33" column="55" />
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" timestamp="1511967118326">
+        <mark key="[" line="48" column="73" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="42" column="68" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Organisation/InviteUserToOrganisation.php" timestamp="1497961572317">
         <mark key="[" line="54" column="22" />
@@ -3063,6 +3063,10 @@
         <mark key="]" line="6" column="97" />
         <mark key="^" line="6" column="97" />
         <mark key="." line="6" column="97" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Integration/TrackControllerTest.php" timestamp="1511966474026">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="63" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Doctrine/DoctrineDomainEventInterceptor.php" timestamp="1511889728452">
         <mark key="[" line="79" column="20" />
@@ -4128,8 +4132,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/ConfigurePlaylistPlanning.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isAllowed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4141,7 +4145,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isAllowed</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0XD4=</text>
@@ -4150,7 +4154,7 @@
         <text encoding="base64">ICAgICAgICAkbm90aWZpY2F0aW9uTW9jayA9IFxNb2NrZXJ5Ojptb2NrKE5ld0NvbW1lbnROb3RpZmljYXRpb246OmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbm90aWZpY2F0aW9uID0gbmV3IE5ld0NvbW1lbnROb3RpZmljYXRpb24oJHRoaXMtPikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4162,28 +4166,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tbWVudCA9IENvbW1lbnQ6Ogo=</text>
+        <text encoding="base64">ICAgICAgICAkb3JnYW5pc2F0aW9uTW9jayA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbm90aWZpY2F0aW9uTW9jay0+c2hvdWxkUmVjZWl2ZSgnZ2V0SWQnKS0+YW5kUmV0dXJuKDMpLT5nZXRNb2NrKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYWN0b3IgPSBcTW9ja2VyeTo6bW9jaygnQXBwXERvbWFpblxVc2VyXFBlcnNvbicpOwogICAgICAgICRhY3Rvci0+c2hvdWxkUmVjZWl2ZSgnYWRkUm9sZScpLT5hbmRSZXR1cm4oKS0+Z2V0TW9jaygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAvKioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKiogQHZhciAgTm90aWZpY2F0aW9uU2VydmljZSAqLwogICAgcHJpdmF0ZSAkbm90aWZpY2F0aW9uU2VydmljZTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcnMgPSBbXTsK</text>
+      <register name="7" type="8">
+        <text encoding="base64">dGhpcy0+CnRoaXMtPg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAkbm90aWZpY2F0aW9uID0gbmV3IE5ld0NvbW1lbnROb3RpZmljYXRpb24oJHRoaXMtPikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkY29tbWVudCA9IENvbW1lbnQ6Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
