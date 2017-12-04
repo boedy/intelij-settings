@@ -1763,11 +1763,10 @@
         <mark key="." line="40" column="18" />
         <mark key="^" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/PlaylistController.php" timestamp="1508507072754">
-        <mark key="[" line="201" column="56" />
-        <mark key="]" line="197" column="8" />
-        <mark key="^" line="197" column="8" />
-        <mark key="." line="197" column="8" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/PlaylistController.php" timestamp="1512409288327">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="26" />
+        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/vendor/tymon/jwt-auth/src/Http/Parser/Parser.php" timestamp="1511386417814">
         <mark key="[" line="91" column="0" />
@@ -2125,7 +2124,6 @@
         <mark key="." line="27" column="58" />
         <mark key="^" line="26" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/config/jwt.php" timestamp="1512389045308" />
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/webpack.server.js" timestamp="1494499181315">
         <mark key="[" line="21" column="6" />
         <mark key="]" line="21" column="14" />
@@ -4188,8 +4186,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ACL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPm5vQ2FjaGUoKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4207,10 +4205,10 @@
         <text encoding="base64">XDxyclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIGNvbnNvbGUgY29tbWFuZCBuYW1lLgogICAgICoKICAgICAqIEB2YXIgc3RyaW5nCiAgICAgKi8KICAgIHByb3RlY3RlZCAkbmFtZSA9ICdkb2N0cmluZTpsb2FkOmRhdGEnOwoKICAgIC8qKgogICAgICogVGhlIGNvbnNvbGUgY29tbWFuZCBkZXNjcmlwdGlvbi4KICAgICAqCiAgICAgKiBAdmFyIHN0cmluZwogICAgICovCiAgICBwcm90ZWN0ZWQgJGRlc2NyaXB0aW9uID0gJ0xvYWRzIHNvbWUgc2FtcGxlIGRhdGEgdGhhdCBjYW4gYmUgdXNlZCB3aGVuIGRldmVsb3BpbmcnOwoKICAgIC8qKgogICAgICogRXhlY3V0ZSB0aGUgY29uc29sZSBjb21tYW5kLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZmlyZShFbnRpdHlNYW5hZ2VyICRlbSkKICAgIHsKICAgICAgICAkbG9hZGVyID0gbmV3IExvYWRlcigpOwogICAgICAgICRsb2FkZXItPmxvYWRGcm9tRGlyZWN0b3J5KGJhc2VfcGF0aCgndGVzdHMvRml4dHVyZXMnKSk7CgogICAgICAgICRwdXJnZXIgPSBuZXcgT1JNUHVyZ2VyKCk7CiAgICAgICAgJGV4ZWN1dG9yID0gbmV3IE9STUV4ZWN1dG9yKCRlbSwgJHB1cmdlcik7CiAgICAgICAgJGV4ZWN1dG9yLT5leGVjdXRlKCRsb2FkZXItPmdldEZpeHR1cmVzKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPm5vQ2FjaGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPm5vQ2FjaGUoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4222,30 +4220,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSBBQ0wgJEFDTAo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSBBQ0wgJEFDTAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9hZGVyID0gbmV3IExvYWRlcigpOwogICAgICAgICRsb2FkZXItPmxvYWRGcm9tRGlyZWN0b3J5KGJhc2VfcGF0aCgndGVzdHMvRml4dHVyZXMnKSk7CgogICAgICAgICRwdXJnZXIgPSBuZXcgT1JNUHVyZ2VyKCk7CiAgICAgICAgJGV4ZWN1dG9yID0gbmV3IE9STUV4ZWN1dG9yKCRlbSwgJHB1cmdlcik7CiAgICAgICAgJGV4ZWN1dG9yLT5leGVjdXRlKCRsb2FkZXItPmdldEZpeHR1cmVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkbG9hZGVyID0gbmV3IExvYWRlcigpOwogICAgICAgICRsb2FkZXItPmxvYWRGcm9tRGlyZWN0b3J5KGJhc2VfcGF0aCgndGVzdHMvRml4dHVyZXMnKSk7CgogICAgICAgICRwdXJnZXIgPSBuZXcgT1JNUHVyZ2VyKCk7CiAgICAgICAgJGV4ZWN1dG9yID0gbmV3IE9STUV4ZWN1dG9yKCRlbSwgJHB1cmdlcik7CiAgICAgICAgJGV4ZWN1dG9yLT5leGVjdXRlKCRsb2FkZXItPmdldEZpeHR1cmVzKCkpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>new ClassResource(
 new ClassResource(
 new ClassResource(</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5sb2FkZXItPmFkZEZpeHR1cmUobmV3IFRyYWNrRml4dHVyZXMoKSk7Ci8vICAgICAgICAkdGhpcy0+bG9hZGVyLT5hZGRGaXh0dXJlKG5ldyBQbGF5bGlzdEZpeHR1cmVzKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5sb2FkZXItPmFkZEZpeHR1cmUobmV3IFRyYWNrRml4dHVyZXMoKSk7Ci8vICAgICAgICAkdGhpcy0+bG9hZGVyLT5hZGRGaXh0dXJlKG5ldyBQbGF5bGlzdEZpeHR1cmVzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
