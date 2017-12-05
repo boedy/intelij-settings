@@ -280,6 +280,13 @@
         <mark key="." line="29" column="24" />
         <mark key="^" line="29" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/mysql/my.cnf" timestamp="1512469616544">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/LineItem.php" timestamp="1483535677223">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="10" />
@@ -2524,6 +2531,13 @@
         <mark key="^" line="16" column="78" />
         <mark key="." line="16" column="78" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" timestamp="1511974955095">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="119" />
+        <mark key="]" line="52" column="119" />
+        <mark key="^" line="51" column="88" />
+        <mark key="." line="52" column="119" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Organisation/InviteUserToOrganisation.php" timestamp="1497961572317">
         <mark key="[" line="54" column="22" />
         <mark key="]" line="54" column="80" />
@@ -2683,11 +2697,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="21" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.override.yml" timestamp="1507826870721">
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="40" column="39" />
-        <mark key="." line="40" column="39" />
-        <mark key="^" line="40" column="39" />
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.override.yml" timestamp="1512469366517">
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="37" />
+        <mark key="^" line="48" column="37" />
+        <mark key="." line="48" column="37" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/tag_search.json" timestamp="1495034341617">
         <mark key="[" line="14" column="0" />
@@ -4101,7 +4115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/untitled/node_modules/acr-cloud/example/example.js" />
       <jump line="94" column="4" filename="$USER_HOME$/projects/atmosphere/untitled/fingerprint.js" />
       <jump line="89" column="0" filename="$USER_HOME$/projects/atmosphere/untitled/fingerprint.js" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/atmosphere/untitled/fingerprint.js" />
@@ -4201,10 +4214,11 @@
       <jump line="102" column="34" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" />
       <jump line="44" column="31" filename="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" />
+      <jump line="56" column="0" filename="$USER_HOME$/projects/atmosphere/api/docker-config/mysql/my.cnf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CREATE TABLE ACL_Authorization (id INT AUTO_INCREMENT NOT NULL, role_id INT NOT NULL, entity_id INT DEFAULT NULL, entity_class VARCHAR(255) NOT NULL, cascadable TINYINT(1) NOT NULL, actions_view TINYINT(1) NOT NULL, actions_create TINYINT(1) NOT NULL, actions_edit TINYINT(1) NOT NULL, actions_delete TINYINT(1) NOT NULL, actions_undelete TINYINT(1) NOT NULL, actions_allow TINYINT(1) NOT NULL, parentAuthorization_id INT DEFAULT NULL, securityIdentity_id INT NOT NULL, INDEX IDX_2C4F3668D60322AC (role_id), INDEX IDX_2C4F3668D2A396DF (parentAuthorization_id), INDEX IDX_2C4F3668DA3B7972 (securityIdentity_id), INDEX is_allowed (entity_id, entity_class, securityIdentity_id), INDEX root_authorizations (parentAuthorization_id, entity_id, entity_class), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB</text>
+        <text>local.default.conf:/etc/nginx/conf.d/default.conf</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4216,16 +4230,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>organisation_id</text>
+        <text>local.default.conf:/etc/nginx/conf.d/default.conf</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyclw+</text>
+        <text encoding="base64">XDxsb3dlcl9jYXNlX3RhYmxlX25hbWVzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>CREATE TABLE ACL_Authorization (id INT AUTO_INCREMENT NOT NULL, role_id INT NOT NULL, entity_id INT DEFAULT NULL, entity_class VARCHAR(255) NOT NULL, cascadable TINYINT(1) NOT NULL, actions_view TINYINT(1) NOT NULL, actions_create TINYINT(1) NOT NULL, actions_edit TINYINT(1) NOT NULL, actions_delete TINYINT(1) NOT NULL, actions_undelete TINYINT(1) NOT NULL, actions_allow TINYINT(1) NOT NULL, parentAuthorization_id INT DEFAULT NULL, securityIdentity_id INT NOT NULL, INDEX IDX_2C4F3668D60322AC (role_id), INDEX IDX_2C4F3668D2A396DF (parentAuthorization_id), INDEX IDX_2C4F3668DA3B7972 (securityIdentity_id), INDEX is_allowed (entity_id, entity_class, securityIdentity_id), INDEX root_authorizations (parentAuthorization_id, entity_id, entity_class), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgICAtIC4vZG9ja2VyLWNvbmZpZy9uZ2lueC9sb2NhbC5kZWZhdWx0LmNvbmY6L2V0Yy9uZ2lueC9jb25mLmQvZGVmYXVsdC5jb25mCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdVUERBVEUgb3JnYW5pc2F0aW9uX21hbmFnZXJzIG9tIFNFVCBvcmdhbmlzYXRpb25faWQgPSAoc2VsZWN0IGVudGl0eV9pZCBmcm9tIGFjbF9hdXRob3JpemF0aW9uIHdoZXJlIHJvbGVfaWQgPSBvbS5pZCBhbmQgZW50aXR5X2NsYXNzID0gIkFwcFxcRG9tYWluXFxPcmdhbmlzYXRpb25cXE9yZ2FuaXNhdGlvbiIgbGltaXQgMSknKTsK</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lczoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4237,45 +4251,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdVUERBVEUgb3JnYW5pc2F0aW9uX21hbmFnZXJzIG9tIFNFVCBvcmdhbmlzYXRpb25faWQgPSAoc2VsZWN0IGVudGl0eV9pZCBmcm9tIGFjbF9hdXRob3JpemF0aW9uIHdoZXJlIHJvbGVfaWQgPSBvbS5pZCBhbmQgZW50aXR5X2NsYXNzID0gIkFwcFxcRG9tYWluXFxPcmdhbmlzYXRpb25cXE9yZ2FuaXNhdGlvbiIgbGltaXQgMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdVUERBVEUgb3JnYW5pc2F0aW9uX21hbmFnZXJzIG9tIFNFVCBvcmdhbmlzYXRpb25faWQgPSAoc2VsZWN0IGVudGl0eV9pZCBmcm9tIGFjbF9hdXRob3JpemF0aW9uIHdoZXJlIHJvbGVfaWQgPSBvbS5pZCBhbmQgZW50aXR5X2NsYXNzID0gIkFwcFxcRG9tYWluXFxPcmdhbmlzYXRpb25cXE9yZ2FuaXNhdGlvbiIgbGltaXQgMSknKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBQbGF5bGlzdAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdVUERBVEUgb3JnYW5pc2F0aW9uX21hbmFnZXJzIG9tIFNFVCBvcmdhbmlzYXRpb25faWQgPSAoc2VsZWN0IGVudGl0eV9pZCBmcm9tIGFjbF9hdXRob3JpemF0aW9uIHdoZXJlIHJvbGVfaWQgPSBvbS5pZCBhbmQgZW50aXR5X2NsYXNzID0gIkFwcFxcRG9tYWluXFxPcmdhbmlzYXRpb25cXE9yZ2FuaXNhdGlvbiIgbGltaXQgMSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9jYXRpb24gPSAkbG9jYXRpb247Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBQbGF5bGlzdAogICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+b3JnYW5pc2F0aW9uID0gJG9yZ2FuaXNhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9jYXRpb24gPSAkbG9jYXRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPm5vQ2FjaGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+b3JnYW5pc2F0aW9uID0gJG9yZ2FuaXNhdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPm5vQ2FjaGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSBBQ0wgJEFDTAo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSBBQ0wgJEFDTAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyclw+</last-search>
+      <last-search encoding="base64">XDxsb3dlcl9jYXNlX3RhYmxlX25hbWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyclw+</last-pattern>
+      <last-pattern encoding="base64">XDxsb3dlcl9jYXNlX3RhYmxlX25hbWVzXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aWR0aFw+</entry>
         <entry encoding="base64">XDxDdXN0b21lcklkXD4=</entry>
         <entry encoding="base64">XDxfX2NvbnN0cnVjdFw+</entry>
         <entry encoding="base64">XDxkaWZmXD4=</entry>
@@ -4295,6 +4308,7 @@
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDxyclw+</entry>
+        <entry encoding="base64">XDxsb3dlcl9jYXNlX3RhYmxlX25hbWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action Macro.wrapParentesis</entry>
