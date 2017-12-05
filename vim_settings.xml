@@ -407,10 +407,6 @@
         <mark key="." line="21" column="32" />
         <mark key="^" line="21" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Console/Commands/DoctrineLoadDataCommand.php" timestamp="1511976116544">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="41" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/index.js" timestamp="1482228867014">
         <mark key="[" line="19" column="36" />
         <mark key="]" line="19" column="49" />
@@ -1518,10 +1514,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Auth/ACL.php" timestamp="1511974979303">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Auth/ACL.php" timestamp="1512476676593">
+        <mark key="[" line="49" column="20" />
+        <mark key="]" line="49" column="27" />
+        <mark key="." line="49" column="27" />
+        <mark key="^" line="49" column="27" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/create-location/create-location.scss" timestamp="1482078914370">
         <mark key="[" line="1" column="10" />
@@ -1894,10 +1891,6 @@
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Query/Playlist/PlaylistQuery.php" timestamp="1506625200926">
         <mark key="[" line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/vendor/myclabs/acl/src/ACL.php" timestamp="1511973142751">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Events/LicenceAdded.php" timestamp="1487430891947">
         <mark key="[" line="10" column="9" />
@@ -2679,11 +2672,11 @@
         <mark key="." line="111" column="1" />
         <mark key="^" line="111" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/Curator.php" timestamp="1511969465490">
-        <mark key="[" line="25" column="75" />
-        <mark key="]" line="25" column="96" />
-        <mark key="." line="25" column="96" />
-        <mark key="^" line="25" column="96" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/Curator.php" timestamp="1512477171561">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="21" column="41" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/database/ElasticSearch.php" timestamp="1495030674937">
         <mark key="[" line="143" column="18" />
@@ -3124,10 +3117,6 @@
         <mark key="^" line="6" column="97" />
         <mark key="." line="6" column="97" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/Integration/TrackControllerTest.php" timestamp="1511966474026">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="63" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Doctrine/DoctrineDomainEventInterceptor.php" timestamp="1511889728452">
         <mark key="[" line="79" column="20" />
         <mark key="]" line="79" column="20" />
@@ -3449,10 +3438,6 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/vendor/myclabs/acl/src/Repository/AuthorizationRepository.php" timestamp="1511973244764">
-        <mark key="[" line="123" column="43" />
-        <mark key="]" line="123" column="100" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/MqttApplicationService.php" timestamp="1505209268379">
         <mark key="[" line="85" column="9" />
         <mark key="]" line="81" column="48" />
@@ -3512,10 +3497,6 @@
         <mark key="]" line="18" column="31" />
         <mark key="." line="18" column="31" />
         <mark key="^" line="18" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/ApplicationTestCase.php" timestamp="1511963724108">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="44" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/application/session/ElasticacheSessionHandler.php" timestamp="1506462998425">
         <mark key="[" line="32" column="39" />
@@ -4217,8 +4198,8 @@
       <jump line="56" column="0" filename="$USER_HOME$/projects/atmosphere/api/docker-config/mysql/my.cnf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>local.default.conf:/etc/nginx/conf.d/default.conf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE15Q0xhYnNcQUNMXEFDTDsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4230,16 +4211,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>local.default.conf:/etc/nginx/conf.d/default.conf</text>
+        <text>ACL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb3dlcl9jYXNlX3RhYmxlX25hbWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgICAtIC4vZG9ja2VyLWNvbmZpZy9uZ2lueC9sb2NhbC5kZWZhdWx0LmNvbmY6L2V0Yy9uZ2lueC9jb25mLmQvZGVmYXVsdC5jb25mCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlc291cmNlIGluc3RhbmNlb2YgQ2xhc3NSZXNvdXJjZSkgewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPmlzQWxsb3dlZE9uQ2xhc3NSZXNvdXJjZSgkaWRlbnRpdHksICRhY3Rpb24sICRyZXNvdXJjZS0+Z2V0Q2xhc3MoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lczoK</text>
+        <text encoding="base64">dXNlIE15Q0xhYnNcQUNMXEFDTDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4251,28 +4232,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdVUERBVEUgb3JnYW5pc2F0aW9uX21hbmFnZXJzIG9tIFNFVCBvcmdhbmlzYXRpb25faWQgPSAoc2VsZWN0IGVudGl0eV9pZCBmcm9tIGFjbF9hdXRob3JpemF0aW9uIHdoZXJlIHJvbGVfaWQgPSBvbS5pZCBhbmQgZW50aXR5X2NsYXNzID0gIkFwcFxcRG9tYWluXFxPcmdhbmlzYXRpb25cXE9yZ2FuaXNhdGlvbiIgbGltaXQgMSknKTsK</text>
+        <text encoding="base64">dXNlIE15Q0xhYnNcQUNMXEFDTDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdVUERBVEUgb3JnYW5pc2F0aW9uX21hbmFnZXJzIG9tIFNFVCBvcmdhbmlzYXRpb25faWQgPSAoc2VsZWN0IGVudGl0eV9pZCBmcm9tIGFjbF9hdXRob3JpemF0aW9uIHdoZXJlIHJvbGVfaWQgPSBvbS5pZCBhbmQgZW50aXR5X2NsYXNzID0gIkFwcFxcRG9tYWluXFxPcmdhbmlzYXRpb25cXE9yZ2FuaXNhdGlvbiIgbGltaXQgMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5pc0FsbG93ZWRPbkNsYXNzUmVzb3VyY2UoJGlkZW50aXR5LCAkYWN0aW9uLCAkcmVzb3VyY2UtPmdldENsYXNzKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBQbGF5bGlzdAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5pc0FsbG93ZWRPbkNsYXNzUmVzb3VyY2UoJGlkZW50aXR5LCAkYWN0aW9uLCAkcmVzb3VyY2UtPmdldENsYXNzKCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9jYXRpb24gPSAkbG9jYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoZ2V0X2NsYXNzKCRzdWJSZXNvdXJjZSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+b3JnYW5pc2F0aW9uID0gJG9yZ2FuaXNhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPm5vQ2FjaGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdVUERBVEUgb3JnYW5pc2F0aW9uX21hbmFnZXJzIG9tIFNFVCBvcmdhbmlzYXRpb25faWQgPSAoc2VsZWN0IGVudGl0eV9pZCBmcm9tIGFjbF9hdXRob3JpemF0aW9uIHdoZXJlIHJvbGVfaWQgPSBvbS5pZCBhbmQgZW50aXR5X2NsYXNzID0gIkFwcFxcRG9tYWluXFxPcmdhbmlzYXRpb25cXE9yZ2FuaXNhdGlvbiIgbGltaXQgMSknKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdVUERBVEUgb3JnYW5pc2F0aW9uX21hbmFnZXJzIG9tIFNFVCBvcmdhbmlzYXRpb25faWQgPSAoc2VsZWN0IGVudGl0eV9pZCBmcm9tIGFjbF9hdXRob3JpemF0aW9uIHdoZXJlIHJvbGVfaWQgPSBvbS5pZCBhbmQgZW50aXR5X2NsYXNzID0gIkFwcFxcRG9tYWluXFxPcmdhbmlzYXRpb25cXE9yZ2FuaXNhdGlvbiIgbGltaXQgMSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSBBQ0wgJEFDTAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBQbGF5bGlzdAogICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
