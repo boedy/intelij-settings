@@ -1496,6 +1496,10 @@
         <mark key="." line="47" column="19" />
         <mark key="^" line="47" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20160120153302.php" timestamp="1512467275991">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="858" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/Event/PlaylistImageHasChanged.php" timestamp="1511717350566">
         <mark key="[" line="37" column="5" />
         <mark key="]" line="38" column="19" />
@@ -4200,7 +4204,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\\</text>
+        <text>CREATE TABLE ACL_Authorization (id INT AUTO_INCREMENT NOT NULL, role_id INT NOT NULL, entity_id INT DEFAULT NULL, entity_class VARCHAR(255) NOT NULL, cascadable TINYINT(1) NOT NULL, actions_view TINYINT(1) NOT NULL, actions_create TINYINT(1) NOT NULL, actions_edit TINYINT(1) NOT NULL, actions_delete TINYINT(1) NOT NULL, actions_undelete TINYINT(1) NOT NULL, actions_allow TINYINT(1) NOT NULL, parentAuthorization_id INT DEFAULT NULL, securityIdentity_id INT NOT NULL, INDEX IDX_2C4F3668D60322AC (role_id), INDEX IDX_2C4F3668D2A396DF (parentAuthorization_id), INDEX IDX_2C4F3668DA3B7972 (securityIdentity_id), INDEX is_allowed (entity_id, entity_class, securityIdentity_id), INDEX root_authorizations (parentAuthorization_id, entity_id, entity_class), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4218,7 +4222,7 @@
         <text encoding="base64">XDxyclw+</text>
       </register>
       <register name="0" type="4">
-        <text>\\</text>
+        <text>CREATE TABLE ACL_Authorization (id INT AUTO_INCREMENT NOT NULL, role_id INT NOT NULL, entity_id INT DEFAULT NULL, entity_class VARCHAR(255) NOT NULL, cascadable TINYINT(1) NOT NULL, actions_view TINYINT(1) NOT NULL, actions_create TINYINT(1) NOT NULL, actions_edit TINYINT(1) NOT NULL, actions_delete TINYINT(1) NOT NULL, actions_undelete TINYINT(1) NOT NULL, actions_allow TINYINT(1) NOT NULL, parentAuthorization_id INT DEFAULT NULL, securityIdentity_id INT NOT NULL, INDEX IDX_2C4F3668D60322AC (role_id), INDEX IDX_2C4F3668D2A396DF (parentAuthorization_id), INDEX IDX_2C4F3668DA3B7972 (securityIdentity_id), INDEX is_allowed (entity_id, entity_class, securityIdentity_id), INDEX root_authorizations (parentAuthorization_id, entity_id, entity_class), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdVUERBVEUgb3JnYW5pc2F0aW9uX21hbmFnZXJzIG9tIFNFVCBvcmdhbmlzYXRpb25faWQgPSAoc2VsZWN0IGVudGl0eV9pZCBmcm9tIGFjbF9hdXRob3JpemF0aW9uIHdoZXJlIHJvbGVfaWQgPSBvbS5pZCBhbmQgZW50aXR5X2NsYXNzID0gIkFwcFxcRG9tYWluXFxPcmdhbmlzYXRpb25cXE9yZ2FuaXNhdGlvbiIgbGltaXQgMSknKTsK</text>
