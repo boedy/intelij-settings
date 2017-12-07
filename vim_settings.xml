@@ -950,7 +950,7 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512507310081">
+      <file name="/Dummy.txt" timestamp="1512664222836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -1048,11 +1048,11 @@
         <mark key="^" line="82" column="31" />
         <mark key="." line="82" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Event/DomainEvent.php" timestamp="1511717434667">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="14" column="6" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="15" column="58" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Event/DomainEvent.php" timestamp="1512665165171">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="30" column="4" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/pages/curatorsignup.php" timestamp="1484482461125">
         <mark key="[" line="16" column="0" />
@@ -4054,11 +4054,11 @@
         <mark key="^" line="24" column="23" />
         <mark key="." line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1512648933459">
-        <mark key="[" line="31" column="48" />
-        <mark key="]" line="31" column="48" />
-        <mark key="." line="31" column="48" />
-        <mark key="^" line="31" column="48" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1512665132661">
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="30" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/Handlers/ContractHandler.php" timestamp="1487874197578">
         <mark key="[" line="54" column="108" />
@@ -4213,7 +4213,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFB1Ymxpc2hlciAkZXZlbnRQdWJsaXNoZXIgKi8KICAgICAgICAgICAgICAgICRldmVudFB1Ymxpc2hlciA9ICR0aGlzLT5hcHBbUHVibGlzaGVyOjpjbGFzc107Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2VyaWFsaXplKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4234,7 +4234,7 @@
         <text>env('PUBSUB_BROKER_LIST')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFB1Ymxpc2hlciAkZXZlbnRQdWJsaXNoZXIgKi8KICAgICAgICAgICAgICAgICRldmVudFB1Ymxpc2hlciA9ICR0aGlzLT5hcHBbUHVibGlzaGVyOjpjbGFzc107Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2VyaWFsaXplKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4246,33 +4246,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEhhbmRsZSB0aGUgZXZlbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFB1Ymxpc2hlciAkZXZlbnRQdWJsaXNoZXIgKi8KICAgICAgICAgICAgICAgICRldmVudFB1Ymxpc2hlciA9ICR0aGlzLT5hcHBbUHVibGlzaGVyOjpjbGFzc107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEhhbmRsZSB0aGUgZXZlbnQuCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZigkdGhpcy0+aW5pdGlhbGl6ZWQpIHJldHVybjsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>function($topic, $part, $message) {
             var_dump($message);
         }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBpbml0KCRncm91cHMpCiAgICB7CgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5pdGlhbGl6ZWQgPSB0cnVlOwogICAgICAgICRjb25mID0gbmV3IFxSZEthZmthXENvbmYoKTsKCiAgICAgICAgLy8gU2V0IGEgcmViYWxhbmNlIGNhbGxiYWNrIHRvIGxvZyBwYXJ0aXRpb24gYXNzaWdubWVudHMgKG9wdGlvbmFsKQogICAgICAgICRjb25mLT5zZXRSZWJhbGFuY2VDYigKICAgICAgICAgICAgZnVuY3Rpb24gKFxSZEthZmthXEthZmthQ29uc3VtZXIgJGthZmthLCAkZXJyLCBhcnJheSAkcGFydGl0aW9ucyA9IG51bGwpIHsKICAgICAgICAgICAgICAgIHN3aXRjaCAoJGVycikgewogICAgICAgICAgICAgICAgICAgIGNhc2UgUkRfS0FGS0FfUkVTUF9FUlJfX0FTU0lHTl9QQVJUSVRJT05TOgogICAgICAgICAgICAgICAgICAgICAgICAka2Fma2EtPmFzc2lnbigkcGFydGl0aW9ucyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlIFJEX0tBRktBX1JFU1BfRVJSX19SRVZPS0VfUEFSVElUSU9OUzoKICAgICAgICAgICAgICAgICAgICAgICAgJGthZmthLT5hc3NpZ24obnVsbCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCRlcnIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgKTsKCiAgICAgICAgLy8gQ29uZmlndXJlIHRoZSBncm91cC5pZC4gQWxsIGNvbnN1bWVyIHdpdGggdGhlIHNhbWUgZ3JvdXAuaWQgd2lsbCBjb25zdW1lCiAgICAgICAgLy8gZGlmZmVyZW50IHBhcnRpdGlvbnMuCiAgICAgICAgJGNvbmYtPnNldCgnZ3JvdXAuaWQnLCAkZ3JvdXBzKTsKICAgICAgICAkY29uZi0+c2V0KCdtZXRhZGF0YS5icm9rZXIubGlzdCcsIGVudignUFVCU1VCX0JST0tFUl9MSVNUJykpOwoKICAgICAgICAkdG9waWNDb25mID0gbmV3IFxSZEthZmthXFRvcGljQ29uZigpOwogICAgICAgICR0b3BpY0NvbmYtPnNldCgnYXV0by5vZmZzZXQucmVzZXQnLCAnc21hbGxlc3QnKTsKCiAgICAgICAgLy8gU2V0IHRoZSBjb25maWd1cmF0aW9uIHRvIHVzZSBmb3Igc3Vic2NyaWJlZC9hc3NpZ25lZCB0b3BpY3MKICAgICAgICAkY29uZi0+c2V0RGVmYXVsdFRvcGljQ29uZigkdG9waWNDb25mKTsKCiAgICAgICAgJHRoaXMtPmNvbnN1bWVyID0gbmV3IFxSZEthZmthXEthZmthQ29uc3VtZXIoJGNvbmYpOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBpbml0KCRncm91cHMpCiAgICB7CgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -4326,8 +4326,8 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
