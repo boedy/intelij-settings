@@ -1048,11 +1048,11 @@
         <mark key="^" line="82" column="31" />
         <mark key="." line="82" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Event/DomainEvent.php" timestamp="1512665165171">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="30" column="4" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Event/DomainEvent.php" timestamp="1512666132836">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/pages/curatorsignup.php" timestamp="1484482461125">
         <mark key="[" line="16" column="0" />
@@ -4054,11 +4054,11 @@
         <mark key="^" line="24" column="23" />
         <mark key="." line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1512665132661">
-        <mark key="[" line="29" column="53" />
-        <mark key="]" line="30" column="30" />
-        <mark key="." line="30" column="30" />
-        <mark key="^" line="30" column="30" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1512666149188">
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="30" column="36" />
+        <mark key="^" line="30" column="36" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/Handlers/ContractHandler.php" timestamp="1487874197578">
         <mark key="[" line="54" column="108" />
@@ -4212,8 +4212,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/vendor/nmred/kafka-php/src/Kafka/Consumer/Process.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2VyaWFsaXplKCkgbWV0aG9kLgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGV2ZW50LT50b1N0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4225,7 +4225,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">JGV2ZW50LT50b1N0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb3dlcl9jYXNlX3RhYmxlX25hbWVzXD4=</text>
@@ -4234,7 +4234,7 @@
         <text>env('PUBSUB_BROKER_LIST')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2VyaWFsaXplKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4246,33 +4246,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFB1Ymxpc2hlciAkZXZlbnRQdWJsaXNoZXIgKi8KICAgICAgICAgICAgICAgICRldmVudFB1Ymxpc2hlciA9ICR0aGlzLT5hcHBbUHVibGlzaGVyOjpjbGFzc107Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHVuc2VyaWFsaXplKCRzZXJpYWxpemVkKQogICAgewogICAgICAgIC8vIFRPRE86IEltcGxlbWVudCB1bnNlcmlhbGl6ZSgpIG1ldGhvZC4KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEhhbmRsZSB0aGUgZXZlbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2VyaWFsaXplKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFB1Ymxpc2hlciAkZXZlbnRQdWJsaXNoZXIgKi8KICAgICAgICAgICAgICAgICRldmVudFB1Ymxpc2hlciA9ICR0aGlzLT5hcHBbUHVibGlzaGVyOjpjbGFzc107Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEhhbmRsZSB0aGUgZXZlbnQuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZigkdGhpcy0+aW5pdGlhbGl6ZWQpIHJldHVybjsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>function($topic, $part, $message) {
             var_dump($message);
         }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBpbml0KCRncm91cHMpCiAgICB7CgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
     <search>
@@ -4326,8 +4326,8 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
