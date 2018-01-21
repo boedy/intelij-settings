@@ -2901,6 +2901,10 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/UriSigner.php" timestamp="1516573388835">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="52" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Console/Kernel.php" timestamp="1511349972930">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="7" />
@@ -4126,11 +4130,11 @@
         <mark key="." line="60" column="53" />
         <mark key="^" line="60" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" timestamp="1511882532114">
-        <mark key="[" line="20" column="100" />
-        <mark key="]" line="20" column="96" />
-        <mark key="." line="20" column="96" />
-        <mark key="^" line="20" column="96" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" timestamp="1516573649934">
+        <mark key="[" line="39" column="48" />
+        <mark key="]" line="39" column="48" />
+        <mark key="." line="39" column="48" />
+        <mark key="^" line="39" column="46" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/config/database.php" timestamp="1483453913645">
         <mark key="[" line="60" column="46" />
@@ -4242,8 +4246,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/vendor/nmred/kafka-php/src/Kafka/Consumer/Process.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc19sb2cgICAgICAgICAgICAgL3Zhci9sb2cvbmdpbngvYWNjZXNzLmxvZyBtYWluX2V4dDsKCWVycm9yX2xvZyAgICAgICAgICAgICAgL3Zhci9sb2cvbmdpbngvZXJyb3IubG9nIHdhcm47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4255,13 +4259,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb3dlcl9jYXNlX3RhYmxlX25hbWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc19sb2cgICAgICAgICAgICAgL3Zhci9sb2cvbmdpbngvYWNjZXNzLmxvZyBtYWluX2V4dDsKCWVycm9yX2xvZyAgICAgICAgICAgICAgL3Zhci9sb2cvbmdpbngvZXJyb3IubG9nIHdhcm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY3JlZGVudGlhbHMgPSBbCiAgICAgICAgICAgICdrZXknID0+IGVudignQVdTX0tFWScsICcxMjMnKSwKICAgICAgICAgICAgJ3NlY3JldCcgPT4gZW52KCdBV1NfU0VDUkVUJywgJ2FiYycpCiAgICAgICAgXTsKCiAgICAgICAgJGVuZHBvaW50ID0gZW52KCdTM19FTkRQT0lOVCcsICdodHRwOi8vaW5zdG9yZS5kZXY6NDU2OS8nKTsKCiAgICAgICAgaWYgKCRlbmRwb2ludCkgewogICAgICAgICAgICAkY3JlZGVudGlhbHNbJ2VuZHBvaW50J10gPSAkZW5kcG9pbnQ7CiAgICAgICAgfQoKICAgICAgICAkY2xpZW50ID0gUzNDbGllbnQ6OmZhY3RvcnkoJGNyZWRlbnRpYWxzKTsKCiAgICAgICAgJHVybCA9ICRjbGllbnQtPmdldE9iamVjdFVybChlbnYoJ1MzX0JVQ0tFVCcsICdidWNrZXQnKSwgJHVyaSwgdGltZSgpICsgMzApOwoKICAgICAgICAvL29ubHkgcmVsZXZhbnQgZm9yIGxvY2FsIGRldmVsb3BtZW50CiAgICAgICAgJHVybCA9IHN0cl9yZXBsYWNlKAogICAgICAgICAgICAnaHR0cDovL2J1Y2tldC5pbnN0b3JlLmRldjo0NTY5JywKICAgICAgICAgICAgZW52KCdTQ0hFTUEnLCAnaHR0cCcpIC4gJzovLycgLiBlbnYoJ0FQSV9ET01BSU4nLCAnaW5zdG9yZS5kZXYnKSAuICcvZmlsZXMnLCAkdXJsCiAgICAgICAgKTsKCiAgICAgICAgcmV0dXJuICR1cmw7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
