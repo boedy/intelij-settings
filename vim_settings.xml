@@ -937,11 +937,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/MqttController.php" timestamp="1516748340400">
-        <mark key="[" line="27" column="58" />
-        <mark key="]" line="27" column="72" />
-        <mark key="^" line="27" column="72" />
-        <mark key="." line="27" column="72" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/MqttController.php" timestamp="1516751032991">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/User/UserRepository.php" timestamp="1479919700059">
         <mark key="[" line="22" column="15" />
@@ -2707,6 +2706,12 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/MqttAuthRequest.php" timestamp="1516751042128">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="76" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20171126161104.php" timestamp="1511714053663">
         <mark key="[" line="37" column="79" />
         <mark key="]" line="37" column="79" />
@@ -3547,11 +3552,11 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/MqttApplicationService.php" timestamp="1516748806186">
-        <mark key="[" line="53" column="37" />
-        <mark key="]" line="63" column="93" />
-        <mark key="." line="63" column="93" />
-        <mark key="^" line="63" column="93" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/MqttApplicationService.php" timestamp="1516751407777">
+        <mark key="[" line="95" column="61" />
+        <mark key="]" line="103" column="7" />
+        <mark key="." line="103" column="7" />
+        <mark key="^" line="103" column="7" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Notification/DoctrineNotificationsQuery.php" timestamp="1498222108548">
         <mark key="[" line="32" column="61" />
@@ -4302,8 +4307,8 @@
       <jump line="24" column="4" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Logging/Logger.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWNjZXNzQ29udHJvbFNlcnZpY2UtPgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4315,16 +4320,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Re</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nOjp3YXJuKCRlLT5nZXRNZXNzYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2FtcGxlIHRvcGljczoKICAgICAqIHBsYXllci8zZDRta2drNG0vc3RhdGUKICAgICAqIHBsYXllci9nMWQ4MGwzOGsvcmVtb3RlL3pvbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWNjZXNzQ29udHJvbFNlcnZpY2UtPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4336,25 +4341,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJGhhc2hlcjsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KQogICAgICAgICAgICAgICAgJHRoaXMtPnNob3VsZEJlQWxsb3dlZFRvKA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5pZgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5hY2Nlc3NDb250cm9sU2VydmljZS0+dXNlclNob3VsZEJlQWxsb3dlZFRvKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5hdXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
