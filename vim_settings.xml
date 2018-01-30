@@ -2439,11 +2439,11 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/PubSub/KafkaSubscriber.php" timestamp="1517311088217">
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="24" column="30" />
-        <mark key="." line="24" column="31" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/PubSub/KafkaSubscriber.php" timestamp="1517312974749">
+        <mark key="[" line="25" column="70" />
+        <mark key="]" line="25" column="74" />
+        <mark key="^" line="25" column="74" />
+        <mark key="." line="25" column="74" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/single-stories.php" timestamp="1493717033796">
         <mark key="[" line="20" column="69" />
@@ -2571,8 +2571,10 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="21" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.override.yml" timestamp="1516877958702">
-        <mark key="]" line="13" column="28" />
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.override.yml" timestamp="1517312884124">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="13" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/tag_search.json" timestamp="1495034341617">
         <mark key="[" line="14" column="0" />
@@ -2801,11 +2803,11 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1516903290540">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="60" />
-        <mark key="^" line="48" column="21" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1517312871919">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="39" />
       </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/File.php" timestamp="1446474114442">
         <mark key="[" line="9" column="19" />
@@ -4019,7 +4021,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rk</text>
+        <text>quay.io/kollekt/php:xhprof</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4031,13 +4033,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rk</text>
+        <text>quay.io/kollekt/php:xhprof</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>188.166.84.206:9094,188.166.88.46:9094</text>
+        <text>quay.io/kollekt/php7:kafka</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgoK</text>
