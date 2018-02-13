@@ -630,11 +630,11 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/locationDeligate.js" timestamp="1518546545409">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/locationDeligate.js" timestamp="1518550419815">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/SendInvitationEmailJob.php" timestamp="1504702152487">
         <mark key="[" line="65" column="0" />
@@ -929,7 +929,7 @@
         <mark key="." line="57" column="19" />
         <mark key="^" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518543998513">
+      <file name="/Dummy.txt" timestamp="1518550281276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -1387,11 +1387,11 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1518545594401">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="17" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1518550549024">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/Comment/CommentPresenter.php" timestamp="1495622539155">
         <mark key="[" line="18" column="59" />
@@ -2465,6 +2465,11 @@
         <mark key="^" line="16" column="78" />
         <mark key="." line="16" column="78" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Event/RequiredLocationInfoProvided.php" timestamp="1518550382271">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Organisation/InviteUserToOrganisation.php" timestamp="1497961572317">
         <mark key="[" line="54" column="22" />
         <mark key="]" line="54" column="80" />
@@ -2609,11 +2614,15 @@
         <mark key="." line="111" column="1" />
         <mark key="^" line="111" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1518546970274">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="^" line="137" column="22" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/PubSub/Publisher.php" timestamp="1518279453811">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1518550404969">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/database/ElasticSearch.php" timestamp="1495030674937">
         <mark key="[" line="143" column="18" />
@@ -4108,7 +4117,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4120,16 +4129,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>generateDeligationCode</text>
+        <text>getId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3Vic2NyaWJlci5vbignbWVzc2FnZScsICdsb2NhdGlvblByb3Zpc2lvbmluZ0RlbGVnYXRlZCcsIChldmVudCkgPT4gewogIHB1Ymxpc2hlci5wdWJsaXNoKCcnKQp9KTsK</text>
+        <text encoding="base64">ICAgICAgICAkbG9jYXRpb24tPmFkZHJlc3MgPSAkYWRkcmVzczsKICAgICAgICAkbG9jYXRpb24tPmVtYWlsID0gJGVtYWlsID8gJGVtYWlsLT5nZXRBZGRyZXNzKCkgOiBudWxsOwogICAgICAgICRsb2NhdGlvbi0+dGVsZXBob25lTnIgPSAkdGVsZXBob25lTnI7CiAgICAgICAgJGxvY2F0aW9uLT5vcmdhbmlzYXRpb24gPSAkb3JnYW5pc2F0aW9uOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4141,28 +4150,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHVibGlzaGVyLnB1Ymxpc2goJycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY3JlYXRlTG9jYXRpb24gPSAoKSA9PiB7Cgp9OwoKY29uc3QgZmV0Y2hQbGF5bGlzdHMgPSAoKSA9PiB7Cgp9OwoKY29uc3QgZmV0Y2hQbGF5bGlzdFBsYW5uaW5nID0gKCkgPT4gewp9OwoKY29uc3QgYXNzaWduUGxheWxpc3RzID0gcmVzcCA9PiB7Cn07Cgpjb25zdCBzZXRQbGFubmluZyA9IHJlc3AgPT4gewp9OwoKY29uc3QgZG9uZSA9ICgpID0+IHsKfTsKCgpmZXRjaFBsYXlsaXN0cygpCiAgLnRoZW4oYXNzaWduUGxheWxpc3RzKQogIC50aGVuKGZldGNoUGxheWxpc3RQbGFubmluZykKICAudGhlbihzZXRQbGFubmluZykKICAudGhlbihkb25lKQogIC5jYXRjaChlcnJvciA9PiB0aGlzLnNldFN0YXRlKHsKICAgIHBlbmRpbmc6IGZhbHNlLAogICAgZXJyb3I6IChlcnJvci5tZXNzYWdlIHx8ICcnKS5yZXBsYWNlKCdHcmFwaFFMIGVycm9yOiAnLCAnJyksCiAgfSkpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaXNoZXIucHVibGlzaCgnJykK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmVxdWlyZWRMb2NhdGlvbkluZm9Qcm92aWRlZCBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSAkZ2V0SWQKICAgICAqIEBwYXJhbSAkZ2V0SWQxCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbG9jYXRpb25JRCwgJGdldElkMSkgeyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgT3JnYW5pc2F0aW9uICRvcmdhbmlzYXRpb24gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWxlZ2F0aW9uID0gZGVsZWdhdGlvblJlcG8uZmluZChldmVudC5kZWxlZ2F0aW9uSWQpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmVxdWlyZWRMb2NhdGlvbkluZm9Qcm92aWRlZCBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSAkZ2V0SWQKICAgICAqIEBwYXJhbSAkZ2V0SWQxCiAgICAgKiBAcGFyYW0gJG5hbWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRnZXRJZCwgJGdldElkMSwgJG5hbWUpIHsgfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>location
+location
+location</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaXNoZXIucHVibGlzaCgnZW1haWxDcmVkZW50aWFscycsIGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAkbG9jYXRpb24tPm9yZ2FuaXNhdGlvbiA9ICRvcmdhbmlzYXRpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAKICAgICAgICAvLyByZXR1cm4gcHJvdmlzaW9uVVJMOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
