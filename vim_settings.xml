@@ -932,8 +932,8 @@
         <mark key="." line="57" column="19" />
         <mark key="^" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518556830138">
-        <mark key="[" line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1518558162069">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -2639,10 +2639,10 @@
         <mark key="]" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1518550404969">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1518558714287">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/database/ElasticSearch.php" timestamp="1495030674937">
         <mark key="[" line="143" column="18" />
@@ -4181,8 +4181,8 @@
       <jump line="40" column="11" filename="$USER_HOME$/projects/atmosphere/api/app/Providers/ExceptionServiceProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>- Device password now also stored as plaintext for retrieval. Will change after device authentication refactored.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAoKQogICAgewogICAgICAgIHJldHVybiAnMTIzMTQnOwogICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4194,7 +4194,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>- Device password now also stored as plaintext for retrieval. Will change after device authentication refactored.</text>
+        <text>generateDelegationId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -4203,7 +4203,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnVzZXJSZXBvc2l0b3J5LT5nZXQoJHVzZXJJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29udGV4dCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAoKQogICAgewogICAgICAgIHJldHVybiAnMTIzMTQnOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4215,28 +4215,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QWdncmVnYXRlUm9vdElkZW50aWZpZXJOYW1lKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZGVsZWdhdGlvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29udGV4dCgpIG1ldGhvZC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QWdncmVnYXRlUm9vdElkZW50aWZpZXJOYW1lKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9ICR0aGlzLT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdQo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
