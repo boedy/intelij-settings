@@ -461,7 +461,7 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1518774127243">
+      <file name="/GraphQL.result.json" timestamp="1518775079749">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/mitsubishi/views/playlist-info.html" timestamp="1505469426547">
@@ -1106,11 +1106,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/AccountDelegationSetup.js" timestamp="1518774877252">
-        <mark key="[" line="210" column="11" />
-        <mark key="]" line="210" column="12" />
-        <mark key="^" line="210" column="12" />
-        <mark key="." line="210" column="12" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/AccountDelegationSetup.js" timestamp="1518777525534">
+        <mark key="[" line="223" column="198" />
+        <mark key="]" line="224" column="60" />
+        <mark key="." line="224" column="0" />
+        <mark key="^" line="223" column="172" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/team-dashboard/node_modules/pipedrive/lib/Pipedrive.js" timestamp="1510582898734">
         <mark key="[" line="88" column="28" />
@@ -4229,8 +4229,8 @@
       <jump line="314" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/AccountDelegationSetup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>strong</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHtyZW5kZXJMb2NhdGlvbkZpZWxkKGxvY2F0aW9uLCB0aGlzLmhhbmRsZUNoYW5nZSl9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4242,16 +4242,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>strong</text>
+        <text>this.handleCheckboxChange</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB7CiAgICBpZCwKICAgIG5hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHtyZW5kZXJMb2NhdGlvbkZpZWxkKGxvY2F0aW9uLCB0aGlzLmhhbmRsZUNoYW5nZSl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Ryb25nPkxvY2F0aW9uIGFkZHJlc3MgJiBjb250YWN0IGRldGFpbHM8L3N0cm9uZz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4263,34 +4263,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlkLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0Uwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbmFtZSwK</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuY2hlY2tib3hTdGF0ZSA9IHRydWU7Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>this.handleChange
-this.handleChange
-this.handleChange
-this.handleChange
-this.handleChange
-this.handleChange
-this.handleChange</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgaWQsCiAgICAgIG5hbWUsCiAgICAgIGNvdW50cnksCiAgICAgIGNpdHksCiAgICAgIGFkZHJlc3NMaW5lMSwKICAgICAgYWRkcmVzc0xpbmUyLAogICAgICBwb3N0YWxDb2RlLAogICAgICB0ZWxlcGhvbmVOciwKICAgICAgZW1haWwKICAgIH0gPSBsb2NhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICA8c3Ryb25nPkxvY2F0aW9uIGFkZHJlc3MgJiBjb250YWN0IGRldGFpbHM8L3N0cm9uZz4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxGaWVsZCA+CiAgICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9ImxmLWFkZHJlc3MiID5BZGRyZXNzIGxpbmUgMTwvTGFiZWwgPgogICAgICAgICAgICAgIDxJbnB1dAogICAgICAgICAgICAgICAgaWQ9ImxmLWFkZHJlc3NMaW5lMSIKICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICBuYW1lPSJhZGRyZXNzTGluZTEiCiAgICAgICAgICAgICAgICB2YWx1ZT17YWRkcmVzc0xpbmUxfQogICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L0ZpZWxkID4KICAgICAgICAgICAgPEZpZWxkID4KICAgICAgICAgICAgICA8TGFiZWwgaHRtbEZvcj0ibGYtYWRkcmVzcyIgPkFkZHJlc3MgbGluZSAyPC9MYWJlbCA+CiAgICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgICBpZD0ibGYtYWRkcmVzc0xpbmUyIgogICAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgIG5hbWU9ImFkZHJlc3NMaW5lMiIKICAgICAgICAgICAgICAgIHZhbHVlPXthZGRyZXNzTGluZTJ9CiAgICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2V9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPC9GaWVsZCA+CiAgICAgICAgICAgIDxGaWVsZCA+CiAgICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9ImxmLXBvc3RhbC1jb2RlIiA+UG9zdGFsIGNvZGU8L0xhYmVsID4KICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgIGlkPSJsZi1wb3N0YWwtY29kZSIKICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICBuYW1lPSJwb3N0YWxDb2RlIgogICAgICAgICAgICAgICAgdmFsdWU9e3Bvc3RhbENvZGV9CiAgICAgICAgICAgICAgICByZXF1aXJlZAogICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlQ2hhbmdlfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwvRmllbGQgPgogICAgICAgICAgICA8RmllbGQgPgogICAgICAgICAgICAgIDxMYWJlbCBodG1sRm9yPSJsZi1jaXR5IiA+Q2l0eTwvTGFiZWwgPgogICAgICAgICAgICAgIDxJbnB1dAogICAgICAgICAgICAgICAgaWQ9ImxmLWNpdHkiCiAgICAgICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgbmFtZT0iY2l0eSIKICAgICAgICAgICAgICAgIHZhbHVlPXtjaXR5fQogICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L0ZpZWxkID4KICAgICAgICAgICAgPEZpZWxkID4KICAgICAgICAgICAgICA8TGFiZWwgaHRtbEZvcj0ibGYtY291bnRyeSIgPkNvdW50cnk8L0xhYmVsID4KICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgIGlkPSJsZi1jb3VudHJ5IgogICAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgIG5hbWU9ImNvdW50cnkiCiAgICAgICAgICAgICAgICB2YWx1ZT17Y291bnRyeX0KICAgICAgICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2V9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPC9GaWVsZCA+CiAgICAgICAgICAgIDxGaWVsZCA+CiAgICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9ImxmLXBob25lLW51bWJlciIgPlBob25lIG51bWJlcjwvTGFiZWwgPgogICAgICAgICAgICAgIDxJbnB1dCBpZD0ibGYtcGhvbmUtbnVtYmVyIgogICAgICAgICAgICAgICAgdHlwZT0idGVsIgogICAgICAgICAgICAgICAgbmFtZT0idGVsZXBob25lTnIiCiAgICAgICAgICAgICAgICB2YWx1ZT17dGVsZXBob25lTnJ9CiAgICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2V9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPC9GaWVsZCA+CiAgICAgICAgICAgIDxGaWVsZCA+CiAgICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9ImxmLWVtYWlsIiA+RS1tYWlsPC9MYWJlbCA+CiAgICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgICBpZD0ibGYtZW1haWwiCiAgICAgICAgICAgICAgICB0eXBlPSJlbWFpbCIKICAgICAgICAgICAgICAgIG5hbWU9ImVtYWlsIgogICAgICAgICAgICAgICAgdmFsdWU9e2VtYWlsfQogICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlQ2hhbmdlfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwvRmllbGQgPgogICAgICAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5hbWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXF1aXJlZAo=</text>
+        <text encoding="base64">ICAgIGlkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGaWVsZD4KICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9ImxmLWNvdW50cnkiID5Db3VudHJ5PC9MYWJlbD4KICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgaWQ9ImxmLWNvdW50cnkiCiAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICBuYW1lPSJjb3VudHJ5IgogICAgICAgICAgICAgIHZhbHVlPXtjb3VudHJ5fQogICAgICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlQ2hhbmdlfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9GaWVsZD4K</text>
+        <text encoding="base64">ICAgICAgbmFtZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
