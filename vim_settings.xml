@@ -1429,11 +1429,11 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1518895470648">
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="13" />
-        <mark key="." line="60" column="13" />
-        <mark key="^" line="60" column="13" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1518898683210">
+        <mark key="[" line="51" column="1" />
+        <mark key="]" line="51" column="1" />
+        <mark key="." line="51" column="1" />
+        <mark key="^" line="51" column="13" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/Comment/CommentPresenter.php" timestamp="1495622539155">
         <mark key="[" line="18" column="59" />
@@ -3123,6 +3123,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/authDecorator.js" timestamp="1518897999275">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/tests/Domain/Invitation/InvitationTest.php" timestamp="1497963727070">
         <mark key="[" line="25" column="77" />
         <mark key="]" line="25" column="77" />
@@ -3956,6 +3962,12 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/requestDecorators.js" timestamp="1518898157427">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="45" />
+        <mark key="." line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Invoice/DoctrineRecurringInvoiceRepository.php" timestamp="1487456605755">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="51" />
@@ -4247,7 +4259,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rateLimit</text>
+        <text>, ['/link']</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4259,16 +4271,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rateLimit</text>
+        <text>, ['/link']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>redisclient.get('test')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZuKHJlcSwgcmVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBkZWNvcmF0ZTsK</text>
+        <text encoding="base64">Y29uc3Qgand0QXV0aCA9IHJlcXVpcmUoJ21pY3JvLWp3dC1hdXRoJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4280,28 +4292,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZGVjb3JhdGUgPSBmbiA9PiAocmVxLCByZXMpID0+IHsKICAvLyBkbyBzb21lIHN0dWZmIGhlcmUKICBmbihyZXEsIHJlcykKfQo=</text>
+        <text encoding="base64">Y29uc3Qgand0U2VjcmV0ID0gcHJvY2Vzcy5lbnYuSldUX1NFQ1JFVCA/IHByb2Nlc3MuZW52LkpXVF9TRUNSRVQgOiAnZzRuSXA5a1oxZHJMcEVpNW1qRzZUa0JaT085SlY4NlonOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYXV0aERlY29yYXRvciA9IGZuID0+IChyZXEsIHJlcykgPT4gewogIGlmKHJlcS51cmwgPT0gJy9saW5rLzEyMycpewogICAgZm4ocmVxLCByZXMpCiAgfWVsc2V7CiAgICBqd3RBdXRoKGp3dFNlY3JldCkoZm4pKHJlcSwgcmVzKTsKICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBqd3RBdXRoKHByb2Nlc3MuZW52LkpXVF9TRUNSRVQgPyBwcm9jZXNzLmVudi5KV1RfU0VDUkVUIDogJ2c0bklwOWtaMWRyTHBFaTVtakc2VGtCWk9POUpWODZaJywgWycvbGluayddKSggKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IHJvdXRlcigKICAgIHBvc3QoJy9saW5rJywgcm91dGVzLmdlbmVyYXRlTGluayksCiAgICBnZXQoJy9saW5rLzppZCcsIHJvdXRlcy5nZXRMaW5rKSwKICAgIHBvc3QoJy9hY2NvdW50RGVsZWdhdGlvbicsIHJvdXRlcy5nZW5lcmF0ZUxpbmspLAogICAgcG9zdCgnL2xvY2F0aW9uJywgcm91dGVzLnVwZGF0ZUxvY2F0aW9uRGV0YWlscykKICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgcm91dGUgPSA7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>router(
+  post('/link', routes.generateLink),
+  get('/link/:id', routes.getLink),
+  post('/accountDelegation', routes.generateLink),
+  post('/location', routes.updateLocationDetails)
+)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcHVibGlzaGVyID0ge3B1Ymxpc2g6IG51bGx9Owo=</text>
+        <text encoding="base64">ICAvLyBkbyBzb21lIHN0dWZmIGhlcmUKICBjb25zb2xlLmxvZyhyZXEudXJsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldCgnL2xpbmsvOmlkJywgcm91dGVzLmdldExpbmspLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
