@@ -1429,10 +1429,11 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1518887102485">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1518893207815">
+        <mark key="[" line="45" column="118" />
+        <mark key="]" line="45" column="118" />
+        <mark key="." line="45" column="118" />
+        <mark key="^" line="45" column="117" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/Comment/CommentPresenter.php" timestamp="1495622539155">
         <mark key="[" line="18" column="59" />
@@ -3681,10 +3682,10 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/package.json" timestamp="1518884175594">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/package.json" timestamp="1518889791746">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
         <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1502892062912">
@@ -3757,11 +3758,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/docker-compose.yml" timestamp="1518886776758">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/docker-compose.yml" timestamp="1518888523149">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/Dockerfile" timestamp="1484925291386">
         <mark key="[" line="14" column="0" />
@@ -4245,8 +4246,8 @@
       <jump line="314" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/AccountDelegationSetup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/:id</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4258,16 +4259,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>/:id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9jYXRpb25EZXRhaWxzID0gbnVsbDsK</text>
+      <register name="0" type="4">
+        <text>redisclient.get('test')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldCgnL2xpbmsvOmlkJywgcm91dGVzLmdldExpbmspLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4279,28 +4280,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVzdAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgc3lzdGVtVG9rZW4gPSAnc29tZUp3dFRva2VuJzsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGF3YWl0IAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICI4MDAwOjgwIgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IHJlZGlzY2xpZW50LmdldCgidGVzdCIsIGZ1bmN0aW9uIChlcnIsIHJlcGx5KSB7CiAgICAgIGNvbnNvbGUubG9nKGVyciwgcmVwbHkpOyAvLyA9PiAnVGhlIGNvbm5lY3Rpb24gaGFzIGFscmVhZHkgYmVlbiBjbG9zZWQuJwogICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi9uZ2lueC9uZ2lueC1wcm94eS5sb2NhbC5jb25mOi9ldGMvbmdpbngvY29uZi5kL2RlZmF1bHQuY29uZgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gd2ViYXBwCiAgICBsaW5rczoKICAgICAgLSB2cG46d2ViYXBwZG9ja2VyCg==</text>
+        <text encoding="base64">ICAgIHJlZGlzY2xpZW50Lm9uX3JlYWR5KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gdnBuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtfbW9kZTogInNlcnZpY2U6dnBuIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
