@@ -1465,9 +1465,9 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1518985969390">
-        <mark key="[" line="44" column="14" />
-        <mark key="]" line="44" column="13" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1519129770606">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="71" />
         <mark key="." line="44" column="13" />
         <mark key="^" line="44" column="13" />
       </file>
@@ -2581,11 +2581,11 @@
         <mark key="." line="20" column="82" />
         <mark key="^" line="20" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/test.js" timestamp="1518979534094">
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/test.js" timestamp="1519131839297">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/DTO/UserRegistrationDTO.php" timestamp="1507801657420">
         <mark key="[" line="6" column="15" />
@@ -3518,11 +3518,11 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/AccountDelegationRequest.js" timestamp="1519060770002">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/AccountDelegationRequest.js" timestamp="1519131886348">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="58" />
+        <mark key="." line="10" column="58" />
+        <mark key="^" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/MqttApplicationService.php" timestamp="1516877773572">
         <mark key="[" line="83" column="0" />
@@ -4311,8 +4311,8 @@
       <jump line="34" column="19" filename="$USER_HOME$/projects/services/AccountCreationDelegation/AccountDelegationRequest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>value.country</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4324,16 +4324,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>locationSchema</text>
+        <text>value.country</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBlbWFpbDogSm9pLnN0cmluZygpLmVtYWlsKCkucmVxdWlyZWQoKSwK</text>
+      <register name="0" type="4">
+        <text>{ defaultCountry: value.country, format: 'e164' }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbG9jYXRpb25TY2hlbWEgPSBKb2kub2JqZWN0KCkua2V5cyh7CiAgY2l0eTogSm9pLnN0cmluZygpLmFscGhhbnVtKCkucmVxdWlyZWQoKSwKICBhZGRyZXNzTGluZTE6IEpvaS5zdHJpbmcoKS5yZXF1aXJlZCgpLAogIGFkZHJlc3NMaW5lMjogSm9pLnN0cmluZygpLm9wdGlvbmFsKCkuZW1wdHkoJycpLAogIHBvc3RhbENvZGU6IEpvaS5zdHJpbmcoKS5hbHBoYW51bSgpLnJlcXVpcmVkKCksCiAgY291bnRyeTogSm9pLnN0cmluZygpLmFscGhhbnVtKCkucmVxdWlyZWQoKSwKICB0ZWxlcGhvbmVOcjogSm9pLnN0cmluZygpLnJlcXVpcmVkKCksCiAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCn0pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4345,38 +4345,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZWxlcGhvbmVOcjogSm9pLnBob25lTnVtYmVyKHsgZGVmYXVsdENvdW50cnk6ICdCRScsIGZvcm1hdDogJ2UxNjQnIH0pLnJlcXVpcmVkKCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdGlhbFN0YXRlID0gewogIHBlbmRpbmc6IGZhbHNlLAogIHN1Y2Nlc3M6IGZhbHNlLAogIGVycm9yOiBmYWxzZSwKICBjaGVja2JveElzQ2hlY2tlZDogZmFsc2UsCn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiaWxsaW5nRGV0YWlsczogewogICAgY29tcGFueU5hbWU6ICcnLAogICAgY291bnRyeTogJycsCiAgICBjaXR5OiAnJywKICAgIGFkZHJlc3NMaW5lMTogJycsCiAgICBhZGRyZXNzTGluZTI6ICcnLAogICAgcG9zdGFsQ29kZTogJycsCiAgICBlbWFpbDogJycsCiAgICB2YXROcjogJycsCiAgfSwK</text>
+        <text encoding="base64">ICAgIHRoaXMubG9jYXRpb25JZCA9IGRhdGEubG9jYXRpb25fZGV0YWlscy5pZDsKICAgIHRoaXMuYmlsbGluZ1JlcXVpcmVkID0gdHlwZW9mIGRhdGEuYmlsbGluZ19kZXRhaWxzICE9PSAndW5kZWZpbmVkJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbWFpbDogSm9pLnN0cmluZygpLmFscGhhbnVtKCkucmVxdWlyZWQoKSwK</text>
+        <text encoding="base64">ICAgIHRoaXMudXBkYXRlUHJvZ3Jlc3MoZGF0YSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjaXR5OiBKb2kuc3RyaW5nKCkuYWxwaGFudW0oKS5yZXF1aXJlZCgpLAogIGFkZHJlc3NMaW5lMTogSm9pLnN0cmluZygpLmFscGhhbnVtKCkucmVxdWlyZWQoKSwKICBhZGRyZXNzTGluZTI6IEpvaS5zdHJpbmcoKS5hbHBoYW51bSgpLAogIHBvc3RhbENvZGU6IEpvaS5zdHJpbmcoKS5hbHBoYW51bSgpLnJlcXVpcmVkKCksCiAgY291bnRyeTogSm9pLnN0cmluZygpLmFscGhhbnVtKCkucmVxdWlyZWQoKSwKICB0ZWxlcGhvbmVOcjogSm9pLm51bWJlcigpLnJlcXVpcmVkKCksCiAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coQ3JlZGVudGlhbHNHZW5lcmF0b3IuZ2VuZXJhdGUoJ3NwYWNlcycsICdubCcsICd2aWp6ZWxncmFjaHQgMTIzIC0gMycpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2NhdGlvbkRldGFpbHM6IHsKICAgIGlkOiBudWxsLAogICAgY2l0eTogJycsCiAgICBhZGRyZXNzTGluZTE6ICcnLAogICAgYWRkcmVzc0xpbmUyOiAnJywKICAgIHBvc3RhbENvZGU6ICcnLAogICAgY291bnRyeTogJycsCiAgICB0ZWxlcGhvbmVOcjogJycsCiAgICBlbWFpbDogJycsCiAgfSwK</text>
+        <text encoding="base64">Y29uc3QgSm9pID0gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbWFpbDogSm9pLnN0cmluZygpLmVtYWlsKCkucmVxdWlyZWQoKSwKfSkud2l0aCgndXNlcm5hbWUnLCAnYmlydGh5ZWFyJykud2l0aG91dCgncGFzc3dvcmQnLCAnYWNjZXNzX3Rva2VuJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
     <search>
@@ -4430,8 +4423,8 @@
         <entry>sp</entry>
         <entry>w</entry>
         <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
