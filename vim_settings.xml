@@ -482,7 +482,7 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1519132738942">
+      <file name="/GraphQL.result.json" timestamp="1519138496400">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/mitsubishi/views/playlist-info.html" timestamp="1505469426547">
@@ -1468,11 +1468,10 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1519136453042">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="71" />
-        <mark key="." line="44" column="13" />
-        <mark key="^" line="44" column="13" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1519146092061">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/Comment/CommentPresenter.php" timestamp="1495622539155">
         <mark key="[" line="18" column="59" />
@@ -2584,11 +2583,11 @@
         <mark key="." line="20" column="82" />
         <mark key="^" line="20" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/test.js" timestamp="1519136465219">
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="27" column="28" />
-        <mark key="." line="27" column="28" />
-        <mark key="^" line="27" column="28" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/test.js" timestamp="1519144756135">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+        <mark key="." line="27" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/DTO/UserRegistrationDTO.php" timestamp="1507801657420">
         <mark key="[" line="6" column="15" />
@@ -3527,11 +3526,11 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/AccountDelegationRequest.js" timestamp="1519136591487">
-        <mark key="[" line="29" column="128" />
-        <mark key="]" line="29" column="126" />
-        <mark key="^" line="29" column="126" />
-        <mark key="." line="29" column="126" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/AccountDelegationRequest.js" timestamp="1519145572142">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/MqttApplicationService.php" timestamp="1516877773572">
         <mark key="[" line="83" column="0" />
@@ -3948,10 +3947,11 @@
         <mark key="^" line="28" column="47" />
         <mark key="." line="28" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/AccountDelegationSetup.js" timestamp="1519132754847">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="190" />
-        <mark key="." line="285" column="0" />
+      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/AccountDelegationSetup.js" timestamp="1519142612804">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="293" column="6" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/TestHoi.php" timestamp="1483717198461">
         <mark key="[" line="4" column="1" />
@@ -4218,7 +4218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="67" filename="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Command/RegisterPerson.php" />
       <jump line="58" column="81" filename="$USER_HOME$/projects/atmosphere/api/app/Jobs/TriggerCommentNotificationJob.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Jobs/TriggerCommentNotificationJob.php" />
       <jump line="34" column="62" filename="$USER_HOME$/projects/atmosphere/api/resources/views/MailNewComments.twig" />
@@ -4318,10 +4317,11 @@
       <jump line="314" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/AccountDelegationSetup.js" />
       <jump line="52" column="20" filename="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" />
       <jump line="34" column="19" filename="$USER_HOME$/projects/services/AccountCreationDelegation/AccountDelegationRequest.js" />
+      <jump line="20" column="41" filename="$USER_HOME$/projects/services/AccountCreationDelegation/AccountDelegationRequest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>required</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4333,52 +4333,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>required</text>
+        <text>validation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>.when('country', { is: Joi.string().valid(vatCountries), then: Joi.required() }),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNlbmQocmVzLCAyMDAsIHt9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYmlsbGluZ1JlcXVpcmVkID0gdHJ1ZTsKICAgIHRoaXMuZGF0YSA9IGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbmFsID0gSm9pLm9iamVjdCgpLm9wdGlvbmFsKCkuc3RyaXAoKTsKICAgIGNvbnN0IGJpbGxpbmdTY2hlbWEgPSBKb2kub2JqZWN0KCkua2V5cyh7CiAgICAgICAgY29tcGFueU5hbWU6IEpvaS5zdHJpbmcoKS5yZXF1aXJlZCgpLAogICAgICAgIGFkZHJlc3NMaW5lMTogSm9pLnN0cmluZygpLnJlcXVpcmVkKCksCiAgICAgICAgYWRkcmVzc0xpbmUyOiBKb2kuc3RyaW5nKCkub3B0aW9uYWwoKS5lbXB0eSgnJyksCiAgICAgICAgcG9zdGFsQ29kZTogSm9pLnN0cmluZygpLnJlcXVpcmVkKCksCiAgICAgICAgY291bnRyeTogSm9pLnN0cmluZygpLnZhbGlkKGFsbENvdW50cmllcykucmVxdWlyZWQoKSwKICAgICAgICBjaXR5OiBKb2kuc3RyaW5nKCkuYWxwaGFudW0oKS5yZXF1aXJlZCgpLAogICAgICAgIGVtYWlsOiBKb2kuc3RyaW5nKCkuZW1haWwoKS5yZXF1aXJlZCgpLAogICAgICAgIHZhdE5yOiBKb2kuc3RyaW5nKCkuYWxwaGFudW0oKQogICAgICB9KTsKCiAgICB0aGlzLnNjaGVtYSA9IEpvaS5vYmplY3QoKS5rZXlzKHsKICAgICAgbG9jYXRpb246IEpvaS5vYmplY3QoKS5rZXlzKHsKICAgICAgICBjaXR5OiBKb2kuc3RyaW5nKCkuYWxwaGFudW0oKS5yZXF1aXJlZCgpLAogICAgICAgIGFkZHJlc3NMaW5lMTogSm9pLnN0cmluZygpLnJlcXVpcmVkKCksCiAgICAgICAgYWRkcmVzc0xpbmUyOiBKb2kuc3RyaW5nKCkub3B0aW9uYWwoKS5lbXB0eSgnJyksCiAgICAgICAgcG9zdGFsQ29kZTogSm9pLnN0cmluZygpLnJlcXVpcmVkKCksCiAgICAgICAgY291bnRyeTogSm9pLnN0cmluZygpLnZhbGlkKGFsbENvdW50cmllcykucmVxdWlyZWQoKSwKICAgICAgICB0ZWxlcGhvbmVOcjogSm9pLnN0cmluZygpLnBob25lTnVtYmVyKHsgZGVmYXVsdENvdW50cnk6IGRhdGEuY291bnRyeSB8fCAnTkwnLCBmb3JtYXQ6ICdlMTY0JyB9KS5yZXF1aXJlZCgpLAogICAgICAgIGVtYWlsOiBKb2kuc3RyaW5nKCkuZW1haWwoeyBtaW5Eb21haW5BdG9tczogMiB9KS5yZXF1aXJlZCgpLAogICAgICB9KSwKICAgICAgYmlsbGluZ0RldGFpbHM6IHRoaXMuYmlsbGluZ1JlcXVpcmVkID8gYmlsbGluZ1NjaGVtYSA6IG9wdGlvbmFsLAogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4odmFsID0+IHRydWUpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Joi.object().keys({
-        companyName: Joi.string().required(),
-        addressLine1: Joi.string().required(),
-        addressLine2: Joi.string().optional().empty(''),
-        postalCode: Joi.string().required(),
-        country: Joi.string().valid(allCountries).required(),
-        city: Joi.string().alphanum().required(),
-        email: Joi.string().email().required(),
-        vatNr: Joi.string().alphanum()
-      }).when('q1', { is: true, then: Joi.required() })</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuYmlsbGluZ1JlcXVpcmVkID0gdHlwZW9mIGRhdGEuYmlsbGluZ19kZXRhaWxzICE9PSAndW5kZWZpbmVkJzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRpb24pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoZW46IEpvaS5vYmplY3QoeyBjOiBKb2kucmVxdWlyZWQoKSB9KQkJLy8gYi5jIGlzIHJlcXVpcmVkIG9ubHkgd2hlbiBhIGlzIHRydWUK</text>
+        <text encoding="base64">ICAgIHRyeXsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlbGVwaG9uZU5yOiAnMDYxOTY5MTgzMDgwMDAwMScsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsaWRhdGlvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYmlsbGluZ1NjaGVtYSA9Owo=</text>
+        <text encoding="base64">ICAgIH1jYXRjaChlKXsKICAgICAgc2VuZChyZXMsIDQwMCwge30pOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QK</text>
+        <text encoding="base64">ICAgIHRyeXsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
