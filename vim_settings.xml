@@ -986,7 +986,7 @@
         <mark key="." line="57" column="19" />
         <mark key="^" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519221522668">
+      <file name="/Dummy.txt" timestamp="1519233360187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -1918,6 +1918,12 @@
         <mark key="]" line="47" column="62" />
         <mark key="." line="44" column="30" />
         <mark key="^" line="44" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/php/Dockerfile" timestamp="1519233692031">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="3" column="48" />
+        <mark key="." line="3" column="48" />
+        <mark key="^" line="3" column="47" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Types/Custom.php" timestamp="1483523950943">
         <mark key="[" line="18" column="5" />
@@ -4332,8 +4338,8 @@
       <jump line="20" column="41" filename="$USER_HOME$/projects/services/AccountCreationDelegation/AccountDelegationRequest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/usr/local/etc/php/php.ini</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4345,13 +4351,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/usr/local/etc/php/php.ini</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAudGhlbigoKSA9PiBjb25zb2xlLmxvZygnZG9uZScpKQo=</text>
+        <text encoding="base64">QUREIC4vcGhwLmluaSAvdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4384,7 +4390,7 @@
         <text encoding="base64">ICAgIGlmKGhhc1ZhbGlkVG9rZW4oand0VG9rZW4pKSByZXNvbHZlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -4424,7 +4430,6 @@
         <entry>action SplitHorizontally</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action AceJumpAction</entry>
-        <entry>x</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVGFiU2hpZnRBY3Rpb25zLk1vdmVGb2N1c0xlZnQ=</entry>
         <entry>set number</entry>
         <entry>set rnu</entry>
@@ -4440,6 +4445,7 @@
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
