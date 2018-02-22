@@ -1455,11 +1455,11 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1519331790105">
-        <mark key="[" line="64" column="12" />
-        <mark key="]" line="64" column="17" />
-        <mark key="^" line="64" column="17" />
-        <mark key="." line="64" column="17" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1519333727744">
+        <mark key="[" line="52" column="48" />
+        <mark key="]" line="52" column="47" />
+        <mark key="." line="52" column="47" />
+        <mark key="^" line="52" column="47" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/Comment/CommentPresenter.php" timestamp="1495622539155">
         <mark key="[" line="18" column="59" />
@@ -3212,11 +3212,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/Store.js" timestamp="1518976192142">
-        <mark key="[" line="6" column="90" />
-        <mark key="]" line="6" column="96" />
-        <mark key="." line="6" column="96" />
-        <mark key="^" line="6" column="96" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/Store.js" timestamp="1519333233931">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+        <mark key="^" line="7" column="46" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Product/Product.php" timestamp="1483521383029">
         <mark key="[" line="14" column="0" />
@@ -3242,7 +3242,6 @@
         <mark key="^" line="59" column="34" />
         <mark key="." line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1519054812686" />
       <file name="$USER_HOME$/projects/kollekt/backend/wercker.yml" timestamp="1487597819832">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="38" />
@@ -3950,11 +3949,11 @@
         <mark key="^" line="28" column="47" />
         <mark key="." line="28" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/AccountDelegationSetup.js" timestamp="1519147453172">
-        <mark key="[" line="168" column="8" />
-        <mark key="]" line="168" column="7" />
-        <mark key="^" line="168" column="7" />
-        <mark key="." line="168" column="7" />
+      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/AccountDelegationSetup.js" timestamp="1519333970912">
+        <mark key="[" line="336" column="15" />
+        <mark key="]" line="336" column="14" />
+        <mark key="." line="336" column="14" />
+        <mark key="^" line="336" column="14" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/TestHoi.php" timestamp="1483717198461">
         <mark key="[" line="4" column="1" />
@@ -4329,7 +4328,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odG9rZW4gPT4gY29uc29sZS5sb2coJ3Rva2VuJywgdG9rZW4pKQo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAyMHB4IDIwcHggMDsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4341,49 +4340,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>trcwue</text>
+        <text>Email</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Store.get('jwtToken');</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgRW1haWwgPSBzdHlsZWQuZGl2YAogIHBhZGRpbmc6IDIwcHggMjBweCAwOwpgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odG9rZW4gPT4gY29uc29sZS5sb2coJ3Rva2VuJywgdG9rZW4pKQo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAyMHB4IDIwcHggMDsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAyMHB4IDIwcHggMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAoaGFzVmFsaWRUb2tlbihqd3RUb2tlbikpIHJldHVybiBqd3RUb2tlbjsKICBjb25zb2xlLmxvZygnTm8gdmFsaWQgdG9rZW4nKTsKICByZXR1cm4gYmFzZVJlcXVlc3QoKS5wb3N0KCcvYXV0aGVudGljYXRpb24nLCB7CiAgICBmb3JtOiBzeXN0ZW1DcmVkZW50aWFscwogIH0pLnRoZW4ocmVzcG9uc2UgPT4gand0VG9rZW4gPSBKU09OLnBhcnNlKHJlc3BvbnNlKS50b2tlbikKICAgIC50aGVuKHRva2VuID0+IFN0b3JlLnNldCgnand0VG9rZW4nLCB0b2tlbikpCiAgICAudGhlbigoKSA9PiBjb25zb2xlLmxvZygndG9rZW4gc3RvcmVkJykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBqd3RUb2tlbiA9IGF3YWl0IFN0b3JlLmdldCgnand0VG9rZW4nKTsK</text>
+        <text encoding="base64">ICAgIGlmICghYWNjb3VudERlbGVnYXRpb24pIHJldHVybiBzZW5kKHJlcywgNDAwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IGp3dFRva2VuID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3lzdGVtQ3JlZGVudGlhbHMgPSB7IGVtYWlsOiAnYm91ZGV3aWpuZ0BnbWFpbC5jb20nLCBwYXNzd29yZDogJ3Rlc3R0ZXN0JyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      email: 'boudewijng@gmail.com',
-      password: 'testtest'
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-          email: 'boudewijng@gmail.com',
-          password: 'testtest'
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gYmFzZVJlcXVlc3QoKS5wb3N0KCcvYXV0aGVudGljYXRpb24nLCB7CiAgICBmb3JtOiB7CiAgICAgIGVtYWlsOiAnYm91ZGV3aWpuZ0BnbWFpbC5jb20nLAogICAgICBwYXNzd29yZDogJ3Rlc3R0ZXN0JwogICAgfQogIH0pLnRoZW4ocmVzcG9uc2UgPT4gand0VG9rZW4gPSBKU09OLnBhcnNlKHJlc3BvbnNlKS50b2tlbikKICAgIC50aGVuKHRva2VuID0+IFN0b3JlLnNldCgnand0VG9rZW4nLCB0b2tlbikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
