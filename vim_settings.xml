@@ -293,7 +293,7 @@
         <mark key="." line="85" column="18" />
         <mark key="^" line="84" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Command/EmailDeviceCredentials.php" timestamp="1519575422435">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Command/EmailDeviceCredentials.php" timestamp="1519587662092">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="9" />
         <mark key="." line="44" column="93" />
@@ -587,11 +587,11 @@
         <mark key="." line="33" column="53" />
         <mark key="^" line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/resources/views/DeviceCredentialsEmail.twig" timestamp="1519577148392">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="9" column="49" />
-        <mark key="^" line="9" column="48" />
-        <mark key="." line="9" column="49" />
+      <file name="$USER_HOME$/projects/atmosphere/api/resources/views/DeviceCredentialsEmail.twig" timestamp="1519587401057">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="67" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="41" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/User/Command/SetNewPassword.php" timestamp="1479925631705">
         <mark key="[" line="24" column="65" />
@@ -4167,11 +4167,11 @@
         <mark key="." line="60" column="53" />
         <mark key="^" line="60" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" timestamp="1519576468341">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="42" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" timestamp="1519586014226">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="17" />
         <mark key="^" line="23" column="49" />
-        <mark key="." line="23" column="42" />
+        <mark key="." line="22" column="17" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/config/database.php" timestamp="1483453913645">
         <mark key="[" line="60" column="46" />
@@ -4284,7 +4284,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>text-decoration:underline;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4296,43 +4296,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>download</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkIHN0eWxlPSJmb250LWZhbWlseTogJ0NvdXJpZXIgTmV3Jztmb250LXdlaWdodDo0MDA7cGFkZGluZzogMHB4IDMwcHgiPnt7IGNyZWRlbnRpYWxzLnBhc3N3b3JkIH19PC90ZCA+Cg==</text>
+      <register name="0" type="4">
+        <text>text-decoration:underline;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkIHN0eWxlPSJwYWRkaW5nOiAwcHggMzBweCI+e3sgY3JlZGVudGlhbHMuZW1haWwgfX08L3RkID4K</text>
+        <text encoding="base64">ICAgIEp1c3Qgbm93IGFuIEF0bW9zcGhlcmUgYWNjb3VudCBoYXMgYmVlbiBzZXQtdXAgZm9yOiA8c3BhbiBzdHlsZT0iZm9udC1zdHlsZTogaXRhbGljO3RleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lIiA+e3sgb3JnYW5pc2F0aW9uTmFtZSB9fQogICAgLSB7eyBsb2NhdGlvbk5hbWUgfX08L3NwYW4gPgogICAgICAgIDxiciAvPgogICAgICAgIDxiciAvPgo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwIHN0eWxlPSJmb250LWZhbWlseTogJ011bGknLCBWZXJkYW5hLCBzZXJpZjsgZm9udC13ZWlnaHQ6IDQwMDsgY29sb3I6ICM0MDQwNDA7IGZvbnQtc2l6ZTogMTVweDsgbGluZS1oZWlnaHQ6IDIycHg7IiA+Cg==</text>
+        <text encoding="base64">ICAgIDxiciAvPgogICAgPGJyIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxwIHN0eWxlPSJmb250LWZhbWlseTogJ011bGknLCBWZXJkYW5hLCBzZXJpZjsgZm9udC13ZWlnaHQ6IGJvbGQ7IGNvbG9yOiAjNDA0MDQwO2ZvbnQtc2l6ZTogMTVweDsgbGluZS1oZWlnaHQ6IDIycHg7Ij57eyBvcmdhbmlzYXRpb25OYW1lIH19PC9wPgo=</text>
+        <text encoding="base64">ICAgIDxiciAvPgogICAgSnVzdCBub3cgYW4gQXRtb3NwaGVyZSBhY2NvdW50IGhhcyBiZWVuIHNldC11cCBmb3I6IDxzcGFuIHN0eWxlPSJmb250LXN0eWxlOiBpdGFsaWM7dGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmUiID57eyBvcmdhbmlzYXRpb25OYW1lIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxoNCA+SW5zdHJ1Y3Rpb25zPC9oNCA+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICA8YnIvPgogICAgPHN0cm9uZz5Zb3VyIFBhc3N3b3JkOjwvc3Ryb25nPiB7eyBjcmVkZW50aWFscy5wYXNzd29yZCB9fQo=</text>
+        <text encoding="base64">ICAgIDxwIHN0eWxlPSJmb250LWZhbWlseTogJ011bGknLCBWZXJkYW5hLCBzZXJpZjsgY29sb3I6ICM0MDQwNDA7Zm9udC1zaXplOiAxNXB4OyBsaW5lLWhlaWdodDogMjJweDsiID4KICAgIDwvcD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgIEhpIFRoZXJlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSBbCiAgICAgICAgICAgICdyZWNlaXZlcicgPT4gJ2JvdWRld2lqbicsCiAgICAgICAgICAgICdjdGEnID0+ICcjJywKICAgICAgICAgICAgJ3RyYWNrQ291bnQnID0+IDAsCiAgICAgICAgICAgICdwbGF5bGlzdHMnID0+IFsKICAgICAgICAgICAgICAgICd0ZXN0JyA9PiAyCiAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgIDxoMyA+VGhlIFNvdW5kIG9mIHt7IG9yZ2FuaXNhdGlvbk5hbWUgfX08L2gzID4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFNlZSB0aGUgYXR0YWNobWVudCBiZWxvdyBmb3IgYSBndWlkZSB3aXRoIGZ1cnRoZXIgaW5zdHJ1Y3Rpb25zIHRvIGhlbHAgeW91IHNldHVwLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9InBhZGRpbmc6IDE1cHggMCIgPgogICAgICAgIHt7IEJ1dHRvbi5kZWZhdWx0KCdHbyBCYWNrc3RhZ2UhJywgJ2h0dHBzOi8va29sbGVrdC5mbScpIH19CiAgICA8L2RpdiA+Cg==</text>
+        <text encoding="base64">ICAgIDxoMyA+VGhlIFNvdW5kIG9mIHt7IG9yZ2FuaXNhdGlvbk5hbWUgfX08L2gzID4K</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
