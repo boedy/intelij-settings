@@ -332,12 +332,7 @@
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/AccountDelegation.js" timestamp="1519640728046">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-      </file>
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/AccountDelegation.js" timestamp="1519645775907" />
       <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/popup.js" timestamp="1505233954616">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -1389,10 +1384,10 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/server.js" timestamp="1519639623490">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/server.js" timestamp="1519644739991">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1508424428033">
         <mark key="[" line="77" column="0" />
@@ -1478,11 +1473,11 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1519640763287">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="22" column="28" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1519645767170">
+        <mark key="[" line="84" column="19" />
+        <mark key="]" line="84" column="19" />
+        <mark key="." line="84" column="19" />
+        <mark key="^" line="84" column="19" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/Comment/CommentPresenter.php" timestamp="1495622539155">
         <mark key="[" line="18" column="59" />
@@ -1658,7 +1653,7 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/data/resolvers.js" timestamp="1519640634096">
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/data/resolvers.js" timestamp="1519644131369">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
@@ -3955,6 +3950,11 @@
         <mark key="." line="38" column="8" />
         <mark key="^" line="38" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/node_modules/micro-jwt-auth/index.js" timestamp="1519644957396">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Event/Event.php" timestamp="1499782034587">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="32" />
@@ -3967,11 +3967,10 @@
         <mark key="^" line="28" column="47" />
         <mark key="." line="28" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/AccountDelegationSetup.js" timestamp="1519378773503">
-        <mark key="[" line="403" column="0" />
-        <mark key="]" line="404" column="23" />
-        <mark key="^" line="404" column="23" />
-        <mark key="." line="404" column="23" />
+      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/AccountDelegationSetup.js" timestamp="1519645959303">
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="404" column="0" />
+        <mark key="." line="404" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/TestHoi.php" timestamp="1483717198461">
         <mark key="[" line="4" column="1" />
@@ -4342,7 +4341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBvc3QoJy9saW5rJywgcm91dGVzLmdlbmVyYXRlTGluayksCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4354,48 +4353,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>accountDelegation</text>
+        <text>beaaa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CmNvbnN0IGFkZERldmljZVRvTG9jYXRpb24gPSAoZGV2aWNlSWQsIGxvY2F0aW9uSWQpID0+IHsKICBjb25zb2xlLmxvZygnYXNzaWduaW5nIGRldmljZSB0byBsb2NhdGlvbi4uJyk7CiAgcmV0dXJuIGJhc2VSZXF1ZXN0KCkucG9zdChgbG9jYXRpb25zLyR7bG9jYXRpb25JZH0vdXNlcnNgLCB7IGZvcm06IHsgdXNlcl9pZDogZGV2aWNlSWQgfX0pOwp9Owo=</text>
+      <register name="0" type="4">
+        <text>organisationName, locationDetails, billingDetails</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc3QoJy9saW5rJywgcm91dGVzLmdlbmVyYXRlTGluayksCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvc3QoJy9hY2NvdW50RGVsZWdhdGlvbicsIHJvdXRlcy5nZW5lcmF0ZUxpbmspCg==</text>
+        <text encoding="base64">ICAgIGlmIChyZXEuand0LnR5cGUgIT0gJ1N1cGVyQWRtaW4nKSB7CiAgICAgIHJldHVybiBzZW5kKHJlcywgNDAzLCB7fSk7CiAgICB9CiAgICBjb25zdCBkYXRhID0gYXdhaXQganNvbihyZXEpOwogICAgY29uc3QgYWNjb3VudERlbGVnYXRpb24gPSBuZXcgQWNjb3VudERlbGVnYXRpb24oZGF0YSk7CiAgICBhY2NvdW50RGVsZWdhdGlvbi5wcm9ncmVzcyA9IGRhdGE7CgogICAgY29uc3QgaWQgPSB1dWlkKCk7CiAgICBzdG9yZS5zZXQoaWQsIGFjY291bnREZWxlZ2F0aW9uKTsKCiAgICBzZW5kKHJlcywgMjAwLCB7IGlkIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZ2FuaXNhdGlvbk5hbWUsIGxvY2F0aW9uRGV0YWlscywgYmlsbGluZ0RldGFpbHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWNjb3VudERlbGVnYXRpb24gfSBmcm9tICcuL21vZGVscy9pbmRleCc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHBvc3QoJy9saW5rJywgcm91dGVzLmdlbmVyYXRlTGluayksCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>&quot;
-&quot;
-&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYmVhcmVyVG9rZW4pOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        &quot;email&quot;   : &quot;at.nl.ds132@kollekt.fm&quot;,
-        &quot;password&quot;: &quot;X80SU3Y&quot;
-      }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZ2FuaXNhdGlvbk5hbWUsIGxvY2F0aW9uRGV0YWlscywgYmlsbGluZ0RldGFpbHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRoSGVhZGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
