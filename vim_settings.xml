@@ -1028,7 +1028,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519767353734">
+      <file name="/Dummy.txt" timestamp="1519768809704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -2854,6 +2854,12 @@
         <mark key="." line="75" column="90" />
         <mark key="^" line="75" column="90" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/index.html" timestamp="1519768318783">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/k2i/app/Music/SilenceRemover.php" timestamp="1509032749328">
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="29" />
@@ -4046,10 +4052,10 @@
         <mark key="^" line="28" column="47" />
         <mark key="." line="28" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/AccountDelegationSetup.js" timestamp="1519767345727">
-        <mark key="[" line="452" column="28" />
-        <mark key="]" line="452" column="28" />
-        <mark key="." line="452" column="28" />
+      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/AccountDelegationSetup.js" timestamp="1519768640141">
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="375" column="0" />
+        <mark key="." line="375" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/TestHoi.php" timestamp="1483717198461">
         <mark key="[" line="4" column="1" />
@@ -4418,8 +4424,8 @@
       <jump line="322" column="37" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/AccountDelegationSetup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, 1000);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNjLVZpZ1ZUIHlwQ2NuCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4431,43 +4437,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 1000);</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIHNldFRpbWVvdXQoc2VuZFdpbmRvd0hlaWdodFRvUGFyZW50LCAxMDApOwo=</text>
+      <register name="0" type="4">
+        <text>#root {
+                padding: 0;
+                margin: 0;
+                height: 100%;
+            }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICBzZXRUaW1lb3V0KHNlbmRXaW5kb3dIZWlnaHRUb1BhcmVudCwgMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgIHNjLVZpZ1ZUIHlwQ2NuCg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbmRXaW5kb3dIZWlnaHRUb1BhcmVudCgpCg==</text>
+        <text encoding="base64">ICAgIHNlbmRXaW5kb3dIZWlnaHRUb1BhcmVudCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cGRhdGVkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMTAwJTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICBzZXRUaW1lb3V0KHNlbmRXaW5kb3dIZWlnaHRUb1BhcmVudCwgMTAwMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbmRIZWlnaHQoKTsKICB9IAo=</text>
+        <text encoding="base64">ICAgIHNlbmRXaW5kb3dIZWlnaHRUb1BhcmVudCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aW5kb3cub25sb2FkID0gZnVuY3Rpb24oKXsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cGRhdGVkJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBzZW5kSGVpZ2h0KCl7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gc2VuZEhlaWdodCgpewogICAgICAgICAgICAgIHZhciBhY3R1YWxfaGVpZ2h0ID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3Jvb3QnKS5zY3JvbGxIZWlnaHQ7CiAgICAgICAgICAgICAgdmFyIHBhc3NfZGF0YSA9IHsKICAgICAgICAgICAgICAgICdjb250ZW50aGVpZ2h0JzphY3R1YWxfaGVpZ2h0CiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIHBhcmVudC5wb3N0TWVzc2FnZShKU09OLnN0cmluZ2lmeShwYXNzX2RhdGEpLCIqIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgd2luZG93Lm9ubG9hZCA9IGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgc2VuZEhlaWdodCgpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHNlbmRIZWlnaHQoKTsKICB9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiA1MHB4Owo=</text>
+        <text encoding="base64">ICB3aW5kb3cub25sb2FkID0gZnVuY3Rpb24oKXsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
