@@ -1076,6 +1076,9 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/services/api.js" timestamp="1519746267151">
+        <mark key="^" line="78" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/frontend/Gruntfile.js" timestamp="1506609684580">
         <mark key="[" line="672" column="66" />
         <mark key="]" line="672" column="66" />
@@ -2775,6 +2778,12 @@
         <mark key="^" line="31" column="43" />
         <mark key="." line="26" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/webpack.config.js" timestamp="1519746573815">
+        <mark key="[" line="58" column="36" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="58" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/InvoiceRepository.php" timestamp="1487699094467">
         <mark key="[" line="14" column="44" />
         <mark key="]" line="14" column="42" />
@@ -3823,9 +3832,9 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/wercker.yml" timestamp="1519738789820">
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="14" column="50" />
+      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/wercker.yml" timestamp="1519745992104">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="87" />
         <mark key="." line="14" column="50" />
         <mark key="^" line="14" column="50" />
       </file>
@@ -4078,6 +4087,11 @@
         <mark key="]" line="17" column="51" />
         <mark key="^" line="14" column="26" />
         <mark key="." line="17" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/services/api.js" timestamp="1519746218210">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/projects/test/microservice-test/consumer/consumer1.php" timestamp="1483052398384">
         <mark key="[" line="3" column="0" />
@@ -4360,8 +4374,8 @@
       <jump line="322" column="37" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/AccountDelegationSetup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gbWFlc3Ryb2hlYWx0aGNhcmV0ZWNobm9sb2dpZXMvaW52YWxpZGF0ZS1jbG91ZGZyb250OgogICAgICAgIGtleTogJEFNQVpPTl9LRVkKICAgICAgICBzZWNyZXQ6ICRBTUFaT05fU0VDUkVUX0tFWQogICAgICAgIGRpc3RyaWJ1dGlvbjogJENMT1VERlJPTlRfRElTVFJJQlVUSU9OX0lECiAgICAgICAgcGF0aHM6IC9pbmRleC5odG1sCiAgICAgICAgd2FpdDogdHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>production</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4373,44 +4387,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Setup Account</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMudmFsaWRhdGVGb3JtKGV2ZW50KTsK</text>
+      <register name="0" type="4">
+        <text>process.env.NODE_ENV</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gbWFlc3Ryb2hlYWx0aGNhcmV0ZWNobm9sb2dpZXMvaW52YWxpZGF0ZS1jbG91ZGZyb250OgogICAgICAgIGtleTogJEFNQVpPTl9LRVkKICAgICAgICBzZWNyZXQ6ICRBTUFaT05fU0VDUkVUX0tFWQogICAgICAgIGRpc3RyaWJ1dGlvbjogJENMT1VERlJPTlRfRElTVFJJQlVUSU9OX0lECiAgICAgICAgcGF0aHM6IC9pbmRleC5odG1sCiAgICAgICAgd2FpdDogdHJ1ZQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2VudicsIHByb2Nlc3MuZW52Lk5PREVfRU5WKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgb25CbHVyPXt2YWxpZGF0aW9uSGFuZGxlcn0K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2VudicsIHByb2Nlc3MuZW52Lk5PREVfRU5WKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG9uQmx1cj17dmFsaWRhdGlvbkhhbmRsZXJ9Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvYyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvbkJsdXI9e3ZhbGlkYXRpb25IYW5kbGVyfQo=</text>
+        <text encoding="base64">ICAgIC0gbWFlc3Ryb2hlYWx0aGNhcmV0ZWNobm9sb2dpZXMvaW52YWxpZGF0ZS1jbG91ZGZyb250OgogICAgICAgIGtleTogJEFNQVpPTl9LRVkKICAgICAgICBzZWNyZXQ6ICRBTUFaT05fU0VDUkVUX0tFWQogICAgICAgIGRpc3RyaWJ1dGlvbjogJENMT1VERlJPTlRfRElTVFJJQlVUSU9OX0lECiAgICAgICAgcGF0aHM6IC9pbmRleC5odG1sCiAgICAgICAgd2FpdDogdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBoNHsKICAgIG1hcmdpbjogMTBweCAwOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgb25CbHVyPXt2YWxpZGF0aW9uSGFuZGxlcn0K</text>
       </register>
-      <register name="6" type="4">
-        <text>h4{
-    margin: 10px 0;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIG9uQmx1cj17dmFsaWRhdGlvbkhhbmRsZXJ9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDMwcHggMCAxMXB4Owo=</text>
+        <text encoding="base64">ICAgICAgICBvbkJsdXI9e3ZhbGlkYXRpb25IYW5kbGVyfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMTBweCAwOwo=</text>
+        <text encoding="base64">ICBoNHsKICAgIG1hcmdpbjogMTBweCAwOwogICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMzBweCAwIDExcHg7IAo=</text>
+      <register name="9" type="4">
+        <text>h4{
+    margin: 10px 0;</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
