@@ -284,6 +284,12 @@
         <mark key="^" line="66" column="32" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Event/EventPayloadIdEncoder.php" timestamp="1519929939138">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="34" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/controllers/PlaylistController.php" timestamp="1495187929994">
         <mark key="[" line="30" column="56" />
         <mark key="]" line="30" column="55" />
@@ -1066,7 +1072,7 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519928106128">
+      <file name="/Dummy.txt" timestamp="1519929416791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -1493,11 +1499,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Event/EventPublisher.php" timestamp="1519928317226">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="34" />
-        <mark key="^" line="33" column="34" />
-        <mark key="." line="33" column="34" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Event/EventPublisher.php" timestamp="1519929565312">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="51" column="11" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Query/ShowDevicePassword.php" timestamp="1518555490678">
         <mark key="[" line="23" column="21" />
@@ -1948,6 +1954,9 @@
         <mark key="]" line="44" column="7" />
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Event/EventPayloadHasher.php" timestamp="1519929432763">
+        <mark key="[" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/License/Curator.php" timestamp="1483615730960">
         <mark key="[" line="38" column="0" />
@@ -4349,6 +4358,12 @@
         <mark key="^" line="24" column="23" />
         <mark key="." line="24" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1519929055249">
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="38" column="19" />
+        <mark key="^" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/Handlers/ContractHandler.php" timestamp="1487874197578">
         <mark key="[" line="54" column="108" />
         <mark key="]" line="54" column="128" />
@@ -4507,8 +4522,8 @@
       <jump line="17" column="62" filename="$USER_HOME$/projects/services/AccountCreationDelegation/src/events/EventPublisher.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>idObfuscater</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4520,46 +4535,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>idObfuscater</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aGFzaGVyID0gYXBwKEhhc2hpZHNNYW5hZ2VyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaXNfYXJyYXkoJHZhbHVlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aGFzaGVyID0gYXBwKEhhc2hpZHNNYW5hZ2VyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWUsIHZhbHVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPElucHV0CiAgICAgICAgaWQ9ImxmLWNvdW50cnkiCiAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICBuYW1lPSJjb3VudHJ5IgogICAgICAgIHZhbHVlPXtjb3VudHJ5fQogICAgICAgIG9uQ2hhbmdlPXtjaGFuZ2VIYW5kbGVyfQogICAgICAvPgogICAgPC9GaWVsZCA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR2YWx1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWUsIHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlPSJ0ZXh0Igo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZT17ZW1haWx9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiggISBpc19hcnJheSgkYXJyYXkpKSB7CgogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0VmFsdWU9e2NvdW50cnl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPElucHV0CiAgICAgICAgaWQ9ImxmLWNvdW50cnkiCiAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICBuYW1lPSJjb3VudHJ5IgogICAgICAgIHZhbHVlPXtjb3VudHJ5fQogICAgICAgIG9uQ2hhbmdlPXtjaGFuZ2VIYW5kbGVyfQogICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiggISBpc19hcnJheSgkYXJyYXkpKSB7CgogICAgICAgIH0KICAgICAgICBmb3JlYWNoKCRhcnJheSBhcyAka2V5PT4kdmFsdWUpCiAgICAgICAgewogICAgICAgICAgICBpZihpc19hcnJheSgkdmFsdWUpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0cmF2ZXJzZUFycmF5KCR2YWx1ZSk7CiAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgZWNobyAka2V5LiIgPSAiLiR2YWx1ZS4iPGJyIC8+XG4iOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZ3JvdXBJZAo=</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -4613,8 +4628,8 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
