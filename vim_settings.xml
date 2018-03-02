@@ -529,7 +529,7 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1519905646788">
+      <file name="/GraphQL.result.json" timestamp="1519981205462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/mitsubishi/views/playlist-info.html" timestamp="1505469426547">
@@ -1065,7 +1065,7 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519941332166">
+      <file name="/Dummy.txt" timestamp="1519981247904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -4119,11 +4119,11 @@
         <mark key="^" line="28" column="47" />
         <mark key="." line="28" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/AccountDelegationSetup.js" timestamp="1519936887748">
-        <mark key="[" line="547" column="0" />
-        <mark key="]" line="547" column="27" />
-        <mark key="." line="547" column="0" />
-        <mark key="^" line="515" column="26" />
+      <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/AccountDelegationSetup.js" timestamp="1519981240362">
+        <mark key="[" line="399" column="0" />
+        <mark key="]" line="399" column="0" />
+        <mark key="." line="399" column="0" />
+        <mark key="^" line="514" column="26" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/TestHoi.php" timestamp="1483717198461">
         <mark key="[" line="4" column="1" />
@@ -4493,8 +4493,8 @@
       <jump line="98" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWUsIHZhbHVlKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4514,39 +4514,39 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcmVxdWVzdFByb21pc2UgPSByZXF1aXJlKCdyZXF1ZXN0LXByb21pc2UtbmF0aXZlJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWUsIHZhbHVlKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICB7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
       resp.id = hashids.encode(resp.id);
       resp.preview = `${apiUrl}preview?hash=${encrypt(resp.preview)}`;
       return resp;
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgaWQ6IGhhc2hpZHMuZW5jb2RlKGhpdC5pZCksCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhpdCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGl0JywgaGl0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhpdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
