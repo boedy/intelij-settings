@@ -170,11 +170,11 @@
         <mark key="." line="48" column="32" />
         <mark key="^" line="48" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/DTO/LocationDTO.php" timestamp="1519998927602">
-        <mark key="[" line="57" column="27" />
-        <mark key="]" line="57" column="28" />
-        <mark key="." line="57" column="28" />
-        <mark key="^" line="57" column="28" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/DTO/LocationDTO.php" timestamp="1520259581224">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20180213202209.php" timestamp="1518553426841">
         <mark key="[" line="26" column="60" />
@@ -1565,11 +1565,11 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Organisation/Command/AddNewLocationToOrganisation.php" timestamp="1519815877295">
-        <mark key="[" line="40" column="36" />
-        <mark key="]" line="40" column="36" />
-        <mark key="." line="40" column="36" />
-        <mark key="^" line="40" column="36" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Organisation/Command/AddNewLocationToOrganisation.php" timestamp="1520259536025">
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="43" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="49" column="43" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/config.xml" timestamp="1481813686694">
         <mark key="[" line="90" column="0" />
@@ -4521,7 +4521,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Address</text>
+        <text>PhoneNr</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4533,43 +4533,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Address</text>
+        <text>PhoneNr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxFbWJlZGRlZChjbGFzcz0iQXBwXERvbWFpblxWYWx1ZU9iamVjdFxBZGRyZXNzXEFkZHJlc3MiKQogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEtPmdldEFkZHJlc3NMaW5lMSgpLAogICAgICAgICAgICAkZGF0YS0+Z2V0QWRkcmVzc0xpbmUyKCksCiAgICAgICAgICAgICRkYXRhLT5nZXRQb3N0YWxDb2RlKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxDb2x1bW4odHlwZT0ic3RyaW5nIiwgbnVsbGFibGU9dHJ1ZSkKICAgICAqLwogICAgcHJpdmF0ZSAkcm9sZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxDb2x1bW4odHlwZT0ic3RyaW5nIiwgbnVsbGFibGU9dHJ1ZSkKICAgICAqLwogICAgcHJpdmF0ZSAkcm9sZTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbWFuYWdlck5hbWU7CiAgICAKICAgIHByb3RlY3RlZCAkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
