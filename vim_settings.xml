@@ -140,6 +140,12 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/Address/Contact.php" timestamp="1520258866618">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Middleware/Pincode.php" timestamp="1502442890855">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1058,7 +1064,7 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520001221647">
+      <file name="/Dummy.txt" timestamp="1520258905863">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -1443,6 +1449,13 @@
         <mark key="]" line="15" column="49" />
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/Contact.php" timestamp="1520259226940">
+        <mark key="'" line="35" column="60" />
+        <mark key="[" line="35" column="73" />
+        <mark key="]" line="35" column="79" />
+        <mark key="." line="35" column="79" />
+        <mark key="^" line="35" column="79" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1508424428033">
         <mark key="[" line="77" column="0" />
@@ -1841,9 +1854,9 @@
         <mark key="^" line="17" column="54" />
         <mark key="." line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/Address/Address.php" timestamp="1511720905502">
-        <mark key="[" line="93" column="32" />
-        <mark key="]" line="93" column="32" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/Address/Address.php" timestamp="1520259029660">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="6" />
         <mark key="." line="93" column="32" />
         <mark key="^" line="93" column="44" />
       </file>
@@ -2835,10 +2848,11 @@
         <mark key="." line="111" column="1" />
         <mark key="^" line="111" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1520258050101">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1520259268179">
+        <mark key="[" line="57" column="51" />
+        <mark key="]" line="57" column="57" />
+        <mark key="." line="57" column="57" />
+        <mark key="^" line="57" column="57" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/database/ElasticSearch.php" timestamp="1495030674937">
         <mark key="[" line="143" column="18" />
@@ -3386,7 +3400,6 @@
         <mark key="^" line="59" column="34" />
         <mark key="." line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1519982812578" />
       <file name="$USER_HOME$/projects/kollekt/backend/wercker.yml" timestamp="1487597819832">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="38" />
@@ -4405,7 +4418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" />
       <jump line="159" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" />
       <jump line="171" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" />
       <jump line="68" column="8" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
@@ -4505,10 +4517,11 @@
       <jump line="80" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" />
       <jump line="98" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" />
+      <jump line="35" column="60" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/Contact.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbWFuYWdlck5hbWU7CiAgICAKICAgIHByb3RlY3RlZCAkCg==</text>
+      <register name="&quot;" type="4">
+        <text>Address</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4520,16 +4533,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPg==</text>
+        <text>Address</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JGVtYWlsICYmIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxFbWJlZGRlZChjbGFzcz0iQXBwXERvbWFpblxWYWx1ZU9iamVjdFxBZGRyZXNzXEFkZHJlc3MiKQogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbWFuYWdlck5hbWU7CiAgICAKICAgIHByb3RlY3RlZCAkCg==</text>
+        <text encoding="base64">ICAgIAogICAgCgo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
@@ -4538,28 +4551,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbWFuYWdlcjsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxDb2x1bW4odHlwZT0ic3RyaW5nIiwgbnVsbGFibGU9dHJ1ZSkKICAgICAqLwogICAgcHJpdmF0ZSAkcm9sZTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbWFuYWdlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFjY291bnREZWxlZ2F0aW9uLmNyZWRlbnRpYWxzID0gY3JlZGVudGlhbHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhY2NvdW50RGVsZWdhdGlvbjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhY2NvdW50RGVsZWdhdGlvbjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAobG9hZGluZykgcmV0dXJuIDxXcmFwcGVyPkxvYWRpbmcuLjwvV3JhcHBlcj47Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbWFuYWdlck5hbWU7CiAgICAKICAgIHByb3RlY3RlZCAkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -4611,10 +4624,10 @@
         <entry>x</entry>
         <entry>e docker-compose.override.yml</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>w</entry>
         <entry>vsp</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
