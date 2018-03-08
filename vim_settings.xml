@@ -1070,7 +1070,7 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520431696753">
+      <file name="/Dummy.txt" timestamp="1520504881923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
@@ -3086,6 +3086,11 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/UriSigner.php" timestamp="1520505023017">
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="41" column="9" />
+        <mark key="." line="41" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Console/Kernel.php" timestamp="1511349972930">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="7" />
@@ -3140,11 +3145,11 @@
         <mark key="." line="59" column="23" />
         <mark key="^" line="64" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1519982835228">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="31" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1520504754113">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="19" />
+        <mark key="^" line="39" column="18" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/Common/CountryDropdown.js" timestamp="1518951966188">
         <mark key="[" line="36" column="15" />
@@ -4425,9 +4430,9 @@
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" timestamp="1520503422920">
         <mark key="[" line="20" column="36" />
-        <mark key="]" line="29" column="57" />
-        <mark key="." line="29" column="57" />
-        <mark key="^" line="29" column="57" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="57" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/config/database.php" timestamp="1483453913645">
         <mark key="[" line="60" column="46" />
@@ -4539,8 +4544,8 @@
       <jump line="35" column="60" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/Contact.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxBcHBcRG9tYWluXFZhbHVlT2JqZWN0XEVtYWlsQWRkcmVzcygnY29udGFjdEBkYW5pZWx6dXVyLmNvbScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4552,13 +4557,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYCR7YmFzZUNtZH0gJHtiYWNrdXBDbWR9YCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdXNlcjogJzMzOjMzJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFxBcHBcRG9tYWluXFZhbHVlT2JqZWN0XEVtYWlsQWRkcmVzcygnY29udGFjdEBkYW5pZWx6dXVyLmNvbScpOwo=</text>
