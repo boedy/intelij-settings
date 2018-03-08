@@ -1070,9 +1070,6 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520504881923">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="8" />
@@ -1823,6 +1820,12 @@
         <mark key="^" line="14" column="87" />
         <mark key="." line="14" column="87" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/jobs/supervisord.conf" timestamp="1520511367766">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="6" />
+        <mark key="." line="24" column="6" />
+        <mark key="^" line="24" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/UserNotification.php" timestamp="1498147250297">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="12" />
@@ -2262,11 +2265,11 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" timestamp="1519941311518">
-        <mark key="[" line="72" column="7" />
-        <mark key="]" line="72" column="8" />
-        <mark key="^" line="72" column="8" />
-        <mark key="." line="72" column="8" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" timestamp="1520511172770">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="71" column="24" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Domain/Customer/CustomerEsRepository.php" timestamp="1485859656755">
         <mark key="[" line="13" column="0" />
@@ -2542,10 +2545,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/deezer/deezer-api-new.js" timestamp="1520509977682">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/deezer/deezer-api-new.js" timestamp="1520511035630">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="47" column="36" />
+        <mark key="." line="47" column="36" />
+        <mark key="^" line="47" column="36" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1519373945541">
         <mark key="[" line="0" column="0" />
@@ -3143,10 +3147,10 @@
         <mark key="." line="59" column="23" />
         <mark key="^" line="64" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1520504754113">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="19" />
-        <mark key="^" line="39" column="18" />
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1520512191449">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="38" column="18" />
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/Common/CountryDropdown.js" timestamp="1518951966188">
@@ -3491,6 +3495,12 @@
         <mark key="]" line="14" column="2" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="36" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/jobs/Dockerfile" timestamp="1520511754318">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/events/BillingDetailsRegistered.js" timestamp="1519902758528">
         <mark key="[" line="1" column="22" />
@@ -4542,8 +4552,8 @@
       <jump line="35" column="60" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/Contact.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGV0IHRva2VuID0gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4555,7 +4565,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
@@ -4564,34 +4574,34 @@
         <text>httpHeaders</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IHRva2VuID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgdXNlcjogJzMzOjMzJwo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIC50aGVuKCh0b2tlbikgPT4gcmVxdWVzdC5wb3N0KHt1cmw6IGZvcm1hdCgnaHR0cDovL3d3dy5kZWV6ZXIuY29tL3RyYWNrLyVkJywgaWQpLCBxczogeyBhcGlfdmVyc2lvbjogJzEuMCcsIGFwaV90b2tlbjogdG9rZW4sIGlucHV0OiAnMycgfSwgaGVhZGVyczogdGhpcy5odHRwSGVhZGVyc30pCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhoaXQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdyUGN2TXlWVEJTV1hqUVRXTUtHVFotbi1semVNQVBKMycK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coaHRtbFN0cmluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuICdyUGN2TXlWVEJTV1hqUVRXTUtHVFotbi1semVNQVBKMycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHJhY2tJbmZvcyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgZm9ybWF0ID0gcmVxdWlyZSgndXRpbCcpLmZvcm1hdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICcyMzQnOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGVwMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLmNhdGNoKGUgPT4gY29uc29sZS5sb2coZSkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFBMQVlFUl9JTklUID0gaHRtbFN0cmluZy5tYXRjaCgvdHJhY2s6ICh7Lit9KSwvKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYm9keSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
