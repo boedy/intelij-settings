@@ -341,12 +341,13 @@
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/services/mariabackup/index.js" timestamp="1520526558608">
-        <mark key="k" line="30" column="24" />
-        <mark key="[" line="38" column="45" />
-        <mark key="]" line="38" column="45" />
-        <mark key="^" line="38" column="45" />
-        <mark key="." line="38" column="45" />
+      <file name="$USER_HOME$/projects/services/mariabackup/index.js" timestamp="1520535295122">
+        <mark key="'" line="74" column="11" />
+        <mark key="k" line="39" column="24" />
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="60" column="26" />
+        <mark key="." line="60" column="26" />
+        <mark key="^" line="60" column="30" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/AccountDelegation.js" timestamp="1519753414065">
         <mark key="[" line="7" column="36" />
@@ -2242,6 +2243,12 @@
         <mark key="]" line="20" column="31" />
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/services/mariabackup/src/MariaDB.js" timestamp="1520535460737">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+        <mark key="^" line="20" column="30" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/EventSourcedEntity.php" timestamp="1486401863584">
         <mark key="[" line="7" column="33" />
@@ -4436,7 +4443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" />
       <jump line="171" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" />
       <jump line="68" column="8" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="76" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
@@ -4536,10 +4542,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" />
       <jump line="98" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" />
       <jump line="35" column="60" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/Contact.php" />
+      <jump line="64" column="11" filename="$USER_HOME$/projects/services/mariabackup/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.toString();</text>
+        <text>apply increment</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4551,52 +4558,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.toString();</text>
+        <text>apply increment</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdWJsaWNcPg==</text>
+        <text encoding="base64">XDx0aGVuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oYmFja3VwQ29tcGxldGVkKTsK</text>
+        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKGNvbW1hbmQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob2JqKTsK</text>
+        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdybSAtcmYgLi9pbmNyZW1lbnQnKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHRpbWUgPSBtb21lbnQoKS5mb3JtYXQoJ1lZWVlNTUREVEhIbW1zcycpOwo=</text>
+        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdybSAtcmYgLi9pbmNyZW1lbnQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0aW1lID0gbW9tZW50KCkuZm9ybWF0KCdZWVlZTU1ERFRISG1tc3MnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHRpbWUgPSBtb21lbnQoKS5mb3JtYXQoJ1lZWVlNTUREVEhIbW1zcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgczMucHVsbERpcih2YWwsICdpbmNyZW1lbnQnKS50aGVuKG1hcmlhREIuYXBwbHlJbmNyZW1lbnQpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICAgICAgICAgICAgY2hpbGRfcHJvY2Vzcy5leGVjU3luYygncm0gLXJmIGJhY2t1cC1wcmV2aW91cycpOwogICAgICAgICAgICAgICAgICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdtdiBiYWNrdXAgYmFja3VwLXByZXZpb3VzJyk7CiAgICAgICAgICAgICAgICB9KTsK</text>
+      <register name="5" type="4">
+        <text>)
+
+          forEachPromise(objects,</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdybSAtcmYgLi9pbmNyZW1lbnQnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdybSAtcmYgYmFja3VwLXByZXZpb3VzJyk7CiAgICAgICAgICAgICAgY2hpbGRfcHJvY2Vzcy5leGVjU3luYygnbXYgYmFja3VwIGJhY2t1cC1wcmV2aW91cycpOwo=</text>
+        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdybSAtcmYgLi9pbmNyZW1lbnQnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0cy5mb3JFYWNoKHZhbCA9PiB7CiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdWJsaWNcPg==</last-search>
+      <last-search encoding="base64">XDx0aGVuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdWJsaWNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0aGVuXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
       <last-dir>-1</last-dir>
@@ -4604,7 +4613,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb25leUJpcmRTYWxlc0ludm9pY2VcPg==</entry>
         <entry encoding="base64">XDw+XD4=</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
@@ -4624,6 +4632,7 @@
         <entry encoding="base64">XDxwb2xhcm9pZFw+</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry encoding="base64">XDx0aGVuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action SplitHorizontally</entry>
