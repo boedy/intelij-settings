@@ -341,11 +341,11 @@
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/services/mariabackup/index.js" timestamp="1520608762032">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="12" />
-        <mark key="." line="24" column="28" />
-        <mark key="^" line="26" column="44" />
+      <file name="$USER_HOME$/projects/services/mariabackup/index.js" timestamp="1520613138060">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/AccountDelegation.js" timestamp="1519753414065">
         <mark key="[" line="7" column="36" />
@@ -1034,11 +1034,11 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/services/mariabackup/docker-entrypoint.sh" timestamp="1520601056796">
-        <mark key="[" line="26" column="69" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/services/mariabackup/docker-entrypoint.sh" timestamp="1520610528101">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="17" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/User/UserRepository.php" timestamp="1479919700059">
         <mark key="[" line="22" column="15" />
@@ -2017,11 +2017,10 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/services/mariabackup/Dockerfile" timestamp="1520595168139">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/projects/services/mariabackup/Dockerfile" timestamp="1520613159736">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/config/auth.php" timestamp="1511387155882">
         <mark key="[" line="58" column="40" />
@@ -2307,6 +2306,12 @@
         <mark key="^" line="35" column="34" />
         <mark key="." line="35" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/services/mariabackup/db-backup.cron" timestamp="1520612798456">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/CreateUserCommand.php" timestamp="1485990882229">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="10" column="3" />
@@ -2497,12 +2502,12 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/services/mariabackup/src/MariaBackup.js" timestamp="1520608802456">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="59" column="2" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="8" />
-        <mark key="^" line="59" column="8" />
+      <file name="$USER_HOME$/projects/services/mariabackup/src/MariaBackup.js" timestamp="1520615005691">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="22" column="64" />
+        <mark key="." line="22" column="64" />
+        <mark key="^" line="22" column="64" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Location/Location.php" timestamp="1510917172133">
         <mark key="[" line="24" column="12" />
@@ -3865,11 +3870,11 @@
         <mark key="^" line="16" column="40" />
         <mark key="." line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/services/mariabackup/src/S3.js" timestamp="1520604413944">
-        <mark key="[" line="59" column="33" />
-        <mark key="]" line="59" column="33" />
-        <mark key="^" line="59" column="36" />
-        <mark key="." line="59" column="33" />
+      <file name="$USER_HOME$/projects/services/mariabackup/src/S3.js" timestamp="1520614303884">
+        <mark key="[" line="108" column="22" />
+        <mark key="]" line="108" column="40" />
+        <mark key="^" line="108" column="40" />
+        <mark key="." line="108" column="40" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/deezersync/index.js" timestamp="1505401685877">
         <mark key="[" line="332" column="0" />
@@ -4569,7 +4574,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KCkgPT4g</text>
+        <text>/backup-previous</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4581,43 +4586,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCkgPT4g</text>
+        <text>/backup-previous</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGVuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKGNvbW1hbmQpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZG9uZSEnKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm47CiAgLy8gY2hpbGRfcHJvY2Vzcy5leGVjU3luYygncm0gLXJmIC92YXIvbGliL215c3FsJyk7CiAgY29uc3QgYmFzZUNtZCA9IGBtYXJpYWJhY2t1cCAtLWhvc3QgZGF0YWJhc2UgLS11c2VyIHJvb3QgLS1wYXNzd29yZCByb290YDsKICBjb25zdCByZXN0b3JlQ21kID0gYC0tY29weS1iYWNrIC0tZGF0YWRpciAvbXlzcWwtYmFja3VwIC0tdGFyZ2V0LWRpciAuL2JhY2t1cC1yZXN0b3JlYDsKICBjb25zdCBjb21tYW5kID0gYCR7YmFzZUNtZH0gJHtyZXN0b3JlQ21kfWA7CiAgY2hpbGRfcHJvY2Vzcy5leGVjU3luYyhjb21tYW5kKTsKICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdybSAtcmYgLi9iYWNrdXAtcmVzdG9yZScpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZG9uZSEnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnIGRhdGFiYXNlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VwbG9hZGluZycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVqZWN0KGVycik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdjaG93biAtUiBteXNxbDpteXNxbCAvbXlzcWwtYmFja3VwJyk7Cg==</text>
+        <text encoding="base64">CiNDTUQgInJlc3RvcmUuc2ggJiYgbHMiCiNDTUQgWyJzaCIsIi1jIiwicmVzdG9yZS5zaCAmJiBkb2NrZXItZW50cnlwb2ludC5zaCAmJiBteXNxbGQiXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdjaG93biAtUiBteXNxbDpteXNxbCAvbXlzcWwtYmFja3VwJyk7Cg==</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGxuIC1zIC9hcHAvaW5kZXguanMgL3Vzci9sb2NhbC9iaW4vYmFja3VwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcHJlcGFyZUJhY2t1cCA9IChwYXJ0TmFtZSkgPT4gewogIHJldHVybiBwYXJ0TmFtZS5pbmRleE9mKCctYmFzZScpICE9PSAtMQogICAgPyBwcmVwYXJlUmVzdG9yZUJhc2UoKQogICAgOiBhcHBseUluY3JlbWVudCgpOwp9Cg==</text>
+        <text encoding="base64">UlVOIGxuIC1zIC9hcHAvaW5kZXguanMgL3Vzci9sb2NhbC9iaW4vYmFja3VwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmVwYXJlUmVzdG9yZUJhc2UsCiAgYXBwbHlJbmNyZW1lbnQsCg==</text>
+        <text encoding="base64">UlVOIGxuIC1zIC9hcHAvaW5kZXguanMgL3Vzci9sb2NhbC9iaW4vYmFja3VwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

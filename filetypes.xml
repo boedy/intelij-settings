@@ -3,14 +3,16 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="test" type="PHP" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern="EventPublisher" type="PLAIN_TEXT" />
       <mapping pattern="1-0-0" type="PLAIN_TEXT" />
-      <mapping pattern=".env-werker" type="PLAIN_TEXT" />
-      <mapping pattern=".env-wercker" type="PLAIN_TEXT" />
-      <mapping pattern=".env.wercker" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="db-backup" type="PLAIN_TEXT" />
+      <mapping pattern=".env.wercker" type="PLAIN_TEXT" />
+      <mapping pattern="EventPublisher" type="PLAIN_TEXT" />
+      <mapping pattern=".env-wercker" type="PLAIN_TEXT" />
+      <mapping pattern=".env-werker" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping ext="cron" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="liq" type="PLAIN_TEXT" />
