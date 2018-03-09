@@ -341,11 +341,11 @@
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/services/mariabackup/index.js" timestamp="1520613138060">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="15" />
+      <file name="$USER_HOME$/projects/services/mariabackup/index.js" timestamp="1520615953030">
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="44" />
+        <mark key="." line="27" column="44" />
+        <mark key="^" line="27" column="44" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/AccountDelegation.js" timestamp="1519753414065">
         <mark key="[" line="7" column="36" />
@@ -4574,7 +4574,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/backup-previous</text>
+        <text>time</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4586,13 +4586,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/backup-previous</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGVuXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+      <register name="0" type="4">
+        <text>moment(time)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygnZG9uZSEnKTsK</text>
