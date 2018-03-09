@@ -341,13 +341,11 @@
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/services/mariabackup/index.js" timestamp="1520601990624">
-        <mark key="'" line="65" column="11" />
-        <mark key="k" line="32" column="24" />
-        <mark key="[" line="64" column="26" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="27" column="31" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/projects/services/mariabackup/index.js" timestamp="1520608762032">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="26" column="44" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/AccountDelegation.js" timestamp="1519753414065">
         <mark key="[" line="7" column="36" />
@@ -2499,6 +2497,13 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/services/mariabackup/src/MariaBackup.js" timestamp="1520608802456">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="59" column="2" />
+        <mark key="]" line="59" column="8" />
+        <mark key="." line="59" column="8" />
+        <mark key="^" line="59" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Location/Location.php" timestamp="1510917172133">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="25" column="28" />
@@ -4461,8 +4466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" />
-      <jump line="68" column="8" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="76" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="120" column="23" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" />
       <jump line="59" column="2" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
@@ -4561,10 +4564,12 @@
       <jump line="98" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/search/deezer.js" />
       <jump line="35" column="60" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/Contact.php" />
       <jump line="64" column="11" filename="$USER_HOME$/projects/services/mariabackup/index.js" />
+      <jump line="0" column="20" filename="$USER_HOME$/projects/services/mariabackup/src/MariaBackup.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/projects/services/mariabackup/src/MariaBackup.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICYmIGRvd25sb2FkZXIucHJvZ3Jlc3NBbW91bnQlMTAwID09IDA=</text>
+        <text encoding="base64">KCkgPT4g</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4576,48 +4581,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIGRvd25sb2FkZXIucHJvZ3Jlc3NBbW91bnQlMTAwID09IDA=</text>
+        <text encoding="base64">KCkgPT4g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGVuXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>downloader.progressAmount</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKGNvbW1hbmQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhkb3dubG9hZGVyLnByb2dyZXNzQW1vdW50L2Rvd25sb2FkZXIucHJvZ3Jlc3NUb3RhbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwYXJzZUludChkb3dubG9hZGVyLnByb2dyZXNzQW1vdW50L2Rvd25sb2FkZXIucHJvZ3Jlc3NUb3RhbCoxMDApKTsK</text>
+        <text encoding="base64">ICByZXR1cm47CiAgLy8gY2hpbGRfcHJvY2Vzcy5leGVjU3luYygncm0gLXJmIC92YXIvbGliL215c3FsJyk7CiAgY29uc3QgYmFzZUNtZCA9IGBtYXJpYWJhY2t1cCAtLWhvc3QgZGF0YWJhc2UgLS11c2VyIHJvb3QgLS1wYXNzd29yZCByb290YDsKICBjb25zdCByZXN0b3JlQ21kID0gYC0tY29weS1iYWNrIC0tZGF0YWRpciAvbXlzcWwtYmFja3VwIC0tdGFyZ2V0LWRpciAuL2JhY2t1cC1yZXN0b3JlYDsKICBjb25zdCBjb21tYW5kID0gYCR7YmFzZUNtZH0gJHtyZXN0b3JlQ21kfWA7CiAgY2hpbGRfcHJvY2Vzcy5leGVjU3luYyhjb21tYW5kKTsKICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdybSAtcmYgLi9iYWNrdXAtcmVzdG9yZScpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>new ProgressBar('  downloading [:bar] :rate/bps :percent :etas', {
-      complete: '=',
-      incomplete: ' ',
-      width: 20,
-      total: 100
-    });</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnIGRhdGFiYXNlJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwYXJzZUludChkb3dubG9hZGVyLnByb2dyZXNzQW1vdW50L2Rvd25sb2FkZXIucHJvZ3Jlc3NUb3RhbCoxMDApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdjaG93biAtUiBteXNxbDpteXNxbCAvbXlzcWwtYmFja3VwJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdjaG93biAtUiBteXNxbDpteXNxbCAvbXlzcWwtYmFja3VwJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coL2Rvd25sb2FkZXIucHJvZ3Jlc3NUb3RhbCoxMDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjaGlsZF9wcm9jZXNzLmV4ZWNTeW5jKCdybSAtcmYgLi9teXNxbC1iYWNrdXAnKTsK</text>
+        <text encoding="base64">Y29uc3QgcHJlcGFyZUJhY2t1cCA9IChwYXJ0TmFtZSkgPT4gewogIHJldHVybiBwYXJ0TmFtZS5pbmRleE9mKCctYmFzZScpICE9PSAtMQogICAgPyBwcmVwYXJlUmVzdG9yZUJhc2UoKQogICAgOiBhcHBseUluY3JlbWVudCgpOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmVwYXJlUmVzdG9yZUJhc2UsCiAgYXBwbHlJbmNyZW1lbnQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
