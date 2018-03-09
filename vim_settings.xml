@@ -341,12 +341,12 @@
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/services/mariabackup/index.js" timestamp="1520628606025">
+      <file name="$USER_HOME$/projects/services/mariabackup/index.js" timestamp="1520633362529">
         <mark key="'" line="17" column="17" />
-        <mark key="[" line="8" column="58" />
-        <mark key="]" line="8" column="58" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
         <mark key="^" line="9" column="1" />
-        <mark key="." line="8" column="58" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/models/AccountDelegation.js" timestamp="1519753414065">
         <mark key="[" line="7" column="36" />
@@ -3868,11 +3868,11 @@
         <mark key="^" line="19" column="47" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/services/mariabackup/src/ps.js" timestamp="1520628842173">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="28" />
+      <file name="$USER_HOME$/projects/services/mariabackup/src/ps.js" timestamp="1520633201036">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="41" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Providers/AppServiceProvider.php" timestamp="1502354420624">
         <mark key="[" line="15" column="5" />
@@ -4583,8 +4583,8 @@
       <jump line="15" column="17" filename="$USER_HOME$/projects/services/mariabackup/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.pid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4596,43 +4596,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.pid</text>
+        <text>s3.list(database + '/')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGVuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGUgPT4gY29uc29sZS5sb2coJ2JhY2t1cCBpbiBwcm9ncmVzcy4gUGxlYXNlIHRyeSBhZ2FpbiBsYXRlcicsIHByb2Nlc3MuZXhpdCgpKSkK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gczMubGlzdChkYXRhYmFzZSArICcvJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGUgPT4gY29uc29sZS5sb2coJ2JhY2t1cCBpbnByb2dyZXNzJykpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3J1bm5pbmcnLCBpc1J1bm5pbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3Rkb3V0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVzb2x2ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3Rkb3V0LnRvTG93ZXJDYXNlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY2hpbGRfcHJvY2VzcyA9IHJlcXVpcmUoJ2NoaWxkX3Byb2Nlc3MnKTsK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGUgPT4gY29uc29sZS5sb2coJ2JhY2t1cCBpbnByb2dyZXNzJykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb2MgPSBwbGF0ID09ICd3aW4zMicgPyB3aW4gOiAocGxhdCA9PSAnZGFyd2luJyA/IG1hYyA6IChwbGF0ID09ICdsaW51eCcgPyBsaW51eCA6ICcnKSkKICAgIGlmKGNtZCA9PT0gJycgfHwgcHJvYyA9PT0gJycpewogICAgICByZXNvbHZlKGZhbHNlKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3J1bm5pbmcnLCBpc1J1bm5pbmcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYXQgPSBwcm9jZXNzLnBsYXRmb3JtCg==</text>
+        <text encoding="base64">ICAgICAgcmVzb2x2ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aXNSdW5uaW5nKCdteXByb2Nlc3MuZXhlJywgJ215cHJvY2VzcycsICdteXByb2Nlc3MnKS50aGVuKCh2KSA9PiBjb25zb2xlLmxvZyh2KSkK</text>
+        <text encoding="base64">Y29uc3QgY2hpbGRfcHJvY2VzcyA9IHJlcXVpcmUoJ2NoaWxkX3Byb2Nlc3MnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZG9uZSEnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb2MgPSBwbGF0ID09ICd3aW4zMicgPyB3aW4gOiAocGxhdCA9PSAnZGFyd2luJyA/IG1hYyA6IChwbGF0ID09ICdsaW51eCcgPyBsaW51eCA6ICcnKSkKICAgIGlmKGNtZCA9PT0gJycgfHwgcHJvYyA9PT0gJycpewogICAgICByZXNvbHZlKGZhbHNlKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZG9uZSEnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBsYXQgPSBwcm9jZXNzLnBsYXRmb3JtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
