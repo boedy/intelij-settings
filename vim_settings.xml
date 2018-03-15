@@ -1328,6 +1328,13 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="52" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/services/mariabackup/src/MariaBackup.js" timestamp="1520707963470">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="68" column="17" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/background.js" timestamp="1508425836132">
         <mark key="[" line="2" column="42" />
         <mark key="]" line="4" column="0" />
@@ -2422,12 +2429,12 @@
         <mark key="." line="41" column="43" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/services/asana-tracking/src/LocationLifeCycle.js" timestamp="1521122853442">
-        <mark key="'" line="70" column="1" />
-        <mark key="[" line="56" column="60" />
-        <mark key="]" line="54" column="1" />
-        <mark key="." line="54" column="1" />
-        <mark key="^" line="54" column="1" />
+      <file name="$USER_HOME$/projects/services/asana-tracking/src/LocationLifeCycle.js" timestamp="1521124449410">
+        <mark key="'" line="75" column="1" />
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="^" line="32" column="17" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Http/Controllers/Controller.php" timestamp="1474547198822">
         <mark key="[" line="51" column="24" />
@@ -2809,11 +2816,11 @@
         <mark key="^" line="210" column="37" />
         <mark key="." line="210" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/services/asana-tracking/src/listen.js" timestamp="1521122160620">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="56" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="8" column="61" />
+      <file name="$USER_HOME$/projects/services/asana-tracking/src/listen.js" timestamp="1521123798961">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/tests/Functional/NotificationServiceTest.php" timestamp="1511963920174">
         <mark key="[" line="7" column="24" />
@@ -2967,11 +2974,11 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/services/asana-tracking/src/logger.js" timestamp="1521113432629">
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="17" column="61" />
-        <mark key="^" line="17" column="61" />
-        <mark key="." line="17" column="61" />
+      <file name="$USER_HOME$/projects/services/asana-tracking/src/logger.js" timestamp="1521123989114">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+        <mark key="." line="11" column="38" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/bindings/bindings.js" timestamp="1489926503665">
         <mark key="[" line="112" column="29" />
@@ -3266,13 +3273,6 @@
         <mark key="]" line="24" column="6" />
         <mark key="." line="24" column="6" />
         <mark key="^" line="24" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/docker/images/mariabackup/docker-entrypoint.sh" timestamp="1520888258958">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="22" column="18" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/tests/Application/EventPayloadIdEncoderTest.php" timestamp="1519934325316">
         <mark key="[" line="7" column="22" />
@@ -4737,7 +4737,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBbZXJyLCBhc2FuYVRhc2tdID0gYXdhaXQgdG8oY2xpZW50LnRhc2tzLmZpbmRCeUlkKHRhc2sudGFza0lkKSk7CiAgaWYgKGVycikgdGhyb3cgbmV3IEVycm9yKGB0YXNrOiR7dGFzay50YXNrSWR9IG5vdCBmb3VuZGApOwo=</text>
+        <text encoding="base64">ICBbZXJyLCBhc2FuYVRhc2tdID0gYXdhaXQgdG8oY2xpZW50LnRhc2tzLmZpbmRCeUlkKHRhc2tJZCkpOwogIGlmIChlcnIpIHRocm93IG5ldyBFcnJvcihgdGFzazoke3Rhc2tJZH0gbm90IGZvdW5kYCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4749,43 +4749,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRocm93IG5ldyBFcnJvcignSW52YWxpZCBBc2FuYSB0YXNrJyk7</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGVuXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBbZXJyLCBhc2FuYVRhc2tdID0gYXdhaXQgdG8oY2xpZW50LnRhc2tzLmZpbmRCeUlkKHRhc2sudGFza0lkKSk7CiAgaWYgKGVycikgdGhyb3cgbmV3IEVycm9yKGB0YXNrOiR7dGFzay50YXNrSWR9IG5vdCBmb3VuZGApOwo=</text>
+      <register name="0" type="4">
+        <text>projects.indexOf(projectMapping[project])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICBbZXJyLCBhc2FuYVRhc2tdID0gYXdhaXQgdG8oY2xpZW50LnRhc2tzLmZpbmRCeUlkKHRhc2tJZCkpOwogIGlmIChlcnIpIHRocm93IG5ldyBFcnJvcihgdGFzazoke3Rhc2tJZH0gbm90IGZvdW5kYCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52LkFTQU5BX1RPS0VOKTsK</text>
+        <text encoding="base64">ICBsZXQgZXJyLCBhc2FuYVRhc2s7CiAgW2VyciwgYXNhbmFUYXNrXSA9IGF3YWl0IHRvKGNsaWVudC50YXNrcy5maW5kQnlJZCh0YXNrSWQpKTsKICBpZiAoZXJyKSB0aHJvdyBuZXcgRXJyb3IoYHRhc2s6JHt0YXNrSWR9IG5vdCBmb3VuZGApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2NhdGlvbklkKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2plY3RzLCBwcm9qZWN0TWFwcGluZ1twcm9qZWN0XSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB7ZXZlbnROYW1lLCBwYXlsb2FkfSA9IGV2ZW50LnZhbHVlOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9qZWN0cywgcHJvamVjdE1hcHBpbmdbcHJvamVjdF0sIHByb2plY3RzLmluZGV4T2YocHJvamVjdE1hcHBpbmdbcHJvamVjdF0pKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnQudmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbG9jYXRpb25MaWZlQ3ljbGUK</text>
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnQudmFsdWUuZXZlbnROYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC52YWx1ZS5ldmVudE5hbWUpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBbZXJyXSA9IGF3YWl0IHRvKGNsaWVudC50YXNrcy5hZGRQcm9qZWN0KHRhc2sudGFza0lkLCB7IHByb2plY3Q6IHByb2plY3RNYXBwaW5nLmNsaWVudFJvbGxPdXQgfSkpOwogIGlmIChlcnIpIHRocm93IG5ldyBFcnJvcihgdGFzazoke3Rhc2sudGFza0lkfSBub3QgZm91bmRgKTsKCiAgbG9nZ2VyLmluZm8oYE1vdmVkIExvY2F0aW9uOiR7bG9jYXRpb25JZH0gd2l0aCB0YXNrOiR7dGFzay50YXNrSWR9IHRvIHByb2plY3Q6W0NsaWVudCBSb2xsb3V0XWApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC52YWx1ZS5ldmVudE5hbWUpOwo=</text>
+        <text encoding="base64">ICBbZXJyXSA9IGF3YWl0IHRvKGNsaWVudC50YXNrcy5hZGRQcm9qZWN0KHRhc2sudGFza0lkLCB7IHByb2plY3Q6IHByb2plY3RNYXBwaW5nLmNsaWVudHMgfSkpOwogIGlmIChlcnIpIHRocm93IG5ldyBFcnJvcihgRmFpbGVkIGFkZGluZyBwcm9qZWN0OltDbGllbnRzXSB0byB0YXNrOiR7dGFzay50YXNrSWR9YCk7CgogIGxvZ2dlci5pbmZvKGBNb3ZlZCBsb2NhdGlvbjoke2xvY2F0aW9uSWR9IHdpdGggdGFzazoke3Rhc2sudGFza0lkfSB0byBwcm9qZWN0OltDbGllbnRzXWApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
