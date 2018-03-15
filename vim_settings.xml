@@ -1730,11 +1730,6 @@
         <mark key="^" line="437" column="139" />
         <mark key="." line="437" column="139" />
       </file>
-      <file name="$USER_HOME$/projects/services/asana-tracking/src/EventPublisher.js" timestamp="1520951842106">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="24" column="1" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Product/Curator.php" timestamp="1483526159041">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="9" column="18" />
@@ -2944,11 +2939,11 @@
         <mark key="." line="98" column="26" />
         <mark key="^" line="68" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/services/asana-tracking/docker-compose.yml" timestamp="1520960861255">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="2" column="15" />
+      <file name="$USER_HOME$/projects/services/asana-tracking/docker-compose.yml" timestamp="1521109008488">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/vendor/broadway/broadway/src/Broadway/EventSourcing/EventSourcingRepository.php" timestamp="1485713367334">
         <mark key="[" line="49" column="0" />
@@ -2961,6 +2956,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/services/asana-tracking/src/logger.js" timestamp="1521108841719">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/bindings/bindings.js" timestamp="1489926503665">
         <mark key="[" line="112" column="29" />
@@ -3905,11 +3906,11 @@
         <mark key="." line="59" column="23" />
         <mark key="^" line="64" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/services/asana-tracking/src/app.js" timestamp="1521032974074">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="29" column="3" />
+      <file name="$USER_HOME$/projects/services/asana-tracking/src/app.js" timestamp="1521108924957">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1520512191449">
         <mark key="[" line="38" column="19" />
@@ -4723,7 +4724,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Invalid Asana task</text>
+        <text>data</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4735,43 +4736,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Invalid Asana task</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGVuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoZXJyKSB0aHJvdyBuZXcgRXJyb3IoJ0ludmFsaWQgQXNhbmEgdGFzaycpOwo=</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAtIHJlZGlzLWRlbGVnYXRpb246L2RhdGEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9sdW1lczoK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZihlcnIpIHRocm93IG5ldyBFcnJvcignTm90aGluZyBmb3VuZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0YXNrKTsK</text>
+        <text encoding="base64">ICAgIC8vCiAgICAvLyAtIFdyaXRlIHRvIGFsbCBsb2dzIHdpdGggbGV2ZWwgYGluZm9gIGFuZCBiZWxvdyB0byBgY29tYmluZWQubG9nYAogICAgLy8gLSBXcml0ZSBhbGwgbG9ncyBlcnJvciAoYW5kIGJlbG93KSB0byBgZXJyb3IubG9nYC4KICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBbZXJyXSA9IGF3YWl0IHRvKGNsaWVudC50YXNrcy5maW5kQnlJZCh0YXNrSWQpKTsKICBpZiAoZXJyKSB0aHJvdyBuZXcgRXJyb3IoJ0ludmFsaWQgQXNhbmEgdGFzaycpOwo=</text>
+        <text encoding="base64">ICBpZihlcnIpIHRocm93IG5ldyBFcnJvcignTm90aGluZyBmb3VuZCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBheWxvYWQgPSBhd2FpdCBqc29uKHJlcSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0YXNrKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IFN0b3JlLmdldChwYXlsb2FkLmxvY2F0aW9uKTsKICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBbZXJyXSA9IGF3YWl0IHRvKGNsaWVudC50YXNrcy5maW5kQnlJZCh0YXNrSWQpKTsKICBpZiAoZXJyKSB0aHJvdyBuZXcgRXJyb3IoJ0ludmFsaWQgQXNhbmEgdGFzaycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBzdG9yZWRUYXNrID0gYXdhaXQgc3RvcmUuZ2V0KGxvY2F0aW9uSWQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBheWxvYWQgPSBhd2FpdCBqc29uKHJlcSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusUp</text>
