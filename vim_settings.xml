@@ -191,6 +191,12 @@
         <mark key="." line="29" column="24" />
         <mark key="^" line="29" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-graphql/data/resolvers.js" timestamp="1521195784888">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="24" />
+        <mark key="^" line="51" column="51" />
+        <mark key="." line="109" column="60" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Command/EmailDeviceCredentials.php" timestamp="1519587662092">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="9" />
@@ -2954,6 +2960,7 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-graphql/models/AccountDelegation.js" timestamp="1521194711864" />
       <file name="$USER_HOME$/projects/services/asana-tracking/src/logger.js" timestamp="1521123989114">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="38" />
@@ -3586,6 +3593,7 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-graphql/models/Locations.js" timestamp="1521027514280" />
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Location/Location.php" timestamp="1510917172133">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="25" column="28" />
@@ -3807,6 +3815,12 @@
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-graphql/data/schema.js" timestamp="1521195792352">
+        <mark key="[" line="116" column="24" />
+        <mark key="]" line="116" column="33" />
+        <mark key="^" line="116" column="33" />
+        <mark key="." line="116" column="33" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/pages/how-we-work.css" timestamp="1484571099406">
         <mark key="[" line="47" column="4" />
@@ -4162,11 +4176,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-graphql/models/AsanaTracking.js" timestamp="1521130212237">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-graphql/models/AsanaTracking.js" timestamp="1521195724164">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="20" column="60" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/Countries.js" timestamp="1519133461509">
         <mark key="[" line="1" column="18" />
@@ -4359,6 +4373,12 @@
         <mark key="]" line="12" column="27" />
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-graphql/server.js" timestamp="1521194804609">
+        <mark key="[" line="92" column="59" />
+        <mark key="]" line="93" column="49" />
+        <mark key="." line="93" column="49" />
+        <mark key="^" line="93" column="49" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1502892062912">
         <mark key="[" line="24" column="29" />
@@ -4722,8 +4742,8 @@
       <jump line="63" column="1" filename="$USER_HOME$/projects/services/asana-tracking/src/LocationLifeCycle.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChuZXcgR2VuZXJhdGVXYXZlZm9ybUpvYigkc291cmNlKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>deviceId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4735,43 +4755,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PurgeSourceCacheJob</text>
+        <text>deviceId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGVuXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVzZSBJbnRlcmFjdHNXaXRoUXVldWU7CgogICAgLyoqCiAgICAgKiBAdmFyIFNvdXJjZQogICAgICovCiAgICBwcm90ZWN0ZWQgJHNvdXJjZUlkOwoKICAgIC8qKgogICAgICogTm9ybWFsaXplU291cmNlVm9sdW1lSm9iIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtIFNvdXJjZSAkc291cmNlCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChTb3VyY2UgJHNvdXJjZSApCiAgICB7CiAgICAgICAgJHRoaXMtPnNvdXJjZUlkID0gJHNvdXJjZS0+Z2V0SWQoKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>asanaTaskByLocationId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChuZXcgR2VuZXJhdGVXYXZlZm9ybUpvYigkc291cmNlKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gcmVtb3ZlU2lsZW5jZSgkZmlsZVBhdGgpCiAgICB7CiAgICAgICAgJGZpbGVOYW1lID0gc3RyX3JlcGxhY2UoIi5tcDMiLCIiLCRmaWxlUGF0aCk7CiAgICAgICAgJGZpbGVFeHQgPSAnLm1wMyc7CgogICAgICAgIHBhc3N0aHJ1KAogICAgICAgICAgICAibXAzc3BsdCAtciAkZmlsZU5hbWUkZmlsZUV4dCIKICAgICAgICApOwogICAgICAgIHJlbmFtZSgkZmlsZU5hbWUgLiAnX3RyaW1tZWQnIC4gJGZpbGVFeHQsICRmaWxlUGF0aCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcih7IGNvbm5lY3RvciB9KSB7CiAgICB0aGlzLmNvbm5lY3RvciA9IGNvbm5lY3RvcjsKICAgIHRoaXMuY29uZmlnID0gewogICAgICBiYXNlVVJMOiBQUk9EVUNUSU9OCiAgOgogICAgJ2h0dHA6Ly9kZXYubG9jYWw6NDAwMCcsCiAgfQogICAgOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bm9ybWFsaXplZFZvbHVtZSA9ICRkZWNpYmVsczsK</text>
+        <text encoding="base64">ICAgICAgICA/ICdodHRwOi8vZGVsZWdhdGlvbi5zZXJ2aWNlOjMwMDAnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA/ICdodHRwOi8vYXNhbmEtdHJhY2tpbmcuc2VydmljZTozMDAwJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY29ubmVjdG9yID0gY29ubmVjdG9yOwogICAgdGhpcy5jb25maWcgPSB7CiAgICAgIGJhc2VVUkw6IFBST0RVQ1RJT04KICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc291cmNlLT5ub3JtYWxpemUoJG5vcm1hbGl6ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA/ICdodHRwczovL2luc3RvcmVhcGkua29sbGVrdC5mbScKICAgICAgICA6ICdodHRwOi8vc3RhZ2luZ2FwaS5rb2xsZWt0LmZtJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnN0b3BwZWRQcm9jZXNzaW5nKCRzb3VyY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICA/ICdodHRwOi8vZGVsZWdhdGlvbi5zZXJ2aWNlOjMwMDAnCiAgICAgICAgOiAnaHR0cDovL2Rldi5sb2NhbDo0MDAwJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnN0b3BwZWRQcm9jZXNzaW5nKCRzb3VyY2UpOwo=</text>
+        <text encoding="base64">ICAgIGJhc2VVUkw6IFBST0RVQ1RJT04KICAgICAgPyAnaHR0cHM6Ly9pbnN0b3JlYXBpLmtvbGxla3QuZm0nCiAgICAgIDogJ2h0dHA6Ly9zdGFnaW5nYXBpLmtvbGxla3QuZm0nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnN0YXJ0ZWRQcm9jZXNzaW5nKCRzb3VyY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChuZXcgR2VuZXJhdGVXYXZlZm9ybUpvYigkc291cmNlKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
