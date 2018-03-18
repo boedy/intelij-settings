@@ -639,11 +639,11 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/events/AccountDelegationLinkGenerated.js" timestamp="1520958915498">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="37" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/events/AccountDelegationLinkGenerated.js" timestamp="1521379032777">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/pages/curatorsignup.php" timestamp="1484482461125">
         <mark key="[" line="16" column="0" />
@@ -843,11 +843,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/services/asana-tracking/src/listener.js" timestamp="1521377500842">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="37" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="10" column="37" />
+      <file name="$USER_HOME$/projects/services/asana-tracking/src/listener.js" timestamp="1521378872525">
+        <mark key="[" line="8" column="52" />
+        <mark key="]" line="8" column="56" />
+        <mark key="^" line="8" column="56" />
+        <mark key="." line="8" column="56" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Event/EventPublisher.php" timestamp="1519934443834">
         <mark key="[" line="56" column="46" />
@@ -1513,11 +1513,11 @@
         <mark key="." line="37" column="79" />
         <mark key="^" line="19" column="101" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/events/AccountDelegationCompleted.js" timestamp="1520959055544">
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="32" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/events/AccountDelegationCompleted.js" timestamp="1521379028244">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20171127142314.php" timestamp="1511793307549">
         <mark key="[" line="32" column="76" />
@@ -1842,9 +1842,9 @@
         <mark key="[" line="279" column="0" />
         <mark key="]" line="281" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/events/BillingDetailsRegistered.js" timestamp="1520943721171">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/events/BillingDetailsRegistered.js" timestamp="1521378969694">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="5" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="0" />
       </file>
@@ -2106,7 +2106,6 @@
         <mark key="." line="1" column="45" />
         <mark key="^" line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-backstage/src/app/components/LocationForm.js" timestamp="1521202512195" />
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/ValueObject/Address.php" timestamp="1511527988270">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="26" />
@@ -2453,12 +2452,11 @@
         <mark key="." line="41" column="43" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/services/asana-tracking/src/LocationLifeCycle.js" timestamp="1521377124542">
+      <file name="$USER_HOME$/projects/services/asana-tracking/src/LocationLifeCycle.js" timestamp="1521378702491">
         <mark key="'" line="75" column="2" />
-        <mark key="[" line="75" column="30" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="86" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Http/Controllers/Controller.php" timestamp="1474547198822">
         <mark key="[" line="51" column="24" />
@@ -4814,8 +4812,8 @@
       <jump line="75" column="2" filename="$USER_HOME$/projects/services/asana-tracking/src/LocationLifeCycle.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Completed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZGVsZWdhdGlvbklkID0gZGVsZWdhdGlvbklkOwogICAgdGhpcy5sb2NhdGlvbklkID0gbG9jYXRpb25JZDsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4827,43 +4825,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Completed</text>
+        <text>payload</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LzxTVFJPTkc+Lio/XG5cbi9nLCBodG1sQmlsbGluZ0RldGFpbHM=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMucGF5bG9hZCA9IHsKICAgICAgbG9jYXRpb25JZCwKICAgICAgZGVsZWdhdGlvbklkCiAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZGVsZWdhdGlvbklkID0gZGVsZWdhdGlvbklkOwogICAgdGhpcy5sb2NhdGlvbklkID0gbG9jYXRpb25JZDsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZGVsZWdhdGlvbklkID0gZGVsZWdhdGlvbklkOwogICAgdGhpcy5sb2NhdGlvbklkID0gbG9jYXRpb25JZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhodG1sX25vdGVzKTsK</text>
+        <text encoding="base64">ICAgICAgLi4uYmlsbGluZ0RldGFpbHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhc2FuYVRhc2suaHRtbF9ub3Rlcyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9qZWN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhc2FuYVRhc2spOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZXZlbnQnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgW2VyciwgYXNhbmFUYXNrXSA9IGF3YWl0IHRvKGNsaWVudC50YXNrcy5maW5kQnlJZCh0YXNrLnRhc2tJZCkpOwogIGlmIChlcnIpIHRocm93IG5ldyBFcnJvcihgdGFzazoke3Rhc2sudGFza0lkfSBub3QgZm91bmRgKTsKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhc2FuYVRhc2spOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhodG1sX25vdGVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhc2FuYVRhc2suaHRtbF9ub3Rlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
