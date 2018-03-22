@@ -1185,6 +1185,13 @@
         <mark key="^" line="33" column="63" />
         <mark key="." line="33" column="63" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/fullText.js" timestamp="1521741061514">
+        <mark key="'" line="204" column="1" />
+        <mark key="[" line="202" column="21" />
+        <mark key="]" line="202" column="21" />
+        <mark key="^" line="202" column="21" />
+        <mark key="." line="202" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/Event/UserBecameOrganisationManager.php" timestamp="1518302722754">
         <mark key="[" line="39" column="5" />
         <mark key="]" line="41" column="0" />
@@ -3187,6 +3194,12 @@
         <mark key="." line="38" column="19" />
         <mark key="^" line="38" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/google-play/google-play-api.js" timestamp="1521741514442">
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="29" column="46" />
+        <mark key="^" line="29" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/.dockerignore" timestamp="1487028919842">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="7" />
@@ -4676,7 +4689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/ProgressBar.js" />
       <jump line="143" column="24" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="20" column="28" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Playlist.js" />
       <jump line="195" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/deezer/sync.js" />
@@ -4776,10 +4788,11 @@
       <jump line="161" column="7" filename="$USER_HOME$/projects/atmosphere/atmosphere-backstage/src/app/components/AsanaTask.js" />
       <jump line="75" column="2" filename="$USER_HOME$/projects/services/asana-tracking/src/LocationLifeCycle.js" />
       <jump line="111" column="48" filename="$USER_HOME$/projects/atmosphere/atmosphere-backstage/src/app/components/AsanaTask.js" />
+      <jump line="204" column="1" filename="$USER_HOME$/projects/atmosphere/content-digger/search/fullText.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Timezone</text>
+        <text>stronger</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4791,7 +4804,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Timezone</text>
+        <text>stronger</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
@@ -4800,34 +4813,34 @@
         <text encoding="base64">ICAgICAgICBwcmludCAxOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbm90aWZpY2F0aW9uU2VydmljZSA9IG5ldyBOb3RpZmljYXRpb25TZXJ2aWNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKG5ldyBcRGF0ZVRpbWUoKSktPmdldFRpbWVzdGFtcCgpOwo=</text>
+        <text encoding="base64">ICAgIHRyYWNrcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBiaWxsaW5nUmVjZWl2ZWQgPSBtb21lbnQudW5peCh1dGNUaW1lc3RhbXApCg==</text>
+        <text encoding="base64">ICAgIHZhciBzb25nID0gZGF0YS5lbnRyaWVzLnNvcnQoZnVuY3Rpb24oYSwgYikgeyAvLyBzb3J0IGJ5IG1hdGNoIHNjb3JlCiAgICAgIHJldHVybiBhLnNjb3JlIDwgYi5zY29yZTsKICAgIH0pLnNoaWZ0KCk7IC8vIHRha2UgZmlyc3Qgc29uZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGJtID0gbmV3IEJNMjU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZih1dGNUaW1lc3RhbXApKAogICAgCiAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAkbm90aWZpY2F0aW9uU2VydmljZSA9IG5ldyBOb3RpZmljYXRpb25TZXJ2aWNlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi9sb2dnZXInKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKG5ldyBcRGF0ZVRpbWUoKSktPmdldFRpbWVzdGFtcCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnQpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBiaWxsaW5nUmVjZWl2ZWQgPSBtb21lbnQudW5peCh1dGNUaW1lc3RhbXApCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZih1dGNUaW1lc3RhbXApKAogICAgCiAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
