@@ -689,12 +689,12 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" timestamp="1521796892975">
-        <mark key="'" line="174" column="15" />
-        <mark key="[" line="122" column="86" />
-        <mark key="]" line="122" column="90" />
-        <mark key="^" line="122" column="90" />
-        <mark key="." line="122" column="90" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" timestamp="1521808542984">
+        <mark key="'" line="148" column="15" />
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/config/testing/database.php" timestamp="1506441194653">
         <mark key="[" line="125" column="45" />
@@ -905,6 +905,13 @@
         <mark key="]" line="181" column="18" />
         <mark key="^" line="178" column="59" />
         <mark key="." line="181" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-backstage/src/app/components/AsanaTask.js" timestamp="1521385346430">
+        <mark key="'" line="111" column="48" />
+        <mark key="[" line="111" column="57" />
+        <mark key="]" line="111" column="57" />
+        <mark key="^" line="111" column="52" />
+        <mark key="." line="111" column="57" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/BillingAddress/BillingAddressRepository.php" timestamp="1509635192362">
         <mark key="[" line="10" column="25" />
@@ -1202,13 +1209,6 @@
         <mark key="]" line="20" column="1" />
         <mark key="^" line="33" column="63" />
         <mark key="." line="33" column="63" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/fullText.js" timestamp="1521741061514">
-        <mark key="'" line="204" column="1" />
-        <mark key="[" line="202" column="21" />
-        <mark key="]" line="202" column="21" />
-        <mark key="^" line="202" column="21" />
-        <mark key="." line="202" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/Event/UserBecameOrganisationManager.php" timestamp="1518302722754">
         <mark key="[" line="39" column="5" />
@@ -2525,11 +2525,11 @@
         <mark key="." line="58" column="77" />
         <mark key="^" line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/content-script.js" timestamp="1521806002450">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="55" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="55" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/content-script.js" timestamp="1521808687799">
+        <mark key="[" line="5" column="91" />
+        <mark key="]" line="5" column="95" />
+        <mark key="^" line="5" column="95" />
+        <mark key="." line="5" column="95" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/spotify.js" timestamp="1508430655889">
         <mark key="[" line="16" column="0" />
@@ -4652,11 +4652,11 @@
       <file name="/JavaScript Console" timestamp="1521371203807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/search/index.js" timestamp="1521798671894">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="46" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="29" column="57" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/search/index.js" timestamp="1521809164164">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="27" column="56" />
+        <mark key="." line="27" column="56" />
+        <mark key="^" line="27" column="56" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Traits/TimestampableTrait.php" timestamp="1498156947131">
         <mark key="[" line="19" column="4" />
@@ -4835,7 +4835,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>floor</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4847,43 +4847,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>floor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIDogJ2h0dHA6Ly9kZXYubG9jYWw6ODAwMCcsCiAgICA6ICdodHRwczovL2ZkNWQzNmNjLm5ncm9rLmlvJywK</text>
+      <register name="0" type="4">
+        <text>`${val.artist}${val.track}${Math.round(val.duration/5)}`.toLowerCase();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA6ICdodHRwOi8vZGV2LmxvY2FsOjgwMDAvJzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGR1cEtleSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN2ZyB7CiAgICAgICAgLy9ib3R0b206IC0wLjA2MjVlbTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gV2l0aGluIGEgY29udGVudCBzY3JpcHQ6Cgp2YXIgaWZyYW1lID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnaWZyYW1lJyk7CmlmcmFtZS5zcmMgPSBjaHJvbWUuZXh0ZW5zaW9uLmdldFVSTCgncG9wdXAuaHRtbCcpOwppZnJhbWUuZnJhbWVCb3JkZXIgPSAnMCc7IC8vIEFkZCB0aGlzIGxpbmUKaWZyYW1lLnN0eWxlID0gJyc7CmNvbnNvbGUubG9nKGlmcmFtZSk7CmRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoaWZyYW1lKTsgLy8gQXBwZW5kIHRvIGJvZHksIGZvciBleGFtcGxlLgoKCg==</text>
+        <text encoding="base64">ICAgICAgICBib3R0b206IDAuMTM3NWVtOwogICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIGlzQWN0aXZlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGR1cEtleSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlzQWN0aXZlID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIGR1cAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZighIGlzQWN0aXZlKXsK</text>
+        <text encoding="base64">ICBwYWRkaW5nOiA5cHggMTBweDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">d2luZG93LmF0bW9zcGhlcmVQb3B1cCA9IGlmcmFtZTsK</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
