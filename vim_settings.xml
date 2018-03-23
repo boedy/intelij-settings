@@ -689,12 +689,12 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" timestamp="1521810428495">
-        <mark key="'" line="155" column="15" />
-        <mark key="[" line="76" column="38" />
-        <mark key="]" line="76" column="58" />
-        <mark key="." line="76" column="58" />
-        <mark key="^" line="76" column="58" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" timestamp="1521811125157">
+        <mark key="'" line="158" column="15" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/config/testing/database.php" timestamp="1506441194653">
         <mark key="[" line="125" column="45" />
@@ -905,13 +905,6 @@
         <mark key="]" line="181" column="18" />
         <mark key="^" line="178" column="59" />
         <mark key="." line="181" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-backstage/src/app/components/AsanaTask.js" timestamp="1521385346430">
-        <mark key="'" line="111" column="48" />
-        <mark key="[" line="111" column="57" />
-        <mark key="]" line="111" column="57" />
-        <mark key="^" line="111" column="52" />
-        <mark key="." line="111" column="57" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/BillingAddress/BillingAddressRepository.php" timestamp="1509635192362">
         <mark key="[" line="10" column="25" />
@@ -1209,6 +1202,13 @@
         <mark key="]" line="20" column="1" />
         <mark key="^" line="33" column="63" />
         <mark key="." line="33" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/search/fullText.js" timestamp="1521741061514">
+        <mark key="'" line="204" column="1" />
+        <mark key="[" line="202" column="21" />
+        <mark key="]" line="202" column="21" />
+        <mark key="^" line="202" column="21" />
+        <mark key="." line="202" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/Event/UserBecameOrganisationManager.php" timestamp="1518302722754">
         <mark key="[" line="39" column="5" />
@@ -3946,9 +3946,9 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/popup.html" timestamp="1521805938720">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="13" column="27" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/popup.html" timestamp="1521811050430">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="48" />
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
@@ -4839,7 +4839,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPEJ1dHRvbiBvbkNsaWNrPXt0aGlzLnByb3BzLmNhbmNlbH0+Q2FuY2VsPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4856,8 +4856,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>`${val.artist}${val.track}${Math.round(val.duration/5)}`.toLowerCase();</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPEJ1dHRvbiBvbkNsaWNrPXt0aGlzLnByb3BzLmNhbmNlbH0+Q2FuY2VsPC9CdXR0b24+Cg==</text>
