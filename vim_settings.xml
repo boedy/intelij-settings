@@ -1846,6 +1846,7 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1522004852923" />
       <file name="$USER_HOME$/projects/kollekt/backend/wercker.yml" timestamp="1487597819832">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="38" />
@@ -2736,7 +2737,7 @@
         <mark key="." line="84" column="61" />
         <mark key="^" line="84" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" timestamp="1522003199838">
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" timestamp="1522004539303">
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="32" />
         <mark key="." line="62" column="32" />
@@ -2904,11 +2905,11 @@
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/proxyRequest.js" timestamp="1522003589615">
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/proxyRequest.js" timestamp="1522005474281">
         <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="85" />
-        <mark key="." line="14" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="20" column="40" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/Query/Track/TrackSearchQuery.php" timestamp="1521824286481">
         <mark key="[" line="9" column="0" />
@@ -2946,7 +2947,7 @@
         <mark key="^" line="85" column="19" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.yml" timestamp="1521996304350">
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.yml" timestamp="1522004923794">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="44" />
         <mark key="^" line="38" column="16" />
@@ -3894,12 +3895,12 @@
         <mark key="^" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/test.js" timestamp="1522003622180">
-        <mark key="'" line="27" column="11" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="65" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/test.js" timestamp="1522006849677">
+        <mark key="'" line="37" column="11" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="87" />
+        <mark key="." line="33" column="46" />
+        <mark key="^" line="33" column="46" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/team-dashboard/mixpanel.js" timestamp="1510569830597">
         <mark key="[" line="111" column="1" />
@@ -4495,11 +4496,10 @@
         <mark key="." line="137" column="58" />
         <mark key="^" line="137" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/google-play/index.js" timestamp="1522003842520">
-        <mark key="[" line="50" column="11" />
-        <mark key="]" line="50" column="22" />
-        <mark key="." line="50" column="22" />
-        <mark key="^" line="50" column="22" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/google-play/index.js" timestamp="1522006863085">
+        <mark key="[" line="65" column="10" />
+        <mark key="]" line="65" column="10" />
+        <mark key="." line="65" column="10" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/DeleteTrackFromStorage.php" timestamp="1496839697216">
         <mark key="[" line="35" column="0" />
@@ -4927,7 +4927,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>request</text>
+        <text>proxyRequest.get</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4939,43 +4939,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>proxyRequest.get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">YGh0dHBzOi8vcGxheS5nb29nbGUuY29tL211c2ljL3BsYXlwcmV2aWV3P3U9MCZwcmV2aWV3PSR7cHJldmlld1Rva2VufSZtb2RlPXN0cmVhbWluZ2A=</text>
+      <register name="0" type="2">
+        <text encoding="base64">IC8vIHByb3h5UmVxdWVzdC5nZXQodXJsKS50aGVuKHJlcyA9PiByZXMucGlwZShmcy5jcmVhdGVXcml0ZVN0cmVhbSgnbXAzL3Rlc3QubXAzJykpICk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LnRoZW4ocmVzID0+IGNvbnNvbGUubG9nKHJlcykpOwogIHJldHVybiByZXF1ZXN0LmdldChgaHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vbXVzaWMvcHJldmlldy8ke3N0b3JlSWR9YCk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">cHJveHlSZXF1ZXN0LmdldCh1cmwpLik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBjdXJyZW50UHJveHkgPSBudWxsOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhlKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbmV3IHByb3h5Jyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm94eVVybCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICBwcm94eVVybCA9ICdodHRwOi8vYm91ZGV3aWpuQGtvbGxla3QuZm06c1lGTWI5Rko1MjVvMUdJWDdnQ0B1czE2NTUubm9yZHZwbi5jb206ODAnOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcm94eVVybCA9ICdodHRwOi8vYm91ZGV3aWpuQGtvbGxla3QuZm06c1lGTWI5Rko1MjVvMUdJWDdnQ0B1czE2NTUubm9yZHZwbi5jb206ODAnOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LnRoZW4ocmVzID0+IGNvbnNvbGUubG9nKHJlcykpOwogIHJldHVybiByZXF1ZXN0LmdldChgaHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vbXVzaWMvcHJldmlldy8ke3N0b3JlSWR9YCk=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBjdXJyZW50UHJveHkgPSBudWxsOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhlKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbmV3IHByb3h5Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm94eVVybCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IHJlcXVlc3RzTWFkZSA9IDA7Cg==</text>
+        <text encoding="base64">ICBwcm94eVVybCA9ICdodHRwOi8vYm91ZGV3aWpuQGtvbGxla3QuZm06c1lGTWI5Rko1MjVvMUdJWDdnQ0B1czE2NTUubm9yZHZwbi5jb206ODAnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
