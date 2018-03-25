@@ -699,7 +699,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" timestamp="1521979511736">
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" timestamp="1521984200001">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -800,6 +800,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Search/BackstageResults.js" timestamp="1521984252465">
+        <mark key="[" line="159" column="48" />
+        <mark key="]" line="159" column="52" />
+        <mark key="." line="159" column="52" />
+        <mark key="^" line="159" column="52" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/BillingScenario.php" timestamp="1483718234393">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="12" column="27" />
@@ -836,11 +842,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1521979820606">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="124" column="31" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1521983658444">
+        <mark key="[" line="67" column="7" />
+        <mark key="]" line="124" column="29" />
+        <mark key="." line="124" column="29" />
+        <mark key="^" line="101" column="47" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/config/main.php" timestamp="1487694630285">
         <mark key="[" line="54" column="26" />
@@ -1325,9 +1331,9 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/PreviouslyAdded.js" timestamp="1521841852749">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/PreviouslyAdded.js" timestamp="1521982909731">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="17" column="1" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="1" />
       </file>
@@ -1774,9 +1780,9 @@
         <mark key="^" line="437" column="139" />
         <mark key="." line="437" column="139" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Search/CatalogueResults.js" timestamp="1521981320541">
-        <mark key="[" line="103" column="28" />
-        <mark key="]" line="103" column="32" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Search/CatalogueResults.js" timestamp="1521983374137">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="128" column="9" />
         <mark key="." line="103" column="32" />
         <mark key="^" line="103" column="32" />
       </file>
@@ -4909,8 +4915,8 @@
       <jump line="84" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/src/search/deezer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.name</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4922,44 +4928,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text>.name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qge2FydGlzdCwgdHJhY2t9ID0gbmV4dFByb3BzLnF1ZXJ5OwogICAgICB0aGlzLnNlYXJjaChhcnRpc3QsIHRyYWNrKTsK</text>
+      <register name="0" type="4">
+        <text>this.setState({</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0cyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRyYWNrcywgdHJhY2tzLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRyYWNrcyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>this.state.
-this.state.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRyYWNrcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8ZGl2PjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBsYXlsaXN0czogdGhpcy5wcm9wcy5wbGF5bGlzdHMucmVkdWNlKChhY2MsIHZhbCkgPT4gewogICAgICAgICAgICBhY2NbdmFsLmlkXSA9IHZhbC5uYW1lOwogICAgICAgICAgICByZXR1cm4gYWNjOwogICAgICAgICAgfSwge30pLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
+      <register name="7" type="8">
+        <text>this.props.
+this.props.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VhcmNoID0gdGhpcy5zZWFyY2guYmluZCh0aGlzKTsK</text>
+      <register name="8" type="8">
+        <text>this.state.
+this.state.
+this.state.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHQpOwo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVycm9yID0+IHRoaXMuc2V0U3RhdGUoewogICAgICAgIHBlbmRpbmc6IGZhbHNlLAogICAgICAgIGVycm9yLAogICAgICB9KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
