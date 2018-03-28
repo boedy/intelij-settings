@@ -2730,11 +2730,10 @@
         <mark key="." line="84" column="61" />
         <mark key="^" line="84" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" timestamp="1522004539303">
-        <mark key="[" line="62" column="32" />
-        <mark key="]" line="62" column="32" />
-        <mark key="." line="62" column="32" />
-        <mark key="^" line="62" column="32" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" timestamp="1522262844290">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/queries/curator/CuratorQuotaQuery.php" timestamp="1508495385881">
         <mark key="[" line="42" column="0" />
@@ -4921,7 +4920,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcGxheWVyID0gbmV3IE1wbGF5ZXIoKTsKY29uc3QgY2FsbGJhY2tzID0ge307CmxldCBwcm9ncmVzcyA9IDA7CgpwbGF5ZXIub24oJ3RpbWUnLCB0aW1lID0+IHsKICBwcm9ncmVzcyA9IHRpbWU7Cn0pOwoKcGxheWVyLm9uKCdzdG9wJywgY29kZSA9PiB7CiAgaWYgKGNvZGUgPT09IDEpIGNhbGxiYWNrcy5maW5pc2hlZCgpOwp9KTsKCmZ1bmN0aW9uIHN0b3AoKSB7CiAgcGxheWVyLnN0b3AoKTsKfQoKZnVuY3Rpb24gcGF1c2UoKSB7CiAgcGxheWVyLnBhdXNlKCk7Cn0KCmZ1bmN0aW9uIHJlc3VtZSgpIHsKICBwbGF5ZXIucGxheSgpOwp9CgpmdW5jdGlvbiBzZWVrVG8oc2Vjb25kcykgewogIHBsYXllci5zZWVrKHNlY29uZHMpOwp9CgpmdW5jdGlvbiBwbGF5KHNyYywgeyBzdGFydGVkLCBmaW5pc2hlZCwgZXJyb3IgfSkgewogIGlmICghc3JjKSB7IGVycm9yKCdObyBzcmMgcHJvdmlkZWQnKTsgcmV0dXJuOyB9CgogIGNvbnN0IGZhaWxvdmVyID0gc2V0VGltZW91dCgoKSA9PiB7CiAgICBwbGF5ZXIucmVtb3ZlTGlzdGVuZXIoJ3N0YXJ0Jywgb25TdGFydCk7IC8vIGVzbGludC1kaXNhYmxlLWxpbmUgbm8tdXNlLWJlZm9yZS1kZWZpbmUKICAgIGVycm9yKCdUcmFjayBkaWQgbm90IHN0YXJ0Jyk7CiAgfSwgNTAwMCk7CgogIGNvbnN0IG9uU3RhcnQgPSAoKSA9PiB7CiAgICBjbGVhclRpbWVvdXQoZmFpbG92ZXIpOwogICAgaWYgKHN0YXJ0ZWQpIHN0YXJ0ZWQoKTsKICB9OwoKICBjYWxsYmFja3MuZmluaXNoZWQgPSBmaW5pc2hlZDsKICBwbGF5ZXIub25jZSgnc3RhcnQnLCBvblN0YXJ0KTsKICBwbGF5ZXIub3BlbkZpbGUoc3JjKTsKfQo=</text>
+        <text encoding="base64">ICBhbGVydCh0cnVlKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4942,34 +4941,34 @@
         <text encoding="base64">Y29uc3QgcGxheWVyID0gbmV3IE1wbGF5ZXIoKTsKY29uc3QgY2FsbGJhY2tzID0ge307CmxldCBwcm9ncmVzcyA9IDA7CgpwbGF5ZXIub24oJ3RpbWUnLCB0aW1lID0+IHsKICBwcm9ncmVzcyA9IHRpbWU7Cn0pOwoKcGxheWVyLm9uKCdzdG9wJywgY29kZSA9PiB7CiAgaWYgKGNvZGUgPT09IDEpIGNhbGxiYWNrcy5maW5pc2hlZCgpOwp9KTsKCmZ1bmN0aW9uIHN0b3AoKSB7CiAgcGxheWVyLnN0b3AoKTsKfQoKZnVuY3Rpb24gcGF1c2UoKSB7CiAgcGxheWVyLnBhdXNlKCk7Cn0KCmZ1bmN0aW9uIHJlc3VtZSgpIHsKICBwbGF5ZXIucGxheSgpOwp9CgpmdW5jdGlvbiBzZWVrVG8oc2Vjb25kcykgewogIHBsYXllci5zZWVrKHNlY29uZHMpOwp9CgpmdW5jdGlvbiBwbGF5KHNyYywgeyBzdGFydGVkLCBmaW5pc2hlZCwgZXJyb3IgfSkgewogIGlmICghc3JjKSB7IGVycm9yKCdObyBzcmMgcHJvdmlkZWQnKTsgcmV0dXJuOyB9CgogIGNvbnN0IGZhaWxvdmVyID0gc2V0VGltZW91dCgoKSA9PiB7CiAgICBwbGF5ZXIucmVtb3ZlTGlzdGVuZXIoJ3N0YXJ0Jywgb25TdGFydCk7IC8vIGVzbGludC1kaXNhYmxlLWxpbmUgbm8tdXNlLWJlZm9yZS1kZWZpbmUKICAgIGVycm9yKCdUcmFjayBkaWQgbm90IHN0YXJ0Jyk7CiAgfSwgNTAwMCk7CgogIGNvbnN0IG9uU3RhcnQgPSAoKSA9PiB7CiAgICBjbGVhclRpbWVvdXQoZmFpbG92ZXIpOwogICAgaWYgKHN0YXJ0ZWQpIHN0YXJ0ZWQoKTsKICB9OwoKICBjYWxsYmFja3MuZmluaXNoZWQgPSBmaW5pc2hlZDsKICBwbGF5ZXIub25jZSgnc3RhcnQnLCBvblN0YXJ0KTsKICBwbGF5ZXIub3BlbkZpbGUoc3JjKTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBhbGVydCh0cnVlKQo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhLmVudHJpZXMpOwo=</text>
+        <text encoding="base64">ICBhbGVydCgndGVzdCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXNvbHZlKHRyYWNrSW5mb3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhLmVudHJpZXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGkgPSAwOwogICAgICAgICAgICBsZXQgcGVyY2VudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXNvbHZlKHRyYWNrSW5mb3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkrK2RkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgxMDAgKiAyMDQ4ICogaSAvIHJlc3BvbnNlLmhlYWRlcnNbJ2NvbnRlbnQtbGVuZ3RoJ10gPj0gcGVyY2VudCArIDEpIHsKICAgICAgICAgICAgICAgICAgcGVyY2VudCsrOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGkgPSAwOwogICAgICAgICAgICBsZXQgcGVyY2VudCA9IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgIGNvbnN0IGJmRGVjcnlwdCA9IGNyeXB0by5jcmVhdGVEZWNpcGhlcml2KCdiZi1jYmMnLCBiZktleSwgJ1x4MDBceDAxXHgwMlx4MDNceDA0XHgwNVx4MDZceDA3Jyk7CiAgICAgICAgICAgICAgICAgIGJmRGVjcnlwdC5zZXRBdXRvUGFkZGluZyhmYWxzZSk7CgogICAgICAgICAgICAgICAgICBsZXQgY2h1bmtEZWMgPSBiZkRlY3J5cHQudXBkYXRlKGNodW5rLnRvU3RyaW5nKCdoZXgnKSwgJ2hleCcsICdoZXgnKTsKICAgICAgICAgICAgICAgICAgY2h1bmtEZWMgKz0gYmZEZWNyeXB0LmZpbmFsKCdoZXgnKTsKICAgICAgICAgICAgICAgICAgc3RyZWFtLndyaXRlKGNodW5rRGVjLCAnaGV4Jyk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkrK2RkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpICUgMyA+IDAgfHwgY2h1bmsubGVuZ3RoIDwgMjA0OCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgxMDAgKiAyMDQ4ICogaSAvIHJlc3BvbnNlLmhlYWRlcnNbJ2NvbnRlbnQtbGVuZ3RoJ10gPj0gcGVyY2VudCArIDEpIHsKICAgICAgICAgICAgICAgICAgcGVyY2VudCsrOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
