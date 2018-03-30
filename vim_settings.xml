@@ -2432,6 +2432,10 @@
         <mark key="." line="84" column="37" />
         <mark key="^" line="84" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" timestamp="1522413526995">
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="40" column="65" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Console/Commands/ProduceTest.php" timestamp="1518290397834">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="30" />
@@ -4934,7 +4938,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d25656</text>
+        <text>SELECT playlist.*, stats.item_count, stats.duration
+                        FROM playlist
+                        LEFT JOIN (
+                          SELECT pi.playlist_id, COUNT(*) item_count, round(sum(ts.size*8/ts.bitrate)) duration
+                          FROM playlist_item pi 
+                          JOIN track_source ts ON ts.track_id = pi.track_id
+                          WHERE deleted_at IS NULL
+                          GROUP BY pi.playlist_id
+                        ) stats ON stats.playlist_id = playlist.id</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4951,8 +4963,16 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFBsYXlsaXN0SW1hZ2UgPgogICAgICAgICAgICAgIDxSb3VuZEltYWdlIHNyYz17cGxheWxpc3RzW3BsYXlsaXN0SWRdLmltYWdlfSB3aWR0aD0iMzBweCIgLz4KICAgICAgICAgICAgPC9QbGF5bGlzdEltYWdlID4K</text>
+      <register name="0" type="4">
+        <text>SELECT playlist.*, stats.item_count, stats.duration
+                        FROM playlist
+                        LEFT JOIN (
+                          SELECT pi.playlist_id, COUNT(*) item_count, round(sum(ts.size*8/ts.bitrate)) duration
+                          FROM playlist_item pi 
+                          JOIN track_source ts ON ts.track_id = pi.track_id
+                          WHERE deleted_at IS NULL
+                          GROUP BY pi.playlist_id
+                        ) stats ON stats.playlist_id = playlist.id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
