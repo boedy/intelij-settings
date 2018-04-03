@@ -2810,11 +2810,11 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/curator.php" timestamp="1519401859269">
-        <mark key="[" line="94" column="41" />
-        <mark key="]" line="94" column="41" />
-        <mark key="^" line="94" column="41" />
-        <mark key="." line="94" column="41" />
+      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/curator.php" timestamp="1522763747409">
+        <mark key="[" line="38" column="103" />
+        <mark key="]" line="38" column="103" />
+        <mark key="^" line="38" column="103" />
+        <mark key="." line="38" column="103" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/user_search.json" timestamp="1495023893950">
         <mark key="[" line="12" column="31" />
@@ -2996,7 +2996,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522756802725">
+      <file name="/Dummy.txt" timestamp="1522762729082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/services/asana-tracking/wercker.yml" timestamp="1521128565890">
@@ -3626,6 +3626,7 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-includes/post-thumbnail-template.php" timestamp="1522763385605" />
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/EventSourcedEntity.php" timestamp="1486401863584">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="74" />
@@ -4940,7 +4941,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>r</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4952,7 +4953,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
@@ -4969,34 +4970,34 @@
                         ) stats ON stats.playlist_id = playlist.id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHRzKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbG9jYXRpb25faW1hZ2VzKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0nPD9waHAgZWNobyAkbG9jYXRpb25faW1hZ2VbJ3JldGluYSddOyA/Picgc3Jjc2V0PSc8P3BocCBlY2hvICRsb2NhdGlvbl9pbWFnZVsnZGVmYXVsdCddOyA/PicgPgogICAgPC9kaXYgPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZighc2VhcmNoUmVzdWx0cy5sZW5ndGgpIHJldHVybiBbXTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHRzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFyY2hSZXN1bHRzKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFyY2hSZXN1bHRzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VsZWN0VHJhY2sgPSB0aGlzLnNlbGVjdFRyYWNrLmJpbmQodGhpcyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpZighc2VhcmNoUmVzdWx0cy5sZW5ndGgpIHJldHVybiBbXTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFyY2hSZXN1bHRzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFyY2hSZXN1bHRzKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZWxlY3RUcmFjayhpbmRleCkgewogICAgdGhpcy5zZXRTdGF0ZSh7IHNlbGVjdGVkVHJhY2s6IGluZGV4IH0pOwogIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMuc2VsZWN0VHJhY2sgPSB0aGlzLnNlbGVjdFRyYWNrLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
