@@ -2810,9 +2810,9 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/curator.php" timestamp="1522763747409">
-        <mark key="[" line="38" column="103" />
-        <mark key="]" line="38" column="103" />
+      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/curator.php" timestamp="1522764676337">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="27" />
         <mark key="^" line="38" column="103" />
         <mark key="." line="38" column="103" />
       </file>
@@ -2996,7 +2996,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522762729082">
+      <file name="/Dummy.txt" timestamp="1522765545724">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/services/asana-tracking/wercker.yml" timestamp="1521128565890">
@@ -3119,11 +3119,11 @@
         <mark key="." line="112" column="28" />
         <mark key="^" line="112" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/style.css" timestamp="1519396734720">
-        <mark key="[" line="602" column="9" />
-        <mark key="]" line="602" column="9" />
-        <mark key="^" line="602" column="19" />
-        <mark key="." line="602" column="9" />
+      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/style.css" timestamp="1522765502777">
+        <mark key="[" line="857" column="14" />
+        <mark key="]" line="857" column="15" />
+        <mark key="^" line="857" column="15" />
+        <mark key="." line="857" column="15" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/brandchannel/sagas/index.js" timestamp="1487028749448">
         <mark key="[" line="1" column="19" />
@@ -3226,6 +3226,12 @@
         <mark key="]" line="23" column="44" />
         <mark key="^" line="23" column="44" />
         <mark key="." line="23" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/js/script.js" timestamp="1522765479419">
+        <mark key="[" line="181" column="28" />
+        <mark key="]" line="181" column="28" />
+        <mark key="^" line="181" column="34" />
+        <mark key="." line="181" column="28" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" timestamp="1520960656634">
         <mark key="[" line="0" column="0" />
@@ -4329,6 +4335,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/how-we-work.php" timestamp="1522765286913">
+        <mark key="[" line="188" column="44" />
+        <mark key="]" line="188" column="60" />
+        <mark key="." line="188" column="60" />
+        <mark key="^" line="188" column="60" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/www/package.json" timestamp="1493989637856">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="19" />
@@ -4941,7 +4953,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>-header</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4953,21 +4965,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>-header</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT playlist.*, stats.item_count, stats.duration
-                        FROM playlist
-                        LEFT JOIN (
-                          SELECT pi.playlist_id, COUNT(*) item_count, round(sum(ts.size*8/ts.bitrate)) duration
-                          FROM playlist_item pi 
-                          JOIN track_source ts ON ts.track_id = pi.track_id
-                          WHERE deleted_at IS NULL
-                          GROUP BY pi.playlist_id
-                        ) stats ON stats.playlist_id = playlist.id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICRoZWFkZXJfdHJhbnNwYXJlbnQgPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbG9jYXRpb25faW1hZ2VzKTsK</text>
