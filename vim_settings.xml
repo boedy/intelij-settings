@@ -1355,11 +1355,6 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Playlists.js" timestamp="1521992407530">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Command/AssignUserRole.php" timestamp="1512491582222">
         <mark key="[" line="73" column="23" />
         <mark key="]" line="73" column="41" />
@@ -1503,11 +1498,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="28" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/TrackController.php" timestamp="1522267726710">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/test.js" timestamp="1519901570800">
         <mark key="[" line="6" column="12" />
@@ -1730,11 +1720,6 @@
         <mark key="]" line="59" column="115" />
         <mark key="." line="59" column="115" />
         <mark key="^" line="59" column="119" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/search/fullText.js" timestamp="1522419956718">
-        <mark key="[" line="199" column="26" />
-        <mark key="]" line="199" column="27" />
-        <mark key="." line="199" column="27" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/delegation-frontend/src/app/components/Common/CountryDropdown.js" timestamp="1518951966188">
         <mark key="[" line="36" column="15" />
@@ -3108,11 +3093,6 @@
         <mark key="." line="112" column="28" />
         <mark key="^" line="112" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/style.css" timestamp="1522767349856">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/brandchannel/sagas/index.js" timestamp="1487028749448">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="19" />
@@ -3202,6 +3182,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/processes/downloadProcess.js" timestamp="1522851698424">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Uuid.php" timestamp="1485715170921">
         <mark key="[" line="6" column="19" />
@@ -3606,11 +3592,11 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/index.js" timestamp="1522849976072">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="4" column="53" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/index.js" timestamp="1522852099218">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="4" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-frontend/src/app/organisation/edit-location/create-location.html" timestamp="1482088343883">
         <mark key="[" line="3" column="66" />
@@ -4952,8 +4938,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.wercker.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UueW1sCg==</text>
+      <register name="&quot;" type="4">
+        <text>: body.track_id</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4965,7 +4951,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>services</text>
+        <text>: body.track_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
@@ -4974,37 +4960,37 @@
         <text encoding="base64">ICByZWRpczoKICAgICAgaW1hZ2U6IHJlZGlzOjMuMgogICAgICBsYWJlbHM6CiAgICAgICAgaW8ucmFuY2hlci5zY2hlZHVsZXIuYWZmaW5pdHk6aG9zdF9sYWJlbDogZGlnZ2VyPXRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UueW1sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gcHJldmlldyhyZXEucXVlcnkuaGFzaCk7Cg==</text>
+        <text encoding="base64">ICAvLyBEbyBzb21lIGhlYXZ5IHdvcmsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5LnRyYWNrX2lkKTsK</text>
+        <text encoding="base64">Y29uc3QgZG93bmxvYWQgPSByZXF1aXJlKCcuL3NyYy9kb3dubG9hZCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldCgnL3Byb2dyZXNzJywgcm91dGVzLmdldFByb2dlc3MpCg==</text>
+        <text encoding="base64">Y29uc3QgYXRtb3NwaGVyZUFwaSA9IHJlcXVpcmUoJy4vc3JjL2F0bW9zcGhlcmUvYXBpJyk7CmNvbnN0IGRvd25sb2FkID0gcmVxdWlyZSgnLi9zcmMvZG93bmxvYWQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkb3dubG9hZEZpbGVQYXRoID0gIGF3YWl0IGRvd25sb2FkKGJvZHkudHJhY2tfaWQpOwogIGF3YWl0IGF0bW9zcGhlcmVBcGkuYWRkVHJhY2sodG9rZW4sIGJvZHkucGxheWxpc3RfaWQsIGRvd25sb2FkRmlsZVBhdGgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cm91dGVzLmdldFByb2dlc3MgPSBhc3luYyAocmVxLCByZXMpID0+IHsKICBjb25zdCBib2R5ID0gYXdhaXQganNvbihyZXEpCiAgY29uc3QgdG9rZW4gPSByZXEuaGVhZGVycy5hdXRob3JpemF0aW9uLnNwbGl0KCcgJylbMV07CgogIGNvbnNvbGUubG9nKGJvZHkudHJhY2tfaWQpOwogIGNvbnN0IGRvd25sb2FkRmlsZVBhdGggPSAgYXdhaXQgZG93bmxvYWQoYm9keS50cmFja19pZCk7CiAgLy8gYXdhaXQgYXRtb3NwaGVyZUFwaS5hZGRUcmFjayh0b2tlbiwgYm9keS5wbGF5bGlzdF9pZCwgZG93bmxvYWRGaWxlUGF0aCk7CgogIHNlbmQocmVzLCAyMDAsIHt9KQp9Owo=</text>
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UueW1sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKdm9sdW1lczoKICByZWRpcy1hc2FuYS10cmFja2luZzoKICAgIGRyaXZlcjogbG9jYWwK</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gcHJldmlldyhyZXEucXVlcnkuaGFzaCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgLSByZWRpcy1hc2FuYS10cmFja2luZzovZGF0YQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5LnRyYWNrX2lkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldCgnL3Byb2dyZXNzJywgcm91dGVzLmdldFByb2dlc3MpLAo=</text>
+        <text encoding="base64">ICAgIGdldCgnL3Byb2dyZXNzJywgcm91dGVzLmdldFByb2dlc3MpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>action TabShiftActions.MoveFocusDown</text>
       </register>
     </registers>
     <search>
@@ -5053,13 +5039,13 @@
         <entry>action Macro.wrapSingleQuotes</entry>
         <entry>x</entry>
         <entry>e docker-compose.override.yml</entry>
-        <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action TabShiftActions.MoveFocusDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
