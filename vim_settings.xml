@@ -509,10 +509,11 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/metadata.js" timestamp="1522942401848">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/metadata.js" timestamp="1523024411972">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/node/index.js" timestamp="1482228312142">
         <mark key="[" line="0" column="18" />
@@ -4488,11 +4489,11 @@
         <mark key="^" line="54" column="59" />
         <mark key="." line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/atmosphere/api.js" timestamp="1523008834322">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-        <mark key="^" line="27" column="34" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/atmosphere/api.js" timestamp="1523023317322">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="28" column="34" />
       </file>
       <file name="$USER_HOME$/code/go/3rdparty/src/github.com/boedy/go-libshout/libshout.go" timestamp="1445600766409">
         <mark key="[" line="180" column="4" />
@@ -4566,11 +4567,10 @@
         <mark key="." line="137" column="58" />
         <mark key="^" line="137" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/google-play/index.js" timestamp="1522940776777">
-        <mark key="[" line="83" column="43" />
-        <mark key="]" line="67" column="96" />
-        <mark key="." line="67" column="96" />
-        <mark key="^" line="67" column="96" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/google-play/index.js" timestamp="1523023817420">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="55" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/DeleteTrackFromStorage.php" timestamp="1496839697216">
         <mark key="[" line="35" column="0" />
@@ -4638,11 +4638,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" timestamp="1522944726253">
-        <mark key="[" line="367" column="9" />
-        <mark key="]" line="367" column="10" />
-        <mark key="." line="367" column="10" />
-        <mark key="^" line="367" column="10" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" timestamp="1523024368793">
+        <mark key="[" line="354" column="13" />
+        <mark key="]" line="354" column="18" />
+        <mark key="." line="354" column="18" />
+        <mark key="^" line="354" column="18" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/instore-frontend/src/app/app.md.scss" timestamp="1487880392486">
         <mark key="[" line="111" column="19" />
@@ -4991,8 +4991,8 @@
       <jump line="5" column="28" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>emptyDirSync</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5004,43 +5004,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>emptyDirSync</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe3NlYXJjaFF1ZXJ5OiB7YXJ0aXN0LCB0cmFja319KTsK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKHRyYWNrKSA9PiBtZXRhZGF0YS53cml0ZSh0cmFjaywgZmlsZU5hbWUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIC8vIG1ldGFkYXRhLmFydGlzdCA9ICcnOwogICAgICAvLyBsZXQgZmlyc3QgPSB0cnVlOwogICAgICAvLyB0cmFja0luZm9zLkFSVElTVFMuZm9yRWFjaChmdW5jdGlvbiAodHJhY2tBcnRpc3QpIHsKICAgICAgLy8gICBpZiAoZmlyc3QpIHsKICAgICAgLy8gICAgIG1ldGFkYXRhLmFydGlzdCA9IHRyYWNrQXJ0aXN0LkFSVF9OQU1FOwogICAgICAvLyAgICAgZmlyc3QgPSBmYWxzZTsKICAgICAgLy8gICB9IGVsc2UgewogICAgICAvLyAgICAgbWV0YWRhdGEuYXJ0aXN0ICs9ICcsICcgKyB0cmFja0FydGlzdC5BUlRfTkFNRTsKICAgICAgLy8gICB9CiAgICAgIC8vIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBhd2FpdCB0ZXN0KCk7Cg==</text>
+      <register name="2" type="4">
+        <text>) {
+    
+  } else {
+  }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmV3IFByb20K</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gZmlsZU5hbWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KHdpbmRvdy5jbG9zZSwgMTAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBhd2FpdCB0ZXN0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gbmV3IFByb20K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KHdpbmRvdy5jbG9zZSwgMTAwMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnb29nbGUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBqb2IgPSBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
