@@ -858,11 +858,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1523008629007">
-        <mark key="[" line="89" column="10" />
-        <mark key="]" line="90" column="25" />
-        <mark key="." line="90" column="25" />
-        <mark key="^" line="90" column="25" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1523264728854">
+        <mark key="[" line="90" column="48" />
+        <mark key="]" line="90" column="57" />
+        <mark key="." line="90" column="57" />
+        <mark key="^" line="90" column="57" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/config/main.php" timestamp="1487694630285">
         <mark key="[" line="54" column="26" />
@@ -1855,6 +1855,7 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1523261389487" />
       <file name="$USER_HOME$/projects/kollekt/backend/wercker.yml" timestamp="1487597819832">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="38" />
@@ -4974,7 +4975,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">MjAwMCwg</text>
+        <text>{searchQuery: null}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4986,44 +4987,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MjAwMCwg</text>
+        <text>{searchQuery: null}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>track.coverArtUrl</text>
+        <text>{artist: '', track: '', playlists: []}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGBodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9tdXNpYy9wbGF5cHJldmlldz91PTAmcHJldmlldz0ke3ByZXZpZXdUb2tlbn0mbW9kZT1zdHJlYW1pbmdgKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXNldHRpbmcnKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGBodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9tdXNpYy9wbGF5cHJldmlldz91PTAmcHJldmlldz0ke3ByZXZpZXdUb2tlbn0mbW9kZT1zdHJlYW1pbmdgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0cmFjayk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLm9uKCdlcnJvcicsIHJlamVjdCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0cmFjayk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgLm9uKCdlcnJvcicsIHJlamVjdCkK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLm9uKCdlcnJvcicsIHJlamVjdCkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhbGJ1bUNvdmVyRmlsZS5lbmQoKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>function(err) {
       }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGh0dHBzLmdldCh1cmwsIGZ1bmN0aW9uIChyZXNwb25zZSkgewoKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
