@@ -858,11 +858,10 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1523358943544">
-        <mark key="[" line="78" column="52" />
-        <mark key="]" line="79" column="21" />
-        <mark key="^" line="79" column="21" />
-        <mark key="." line="79" column="21" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/App.js" timestamp="1523365289182">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="52" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/config/main.php" timestamp="1487694630285">
         <mark key="[" line="54" column="26" />
@@ -1020,10 +1019,11 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/scraper.js" timestamp="1523294344327">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/scraper.js" timestamp="1523365669759">
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="19" column="64" />
+        <mark key="^" line="19" column="76" />
+        <mark key="." line="19" column="10" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/team-dashboard/.env-wercker" timestamp="1510570741737">
         <mark key="[" line="2" column="17" />
@@ -1378,6 +1378,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="52" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/background.js" timestamp="1523363744758">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/node_modules/lame/lib/decoder.js" timestamp="1489862970828">
         <mark key="[" line="4" column="0" />
@@ -2578,15 +2583,16 @@
         <mark key="." line="58" column="77" />
         <mark key="^" line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/content-script.js" timestamp="1523359413744">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/content-script.js" timestamp="1523365764478">
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="28" />
+        <mark key="." line="63" column="28" />
+        <mark key="^" line="63" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/spotify.js" timestamp="1523361167881">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/spotify.js" timestamp="1523365154512">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="72" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/Playlist/PlaylistRepository.php" timestamp="1475050312296">
         <mark key="[" line="13" column="29" />
@@ -4960,7 +4966,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">d2luZG93Lm9uaGFzaGNoYW5nZSA9IGZ1bmN0aW9uKCkgewogIGNvbnNvbGUubG9nKCdVUkwgaGFzIGhhbmdlZCcpOwogIGxvYWRlZCgpOwp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RNZXNzYWdlKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4972,43 +4978,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>event.target.classList.contains('modal-click-shield')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>document.getElementsByClassName('tracklist-col more');</text>
+        <text>document.getElementsByClassName('track-info__artists')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2luZG93Lm9uaGFzaGNoYW5nZSA9IGZ1bmN0aW9uKCkgewogIGNvbnNvbGUubG9nKCdVUkwgaGFzIGhhbmdlZCcpOwogIGxvYWRlZCgpOwp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RNZXNzYWdlKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgY2FudmFzID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ215LWNhbnZhcycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZUNhbnZhcyhjYW52YXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdE1lc3NhZ2UgPSB7dGFyZ2V0OidiYWNrc3RhZ2UnLCBkYXRhOnNjcmFwZSgpfTsKICAgICAgICAgICAgY2hyb21lLmV4dGVuc2lvbi5zZW5kUmVxdWVzdChsYXN0TWVzc2FnZS5kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWRkVG9CYWNrc3RhZ2VCdXR0b24uc2V0QXR0cmlidXRlKCdvbmNsaWNrJywnd3JpdGVMRUQoMSwxKScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hyb21lLmV4dGVuc2lvbi5zZW5kUmVxdWVzdChsYXN0TWVzc2FnZS5kYXRhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRUb0JhY2tzdGFnZUJ1dHRvbi5vbmNsaWNrID0gKCkgPT4gewogICAgICAgICAgd2luZG93LnBvc3RNZXNzYWdlKHt0YXJnZXQ6J2JhY2tzdGFnZScsIGRhdGE6e2FydGlzdCwgdHJhY2t9fSwgIioiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZWFyY2goYXJ0aXN0LCB0cmFjayk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgICAgd2luZG93LnBvc3RNZXNzYWdlKHt0YXJnZXQ6J2JhY2tzdGFnZScsIGRhdGE6e2FydGlzdCwgdHJhY2t9fSwgIioiKTsKICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIHRoaXMuc2VhcmNoKGFydGlzdCwgdHJhY2spOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2V4aXN0cycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY2hyb21lLmV4dGVuc2lvbi5zZW5kUmVxdWVzdChsYXN0TWVzc2FnZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXhpc3RzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LnBvc3RNZXNzYWdlKH0sICIqIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFydGlzdCwgdHJhY2spOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdE1lc3NhZ2UuZGF0YSA9IHNjcmFwZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
