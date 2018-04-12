@@ -1261,8 +1261,10 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/test/sonos/sonos-cq-server-sample-0.2.42/config.json" timestamp="1523542832121">
-        <mark key="[" line="1" column="31" />
+      <file name="$USER_HOME$/projects/test/sonos/sonos-cq-server-sample-0.2.42/config.json" timestamp="1523546570181">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineEventRepository.php" timestamp="1499895513696">
         <mark key="[" line="37" column="37" />
@@ -2886,8 +2888,11 @@
         <mark key="." line="47" column="49" />
         <mark key="^" line="47" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/test/sonos-js-control-api-sample-app-0.3.12/javascripts/sonos/playbackSession.js" timestamp="1523543729108">
-        <mark key="[" line="109" column="38" />
+      <file name="$USER_HOME$/projects/test/sonos-js-control-api-sample-app-0.3.12/javascripts/sonos/playbackSession.js" timestamp="1523545773571">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="100" column="38" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/node_modules/jsonwebtoken/verify.js" timestamp="1519651306341">
         <mark key="[" line="82" column="16" />
@@ -3003,7 +3008,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523543060755">
+      <file name="/Dummy.txt" timestamp="1523546844545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -3896,6 +3901,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="^" line="24" column="7" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/test/sonos/sonos-cq-server-sample-0.2.42/app/controllers/sonosInterfaceController.js" timestamp="1523547178561">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="70" column="1" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Agreement/Curator.php" timestamp="1487873573313">
         <mark key="[" line="11" column="0" />
@@ -4978,8 +4989,8 @@
       <jump line="5" column="28" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>window.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgInR5cGUiOiAic3RhdGlvbiIsCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4991,43 +5002,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>window.</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5wbGF5YmFja1Nlc3Npb24gPSByZXF1aXJlKCcuLi9qYXZhc2NyaXB0cy9zb25vcy9wbGF5YmFja1Nlc3Npb24nKTsK</text>
+        <text encoding="base64">ICAgIHJlcy5zdGF0dXMoMjAwKS5qc29uKHsKICAgICAgICBxdWV1ZVZlcnNpb246IHF1ZXVlLmdldFZlcnNpb24oKSwKICAgICAgICBpdGVtczogdHJhY2tzLAogICAgICAgIGluY2x1ZGVzQmVnaW5uaW5nT2ZRdWV1ZTogcmFuZ2VSZXN1bHQuaW5jbHVkZXNCZWdpbm5pbmdPZlF1ZXVlLAogICAgICAgIGluY2x1ZGVzRW5kT2ZRdWV1ZTogcmFuZ2VSZXN1bHQuaW5jbHVkZXNFbmRPZlF1ZXVlCiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5wbGF5YmFjayA9IFNvbm9zUGxheWJhY2s7CiAgICB3aW5kb3cucGxheWJhY2tTZXNzaW9uID0gcmVxdWlyZSgnLi4vamF2YXNjcmlwdHMvc29ub3MvcGxheWJhY2tTZXNzaW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgInR5cGUiOiAic3RhdGlvbiIsCg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">d2luZG93LnBsYXliYWNrID0gU29ub3NQbGF5YmFjazsKd2luZG93LnBsYXliYWNrU2Vzc2lvbiA9IHJlcXVpcmUoJy4uL2phdmFzY3JpcHRzL3Nvbm9zL3BsYXliYWNrU2Vzc2lvbicpOwo=</text>
+      <register name="3" type="4">
+        <text>{
+  }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+      <register name="4" type="4">
+        <text>{
+    &quot;contextVersion&quot;: &quot;1&quot;,
+    queueVersion: queue.getVersion(),
+    &quot;container&quot;: {
+      &quot;type&quot;: &quot;station&quot;,
+      &quot;name&quot;: &quot;Atmosphere&quot;,
+      &quot;imageUrl&quot;: &quot;https://klets.com/__user_assets/5cd1446bc1087e36d8724e60804f6bd8a589be28.png&quot;,
+    },
+    &quot;playbackPolicies&quot;: {
+      &quot;canSkip&quot;: true,
+      &quot;limitedSkips&quot;: true,
+      &quot;canSkipToItem&quot;: false,
+      &quot;canSkipBack&quot;: false,
+      &quot;canSeek&quot;: false,
+      &quot;canCrossfade&quot;: true,
+      &quot;showNNextTracks&quot;: 3,
+      &quot;showNPreviousTracks&quot;: 0
+    }
+  }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0ZW1zOiB0cmFja3MsCiAgICBpbmNsdWRlc0JlZ2lubmluZ09mUXVldWU6IHJhbmdlUmVzdWx0LmluY2x1ZGVzQmVnaW5uaW5nT2ZRdWV1ZSwKICAgIGluY2x1ZGVzRW5kT2ZRdWV1ZTogcmFuZ2VSZXN1bHQuaW5jbHVkZXNFbmRPZlF1ZXVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhcnRpc3QgPSBwYXJlbnQucXVlcnlTZWxlY3RvcignLmFydGlzdHMtYWxidW0gLmxpbmstc3VidGxlJykuaW5uZXJIVE1MOwo=</text>
+        <text encoding="base64">ICAgICJxdWV1ZVZlcnNpb24iOiAiMSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBbMF0ucXVlcnlTZWxlY3RvcignaDEnKS5pbm5lckhUTUwK</text>
+        <text encoding="base64">ICAgICJjb250ZXh0VmVyc2lvbiI6ICIxIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgID8gJ2h0dHBzOi8vYXBpLmRpZ2dlci5rb2xsZWt0LmZtOjgwMDAnLAo=</text>
+        <text encoding="base64">ICAgICJjb250ZXh0VmVyc2lvbiI6ICIxIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RNZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgIHF1ZXVlVmVyc2lvbjogcXVldWUuZ2V0VmVyc2lvbigpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
