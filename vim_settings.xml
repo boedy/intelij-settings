@@ -263,11 +263,12 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/remotePlayerRepo.js" timestamp="1523610282890">
-        <mark key="[" line="30" column="2" />
-        <mark key="]" line="30" column="8" />
-        <mark key="^" line="30" column="8" />
-        <mark key="." line="30" column="8" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/remotePlayerRepo.js" timestamp="1523611665178">
+        <mark key="'" line="92" column="4" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="70" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="101" column="41" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Comment/Commentable.php" timestamp="1499776458521">
         <mark key="[" line="13" column="38" />
@@ -4877,7 +4878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="72" column="9" filename="$USER_HOME$/projects/atmosphere/content-digger/deezer/deezer-api.js" />
       <jump line="368" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/deezer/deezer-api.js" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/vpn/Dockerfile" />
@@ -4977,10 +4977,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.wercker.yml" />
       <jump line="6" column="33" filename="$USER_HOME$/projects/atmosphere/content-digger/src/processes/downloadProcess.js" />
       <jump line="5" column="28" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" />
+      <jump line="92" column="4" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/remotePlayerRepo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3Qgc2VydmljZVR5cGUgPSAndXJuOnNtYXJ0c3BlYWtlci1hdWRpbzpzZXJ2aWNlOlNwZWFrZXJHcm91cDoxJzsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4992,79 +4993,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2RvXD4=</text>
+        <text encoding="base64">XDx3aW5kb3dcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcy5zdGF0dXMoMjAwKS5qc29uKHsKICAgICAgICBxdWV1ZVZlcnNpb246IHF1ZXVlLmdldFZlcnNpb24oKSwKICAgICAgICBpdGVtczogdHJhY2tzLAogICAgICAgIGluY2x1ZGVzQmVnaW5uaW5nT2ZRdWV1ZTogcmFuZ2VSZXN1bHQuaW5jbHVkZXNCZWdpbm5pbmdPZlF1ZXVlLAogICAgICAgIGluY2x1ZGVzRW5kT2ZRdWV1ZTogcmFuZ2VSZXN1bHQuaW5jbHVkZXNFbmRPZlF1ZXVlCiAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text>setTimeout(fetchDevicesWhileActive, FETCH_INTERVAL)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiOiAic3RhdGlvbiIsCg==</text>
+        <text encoding="base64">Y29uc3Qgc2VydmljZVR5cGUgPSAndXJuOnNtYXJ0c3BlYWtlci1hdWRpbzpzZXJ2aWNlOlNwZWFrZXJHcm91cDoxJzsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvLyBmZXRjaFRvcG9sb2d5KCkKICAvLyAgIC5jYXRjaCgoKSA9PiB7fSkKICAvLyAgIC50aGVuKCgpID0+IHNldFRpbWVvdXQoZmV0Y2hEZXZpY2VzV2hpbGVBY3RpdmUsIEZFVENIX0lOVEVSVkFMKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-    &quot;contextVersion&quot;: &quot;1&quot;,
-    queueVersion: queue.getVersion(),
-    &quot;container&quot;: {
-      &quot;type&quot;: &quot;station&quot;,
-      &quot;name&quot;: &quot;Atmosphere&quot;,
-      &quot;imageUrl&quot;: &quot;https://klets.com/__user_assets/5cd1446bc1087e36d8724e60804f6bd8a589be28.png&quot;,
-    },
-    &quot;playbackPolicies&quot;: {
-      &quot;canSkip&quot;: true,
-      &quot;limitedSkips&quot;: true,
-      &quot;canSkipToItem&quot;: false,
-      &quot;canSkipBack&quot;: false,
-      &quot;canSeek&quot;: false,
-      &quot;canCrossfade&quot;: true,
-      &quot;showNNextTracks&quot;: 3,
-      &quot;showNPreviousTracks&quot;: 0
-    }
-  }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC5jYXRjaCgoKSApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGl0ZW1zOiB0cmFja3MsCiAgICBpbmNsdWRlc0JlZ2lubmluZ09mUXVldWU6IHJhbmdlUmVzdWx0LmluY2x1ZGVzQmVnaW5uaW5nT2ZRdWV1ZSwKICAgIGluY2x1ZGVzRW5kT2ZRdWV1ZTogcmFuZ2VSZXN1bHQuaW5jbHVkZXNFbmRPZlF1ZXVlCg==</text>
+        <text encoding="base64">ICB3aW5kb3cuc2VydmljZURpc2NvdmVyeS5nZXROZXR3b3JrU2VydmljZXMoc2VydmljZVR5cGUsIHN1Y2Nlc3MsIGZhaWx1cmUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJxdWV1ZVZlcnNpb24iOiAiMSIsCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBTaW1pbGFyIHRvIHRoZSBXM0Mgc3BlY2lmaWNhdGlvbiBmb3IgTmV0d29yayBTZXJ2aWNlIERpc2NvdmVyeSBhcGkgJ2h0dHA6Ly93d3cudzMub3JnL1RSL2Rpc2NvdmVyeS1hcGkvJwogICAqIEBtZXRob2QgZ2V0TmV0d29ya1NlcnZpY2VzCiAgICogQHBhcmFtIHtTdHJpbmd9IHNlcnZpY2VUeXBlIGUuZy4gInVybjpzY2hlbWFzLXVwbnAtb3JnOnNlcnZpY2U6Q29udGVudERpcmVjdG9yeToxIiwgInNzZHA6YWxsIiwgInVybjpzY2hlbWFzLXVwbnAtb3JnOnNlcnZpY2U6QVZUcmFuc3BvcnQ6MSIKICAgKiBAcGFyYW0ge0Z1bmN0aW9ufSBzdWNjZXNzIGNhbGxiYWNrIGFuIGFycmF5IG9mIHNlcnZpY2VzCiAgICogQHBhcmFtIHtGdW5jdGlvbn0gZmFpbHVyZSBjYWxsYmFjawogICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjb250ZXh0VmVyc2lvbiI6ICIxIiwK</text>
+        <text encoding="base64">ICBjb25zdCB7IGRpc2NvdmVyeU1hbmFnZXIgfSA9IHdpbmRvdy5Db25uZWN0U0RLOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjb250ZXh0VmVyc2lvbiI6ICIxIiwK</text>
+        <text encoding="base64">ICBjb25zdCB7IGRpc2NvdmVyeU1hbmFnZXIgfSA9IHdpbmRvdy5Db25uZWN0U0RLOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHF1ZXVlVmVyc2lvbjogcXVldWUuZ2V0VmVyc2lvbigpLAo=</text>
+        <text encoding="base64">ICBhY3RpdmUgPSB0cnVlOwogIC8qKgogICAqIFNpbWlsYXIgdG8gdGhlIFczQyBzcGVjaWZpY2F0aW9uIGZvciBOZXR3b3JrIFNlcnZpY2UgRGlzY292ZXJ5IGFwaSAnaHR0cDovL3d3dy53My5vcmcvVFIvZGlzY292ZXJ5LWFwaS8nCiAgICogQG1ldGhvZCBnZXROZXR3b3JrU2VydmljZXMKICAgKiBAcGFyYW0ge1N0cmluZ30gc2VydmljZVR5cGUgZS5nLiAidXJuOnNjaGVtYXMtdXBucC1vcmc6c2VydmljZTpDb250ZW50RGlyZWN0b3J5OjEiLCAic3NkcDphbGwiLCAidXJuOnNjaGVtYXMtdXBucC1vcmc6c2VydmljZTpBVlRyYW5zcG9ydDoxIgogICAqIEBwYXJhbSB7RnVuY3Rpb259IHN1Y2Nlc3MgY2FsbGJhY2sgYW4gYXJyYXkgb2Ygc2VydmljZXMKICAgKiBAcGFyYW0ge0Z1bmN0aW9ufSBmYWlsdXJlIGNhbGxiYWNrCiAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2RvXD4=</last-search>
+      <last-search encoding="base64">XDx3aW5kb3dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2RvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx3aW5kb3dcPg==</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxwaW5jb2RlXD4=</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
@@ -5084,6 +5065,7 @@
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDx0aGVuXD4=</entry>
         <entry encoding="base64">XDx0b2RvXD4=</entry>
+        <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action SplitHorizontally</entry>
