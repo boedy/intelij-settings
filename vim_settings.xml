@@ -2602,11 +2602,10 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/test/sonos-js-control-api-sample-app-0.3.12/javascripts/sonos/connector.js" timestamp="1523632335554">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="181" column="36" />
-        <mark key="^" line="181" column="36" />
-        <mark key="." line="181" column="36" />
+      <file name="$USER_HOME$/projects/test/sonos-js-control-api-sample-app-0.3.12/javascripts/sonos/connector.js" timestamp="1523634607312">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/ProblemFinder.php" timestamp="1493484700153">
         <mark key="[" line="13" column="59" />
@@ -4986,8 +4985,8 @@
       <jump line="92" column="4" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/remotePlayerRepo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>updatedDevice</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoZWNrU2VydmVySWRlbnRpdHk6ICgpID0+IHsgcmV0dXJuIHVuZGVmaW5lZDsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4999,7 +4998,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>updatedDevice</text>
+        <text>self.subProtocol</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
@@ -5008,34 +5007,34 @@
         <text encoding="base64">ICAgIC50aGVuKGdyb3VwcyA9PiBtYXBTb25vc0dyb3Vwcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cGRhdGVkRGV2aWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoZWNrU2VydmVySWRlbnRpdHk6ICgpID0+IHsgcmV0dXJuIHVuZGVmaW5lZDsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGdyb3VwcyA9IHt9Owo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cGRhdGVkRGV2aWNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGdyb3VwcyA9IHt9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbWFwU29ub3NHcm91cHMoZ3JvdXBzKSB7CiAgcmV0dXJuIGdyb3Vwcy5tYXAoaXRlbSA9PiB7CiAgICByZXR1cm4gZ3JvdXA7CiAgfSk7Cn0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb250cm9sbGVycyA9IG1hcFNvbm9zR3JvdXBzKF9kZXZpY2VzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdyb3VwID0gaXRlbTsKICAgIGdyb3VwLmlkID0gaXRlbVsnR3JvdXBpbmZvLlNtYXJ0c3BlYWtlci5BdWRpbyddLm1hdGNoKC9naWQ9KC4qPyk7LylbMV07CiAgICBncm91cC5uYW1lID0gaXRlbVsnR3JvdXBpbmZvLlNtYXJ0c3BlYWtlci5BdWRpbyddLm1hdGNoKC9nbmFtZT0iKC4qPykiLylbMV07CiAgICBncm91cC5pc0NvcmRpbmF0b3IgPSAhIWl0ZW1bJ0dyb3VwaW5mby5TbWFydHNwZWFrZXIuQXVkaW8nXS5tYXRjaCgvZ2M9KFswMV0/KTsvKVsxXTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZ3JvdXBzID0ge307Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gbWFwU29ub3NHcm91cHMoZ3JvdXBzKSB7CiAgcmV0dXJuIGdyb3Vwcy5tYXAoaXRlbSA9PiB7CiAgICByZXR1cm4gZ3JvdXA7CiAgfSk7Cn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb250cm9sbGVycyA9IG1hcFNvbm9zR3JvdXBzKF9kZXZpY2VzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGdyb3VwID0gaXRlbTsKICAgIGdyb3VwLmlkID0gaXRlbVsnR3JvdXBpbmZvLlNtYXJ0c3BlYWtlci5BdWRpbyddLm1hdGNoKC9naWQ9KC4qPyk7LylbMV07CiAgICBncm91cC5uYW1lID0gaXRlbVsnR3JvdXBpbmZvLlNtYXJ0c3BlYWtlci5BdWRpbyddLm1hdGNoKC9nbmFtZT0iKC4qPykiLylbMV07CiAgICBncm91cC5pc0NvcmRpbmF0b3IgPSAhIWl0ZW1bJ0dyb3VwaW5mby5TbWFydHNwZWFrZXIuQXVkaW8nXS5tYXRjaCgvZ2M9KFswMV0/KTsvKVsxXTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgZ3JvdXBzID0ge307Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZmlsdGVyQ29udHJvbGxlcnMoY3RybElQcykgewogIGNvbnRyb2xsZXJzID0gZGV2aWNlcwogICAgLmZpbHRlcihkID0+IHsKICAgICAgY29uc3QgaXAgPSBkLl9kZXNjLmlwQWRkcmVzcyB8fCBkLl9kZXNjLmxhc3RLbm93bklQQWRkcmVzczsgLy8gaU9TLCBBbmRyb2lkIHJlc3BlY3RpdmVseQogICAgICByZXR1cm4gaXAgPT09IGN0cmxJUHNbaXBdOwogICAgfSkKICAgIC5tYXAoYyA9PiBuZXcgUmVtb3RlUGxheWVyKGMpKTsKICByZXR1cm4gY29udHJvbGxlcnM7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
