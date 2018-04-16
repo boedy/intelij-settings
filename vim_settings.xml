@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="21" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" protocol="file" />
     </globalmarks>
@@ -1254,10 +1254,11 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/platforms/android/src/com/homecontrol/CordovaWebsocketPlugin.java" timestamp="1523903457748">
-        <mark key="[" line="242" column="27" />
-        <mark key="]" line="242" column="27" />
-        <mark key="." line="242" column="27" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/platforms/android/src/com/homecontrol/CordovaWebsocketPlugin.java" timestamp="1523904858554">
+        <mark key="[" line="163" column="67" />
+        <mark key="]" line="167" column="24" />
+        <mark key="." line="167" column="24" />
+        <mark key="^" line="167" column="24" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Http/routes.php" timestamp="1482859410665">
         <mark key="[" line="24" column="0" />
@@ -5016,36 +5017,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKFRBRywgZS5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFncmFtU29ja2V0LnJlY2VpdmUobmV3IERhdGFncmFtUGFja2V0KGRhdGEsIGRhdGEubGVuZ3RoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFncmFtU29ja2V0LnJlY2VpdmUobmV3IERhdGFncmFtUGFja2V0KGRhdGEsIGRhdGEubGVuZ3RoKSk7Cg==</text>
+      </register>
+      <register name="3" type="8">
         <text>//
 //
 //</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LndpZmkuV2lmaU1hbmFnZXI7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LndpZmkuV2lmaUluZm87Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgV2lmaU1hbmFnZXIgd2lmaU1nciA9IChXaWZpTWFuYWdlcikgY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuV0lGSV9TRVJWSUNFKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgV2lmaU1hbmFnZXIgd2lmaU1nciA9IChXaWZpTWFuYWdlcikgY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuV0lGSV9TRVJWSUNFKTsKICAgICAgICAgICAgV2lmaUluZm8gd2lmaUluZm8gPSB3aWZpTWdyLmdldENvbm5lY3Rpb25JbmZvKCk7CiAgICAgICAgICAgIGludCBpcCA9IHdpZmlJbmZvLmdldElwQWRkcmVzcygpOwogICAgCiAgICAgICAgICAgICAgICBieXRlW10gaXBBZGRyZXNzID0gY29udmVydElwQWRkcmVzcyhpcCk7CiAgICAgICAgICAgICAgICBzR3JvdXAgSW5ldEFkZHJlc3MuZ2V0QnlBZGRyZXNzKGlwQWRkcmVzcyk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlwID09IDApIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2Ugewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2lmaU1hbmFnZXIgd2lmaU1nciA9IChXaWZpTWFuYWdlcikgY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuV0lGSV9TRVJWSUNFKTsKICAgICAgICAgICAgV2lmaUluZm8gd2lmaUluZm8gPSB3aWZpTWdyLmdldENvbm5lY3Rpb25JbmZvKCk7CiAgICAgICAgICAgIGludCBpcCA9IHdpZmlJbmZvLmdldElwQWRkcmVzcygpOwogICAgCiAgICAgICAgICAgIGlmIChpcCA9PSAwKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIGJ5dGVbXSBpcEFkZHJlc3MgPSBjb252ZXJ0SXBBZGRyZXNzKGlwKTsKICAgICAgICAgICAgICAgIHJldHVybiBJbmV0QWRkcmVzcy5nZXRCeUFkZHJlc3MoaXBBZGRyZXNzKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlwID09IDApIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
