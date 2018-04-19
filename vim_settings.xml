@@ -577,6 +577,12 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/index.js" timestamp="1524134668862">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="36" column="18" />
+        <mark key="^" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/test/soulseek/robot/mouse.js" timestamp="1503307068013">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
@@ -1265,7 +1271,7 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/test/sonos/ssdp-cordova/config.xml" timestamp="1524133323602" />
+      <file name="$USER_HOME$/projects/test/sonos/ssdp-cordova/config.xml" timestamp="1524134532045" />
       <file name="$USER_HOME$/projects/test/sonos/sonos-cq-server-sample-0.2.42/config.json" timestamp="1523546570181">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="33" />
@@ -1991,6 +1997,12 @@
         <mark key="]" line="89" column="10" />
         <mark key="." line="91" column="77" />
         <mark key="^" line="91" column="77" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonosCloudQueue.js" timestamp="1524134565155">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/events/EventPublisher.js" timestamp="1521643995901">
         <mark key="[" line="15" column="13" />
@@ -4565,7 +4577,7 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/config.xml" timestamp="1523980441480">
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/config.xml" timestamp="1524134800334">
         <mark key="[" line="14" column="51" />
         <mark key="]" line="14" column="51" />
         <mark key="^" line="19" column="74" />
@@ -5005,8 +5017,8 @@
       <jump line="349" column="24" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/platforms/android/src/com/scott/plugin/ServiceDiscovery.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhncm91cHMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>websqrver</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5018,16 +5030,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>websqrver</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>updatedDevice['GROUPINFO.SMARTSPEAKER.AUDIO']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCB7d2Vic2VydmVyfSA9IHdpbmRvdzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhncm91cHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
@@ -5036,27 +5048,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uKHJlcXVlc3QpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIk8gTUEgR0FXRCEgVGhpcyBpcyB0aGUgcmVxdWVzdDogIiwgcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZpY2VzKTsK</text>
-      </register>
-      <register name="6" type="8">
-        <text>updatedDevice['GROUPINFO.SMARTSPEAKER.AUDIO']
-updatedDevice['GROUPINFO.SMARTSPEAKER.AUDIO']
-updatedDevice['GROUPINFO.SMARTSPEAKER.AUDIO']</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZpY2UpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgd2Vic2VydmVyLnNlbmRSZXNwb25zZSgKICAgICAgICByZXF1ZXN0LnJlcXVlc3RJZCwKICAgICAgICB7CiAgICAgICAgICBzdGF0dXM6IDIwMCwKICAgICAgICAgIGJvZHk6ICc8aHRtbD5IZWxsbyBXb3JsZDwvaHRtbD4nLAogICAgICAgICAgaGVhZGVyczogewogICAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ3RleHQvaHRtbCcKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICk7Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text>window.
+window.</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">d2Vic2VydmVyLm9uUmVxdWVzdCgKICBmdW5jdGlvbihyZXF1ZXN0KSB7CiAgICBjb25zb2xlLmxvZygiTyBNQSBHQVdEISBUaGlzIGlzIHRoZSByZXF1ZXN0OiAiLCByZXF1ZXN0KTsKCiAgICB3ZWJzZXJ2ZXIuc2VuZFJlc3BvbnNlKAogICAgICByZXF1ZXN0LnJlcXVlc3RJZCwKICAgICAgewogICAgICAgIHN0YXR1czogMjAwLAogICAgICAgIGJvZHk6ICc8aHRtbD5IZWxsbyBXb3JsZDwvaHRtbD4nLAogICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICdDb250ZW50LVR5cGUnOiAndGV4dC9odG1sJwogICAgICAgIH0KICAgICAgfQogICAgKTsKICB9Cik7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFncmFtU29ja2V0LnJlY2VpdmUobmV3IERhdGFncmFtUGFja2V0KGRhdGEsIGRhdGEubGVuZ3RoKSk7Cg==</text>
+        <text encoding="base64">Ly8uLi4gYWZ0ZXIgYSBsb25nIGxvbmcgdGltZQovLyBzdG9wIHRoZSBzZXJ2ZXIKd2Vic2VydmVyLnN0b3AoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
