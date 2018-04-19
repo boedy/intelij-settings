@@ -2001,11 +2001,11 @@
         <mark key="." line="91" column="77" />
         <mark key="^" line="91" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonosCloudQueue.js" timestamp="1524136115717">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonosCloudQueue.js" timestamp="1524139885766">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/events/EventPublisher.js" timestamp="1521643995901">
         <mark key="[" line="15" column="13" />
@@ -5022,8 +5022,8 @@
       <jump line="349" column="24" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/platforms/android/src/com/scott/plugin/ServiceDiscovery.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCB7d2Vic2VydmVyfSA9IHdpbmRvdzsK</text>
+      <register name="&quot;" type="4">
+        <text>version</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5035,47 +5035,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>version</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB3ZWJzZXJ2ZXIgPSB3aW5kb3cud2Vic2VydmVyOwo=</text>
+        <text encoding="base64">ICAgIGNhc2UgJy92ZXJzaW9uJzoKICAgICAgYm9keSA9IHZlcnNpb24oKTsKICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB7d2Vic2VydmVyfSA9IHdpbmRvdzsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+      <register name="2" type="8">
+        <text>'
+'
+'
+'
+'
+'
+'
+'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>'
+'
+'</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uKHJlcXVlc3QpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIk8gTUEgR0FXRCEgVGhpcyBpcyB0aGUgcmVxdWVzdDogIiwgcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiTyBNQSBHQVdEISBUaGlzIGlzIHRoZSByZXF1ZXN0OiAiLCByZXF1ZXN0KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2Vic2VydmVyLnNlbmRSZXNwb25zZSgKICAgICAgICByZXF1ZXN0LnJlcXVlc3RJZCwKICAgICAgICB7CiAgICAgICAgICBzdGF0dXM6IDIwMCwKICAgICAgICAgIGJvZHk6ICc8aHRtbD5IZWxsbyBXb3JsZDwvaHRtbD4nLAogICAgICAgICAgaGVhZGVyczogewogICAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ3RleHQvaHRtbCcKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>window.
-window.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zdCB7d2Vic2VydmVyfSA9IHdpbmRvdzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusDown</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -5128,9 +5136,9 @@ window.</text>
         <entry>sp</entry>
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action AceJumpAction</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
