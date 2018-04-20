@@ -288,9 +288,9 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/RemotePlayer.js" timestamp="1524171136919">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="13" column="5" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/RemotePlayer.js" timestamp="1524172635960">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="43" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/search/index.js" timestamp="1521797050194">
         <mark key="[" line="3" column="0" />
@@ -659,6 +659,13 @@
         <mark key="^" line="31" column="27" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/connector.js" timestamp="1524174531270">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="66" column="39" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NotificationService.php" timestamp="1511975623090">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="46" column="0" />
@@ -996,11 +1003,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" timestamp="1524171229143">
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="21" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" timestamp="1524174213522">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/components/Common/styling.js" timestamp="1494347237398">
         <mark key="[" line="14" column="19" />
@@ -2637,11 +2644,10 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/test/sonos-js-control-api-sample-app-0.3.12/javascripts/sonos/connector.js" timestamp="1524172240248">
-        <mark key="[" line="200" column="24" />
-        <mark key="]" line="200" column="20" />
-        <mark key="^" line="200" column="20" />
-        <mark key="." line="200" column="20" />
+      <file name="$USER_HOME$/projects/test/sonos-js-control-api-sample-app-0.3.12/javascripts/sonos/connector.js" timestamp="1524172463256">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/ProblemFinder.php" timestamp="1493484700153">
         <mark key="[" line="13" column="59" />
@@ -3214,9 +3220,9 @@
         <mark key="." line="58" column="5" />
         <mark key="^" line="58" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/test/sonos-js-control-api-sample-app-0.3.12/views/index.js" timestamp="1523542606636">
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="50" column="69" />
+      <file name="$USER_HOME$/projects/test/sonos-js-control-api-sample-app-0.3.12/views/index.js" timestamp="1524174571354">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="112" />
         <mark key="^" line="50" column="69" />
         <mark key="." line="50" column="69" />
       </file>
@@ -4960,7 +4966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/deezer/deezer-api.js" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/vpn/Dockerfile" />
       <jump line="79" column="17" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/services/api.js" />
       <jump line="113" column="21" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/PlaylistItems.js" />
@@ -5060,10 +5065,11 @@
       <jump line="5" column="28" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" />
       <jump line="92" column="4" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/remotePlayerRepo.js" />
       <jump line="349" column="24" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/platforms/android/src/com/scott/plugin/ServiceDiscovery.java" />
+      <jump line="7" column="2" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/connector.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>connectionId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24ucGxheWJhY2sgPSBuZXcgU29ub3NQbGF5YmFjayhjb25uZWN0aW9uKTsgICAgICAgICAvLyBjb250cm9sIHBsYXliYWNrIGFuZCByZWNlaXZlIHBsYXliYWNrIGV2ZW50cwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5075,76 +5081,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>connectionId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYud2Vic29ja2V0LndzQ2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24ucGxheWJhY2sgPSBuZXcgU29ub3NQbGF5YmFjayhjb25uZWN0aW9uKTsgICAgICAgICAvLyBjb250cm9sIHBsYXliYWNrIGFuZCByZWNlaXZlIHBsYXliYWNrIGV2ZW50cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3Rpb24uc2VuZChtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9uT3BlbihzZWxmKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN1Y2Nlc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25PcGVuKHNlbGYpOwo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge3N0cmluZ30gaGlkIHRoZSBJRCBvZiB0aGUgU29ub3MgSG91c2Vob2xkIHRvIHdoaWNoIHRoZSB0YXJnZXQgZ3JvdXAgYmVsb25ncwogICAqIEBwYXJhbSB7c3RyaW5nfSBnaWQgdGhlIEdyb3VwIElEIG9mIHRoZSB0YXJnZXQgU29ub3MgZ3JvdXAKICAgKiBAcGFyYW0ge3N0cmluZ30gdXJsIHRoZSBXZWJTb2NrZXQgZW5kcG9pbnQgYWRkcmVzcyBvZiB0aGUgU29ub3MgZ3JvdXAncyBjb29yZGluYXRvcjsgaWYgdGhpcyBpcyBhIHdzczovLyBhZGRyZXNzLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uTWVzc2FnZShzZWxmLCBtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuaG91c2Vob2xkSWQgPSBoaWQ7CiAgICB0aGlzLmdyb3VwSWQgPSBnaWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25FcnJvcihzZWxmLCBlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgZ3JvdXBJZDogCiAgICAgIGhvdXNlaG9sZElkOiAK</text>
       </register>
-      <register name="6" type="4">
-        <text>.wsConnect(wsOptions,
-    function (recvEvent) {
-      console.log('Received callback from WebSocket: ' + recvEvent['callbackMethod']);
-      console.log(recvEvent['message']);
-    },
-    function (success) {
-      console.log(success);
-    },
-    function (error) {
-      console.log('Failed to connect to WebSocket: ' +
-        'code: ' + error['code'] +
-        ', reason: ' + error['reason'] +
-        ', exception: ' + error['exception']);
-    }
-  );</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY29ubmVjdG9yID0gCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-    function (recvEvent) {
-      console.log('Received callback from WebSocket: ' + recvEvent['callbackMethod']);
-      console.log(recvEvent['message']);
-    },
-    function (success) {
-      console.log(success);
-    },
-    function (error) {
-      console.log('Failed to connect to WebSocket: ' +
-        'code: ' + error['code'] +
-        ', reason: ' + error['reason'] +
-        ', exception: ' + error['exception']);
-    }
-  )</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc29ja2V0VXJsKTsK</text>
+        <text encoding="base64">ICAgIGlmICh0eXBlb2YgdGhpcy5jbG9zZVdlYnNvY2tldENvbm5lY3Rpb24gPT09ICdmdW5jdGlvbicpIHsKICAgICAgdGhpcy5jbG9zZVdlYnNvY2tldENvbm5lY3Rpb24oKTsKICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>new WebSocket({
-            tlsOptions: {
-                // ca: this._sonosCAs,
-                rejectUnauthorized: false,
-            }
-        });</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
