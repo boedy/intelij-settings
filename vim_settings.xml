@@ -659,9 +659,9 @@
         <mark key="^" line="31" column="27" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/connector.js" timestamp="1524218046200">
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/connector.js" timestamp="1524225289721">
         <mark key="'" line="9" column="2" />
-        <mark key="[" line="11" column="9" />
+        <mark key="[" line="35" column="16" />
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
@@ -1003,12 +1003,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" timestamp="1524218062528">
-        <mark key="'" line="23" column="49" />
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" timestamp="1524224947797">
+        <mark key="'" line="22" column="49" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="18" column="17" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/components/Common/styling.js" timestamp="1494347237398">
         <mark key="[" line="14" column="19" />
@@ -3299,6 +3299,7 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="/connector.js" timestamp="1524225278046" />
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Query/ShowDevicePassword.php" timestamp="1518555490678">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="44" />
@@ -5075,8 +5076,8 @@
       <jump line="23" column="49" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>groupId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5097,34 +5098,34 @@
         <text encoding="base64">Y29uc3Qgbm9vcCA9ICgpID0+IHt9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuam9pbk9yQ3JlYXRlU2Vzc2lvbiA9IHRoaXMuam9pbk9yQ3JlYXRlU2Vzc2lvbi5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuam9pbk9yQ3JlYXRlU2Vzc2lvbiA9IHRoaXMuam9pbk9yQ3JlYXRlU2Vzc2lvbi5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLm9uT3BlbihzZWxmKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLm9uT3BlbihzZWxmKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25uZWN0ZWQoKXsKCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5hbWVzcGFjZSA9IHRoaXMubmFtZXNwYWNlOwo=</text>
+        <text encoding="base64">ICBjb25uZWN0ZWQoKXsKCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGJvZHkgPT09IHVuZGVmaW5lZCkgewogICAgICAgIGJvZHkgPSB7fTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5hbWVzcGFjZSA9IHRoaXMubmFtZXNwYWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
