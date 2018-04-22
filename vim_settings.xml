@@ -1807,6 +1807,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/test/sonos/sonos-cq-server-sample-0.2.42/app/models/queue.js" timestamp="1524399735490" />
       <file name="$USER_HOME$/projects/docker/instore/app/Application/TrackService.php" timestamp="1446481419013">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="38" />
@@ -3074,7 +3075,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524396252881">
+      <file name="/Dummy.txt" timestamp="1524398403751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -3215,11 +3216,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" timestamp="1524396567164">
-        <mark key="[" line="135" column="14" />
-        <mark key="]" line="135" column="17" />
-        <mark key="." line="135" column="17" />
-        <mark key="^" line="135" column="17" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" timestamp="1524399948323">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="133" column="38" />
       </file>
       <file name="$USER_HOME$/projects/services/mariabackup/.env" timestamp="1520702325142">
         <mark key="[" line="2" column="8" />
@@ -5090,7 +5091,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aW5kb3cuc3RvcmU7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gewogICAgaXRlbXM6IG5vbkRlbGV0ZWRJdGVtcy5zbGljZShzdGFydCwgZW5kKSwKICAgIGluY2x1ZGVzQmVnaW5uaW5nT2ZRdWV1ZTogKHN0YXJ0ID09IDApLAogICAgaW5jbHVkZXNFbmRPZlF1ZXVlOiAoZW5kID49IG5vbkRlbGV0ZWRJdGVtcy5sZW5ndGgpCiAgfTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5102,43 +5103,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>trackIy</text>
+        <text>nonDeletedItems</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2VCb2R5ID0gUHJvbWlzZS5yZXNvbHZlKGNvbnRleHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVzQmVnaW5uaW5nT2ZRdWV1ZTogKHN0YXJ0ID09IDApLAogICAgaW5jbHVkZXNFbmRPZlF1ZXVlOiAoZW5kID49IG5vbkRlbGV0ZWRJdGVtcy5sZW5ndGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aW5kb3cuc3RvcmU7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gewogICAgaXRlbXM6IG5vbkRlbGV0ZWRJdGVtcy5zbGljZShzdGFydCwgZW5kKSwKICAgIGluY2x1ZGVzQmVnaW5uaW5nT2ZRdWV1ZTogKHN0YXJ0ID09IDApLAogICAgaW5jbHVkZXNFbmRPZlF1ZXVlOiAoZW5kID49IG5vbkRlbGV0ZWRJdGVtcy5sZW5ndGgpCiAgfTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZGlzcGF0Y2ggfSA9IHN0b3JlOwo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVzQmVnaW5uaW5nT2ZRdWV1ZTogdHJ1ZSwKICAgIGluY2x1ZGVzRW5kT2ZRdWV1ZTogZmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZihxdWVyeS5yZWFzb24gJiYgcXVlcnkucmVhc29uID09ICdza2lwTmV4dCcpewogICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gc3RvcmU7CiAgICBkaXNwYXRjaCh7IHR5cGU6ICdORVhUX1RSQUNLJywgcGF5bG9hZDogeyBwbGF5bGlzdElELCB0cmFja0lEIH0gfSk7CiAgfQoK</text>
+        <text encoding="base64">ICByZXR1cm4gOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpZihxdWVyeS5yZWFzb24gJiYgcXVlcnkucmVhc29uID09ICdza2lwTmV4dCcpewogICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gc3RvcmU7CiAgICBkaXNwYXRjaCh7IHR5cGU6ICdORVhUX1RSQUNLJywgcGF5bG9hZDogeyBwbGF5bGlzdElELCB0cmFja0lEIH0gfSk7CiAgfQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">UHJvbWlzZS5hbGwobmV4dElEcy5tYXAoYXN5bmMgKGlkKSA9PiB7CiAgICBjb25zdCB0cmFjayA9IHRyYWNrc1tpZF0udGl0bGUuc3BsaXQoJy0nKTsKICAgIGNvbnN0IHRyYWNrTmFtZSA9IHRyYWNrWzFdICYmIHRyYWNrWzFdLnRyaW0oKTsKICAgIGNvbnN0IGFydGlzdE5hbWUgPSB0cmFja1swXSAmJiB0cmFja1swXS50cmltKCk7CiAgICBjb25zdCBtZWRpYVVybCA9IGF3YWl0IGZpbGVTZXJ2ZXIuZ2V0VXJsRm9yRmlsZShtZWRpYUZpbGVzW2lkXSk7CiAgICByZXR1cm4gewogICAgICBpZCwKICAgICAgZGVsZXRlZDogZmFsc2UsCiAgICAgIHRyYWNrOiB7CiAgICAgICAgbmFtZTogdHJhY2tOYW1lLAogICAgICAgIGFydGlzdDogewogICAgICAgICAgbmFtZTogYXJ0aXN0TmFtZQogICAgICAgIH0sCiAgICAgICAgLy8gaW1hZ2VVcmw6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAvdHJhY2tzLzM4SVdYUDkwL2FydC8nLAogICAgICAgIG1lZGlhVXJsLAogICAgICAgIGNvbnRlbnRUeXBlOiAnYXVkaW8vbXBlZycKICAgICAgfSwKICAgIH07CiAgfSkp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZihxdWVyeS5yZWFzb24gJiYgcXVlcnkucmVhc29uID09ICdza2lwTmV4dCcpewogICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gc3RvcmU7CiAgICBkaXNwYXRjaCh7IHR5cGU6ICdORVhUX1RSQUNLJywgcGF5bG9hZDogeyBwbGF5bGlzdElELCB0cmFja0lEIH0gfSk7CiAgfQo=</text>
+        <text encoding="base64">ICB2YXIgc3RhcnQgPSAoaW5kZXggLSB0cmFja3NCZWZvcmUgPCAwKSA/IDAgOiBpbmRleCAtIHRyYWNrc0JlZm9yZTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gewogICAgcXVldWVWZXJzaW9uLAo=</text>
+      <register name="6" type="4">
+        <text>else{
+  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZihxdWVyeS5yZWFzb24gJiYgcXVlcnkucmVhc29uID09ICdza2lwTmV4dCcpewogICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gc3RvcmU7CiAgICBkaXNwYXRjaCh7IHR5cGU6ICdORVhUX1RSQUNLJywgcGF5bG9hZDogeyBwbGF5bGlzdElELCB0cmFja0lEIH0gfSk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5leHRJRHMgPSB0cmFja0lEcy5zbGljZShpbmRleCwgaW5kZXggKyAxMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5leHRJRHMgPSB0cmFja0lEcy5zbGljZShpbmRleCwgaW5kZXggKyAxMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZihxdWVyeS5yZWFzb24gJiYgcXVlcnkucmVhc29uID09ICdza2lwTmV4dCcpewogICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gc3RvcmU7CiAgICBkaXNwYXRjaCh7IHR5cGU6ICdORVhUX1RSQUNLJywgcGF5bG9hZDogeyBwbGF5bGlzdElELCB0cmFja0lEIH0gfSk7CiAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
