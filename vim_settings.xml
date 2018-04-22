@@ -660,11 +660,12 @@
         <mark key="^" line="31" column="27" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/connector.js" timestamp="1524414599209">
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/connector.js" timestamp="1524421469619">
         <mark key="'" line="9" column="2" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+        <mark key="[" line="144" column="3" />
+        <mark key="]" line="144" column="3" />
+        <mark key="." line="144" column="3" />
+        <mark key="^" line="85" column="42" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NotificationService.php" timestamp="1511975623090">
         <mark key="[" line="45" column="5" />
@@ -1003,12 +1004,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" timestamp="1524414750750">
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" timestamp="1524421524126">
         <mark key="'" line="24" column="49" />
-        <mark key="[" line="74" column="9" />
-        <mark key="]" line="74" column="9" />
-        <mark key="." line="74" column="9" />
-        <mark key="^" line="52" column="29" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="29" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/components/Common/styling.js" timestamp="1494347237398">
         <mark key="[" line="14" column="19" />
@@ -5096,8 +5096,8 @@
       <jump line="108" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuaXNDb25uZWN0ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5109,43 +5109,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29ubmVjdGVkID0gUHJvbWlzZS5yZWplY3QoKTsK</text>
+      <register name="0" type="4">
+        <text>{ started, finished, paused, resumed, error }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNDb25uZWN0ZWQ7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNDb25uZWN0ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuY29ubmVjdGVkLnJlc29sdmUoKTsK</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29ubmVjdGVkID0gbmV3IFByb21pc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NUT1AnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29ubmVjdGVkID0gUHJvbWlzZS5yZWplY3QoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQb3NpdGlvbicsIHRoaXMudGltZXIudGltZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNDb25uZWN0ZWQgPSBQcm9taXNlLnJlamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNDb25uZWN0ZWQgPSBuZXcgUHJvbWlzZSgpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNDb25uZWN0ZWQudGhlbigoKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuY29ubmVjdGVkLnJlc29sdmUoKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y2xvdWRRdWV1ZS5zdGFydCgpLnRoZW4odXJsID0+IHsKICAgICAgY29uc29sZS5sb2coJ3VybCcsIHVybCk7CiAgICAgIHJldHVybiB0aGlzLmNvbm5lY3Rpb24uY29ubmVjdCgpOwogICAgfSk7</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IG5ldyBQcm9taXNlKCk7CiAgICByZXR1cm4g</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRoaXMuaXNDb25uZWN0ZWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
