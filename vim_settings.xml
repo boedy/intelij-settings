@@ -834,11 +834,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Search/BackstageResults.js" timestamp="1522845946751">
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="61" />
-        <mark key="." line="214" column="54" />
-        <mark key="^" line="214" column="53" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/Search/BackstageResults.js" timestamp="1524490132190">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="151" column="23" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/tests/Kollekt/Billing/Scenario/BillingScenario.php" timestamp="1483718234393">
         <mark key="[" line="14" column="32" />
@@ -2820,10 +2820,11 @@
         <mark key="." line="84" column="61" />
         <mark key="^" line="84" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" timestamp="1523371946783">
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="38" />
-        <mark key="." line="62" column="38" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/src/services/api.js" timestamp="1524486518293">
+        <mark key="[" line="98" column="22" />
+        <mark key="]" line="98" column="36" />
+        <mark key="." line="98" column="36" />
+        <mark key="^" line="98" column="36" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/infrastructure/queries/curator/CuratorQuotaQuery.php" timestamp="1508495385881">
         <mark key="[" line="42" column="0" />
@@ -3084,7 +3085,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524483789357">
+      <file name="/Dummy.txt" timestamp="1524487166817">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -5100,8 +5101,8 @@
       <jump line="108" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ip</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbml0Jyk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5113,43 +5114,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ip</text>
+        <text>this.props.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>`http://${this.ip}:8080/musicqueue/v2.0/`</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMubWFwUGxheWxpc3RzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY3VycmVudFRyYWNrID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbml0Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZ2V0UXVldWVGcm9tSW5kZXgocXVlcnkpIHsKCn0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGRpc3BhdGNoIH0gPSBzdG9yZTsKICBjb25zdCBzdGF0ZSA9IHN0b3JlLmdldFN0YXRlKCk7CiAgcGxheWxpc3RJRCA9IHN0YXRlLnBsYXllci5wbGF5bGlzdDsKICBjb25zdCB0cmFja0lEcyA9IHN0YXRlLnBsYXllcnNbcGxheWxpc3RJRF0udHJhY2tzOwogIGNvbnN0IHRyYWNrcyA9IHN0YXRlLmVudGl0aWVzLnRyYWNrczsKICBjb25zdCBtZWRpYUZpbGVzID0gc3RhdGUuZmlsZXM7CiAgY29uc3QgcHJldmlvdXNXaW5kb3dTaXplID0gcGFyc2VJbnQocXVlcnkucHJldmlvdXNXaW5kb3dTaXplKTsKICBjb25zdCB1cGNvbWluZ1dpbmRvd1NpemUgPSBwYXJzZUludChxdWVyeS51cGNvbWluZ1dpbmRvd1NpemUpOwoKICBsZXQgaW5kZXggPSB0cmFja0lEcy5pbmRleE9mKHN0YXRlLnBsYXllcnNbcGxheWxpc3RJRF0uY3VycmVudCk7CiAgaW5kZXggPSBpbmRleCAhPT0gLTEgPyBpbmRleCA6IDA7CiAgLy8gcXVldWVWZXJzaW9uID0gaW5kZXg7CgogIGlmKHF1ZXJ5LnJlYXNvbiAmJiBxdWVyeS5yZWFzb24gPT0gJ3NraXBOZXh0Jyl7CiAgICBpbmRleCsrOwogICAgZGlzcGF0Y2goeyB0eXBlOiAnTkVYVF9UUkFDSycsIHBheWxvYWQ6IHsgcGxheWxpc3RJRCwgdHJhY2tJRDogdHJhY2tJRHNbaW5kZXhdIH0gfSk7CiAgICBjb25zb2xlLmxvZygnTkVYVF9UUkFDSycsIHRyYWNrSURzW2luZGV4XSk7CiAgfQoKICBjb25zdCBzdGFydCA9IGluZGV4IC0gcHJldmlvdXNXaW5kb3dTaXplIDwgMCA/IDAgOiBpbmRleCAtIHByZXZpb3VzV2luZG93U2l6ZTsKICBjb25zdCBlbmQgPSBpbmRleCArIHVwY29taW5nV2luZG93U2l6ZSArIDE7CgogIHJldHVybiB7CiAgICBpdGVtczogbm9uRGVsZXRlZEl0ZW1zLnNsaWNlKHN0YXJ0LCBlbmQpLAogICAgaW5jbHVkZXNCZWdpbm5pbmdPZlF1ZXVlOiAoc3RhcnQgPT0gMCksCiAgICBpbmNsdWRlc0VuZE9mUXVldWU6IChlbmQgPj0gbm9uRGVsZXRlZEl0ZW1zLmxlbmd0aCkKICB9OwogIGNvbnN0IG5leHRJRHMgPSB0cmFja0lEcy5zbGljZShzdGFydCwgZW5kICsgMSk7CgogIHJldHVybiBQcm9taXNlLmFsbChuZXh0SURzLm1hcChhc3luYyAoaWQpID0+IHsKICAgIGNvbnN0IHRyYWNrID0gdHJhY2tzW2lkXS50aXRsZS5zcGxpdCgnLScpOwogICAgY29uc3QgdHJhY2tOYW1lID0gdHJhY2tbMV0gJiYgdHJhY2tbMV0udHJpbSgpOwogICAgY29uc3QgYXJ0aXN0TmFtZSA9IHRyYWNrWzBdICYmIHRyYWNrWzBdLnRyaW0oKTsKICAgIGNvbnN0IG1lZGlhVXJsID0gYXdhaXQgZmlsZVNlcnZlci5nZXRVcmxGb3JGaWxlKG1lZGlhRmlsZXNbaWRdKTsKICAgIHJldHVybiB7CiAgICAgIGlkLAogICAgICBkZWxldGVkOiBmYWxzZSwKICAgICAgdHJhY2s6IHsKICAgICAgICBuYW1lOiB0cmFja05hbWUsCiAgICAgICAgYXJ0aXN0OiB7CiAgICAgICAgICBuYW1lOiBhcnRpc3ROYW1lCiAgICAgICAgfSwKICAgICAgICAvLyBpbWFnZVVybDogJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMC90cmFja3MvMzhJV1hQOTAvYXJ0LycsCiAgICAgICAgbWVkaWFVcmwsCiAgICAgICAgY29udGVudFR5cGU6ICdhdWRpby9tcGVnJwogICAgICB9LAogICAgfTsKICB9KSk7CiAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV4dFByb3BzLnF1ZXJ5LCB0aGlzLnByb3BzLnF1ZXJ5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VybCcsIHVybCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtYXAnLCB0aGlzLnByb3BzLnBsYXlsaXN0cyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWFwUGxheWxpc3RzKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZS5nZXRTdGF0ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVycm9yID0+IHRoaXMuc2V0U3RhdGUoewogICAgICAgIHRyYWNrczogbnVsbCwKICAgICAgICBwZW5kaW5nOiBmYWxzZSwKICAgICAgICBlcnJvciwKICAgICAgfSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jdXJyZW50VHJhY2sgPSBzcmM7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
