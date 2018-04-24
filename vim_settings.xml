@@ -288,9 +288,9 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/RemotePlayer.js" timestamp="1524408303048">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="29" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/RemotePlayer.js" timestamp="1524563097145">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="27" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/search/index.js" timestamp="1521797050194">
         <mark key="[" line="3" column="0" />
@@ -1003,11 +1003,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" timestamp="1524430644123">
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" timestamp="1524563180688">
         <mark key="'" line="23" column="49" />
-        <mark key="[" line="53" column="33" />
-        <mark key="]" line="82" column="59" />
-        <mark key="." line="82" column="59" />
+        <mark key="[" line="153" column="66" />
+        <mark key="]" line="119" column="27" />
+        <mark key="." line="119" column="0" />
         <mark key="^" line="82" column="59" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/components/Common/styling.js" timestamp="1494347237398">
@@ -1189,6 +1189,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="53" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/backgroundAudio.js" timestamp="1524564433235">
+        <mark key="[" line="40" column="10" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="40" column="18" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Application/UseCase/User/Command/RequestPasswordReset.php" timestamp="1479925325250">
         <mark key="[" line="21" column="0" />
@@ -3085,7 +3091,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524487166817">
+      <file name="/Dummy.txt" timestamp="1524563826954">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -4650,12 +4656,13 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/config.xml" timestamp="1524425320922">
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/config.xml" timestamp="1524562063505">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="50" />
         <mark key="^" line="14" column="50" />
         <mark key="." line="14" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/cordovaMediaPlayer.js" timestamp="1524563361681" />
       <file name="$USER_HOME$/Downloads/New Folder With Items/Atmosphere.htm" timestamp="1488378844294">
         <mark key="[" line="137" column="58" />
         <mark key="]" line="137" column="58" />
@@ -4999,7 +5006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="23" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Common/Auth.js" />
       <jump line="1090" column="37" filename="$USER_HOME$/projects/kollekt/backend/src/api/domain/playlist/PlaylistService.php" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" />
       <jump line="318" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" />
@@ -5099,10 +5105,11 @@
       <jump line="23" column="49" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" />
       <jump line="63" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/playback.js" />
       <jump line="108" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" />
+      <jump line="37" column="18" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/backgroundAudio.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbml0Jyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>android</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5114,43 +5121,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.props.</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFwUGxheWxpc3RzKCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBpc0FuZHJvaWQgPSB3aW5kb3cuY29yZG92YS5wbGF0Zm9ybUlkID09PSAnYW5kcm9pZCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbml0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdHVzKTsK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBmaWxlUGF0aCA9IGlzQW5kcm9pZCA/IGdldEZpbGVQYXRoRm9yQW5kcm9pZCgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnU3RhcnQgYmFja2dyb3VuZCBhdWRpbycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV4dFByb3BzLnF1ZXJ5LCB0aGlzLnByb3BzLnF1ZXJ5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtYXAnLCB0aGlzLnByb3BzLnBsYXlsaXN0cyk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBpc0lPUyA9IHdpbmRvdy5jb3Jkb3ZhLnBsYXRmb3JtSWQgPT09ICdpb3MnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFwUGxheWxpc3RzKCk7Cg==</text>
+        <text encoding="base64">ICAvLyBpZiAod2luZG93LmNvcmRvdmEucGxhdGZvcm1JZCAhPT0gJ2lvcycpIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpCg==</text>
+        <text encoding="base64">ICAgIGlmKHN0YXR1cyA9PT0gTWVkaWEuTUVESUFfUEFVU0VEKSBsb2dnZXIud2FybignQmFja2dyb3VuZCBhdWRpbyBwYXVzZWQnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVycm9yID0+IHRoaXMuc2V0U3RhdGUoewogICAgICAgIHRyYWNrczogbnVsbCwKICAgICAgICBwZW5kaW5nOiBmYWxzZSwKICAgICAgICBlcnJvciwKICAgICAgfSkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbml0Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
