@@ -3077,7 +3077,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524573058623">
+      <file name="/Dummy.txt" timestamp="1524580258887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495472386967">
@@ -3216,11 +3216,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" timestamp="1524577641263">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="14" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" timestamp="1524581082454">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="81" column="3" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/projects/services/mariabackup/.env" timestamp="1520702325142">
         <mark key="[" line="2" column="8" />
@@ -4983,7 +4983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" />
       <jump line="318" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/test.json" />
       <jump line="35" column="41" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistStatsDoctrineQuery.php" />
       <jump line="5" column="24" filename="$USER_HOME$/projects/atmosphere/content-digger/test.js" />
@@ -5083,10 +5082,11 @@
       <jump line="108" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" />
       <jump line="37" column="18" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/backgroundAudio.js" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/global.js" />
+      <jump line="65" column="16" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5098,7 +5098,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>resolve</text>
+        <text encoding="base64">Y29uc3QgaXRlbXMgPSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
@@ -5107,34 +5107,46 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29ubmVjdGVkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdlYnNlcnZlci5zdG9wKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JywgdGhpcy5pc0Nvbm5lY3RlZCk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29ubmVjdGVkJyk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgcXVldWVWZXJzaW9uLAogICAgY29udGV4dFZlcnNpb246ICd2MScsCiAgICBpdGVtcywKICAgIGluY2x1ZGVzQmVnaW5uaW5nT2ZRdWV1ZTogKHF1ZXJ5Lml0ZW1JZCA9PT0gIiIpLAogICAgaW5jbHVkZXNFbmRPZlF1ZXVlOiAoZW5kID49IG5leHRJRHMubGVuZ3RoKQogIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb25uZWN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc2V0VGltZW91dCA9IHJlc2V0VGltZW91dC5iaW5kKHRoaXMpOwo=</text>
+      <register name="6" type="4">
+        <text>{
+      id,
+      deleted: false,
+      track: {
+        name: trackName,
+        artist: {
+          name: artistName
+        },
+        // imageUrl: 'http://localhost:3000/tracks/38IWXP90/art/',
+        mediaUrl,
+        contentType: 'audio/mpeg'
+      },
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lZGlhVXJsID0gZmlsZVNlcnZlci5nZXRVcmxGb3JGaWxlKG1lZGlhRmlsZXNbaWRdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXNldFRpbWUK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lZGlhVXJsID0gZmlsZVNlcnZlci5nZXRVcmxGb3JGaWxlKG1lZGlhRmlsZXNbaWRdKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpbWVvdXQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGltYWdlVXJsOiAnaHR0cHM6Ly9rbGV0cy5jb20vX191c2VyX2Fzc2V0cy81Y2QxNDQ2YmMxMDg3ZTM2ZDg3MjRlNjA4MDRmNmJkOGE1ODliZTI4LnBuZycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
