@@ -1010,9 +1010,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" timestamp="1524572739474">
-        <mark key="'" line="24" column="49" />
-        <mark key="^" line="175" column="29" />
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/SonosController.js" timestamp="1524574878773">
+        <mark key="'" line="32" column="49" />
+        <mark key="[" line="94" column="23" />
+        <mark key="]" line="94" column="20" />
+        <mark key="." line="94" column="20" />
+        <mark key="^" line="94" column="20" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/components/Common/styling.js" timestamp="1494347237398">
         <mark key="[" line="14" column="19" />
@@ -3075,6 +3078,9 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
+      <file name="/Dummy.txt" timestamp="1524573058623">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495472386967">
         <mark key="[" line="31" column="51" />
         <mark key="]" line="31" column="25" />
@@ -3644,6 +3650,9 @@
         <mark key="]" line="35" column="21" />
         <mark key="^" line="30" column="15" />
         <mark key="." line="35" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/test/sonos/ssdp-cordova/www/js/index.js" timestamp="1523552048167">
+        <mark key="[" line="47" column="71" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/PlaylistContainer.js" timestamp="1489069600413">
         <mark key="[" line="11" column="33" />
@@ -5078,8 +5087,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/global.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCB3ZWJzZXJ2ZXIgPSB3aW5kb3cud2Vic2VydmVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>iconnected</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5091,45 +5100,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>iconnected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuZGlzY29ubmVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29ubmVjdGVkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB3ZWJzZXJ2ZXIgPSB3aW5kb3cud2Vic2VydmVyOwo=</text>
+        <text encoding="base64">ICAgIHJlc2V0VGltZW91dCA9IHJlc2V0VGltZW91dC5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdlYnNlcnZlciA9IHdpbmRvdy53ZWJzZXJ2ZXI7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICByZXNldFRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpbWVvdXQgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB3ZWJzZXJ2ZXIgPSB3aW5kb3cud2Vic2VydmVyOwogIHdlYnNlcnZlci5zdGFydCgoKSA5MDAwKTsKICB3ZWJzZXJ2ZXIub25SZXF1ZXN0KGhhbmRsZVJlcXVlc3QpOwogIHJldHVybiBmaWxlU2VydmVyLnN0YXJ0U2VydmVyKCk7Cg==</text>
+        <text encoding="base64">bGV0IHRpbWVvdXQgPSAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXR1cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGltZW91dCArPSBDT05ORUNUX1JFVFJZX0lOVEVSVkFMOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdORVhUX1RSQUNLJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGltZW91dCArPSBDT05ORUNUX1JFVFJZX0lOVEVSVkFMOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmluZm8oJ1Jlc3RhcnRpbmcgYmFja2dyb3VuZCBhdWRpbycpOwo=</text>
+        <text encoding="base64">ICAgICAgdGltZW91dCArPSBDT05ORUNUX1JFVFJZX0lOVEVSVkFMOwo=</text>
       </register>
-      <register name="9" type="8">
-        <text>message.
-message.
-message.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRpbWVvdXQgKz0gQ09OTkVDVF9SRVRSWV9JTlRFUlZBTDsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
