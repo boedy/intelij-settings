@@ -3063,7 +3063,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524669109130">
+      <file name="/Dummy.txt" timestamp="1524681711248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495472386967">
@@ -3283,9 +3283,9 @@
         <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/processes/downloadProcess.js" timestamp="1524661901463">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="30" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Uuid.php" timestamp="1485715170921">
         <mark key="[" line="6" column="19" />
@@ -4569,11 +4569,11 @@
         <mark key="^" line="54" column="59" />
         <mark key="." line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/atmosphere/api.js" timestamp="1523274733532">
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="47" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="46" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/atmosphere/api.js" timestamp="1524681094354">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="51" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="51" />
       </file>
       <file name="$USER_HOME$/code/go/3rdparty/src/github.com/boedy/go-libshout/libshout.go" timestamp="1445600766409">
         <mark key="[" line="180" column="4" />
@@ -5076,8 +5076,8 @@
       <jump line="65" column="16" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>response.body</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5089,7 +5089,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CUSTOM</text>
+        <text>response.body</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
@@ -5098,34 +5098,34 @@
         <text>boudewijn@kollekt.fm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneWVzJywgcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2cG46CiAgICBpbWFnZToga29sbGVrdC92cG4KICAgIGxhYmVsczoKICAgICAgaW8ucmFuY2hlci5zY2hlZHVsZXIuYWZmaW5pdHk6aG9zdF9sYWJlbDogZGlnZ2VyPXRydWUKICAgICAgaW8ucmFuY2hlci5zaWRla2lja3M6IHdlYmFwcAogICAgcHJpdmlsZWdlZDogdHJ1ZQogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gT1BFTlZQTl9QUk9WSURFUj1DVVNUT00KICAgICAgLSBPUEVOVlBOX1VTRVJOQU1FPSRWUE5fVVNFUk5BTUUKICAgICAgLSBPUEVOVlBOX1BBU1NXT1JEPSRWUE5fUEFTU1dPUkQK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBPUEVOVlBOX0NPVU5UUlk9bmwKICAgICAgLSBPUEVOVlBOX1VTRVJOQU1FPWJvdWRld2lqbkBrb2xsZWt0LmZtCiAgICAgIC0gT1BFTlZQTl9QQVNTV09SRD1zWUZNYjlGSjUyNW8xR0lYN2dDCg==</text>
+        <text encoding="base64">ICB2cG46CiAgICBpbWFnZToga29sbGVrdC92cG4KICAgIGxhYmVsczoKICAgICAgaW8ucmFuY2hlci5zY2hlZHVsZXIuYWZmaW5pdHk6aG9zdF9sYWJlbDogZGlnZ2VyPXRydWUKICAgICAgaW8ucmFuY2hlci5zaWRla2lja3M6IHdlYmFwcAogICAgcHJpdmlsZWdlZDogdHJ1ZQogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gT1BFTlZQTl9QUk9WSURFUj1DVVNUT00KICAgICAgLSBPUEVOVlBOX1VTRVJOQU1FPSRWUE5fVVNFUk5BTUUKICAgICAgLSBPUEVOVlBOX1BBU1NXT1JEPSRWUE5fUEFTU1dPUkQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBPUEVOVlBOX0NPVU5UUlk9bmwKICAgICAgLSBPUEVOVlBOX1VTRVJOQU1FPWJvdWRld2lqbkBrb2xsZWt0LmZtCiAgICAgIC0gT1BFTlZQTl9QQVNTV09SRD1zWUZNYjlGSjUyNW8xR0lYN2dDCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHZhciByZWdleCA9IG5ldyBSZWdFeHAoL2NoZWNrRm9ybVxzKj1ccypbXCJ8J10oLiopW1wifCddL2cpOwogICAgICAgICAgLy8gdmFyIF90b2tlbiA9IHJlZ2V4LmV4ZWMocmVzcCk7CiAgICAgICAgICAvLyBjb25zb2xlLmxvZygndG9rZW4nLCBfdG9rZW4pOwogICAgICAgICAgLy8gaWYgKF90b2tlbiBpbnN0YW5jZW9mIEFycmF5ICYmIF90b2tlblsxXSkgewogICAgICAgICAgLy8gICByZXR1cm4gKF90b2tlblsxXSk7CiAgICAgICAgICAvLyB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdib2R5JywgYm9keSwgdG9rZW4pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIHZhciByZWdleCA9IG5ldyBSZWdFeHAoL2NoZWNrRm9ybVxzKj1ccypbXCJ8J10oLiopW1wifCddL2cpOwogICAgICAgICAgLy8gdmFyIF90b2tlbiA9IHJlZ2V4LmV4ZWMocmVzcCk7CiAgICAgICAgICAvLyBjb25zb2xlLmxvZygndG9rZW4nLCBfdG9rZW4pOwogICAgICAgICAgLy8gaWYgKF90b2tlbiBpbnN0YW5jZW9mIEFycmF5ICYmIF90b2tlblsxXSkgewogICAgICAgICAgLy8gICByZXR1cm4gKF90b2tlblsxXSk7CiAgICAgICAgICAvLyB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdib2R5JywgYm9keSwgdG9rZW4pOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKF90b2tlbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
