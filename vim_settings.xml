@@ -1292,9 +1292,6 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/platforms/android/src/com/homecontrol/CordovaWebsocketPlugin.java" timestamp="1523906092891">
-        <mark key="[" line="39" column="34" />
-      </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Http/routes.php" timestamp="1482859410665">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="17" />
@@ -1355,6 +1352,7 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
+      <file name="/deezer-api-new.js" timestamp="1524668105186" />
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/RemoveTrailingSilenceJob.php" timestamp="1521133947089">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -2370,9 +2368,6 @@
         <mark key="^" line="47" column="63" />
         <mark key="." line="47" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/core/services/player.js" timestamp="1524429944284">
-        <mark key="[" line="9" column="59" />
-      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/http/controllers/CuratorController.php" timestamp="1508495075038">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="27" column="37" />
@@ -3075,7 +3070,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524659663325">
+      <file name="/Dummy.txt" timestamp="1524668124010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495472386967">
@@ -3888,14 +3883,14 @@
         <mark key="^" line="200" column="17" />
         <mark key="." line="200" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/deezer/deezer-api-new.js" timestamp="1520511035630">
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/deezer/deezer-api-new.js" timestamp="1524668114904">
         <mark key="[" line="47" column="37" />
         <mark key="]" line="47" column="36" />
         <mark key="." line="47" column="36" />
         <mark key="^" line="47" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/wercker.yml" timestamp="1505678881201">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/wercker.yml" timestamp="1524668054794">
+        <mark key="[" line="35" column="34" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="7" />
         <mark key="." line="6" column="0" />
@@ -4731,11 +4726,10 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" timestamp="1524665115537">
-        <mark key="[" line="60" column="40" />
-        <mark key="]" line="49" column="30" />
-        <mark key="." line="49" column="30" />
-        <mark key="^" line="49" column="30" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" timestamp="1524667965629">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/instore-frontend/src/app/app.md.scss" timestamp="1487880392486">
         <mark key="[" line="111" column="19" />
@@ -5087,8 +5081,8 @@
       <jump line="65" column="16" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/sonos/cloudQueue.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIHZhciByZWdleCA9IG5ldyBSZWdFeHAoL2NoZWNrRm9ybVxzKj1ccypbXCJ8J10oLiopW1wifCddL2cpOwogICAgICAgICAgLy8gdmFyIF90b2tlbiA9IHJlZ2V4LmV4ZWMocmVzcCk7CiAgICAgICAgICAvLyBjb25zb2xlLmxvZygndG9rZW4nLCBfdG9rZW4pOwogICAgICAgICAgLy8gaWYgKF90b2tlbiBpbnN0YW5jZW9mIEFycmF5ICYmIF90b2tlblsxXSkgewogICAgICAgICAgLy8gICByZXR1cm4gKF90b2tlblsxXSk7CiAgICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5100,7 +5094,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>resp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
@@ -5109,34 +5103,34 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnSk9CIEZJTklTSEVEJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHZhciByZWdleCA9IG5ldyBSZWdFeHAoL2NoZWNrRm9ybVxzKj1ccypbXCJ8J10oLiopW1wifCddL2cpOwogICAgICAgICAgLy8gdmFyIF90b2tlbiA9IHJlZ2V4LmV4ZWMocmVzcCk7CiAgICAgICAgICAvLyBjb25zb2xlLmxvZygndG9rZW4nLCBfdG9rZW4pOwogICAgICAgICAgLy8gaWYgKF90b2tlbiBpbnN0YW5jZW9mIEFycmF5ICYmIF90b2tlblsxXSkgewogICAgICAgICAgLy8gICByZXR1cm4gKF90b2tlblsxXSk7CiAgICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdib2R5JywgYm9keSwgdG9rZW4pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnam9iIHN0YXJ0ZWQnKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdib2R5JywgYm9keSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKF90b2tlbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSk9CIEZJTklTSEVEJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewogICAgcXVldWVWZXJzaW9uLAogICAgY29udGV4dFZlcnNpb246ICd2MScsCiAgICBpdGVtcywKICAgIGluY2x1ZGVzQmVnaW5uaW5nT2ZRdWV1ZTogKHF1ZXJ5Lml0ZW1JZCA9PT0gIiIpLAogICAgaW5jbHVkZXNFbmRPZlF1ZXVlOiAoZW5kID49IG5leHRJRHMubGVuZ3RoKQogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnam9iIHN0YXJ0ZWQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
