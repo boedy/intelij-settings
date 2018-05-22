@@ -54,12 +54,12 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="e49ee5da-e2e8-413a-8646-012ae48b7e73" name="desluwevos.com" url="http://desluwevos.com">
-        <fileTransfer host="ftp.pcextreme.nl" port="21" rootFolder="/domains/desluwevos.com/htdocs/desluwevos">
+      <webServer id="e49ee5da-e2e8-413a-8646-012ae48b7e73" name="desluwevos.com" url="https://desluwevos.com">
+        <fileTransfer host="174.138.10.13" port="22" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="fc4fd359-0728-4302-a317-a154c4e9d417" name="getatmosphere.com" url="http://192.81.220.199">
