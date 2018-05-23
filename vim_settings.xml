@@ -95,17 +95,21 @@
         <mark key="^" line="100" column="20" />
         <mark key="." line="100" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/LocationController.php" timestamp="1527085766940">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/online-channel/src/app/password-screen/password-screen.html" timestamp="1511278714450">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="39" />
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/User/DoctrineUserQuery.php" timestamp="1498142364015">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="80" />
-        <mark key="^" line="78" column="39" />
-        <mark key="." line="78" column="39" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/User/DoctrineUserQuery.php" timestamp="1527088592859">
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="40" column="30" />
+        <mark key="^" line="48" column="30" />
+        <mark key="." line="40" column="30" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/DTO/LocationDTO.php" timestamp="1520260916817">
         <mark key="[" line="68" column="25" />
@@ -125,6 +129,7 @@
         <mark key="." line="22" column="10" />
         <mark key="^" line="22" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/OrganisationController.php" timestamp="1527087027252" />
       <file name="$USER_HOME$/projects/atmosphere/api/config/doctrine.php" timestamp="1511775442927">
         <mark key="[" line="131" column="41" />
         <mark key="]" line="131" column="54" />
@@ -676,6 +681,12 @@
         <mark key="." line="447" column="31" />
         <mark key="^" line="447" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/User/PersonPresenter.php" timestamp="1527087284548">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="37" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/nginx/nginx-proxy.conf" timestamp="1505813263466">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="32" />
@@ -875,6 +886,11 @@
         <mark key="]" line="15" column="49" />
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Organisation/Query/ViewOrganisationUsers.php" timestamp="1527085688962">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/src/api/config/main.php" timestamp="1487694630285">
         <mark key="[" line="54" column="26" />
@@ -1098,7 +1114,7 @@
         <mark key="^" line="121" column="23" />
         <mark key="." line="121" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/UserController.php" timestamp="1525789682379">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/UserController.php" timestamp="1527085492384">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
@@ -1903,7 +1919,6 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1526053358893" />
       <file name="$USER_HOME$/projects/kollekt/backend/wercker.yml" timestamp="1487597819832">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="38" />
@@ -3080,7 +3095,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527084212456">
+      <file name="/Dummy.txt" timestamp="1527085432169">
         <mark key="p" line="0" column="32" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -4668,10 +4683,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/UserPresenter.php" timestamp="1527082782306">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="36" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/UserPresenter.php" timestamp="1527085396490">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
+        <mark key="^" line="13" column="64" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/config.xml" timestamp="1525255235589">
         <mark key="[" line="14" column="51" />
@@ -5119,7 +5135,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>auth.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5131,43 +5147,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>auth.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aGlkZGVuRmllbGRzID0gWydmaWxlU3luY1RpbWVXaW5kb3cnXTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cWItPmlubmVySm9pbigKICAgICAgICAgICAgJ015Q0xhYnNcQUNMXE1vZGVsXEF1dGhvcml6YXRpb24nLAogICAgICAgICAgICAnYXV0aCcsCiAgICAgICAgICAgICdXSVRIJywKICAgICAgICAgICAgJ2F1dGguc2VjdXJpdHlJZGVudGl0eSA9IHVzZXIuaWQnCiAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aGlkZGVuRmllbGRzID0gWydmaWxlU3luY1RpbWVXaW5kb3cnXTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cWItPmlubmVySm9pbignYXV0aCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkdGhpcy0+b2JqZWN0WydmaWxlU3luY1RpbWVXaW5kb3cnXVsnc3RhcnRUaW1lJ10pCi8vICAgICAgICAkdGhpcy0+aGlkZGVuRmllbGRzID0gWydmaWxlU3luY1RpbWVXaW5kb3cnXTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPm9iamVjdFsnZmlsZVN5bmNUaW1lV2luZG93J107Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHVuc2V0KCR0aGlzLT5wcmVzZW50YXRpb25bJ2ZpbGVTeW5jVGltZVdpbmRvdyddKTsKLy8gICAgICAgIHJldHVybiBudWxsOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+b2JqZWN0Wydjb25maWcnXSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2V0SG91cnMoKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcm9sZXMpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcm9sZXMpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcnMpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+aGlkZGVuRmllbGRzID0gWydmaWxlU3luY1RpbWVXaW5kb3cnXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigkdGhpcy0+b2JqZWN0WydmaWxlU3luY1RpbWVXaW5kb3cnXVsnc3RhcnRUaW1lJ10pCi8vICAgICAgICAkdGhpcy0+aGlkZGVuRmllbGRzID0gWydmaWxlU3luY1RpbWVXaW5kb3cnXTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
