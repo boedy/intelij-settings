@@ -59,6 +59,11 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/Planning/DayPlanning.php" timestamp="1527526447348">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/models/Billable.php" timestamp="1483036763447">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="10" column="29" />
@@ -1205,10 +1210,6 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="135" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Query/ViewUsersOfLocation.php" timestamp="1527160841261">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="59" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/webpack.parts" timestamp="1491817545122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1763,11 +1764,11 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/Planning/WeekPlanning.php" timestamp="1527525598641">
-        <mark key="[" line="29" column="98" />
-        <mark key="]" line="29" column="98" />
-        <mark key="." line="29" column="98" />
-        <mark key="^" line="29" column="76" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/Planning/WeekPlanning.php" timestamp="1527526439510">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="30" column="39" />
+        <mark key="^" line="30" column="39" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/PubSub/EventPublishFailed.php" timestamp="1518300267111">
         <mark key="[" line="11" column="44" />
@@ -2176,10 +2177,6 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/LocationService.php" timestamp="1527160863927">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="37" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.yml" timestamp="1494881133318">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="21" />
@@ -2464,10 +2461,6 @@
         <mark key="]" line="33" column="52" />
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Organisation/Command/DeleteOrganisation.php" timestamp="1527169754642">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="97" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/electron/root.js" timestamp="1482229171967">
         <mark key="[" line="44" column="2" />
@@ -3180,11 +3173,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/LocationManager.php" timestamp="1518537945176">
-        <mark key="[" line="40" column="73" />
-        <mark key="]" line="40" column="73" />
-        <mark key="^" line="40" column="63" />
-        <mark key="." line="40" column="73" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/LocationManager.php" timestamp="1527526739424">
+        <mark key="[" line="27" column="79" />
+        <mark key="]" line="41" column="73" />
+        <mark key="^" line="41" column="63" />
+        <mark key="." line="41" column="73" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/phpunit.xml" timestamp="1483717113171">
         <mark key="[" line="12" column="30" />
@@ -3311,6 +3304,11 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/Planning/TimeBlock.php" timestamp="1527526462966">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger-extension/dist/manifest.json" timestamp="1521801759296">
         <mark key="[" line="17" column="43" />
@@ -5213,8 +5211,8 @@
       <jump line="72" column="62" filename="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/PlaylistController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, orphanRemoval=true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEBPUk1cSm9pbkNvbHVtbihvbkRlbGV0ZT0iQ0FTQ0FERSIpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5226,13 +5224,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, orphanRemoval=true</text>
+        <text>SET NULL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRDdXJhdG9yXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>cascade={&quot;persist&quot;, &quot;remove&quot;}, orphanRemoval=true</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAqIEBPUk1cSm9pbkNvbHVtbihvbkRlbGV0ZT0iQ0FTQ0FERSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
