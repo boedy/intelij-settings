@@ -3159,7 +3159,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527590912126">
+      <file name="/Dummy.txt" timestamp="1527594563395">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495472386967">
@@ -4169,6 +4169,7 @@
         <mark key="^" line="143" column="16" />
         <mark key="." line="143" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/DeleteLocation.php" timestamp="1527594625437" />
       <file name="$USER_HOME$/projects/kollekt/backend/src/scripts/es_mappings/tag_search.json" timestamp="1495034341617">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -5218,7 +5219,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>cancel</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5230,7 +5231,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>cancel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRDdXJhdG9yXD4=</text>
@@ -5269,7 +5270,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjYW5jZWwoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -5322,9 +5323,9 @@
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action AceJumpAction</entry>
-        <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
