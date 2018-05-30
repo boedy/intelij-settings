@@ -2720,6 +2720,12 @@
         <mark key="." line="85" column="18" />
         <mark key="^" line="84" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/mysql/my.cnf" timestamp="1527692725943">
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/LineItem.php" timestamp="1483535677223">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="10" />
@@ -2863,6 +2869,10 @@
         <mark key="]" line="15" column="321" />
         <mark key="." line="15" column="321" />
         <mark key="^" line="15" column="321" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/AssignPlaylistToLocation.php" timestamp="1527694298090" />
+      <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20180528165922.php" timestamp="1527693611596">
+        <mark key="[" line="24" column="147" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/untitled/node_modules/deezer-node-api/src/index.js" timestamp="1502746342662">
         <mark key="[" line="26" column="22" />
@@ -3188,7 +3198,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527690863420">
+      <file name="/Dummy.txt" timestamp="1527693696273">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495472386967">
@@ -3209,11 +3219,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/LocationManager.php" timestamp="1527690908707">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="23" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/LocationManager.php" timestamp="1527693073240">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="33" />
         <mark key="^" line="41" column="63" />
-        <mark key="." line="28" column="23" />
+        <mark key="." line="28" column="33" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/phpunit.xml" timestamp="1483717113171">
         <mark key="[" line="12" column="30" />
@@ -4498,7 +4508,7 @@
         <mark key="^" line="40" column="33" />
         <mark key="." line="40" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20180530143528.php" timestamp="1527691049016" />
+      <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20180530143528.php" timestamp="1527692326296" />
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/authDecorator.js" timestamp="1518897999275">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="27" />
@@ -5265,7 +5275,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZT0iZGVhbGVyX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWU9ImlkIiwgIA==</text>
+        <text>SET NULL</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5277,7 +5287,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZT0iZGVhbGVyX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWU9ImlkIiwgIA==</text>
+        <text>SET NULL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvblw+</text>
