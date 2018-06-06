@@ -5192,6 +5192,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/OrganisationManager.php" timestamp="1528292395319">
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="6" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Files/Mp3.php" timestamp="1524684831520">
         <mark key="[" line="18" column="59" />
         <mark key="]" line="18" column="59" />
@@ -5319,8 +5325,8 @@
       <jump line="8" column="66" filename="$USER_HOME$/projects/atmosphere/api/app/Listeners/LocationAddressListener.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Person</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5341,19 +5347,19 @@
         <text encoding="base64">ICAgIHByaXZhdGUgJHVzZXJJZDsKCiAgICBwcml2YXRlICRsb2NhdGlvbklkOwoKICAgIC8qKgogICAgICogUGVyc29uQXNzaWduZWRUb0xvY2F0aW9uIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtIFBlcnNvbiAkcGVyc29uCiAgICAgKiBAcGFyYW0gTG9jYXRpb24gJGxvY2F0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChQZXJzb24gJHBlcnNvbiwgTG9jYXRpb24gJGxvY2F0aW9uKSB7CiAgICAgICAgJHRoaXMtPnVzZXJJZCA9ICRwZXJzb24tPmdldElkKCk7CiAgICAgICAgJHRoaXMtPmxvY2F0aW9uSWQgPSAkbG9jYXRpb24tPmdldElkKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAaW5oZXJpdERvYwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QWdncmVnYXRlUm9vdElkZW50aWZpZXJOYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gY29udGV4dCgpCiAgICB7CiAgICAgICAgcmV0dXJuIENvbnRleHQ6Om9yZ2FuaXNhdGlvbjsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTG9jYXRpb25BY2Nlc3NSZXZva2VkIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEBwYXJhbSBMb2NhdGlvbiAkbG9jYXRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCR1c2VyLCAkbG9jYXRpb24pIHsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRlc3QgPSBudWxsOwogICAgICAgICAgICBkZChtZXRob2RfZXhpc3RzKCR0ZXN0LCAndGVzdCcpKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogTG9jYXRpb25BY2Nlc3NSZXZva2VkIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEBwYXJhbSBMb2NhdGlvbiAkbG9jYXRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCR1c2VyLCAkbG9jYXRpb24pIHsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYWNsLT5yZXZva2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRlc3QgPSBudWxsOwogICAgICAgICAgICBkZChtZXRob2RfZXhpc3RzKCR0ZXN0LCAndGVzdCcpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYWNsLT5yZXZva2UoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -5361,14 +5367,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IGVsc2VpZigkcm9sZUl0ciBpbnN0YW5jZW9mICRyb2xlKXsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+YWNsLT5yZXZva2UoJHVzZXIsICRyb2xlSXRyKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocmVzcCA9PiBjb25zb2xlLmxvZyhyZXNwLmRhdGEpKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1KTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusUp</text>
