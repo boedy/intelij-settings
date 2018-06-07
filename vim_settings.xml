@@ -215,11 +215,11 @@
         <mark key="." line="44" column="93" />
         <mark key="^" line="44" column="93" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Listeners/ConsumerRoleRevokedListener.php" timestamp="1528304468751">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Listeners/ConsumerRoleRevokedListener.php" timestamp="1528364465964">
         <mark key="[" line="43" column="5" />
-        <mark key="]" line="56" column="17" />
-        <mark key="^" line="56" column="17" />
-        <mark key="." line="56" column="17" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/atmosphere-app/src/app/containers/SelectOutputDeviceModalContainer.js" timestamp="1482164328612">
         <mark key="[" line="3" column="46" />
@@ -653,11 +653,11 @@
         <mark key="." line="57" column="19" />
         <mark key="^" line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Listeners/LocationDiscontinuedListener.php" timestamp="1528304338033">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="19" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Listeners/LocationDiscontinuedListener.php" timestamp="1528364558169">
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="12" />
         <mark key="^" line="55" column="10" />
-        <mark key="." line="52" column="0" />
+        <mark key="." line="52" column="12" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/containers/Root.js" timestamp="1494193479919">
         <mark key="[" line="6" column="10" />
@@ -3205,7 +3205,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528303196804">
+      <file name="/Dummy.txt" timestamp="1528364274190">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495472386967">
@@ -3382,11 +3382,11 @@
         <mark key="^" line="96" column="58" />
         <mark key="." line="96" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/DiscontinueLocation.php" timestamp="1528296598305">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/DiscontinueLocation.php" timestamp="1528364295613">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="37" />
         <mark key="^" line="17" column="37" />
-        <mark key="." line="17" column="37" />
+        <mark key="." line="19" column="34" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/CredentialGenerator.js" timestamp="1519329512006">
         <mark key="[" line="28" column="91" />
@@ -5246,8 +5246,8 @@
       <jump line="8" column="66" filename="$USER_HOME$/projects/atmosphere/api/app/Listeners/LocationAddressListener.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcnMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>users</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5259,7 +5259,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ConsumerRoleRevokedListener</text>
+        <text>users</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvblw+</text>
