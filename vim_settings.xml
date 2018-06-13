@@ -1296,7 +1296,6 @@
         <mark key="^" line="33" column="63" />
         <mark key="." line="33" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/vendor/myclabs/acl/src/Model/Role.php" timestamp="1527778182772" />
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/Event/UserBecameOrganisationManager.php" timestamp="1518302722754">
         <mark key="[" line="39" column="5" />
         <mark key="]" line="41" column="0" />
@@ -1741,11 +1740,11 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/services/asana-tracking/.env" timestamp="1521389633275">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-        <mark key="^" line="2" column="33" />
+      <file name="$USER_HOME$/projects/services/asana-tracking/.env" timestamp="1528902283406">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/instore/instore-backend/app/Domain/Organisation/Location/Location.php" timestamp="1482091982506">
         <mark key="[" line="82" column="0" />
@@ -1956,7 +1955,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/.env" timestamp="1528297166762" />
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/CustomerRepository.php" timestamp="1485990217342">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="10" column="24" />
@@ -1981,6 +1979,7 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1528814689348" />
       <file name="$USER_HOME$/projects/kollekt/backend/wercker.yml" timestamp="1487597819832">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="38" />
@@ -2872,7 +2871,6 @@
         <mark key="." line="15" column="321" />
         <mark key="^" line="15" column="321" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/AssignPlaylistToLocation.php" timestamp="1527694298090" />
       <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20180528165922.php" timestamp="1527693611596">
         <mark key="[" line="24" column="147" />
       </file>
@@ -3674,7 +3672,6 @@
         <mark key="^" line="56" column="26" />
         <mark key="." line="56" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/Domain/ValueObject/TimeSlotTest.php" timestamp="1527683821203" />
       <file name="$USER_HOME$/projects/atmosphere/payments/app/BillingAddress.php" timestamp="1502884248246">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="38" />
@@ -3927,7 +3924,6 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Repositories/DoctrineUserRepositoryTest.php" timestamp="1527683657176" />
       <file name="$USER_HOME$/projects/kollekt/team-dashboard/.env" timestamp="1510752075764">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="56" />
@@ -4478,7 +4474,6 @@
         <mark key="^" line="40" column="33" />
         <mark key="." line="40" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20180530143528.php" timestamp="1527692326296" />
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/authDecorator.js" timestamp="1518897999275">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="27" />
@@ -5245,8 +5240,8 @@
       <jump line="8" column="66" filename="$USER_HOME$/projects/atmosphere/api/app/Listeners/LocationAddressListener.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>52.174.185.168</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5258,7 +5253,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>app(DoctrineUserRolesQuery::class)</text>
+        <text>52.174.185.168</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvblw+</text>
