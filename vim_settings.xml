@@ -311,11 +311,11 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/vendor/myclabs/acl/src/CascadeStrategy/SimpleCascadeStrategy.php" timestamp="1531750972164">
-        <mark key="[" line="74" column="9" />
-        <mark key="]" line="69" column="19" />
-        <mark key="." line="69" column="19" />
-        <mark key="^" line="69" column="19" />
+      <file name="$USER_HOME$/projects/atmosphere/api/vendor/myclabs/acl/src/CascadeStrategy/SimpleCascadeStrategy.php" timestamp="1531756150496">
+        <mark key="[" line="81" column="9" />
+        <mark key="]" line="81" column="7" />
+        <mark key="." line="81" column="7" />
+        <mark key="^" line="81" column="7" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Event/LocationNameChanged.php" timestamp="1518301483285">
         <mark key="[" line="38" column="0" />
@@ -2881,10 +2881,11 @@
         <mark key="." line="15" column="321" />
         <mark key="^" line="15" column="321" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/AssignPlaylistToLocation.php" timestamp="1531752275818">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/AssignPlaylistToLocation.php" timestamp="1531755383021">
         <mark key="[" line="50" column="37" />
-        <mark key="]" line="50" column="37" />
-        <mark key="." line="50" column="37" />
+        <mark key="]" line="50" column="36" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/database/migrations/Version20180528165922.php" timestamp="1527693611596">
         <mark key="[" line="24" column="147" />
@@ -3384,11 +3385,11 @@
         <mark key="^" line="50" column="69" />
         <mark key="." line="50" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" timestamp="1528289795736">
-        <mark key="[" line="95" column="57" />
-        <mark key="]" line="96" column="58" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" timestamp="1531755396271">
+        <mark key="[" line="145" column="20" />
+        <mark key="]" line="145" column="20" />
         <mark key="^" line="96" column="58" />
-        <mark key="." line="96" column="58" />
+        <mark key="." line="145" column="20" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/DiscontinueLocation.php" timestamp="1528365662068">
         <mark key="[" line="19" column="0" />
@@ -4366,10 +4367,6 @@
         <mark key="^" line="57" column="6" />
         <mark key="." line="57" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Role/Event/UserRemovedAsOrganisationManager.php" timestamp="1528295439239">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="38" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1520512191449">
         <mark key="[" line="38" column="19" />
         <mark key="]" line="26" column="0" />
@@ -4694,10 +4691,6 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Listeners/ConsumerRoleAssignedListener.php" timestamp="1528296825931">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="75" />
-      </file>
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Source/Playable.php" timestamp="1446485837643">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="11" column="4" />
@@ -4974,10 +4967,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Command/RegisterUser.php" timestamp="1527772409822">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="45" column="8" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/BillingAddressController.php" timestamp="1510917786886">
         <mark key="[" line="36" column="34" />
         <mark key="]" line="38" column="8" />
@@ -5251,7 +5240,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addResource</text>
+        <text>rebuildAuthorizationsForResource</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5263,7 +5252,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>addResource</text>
+        <text>rebuildAuthorizationsForResource</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvblw+</text>
