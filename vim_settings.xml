@@ -1966,6 +1966,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/.env" timestamp="1532001261447">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Customer/CustomerRepository.php" timestamp="1485990217342">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="10" column="24" />
@@ -2539,10 +2546,11 @@
         <mark key="^" line="24" column="23" />
         <mark key="." line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1531994671982">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1532001222525">
+        <mark key="[" line="45" column="44" />
+        <mark key="]" line="45" column="55" />
+        <mark key="^" line="45" column="55" />
+        <mark key="." line="45" column="55" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Application/Commands/Handlers/ContractHandler.php" timestamp="1487874197578">
         <mark key="[" line="54" column="108" />
@@ -3218,7 +3226,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531994021250">
+      <file name="/Dummy.txt" timestamp="1532001424821">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495472386967">
@@ -4371,6 +4379,7 @@
         <mark key="^" line="57" column="6" />
         <mark key="." line="57" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/.env.wercker" timestamp="1532001183935" />
       <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1520512191449">
         <mark key="[" line="38" column="19" />
         <mark key="]" line="26" column="0" />
@@ -5141,7 +5150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/User/Person.php" />
       <jump line="30" column="43" filename="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewPlaylistItems.php" />
       <jump line="37" column="15" filename="$USER_HOME$/projects/kollekt/team-dashboard/index.js" />
       <jump line="7" column="38" filename="$USER_HOME$/projects/atmosphere/k2i/test.php" />
@@ -5241,6 +5249,7 @@
       <jump line="67" column="18" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" />
       <jump line="72" column="70" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/User/MyCLabsUserRoleService.php" />
       <jump line="8" column="66" filename="$USER_HOME$/projects/atmosphere/api/app/Listeners/LocationAddressListener.php" />
+      <jump line="37" column="4" filename="$USER_HOME$/projects/atmosphere/api/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5259,7 +5268,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdW5jdGlvblw+</text>
+        <text encoding="base64">XDxQVUJTVUJfQlJPS0VSX0xJU1RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bGV0IGNvbnN1bWVyID0gbmV3IENvbnN1bWVyKGNsaWVudCwgW10sIGNvbm5lY3Rpb25PcHRpb25zKTsK</text>
@@ -5295,13 +5304,13 @@
         <text encoding="base64">ICBwcm9kdWNlci5jbG9zZSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusUp</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdW5jdGlvblw+</last-search>
+      <last-search encoding="base64">XDxQVUJTVUJfQlJPS0VSX0xJU1RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdW5jdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxQVUJTVUJfQlJPS0VSX0xJU1RcPg==</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
       <last-dir>-1</last-dir>
@@ -5309,7 +5318,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>get</entry>
         <entry>req</entry>
         <entry>img</entry>
@@ -5329,6 +5337,7 @@
         <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxBZGRDdXJhdG9yXD4=</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
+        <entry encoding="base64">XDxQVUJTVUJfQlJPS0VSX0xJU1RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action SplitHorizontally</entry>
@@ -5345,12 +5354,12 @@
         <entry>e docker-compose.override.yml</entry>
         <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
-        <entry>vsp</entry>
         <entry>action AceJumpAction</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
