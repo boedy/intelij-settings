@@ -526,11 +526,11 @@
         <mark key="." line="70" column="54" />
         <mark key="^" line="70" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/index.js" timestamp="1532426026863">
-        <mark key="[" line="75" column="40" />
-        <mark key="]" line="75" column="26" />
-        <mark key="." line="75" column="26" />
-        <mark key="^" line="75" column="26" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/index.js" timestamp="1532439316977">
+        <mark key="[" line="79" column="24" />
+        <mark key="]" line="79" column="24" />
+        <mark key="." line="79" column="24" />
+        <mark key="^" line="78" column="39" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/metadata.js" timestamp="1523039345902">
         <mark key="[" line="8" column="51" />
@@ -1997,7 +1997,6 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1528814689348" />
       <file name="$USER_HOME$/projects/kollekt/backend/wercker.yml" timestamp="1487597819832">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="38" />
@@ -2343,6 +2342,12 @@
         <mark key="." line="4" column="132" />
         <mark key="^" line="4" column="132" />
       </file>
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/mailEventHandler.js" timestamp="1532439227577">
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="29" column="13" />
+        <mark key="." line="29" column="13" />
+        <mark key="^" line="29" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/services/asana-tracking/process-dev.yml" timestamp="1528910462237">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="12" />
@@ -2527,6 +2532,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/AtmosphereApi.js" timestamp="1532437231860">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="75" />
       </file>
       <file name="$USER_HOME$/projects/services/asana-tracking/docker-compose.override.yml" timestamp="1521371750379">
         <mark key="[" line="5" column="10" />
@@ -5256,7 +5265,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accountDelegation</text>
+        <text>, &quot;Hello WOrld&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5268,43 +5277,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>accountDelegation</text>
+        <text>, &quot;Hello WOrld&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQVUJTVUJfQlJPS0VSX0xJU1RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZW5kKHJlcywgMjAwLCBhY2NvdW50RGVsZWdhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBhd2FpdCBqc29uKHJlcSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWxsbyB3b3JsZCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVtaXR0ZXItPmFkZExpc3RlbmVyKExvY2F0aW9uRGlzY29udGludWVkOjpjbGFzcywgJHRoaXMtPmFwcFtMb2NhdGlvbkRpc2NvbnRpbnVlZExpc3RlbmVyOjpjbGFzc10pOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAtIHNjcmlwdDogaW5kZXguanMKICAgIG5hbWU6IGFwcAogICAgaW5zdGFuY2VzOiAxCiAgICB3YXRjaDogW3NyY10KICAgIHdhdGNoX29wdGlvbnM6CiAgICAgIHVzZVBvbGxpbmc6IHRydWUK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRhZ3M6IFsnSDMyJ10K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBiYXNlUmVxdWVzdCgpCiAgICAuZ2V0KGAvY29udmVyc2F0aW9ucy8ke2NvbnZlcnNhdGlvbklkfWApCiAgICAudGhlbihyZXN1bHQgPT4gY29uc29sZS5sb2cocmVzdWx0KSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb252ZXJzYXRpb25JZCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3VtZXIub24oJ2Vycm9yJywgKGVycikgPT4gewogIC8vIGxvZy5lcnJvcihgZXJyb3Igb24gY29uc3VtZXJHcm91cCAke2dyb3VwTmFtZX1gKTsKICBsb2cuZXJyb3IoZXJyKTsKICAvLyBoYW5kbGUgYSBicm9rZXIgbm90IGF2YWlsYWJsZSBlcnJvcgogIGlmIChlcnIgJiYgZXJyLm5hbWUgPT09ICJCcm9rZXJOb3RBdmFpbGFibGVFcnJvciIpIHsKICAgIGxvZy5lcnJvcigiYXR0ZW1wdGluZyByZWNvbm5lY3QiKTsKICAgIGNvbnN1bWVyLnJlZnJlc2hNZXRhZGF0YShjb25zdW1lckdyb3VwLnRvcGljcywgKGVycikgPT4gewogICAgICAvLyBoYW5kbGUgZXJyb3JzIGhlcmUKICAgIH0pOwogIH0gZWxzZSB7CiAgICBsb2cuZXJyb3IoZXJyLnN0YWNrKTsKICB9Cn0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBuZXcga2Fma2EuQ2xpZW50KGthZmthWm9va2VlcGVyQ29ublN0ciwnQXBwQW5hbHl6ZXJTdG9ybScpCiAgICAgICAgcHJvZHVjZXIgPSBuZXcgUHJvZHVjZXIoY2xpZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">bGV0IApsZXQg</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBrYWZrYUNvbm5lY3RlZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGVtaXR0ZXItPmFkZExpc3RlbmVyKExvY2F0aW9uRGlzY29udGludWVkOjpjbGFzcywgJHRoaXMtPmFwcFtMb2NhdGlvbkRpc2NvbnRpbnVlZExpc3RlbmVyOjpjbGFzc10pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
