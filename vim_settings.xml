@@ -526,11 +526,11 @@
         <mark key="." line="70" column="54" />
         <mark key="^" line="70" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/index.js" timestamp="1532698475007">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="79" column="21" />
+      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/index.js" timestamp="1532699265574">
+        <mark key="[" line="84" column="37" />
+        <mark key="]" line="83" column="3" />
+        <mark key="." line="83" column="3" />
+        <mark key="^" line="83" column="3" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/metadata.js" timestamp="1523039345902">
         <mark key="[" line="8" column="51" />
@@ -5263,8 +5263,8 @@
       <jump line="37" column="4" filename="$USER_HOME$/projects/atmosphere/api/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHJlcSk7CiAgICAvLyBjb25zb2xlLmxvZyhwYXlsb2FkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5276,43 +5276,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isDelegationEmail</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQVUJTVUJfQlJPS0VSX0xJU1RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZW5kKHJlcywgMjAwKTsK</text>
+      <register name="0" type="4">
+        <text>accountDelegation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHJlcSk7CiAgICAvLyBjb25zb2xlLmxvZyhwYXlsb2FkKTsK</text>
+        <text encoding="base64">ICAgIGFjY291bnREZWxlZ2F0aW9uLmVtYWlscwo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHJlcSk7CiAgICAvLyBjb25zb2xlLmxvZyhwYXlsb2FkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXNzYWdlc1Jlc291cmNlKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXNzYWdlc1Jlc291cmNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudFBheWxvYWQpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudFBheWxvYWQpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
