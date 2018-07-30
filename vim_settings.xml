@@ -4904,11 +4904,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" timestamp="1532951625668">
-        <mark key="[" line="57" column="38" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="58" column="25" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" timestamp="1532957634532">
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="63" column="42" />
+        <mark key="." line="63" column="42" />
+        <mark key="^" line="63" column="42" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/instore-frontend/src/app/app.md.scss" timestamp="1487880392486">
         <mark key="[" line="111" column="19" />
@@ -5167,7 +5167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="43" filename="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Query/ViewPlaylistItems.php" />
       <jump line="37" column="15" filename="$USER_HOME$/projects/kollekt/team-dashboard/index.js" />
       <jump line="7" column="38" filename="$USER_HOME$/projects/atmosphere/k2i/test.php" />
       <jump line="56" column="34" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Http/Controllers/CustomerController.php" />
@@ -5267,10 +5266,11 @@
       <jump line="72" column="70" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/User/MyCLabsUserRoleService.php" />
       <jump line="8" column="66" filename="$USER_HOME$/projects/atmosphere/api/app/Listeners/LocationAddressListener.php" />
       <jump line="37" column="4" filename="$USER_HOME$/projects/atmosphere/api/.env" />
+      <jump line="56" column="24" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>method=deezer.ping</text>
+        <text>checkForm</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5282,43 +5282,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>method=deezer.ping</text>
+        <text>checkForm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQVUJTVUJfQlJPS0VSX0xJU1RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZGVlemVyID0gcmVxdWlyZSgnLi9kZWV6ZXInKTsK</text>
+        <text encoding="base64">ICAgIC50aGVuKChyZXNwKSA9PiB7CiAgICAgIHZhciBqc29uID0gSlNPTi5wYXJzZShyZXNwKTsKICAgICAgY29uc3QgX2NoZWNrRm9ybSA9IGpzb24ucmVzdWx0cy5jaGVja0Zvcm07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHJhY2tJbmZvcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG93bmxvYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHZhciBqc29uID0gSlNPTi5wYXJzZShyZXNwKTsKICAgICAgICAgIC8vIHZhciBfdG9rZW4gPSAganNvbi5yZXN1bHRzLkNIRUNLRk9STTsKICAgICAgICAgIC8vIGNvbnNvbGUubG9nKF90b2tlbik7CiAgICAgICAgICAvLyByZXR1cm4gX3Rva2VuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZG93bmxvYWQgPSByZXF1aXJlKCcuL3NyYy9kb3dubG9hZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2cocmVzcC5yZXN1bHRzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgRG93bmxvYWRlciA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKF90b2tlbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdmFyIGpzb24gPSBKU09OLnBhcnNlKHJlc3ApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBtZXNzYWdlc1Jlc291cmNlID0gZXZlbnRQYXlsb2FkLmNvbnZlcnNhdGlvbi5fbGlua3MucmVsYXRlZC5tZXNzYWdlczsKICBjb25zdCB0b2tlbiA9IGF3YWl0IGZldGNoTWVzc2FnZXNPZkNvbnZlcnNhdGlvbihtZXNzYWdlc1Jlc291cmNlKTsKICByZXR1cm4gdG9rZW47Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmVxdWVzdC5wb3N0KHt1cmw6ICJodHRwczovL3d3dy5kZWV6ZXIuY29tL2FqYXgvYWN0aW9uLnBocCIsIHJlc29sdmVXaXRoRnVsbFJlc3BvbnNlOiB0cnVlICwgaGVhZGVyczogdGhpcy5odHRwSGVhZGVycywgZm9ybToge3R5cGU6J2xvZ2luJyxtYWlsOnVzZXJuYW1lLHBhc3N3b3JkOnBhc3N3b3JkfSwgamFyOiB0cnVlfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Q29udmVyc2F0aW9uSWQgPSAoZXZlbnRQYXlsb2FkKQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlcXVlc3QuZ2V0KHt1cmw6ICJodHRwczovL3d3dy5kZWV6ZXIuY29tL2FqYXgvZ3ctbGlnaHQucGhwP2FwaV92ZXJzaW9uPTEuMCZhcGlfdG9rZW49JmlucHV0PTMmbWV0aG9kPWRlZXplci5nZXRVc2VyRGF0YSIsIGhlYWRlcnM6IHRoaXMuaHR0cEhlYWRlcnMsIGphcjogdHJ1ZX0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVtYWlscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gaHR0cHM6Ly93d3cuZGVlemVyLmNvbS9hamF4L2d3LWxpZ2h0LnBocD9tZXRob2Q9ZGVlemVyLmdldFVzZXJEYXRhJmlucHV0PTMmYXBpX3ZlcnNpb249MS4wJmFwaV90b2tlbj0mY2lkPTUyNjQ5NTY2OAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
