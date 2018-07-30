@@ -692,9 +692,9 @@
         <mark key="^" line="208" column="26" />
         <mark key="." line="208" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/download.js" timestamp="1523024668589">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/download.js" timestamp="1532947150682">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
         <mark key="^" line="11" column="29" />
         <mark key="." line="3" column="0" />
       </file>
@@ -1284,11 +1284,11 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/content-digger/test.js" timestamp="1521756514290">
-        <mark key="[" line="28" column="45" />
-        <mark key="]" line="28" column="42" />
-        <mark key="." line="28" column="42" />
-        <mark key="^" line="28" column="42" />
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/test.js" timestamp="1532947171689">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/node/sagas/init.js" timestamp="1487027631977">
         <mark key="[" line="67" column="30" />
@@ -3467,6 +3467,10 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/processes/downloadProcess.js" timestamp="1532947114907">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Uuid.php" timestamp="1485715170921">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="28" />
@@ -4900,6 +4904,9 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" timestamp="1532948030508">
+        <mark key="[" line="58" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/instore-frontend/src/app/app.md.scss" timestamp="1487880392486">
         <mark key="[" line="111" column="19" />
         <mark key="]" line="111" column="19" />
@@ -5259,8 +5266,8 @@
       <jump line="37" column="4" filename="$USER_HOME$/projects/atmosphere/api/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: getConversationId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZG93bmxvYWQoKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5272,43 +5279,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: getConversationId</text>
+        <text>..</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQVUJTVUJfQlJPS0VSX0xJU1RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmKHJlcS5xdWVyeS50eXBlICE9PSAncmVtaW5kZXInKSBlbWFpbHNbbG9jYXRpb25JZF0gPSAwOwo=</text>
+        <text encoding="base64">Y29uc3QgZGVlemVyID0gcmVxdWlyZSgnLi9kZWV6ZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG93bmxvYWQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgZG93bmxvYWQgPSByZXF1aXJlKCcuL3NyYy9kb3dubG9hZCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBtZXNzYWdlc1Jlc291cmNlID0gZXZlbnRQYXlsb2FkLmNvbnZlcnNhdGlvbi5fbGlua3MucmVsYXRlZC5tZXNzYWdlczsKICBjb25zdCB0b2tlbiA9IGF3YWl0IGZldGNoTWVzc2FnZXNPZkNvbnZlcnNhdGlvbihtZXNzYWdlc1Jlc291cmNlKTsKICByZXR1cm4gdG9rZW47Cg==</text>
+        <text encoding="base64">Y29uc3QgRG93bmxvYWRlciA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Q29udmVyc2F0aW9uSWQgPSAoZXZlbnRQYXlsb2FkKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVtYWlscyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdCBtZXNzYWdlc1Jlc291cmNlID0gZXZlbnRQYXlsb2FkLmNvbnZlcnNhdGlvbi5fbGlua3MucmVsYXRlZC5tZXNzYWdlczsKICBjb25zdCB0b2tlbiA9IGF3YWl0IGZldGNoTWVzc2FnZXNPZkNvbnZlcnNhdGlvbihtZXNzYWdlc1Jlc291cmNlKTsKICByZXR1cm4gdG9rZW47Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZW5kKHJlcywgMjAwKTsK</text>
+        <text encoding="base64">Y29uc3QgZ2V0Q29udmVyc2F0aW9uSWQgPSAoZXZlbnRQYXlsb2FkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMubW9kaWZ5ID0gYXN5bmMgKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVtYWlscyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkZWxlZ2F0aW9uJywgcmVxLnF1ZXJ5LCBkZWxlZ2F0aW9uSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
