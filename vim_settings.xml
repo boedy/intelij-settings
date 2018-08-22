@@ -4362,12 +4362,13 @@
         <mark key="." line="164" column="20" />
         <mark key="^" line="164" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/LocationPlaylist.php" timestamp="1534950180333">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/LocationPlaylist.php" timestamp="1534951934919">
+        <mark key="'" line="46" column="116" />
         <mark key="i" line="49" column="15" />
-        <mark key="[" line="46" column="58" />
-        <mark key="]" line="20" column="5" />
-        <mark key="." line="20" column="5" />
-        <mark key="^" line="20" column="5" />
+        <mark key="[" line="46" column="109" />
+        <mark key="]" line="46" column="117" />
+        <mark key="." line="46" column="109" />
+        <mark key="^" line="46" column="117" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NewTrackAddedNotification.php" timestamp="1499935574556">
         <mark key="[" line="23" column="45" />
@@ -5254,7 +5255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="0" filename="$USER_HOME$/projects/kollekt/team-dashboard/queries.js" />
       <jump line="247" column="0" filename="$USER_HOME$/projects/kollekt/team-dashboard/queries.js" />
       <jump line="70" column="14" filename="$USER_HOME$/projects/kollekt/team-dashboard/google-sheets.js" />
       <jump line="125" column="15" filename="$USER_HOME$/projects/kollekt/team-dashboard/google-sheets.js" />
@@ -5354,10 +5354,11 @@
       <jump line="124" column="0" filename="$USER_HOME$/projects/services/AccountCreationDelegation/src/mailEventHandler.js" />
       <jump line="117" column="6" filename="$USER_HOME$/projects/services/AccountCreationDelegation/src/index.js" />
       <jump line="103" column="29" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" />
+      <jump line="46" column="116" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/LocationPlaylist.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>App\Domain\Playlist\Playlist</text>
+        <text>&quot;e&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5369,34 +5370,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>App\Domain\Playlist\Playlist</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxNYW55VG9PbmUodGFyZ2V0RW50aXR5PSJBcHBcRG9tYWluXFBsYXlsaXN0XFBsYXlsaXN0IikKICAgICAqLwo=</text>
+      <register name="0" type="4">
+        <text>persist</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBKb2luQ29sdW1uKG5hbWU9ImFkZHJlc3NfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiLCBvbkRlbGV0ZT0iQ0FTQ0FERSIpCg==</text>
+        <text encoding="base64">ICAgICAqIEBPUk1cT25lVG9NYW55KHRhcmdldEVudGl0eT0iTG9jYXRpb25QbGF5bGlzdE1peGluIiwgbWFwcGVkQnk9ImxvY2F0aW9uUGxheWxpc3QiLCBjYXNjYWRlPXsncGVyc2lzJywgcmVtb3ZlfSkK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbWl4aW4gPSAK</text>
+        <text encoding="base64">ICAgICAqIEBKb2luQ29sdW1uKG5hbWU9ImFkZHJlc3NfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiLCBvbkRlbGV0ZT0iQ0FTQ0FERSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbWl4aW4gPSBMb2NhdGlvblBsYXlsaXN0TWl4aW46OmluaXQoJHRoaXMsICRwbGF5bGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbWl4aW4gPSAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkbWl4aW4gPSBMb2NhdGlvblBsYXlsaXN0TWl4aW46OmluaXQoJHRoaXMsICRwbGF5bGlzdCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkbWl4aW5FeGlzdHMgPQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JHRoaXMtPm1peGlucy0+ZXhpc3RzKGZ1bmN0aW9uKCRrZXksICRlbGVtZW50KSB1c2UgKCRtaXhpbil7CiAgICAgICAgICAgcmV0dXJuICRlbGVtZW50LT5nZXRQbGF5bGlzdC0+Z2V0SWQoKSA9PSAkbWl4aW4tPmdldElkKCk7CiAgICAgICAgfSk7</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -5405,10 +5406,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -5444,8 +5445,6 @@
         <entry encoding="base64">XDxhd2FpdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>set rnu</entry>
-        <entry>set nonumbers</entry>
         <entry>set nornu</entry>
         <entry>set nu</entry>
         <entry>set nonu</entry>
@@ -5456,14 +5455,16 @@
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz52c3A=</entry>
         <entry>vsp</entry>
-        <entry>action AceJumpAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3BsaXRWZXJ0aWNhbGx5</entry>
-        <entry>action SplitHorizontally</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action SplitVertically</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcERvdWJsZVF1b3Rlcw==</entry>
+        <entry>set surround</entry>
+        <entry>action SplitHorizontally</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action AceJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
