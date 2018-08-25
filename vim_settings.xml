@@ -4398,13 +4398,13 @@
         <mark key="." line="164" column="20" />
         <mark key="^" line="164" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/LocationPlaylist.php" timestamp="1535114180198">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/LocationPlaylist.php" timestamp="1535198396595">
         <mark key="'" line="45" column="116" />
         <mark key="i" line="48" column="15" />
-        <mark key="[" line="103" column="10" />
-        <mark key="]" line="102" column="39" />
-        <mark key="." line="102" column="39" />
-        <mark key="^" line="102" column="39" />
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="60" column="3" />
+        <mark key="." line="60" column="3" />
+        <mark key="^" line="60" column="3" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/NewTrackAddedNotification.php" timestamp="1499935574556">
         <mark key="[" line="23" column="45" />
@@ -5296,7 +5296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="14" filename="$USER_HOME$/projects/kollekt/team-dashboard/google-sheets.js" />
       <jump line="125" column="15" filename="$USER_HOME$/projects/kollekt/team-dashboard/google-sheets.js" />
       <jump line="126" column="35" filename="$USER_HOME$/projects/kollekt/team-dashboard/google-sheets.js" />
       <jump line="9" column="7" filename="$USER_HOME$/projects/kollekt/team-dashboard/google-sheets.js" />
@@ -5396,10 +5395,11 @@
       <jump line="103" column="29" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" />
       <jump line="46" column="116" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/LocationPlaylist.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/AuthenticationController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/backgroundAudio.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5411,7 +5411,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBbJ2hpZGRlbicgPT4gWyd0cmFjay5zb3VyY2VzLndhdmVmb3JtJ11d</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
@@ -5486,26 +5486,26 @@
         <entry encoding="base64">XDxhd2FpdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>set nornu</entry>
-        <entry>set nu</entry>
-        <entry>set nonu</entry>
-        <entry>action Macro.wrapSingleQuotes</entry>
-        <entry>x</entry>
-        <entry>e docker-compose.override.yml</entry>
-        <entry>w</entry>
-        <entry>sp</entry>
-        <entry encoding="base64">JzwsJz52c3A=</entry>
-        <entry>vsp</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gU3BsaXRWZXJ0aWNhbGx5</entry>
-        <entry>action TabShiftActions.MoveFocusUp</entry>
-        <entry>action TabShiftActions.MoveFocusDown</entry>
-        <entry>action SplitVertically</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTWFjcm8ud3JhcERvdWJsZVF1b3Rlcw==</entry>
-        <entry>set surround</entry>
-        <entry>action SplitHorizontally</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry encoding="base64">bm1hcCA8Qy1rPiA6YWN0aW9u</entry>
+        <entry>actionlist moveup</entry>
+        <entry encoding="base64">bm1hcCA8Qy1rPiA6YWN0aW9uIE1vdmVMaW5lVVA=</entry>
+        <entry encoding="base64">bm1hcCA8Qy1rPiA6YWN0aW9uIE1vdmVMaW5lVVA8Q1I+</entry>
+        <entry>action MoveLineUP</entry>
+        <entry>actionlist move</entry>
+        <entry>action MoveLineUp</entry>
         <entry>action AceJumpAction</entry>
+        <entry>action SplitHorizontally</entry>
+        <entry>action TabShiftActions.MoveFocusDown</entry>
+        <entry>action TabShiftActions.MoveFocusUp</entry>
+        <entry encoding="base64">bm1hcCA8Qy1rPiA6YWN0aW9uIE1vdmVMaW5lVXA8Q1I+</entry>
+        <entry encoding="base64">YWN0aW9uIEFjZUp1bXBBY3Rpb248Y3I+</entry>
+        <entry>actionlist Ace</entry>
+        <entry>actionlist AceJump</entry>
+        <entry>actionlist jump</entry>
+        <entry>actionlist AceA</entry>
+        <entry encoding="base64">bm5vcmVtYXAgc3MgOmFjdGlvbiBBY2VBY3Rpb248Y3I+IA==</entry>
+        <entry>action AceAction</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -5562,7 +5562,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
