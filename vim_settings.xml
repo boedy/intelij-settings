@@ -2435,11 +2435,10 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/Controller.php" timestamp="1535303263105">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="70" column="52" />
-        <mark key="^" line="96" column="32" />
-        <mark key="." line="104" column="8" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/Controller.php" timestamp="1535323741597">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/backend/docker-compose.override.yml" timestamp="1494883424925">
         <mark key="[" line="27" column="14" />
@@ -4578,11 +4577,11 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Middleware/ObfuscationMiddleware.php" timestamp="1535305213045">
-        <mark key="[" line="61" column="51" />
-        <mark key="]" line="61" column="23" />
-        <mark key="." line="61" column="23" />
-        <mark key="^" line="61" column="23" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Middleware/ObfuscationMiddleware.php" timestamp="1535323237778">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="3" />
+        <mark key="." line="36" column="3" />
+        <mark key="^" line="36" column="3" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Invoice/RecurringInvoiceRepository.php" timestamp="1487456387755">
         <mark key="[" line="12" column="25" />
@@ -4856,6 +4855,7 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/vendor/vinkla/hashids/src/HashidsManager.php" timestamp="1535323330195" />
       <file name="$USER_HOME$/projects/docker/instore/app/Domain/Track/Source/Playable.php" timestamp="1446485837643">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="11" column="4" />
@@ -5415,7 +5415,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oImludmFsaWQgSUQiKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlcXVlc3Q7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5427,7 +5427,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>eRequest</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
@@ -5436,34 +5436,34 @@
         <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkcGF5bG9hZCBhcyAka2V5ID0+ICR2YWx1ZSl7CiAgICAgICAgICAgIGlmKGlzX2FycmF5KCR2YWx1ZSkpewogICAgICAgICAgICAgICAgJHBheWxvYWRbJGtleV0gPSBhcnJheV9tYXAoWyR0aGlzLCAnZGVPYmZ1c2NhdGUnXSwgJHZhbHVlKTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAkcGF5bG9hZFska2V5XSA9ICR0aGlzLT5kZWNvZGUoJHZhbHVlKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oImludmFsaWQgSUQiKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlcXVlc3Q7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlcXVlc3QtPmFsbCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBheWxvYWRbJGtleV0gPSAkdGhpcy0+ZGVjb2RlKCR2YWx1ZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9ICR0aGlzLT5kZU9iZnVzY2F0ZSgkcmVxdWVzdC0+aW5wdXQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoaXNfYXJyYXkoJHZhbHVlKSl7CiAgICAgICAgICAgICAgICAkcGF5bG9hZFska2V5XSA9IGFycmF5X21hcChbJHRoaXMsICdkZU9iZnVzY2F0ZSddLCAkdmFsdWUpOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICRwYXlsb2FkWyRrZXldID0gJHRoaXMtPmRlY29kZSgkdmFsdWUpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZGVjb2RlKCRoYXNoKQogICAgewogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmRlY29kZSgkdmFsdWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkaXNIYXNoZWRJZCA9IGlzX3N0cmluZygkaGFzaCkgJiYgc3RybGVuKCRoYXNoKSA9PSA5OwogICAgICAgIGlmICggISAkaXNIYXNoZWRJZCkgewogICAgICAgICAgICByZXR1cm4gJGhhc2g7CiAgICAgICAgfQogICAgICAgICRyZXN1bHQgPSAkdGhpcy0+b2JmdXNjYXRvci0+ZGVjb2RlKCRoYXNoKTsKICAgICAgICBpZiAoICEgaXNzZXQoJHJlc3VsdFswXSkpIHsKICAgICAgICAgICAgcmV0dXJuICRoYXNoOwogICAgICAgIH0KICAgICAgICByZXR1cm4gJHJlc3VsdFswXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
