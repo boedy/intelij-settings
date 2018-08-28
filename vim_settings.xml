@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="21" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" protocol="file" />
     </globalmarks>
@@ -1878,11 +1878,11 @@
         <mark key="^" line="46" column="57" />
         <mark key="." line="46" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineRepository.php" timestamp="1535378564783">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Repositories/DoctrineRepository.php" timestamp="1535462124426">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="45" column="9" />
         <mark key="^" line="65" column="62" />
-        <mark key="." line="34" column="0" />
+        <mark key="." line="43" column="25" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Notification/Notifiable.php" timestamp="1498150959033">
         <mark key="[" line="8" column="0" />
@@ -3934,11 +3934,11 @@
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Location/DoctrineLocationPlaylistQuery.php" timestamp="1535457094667">
-        <mark key="[" line="17" column="64" />
-        <mark key="]" line="17" column="63" />
-        <mark key="." line="17" column="63" />
-        <mark key="^" line="17" column="63" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Location/DoctrineLocationPlaylistQuery.php" timestamp="1535462205477">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="22" column="18" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Notification/Query/GetNotificationsForUser.php" timestamp="1498208572786">
         <mark key="[" line="15" column="16" />
@@ -5483,8 +5483,8 @@
       <jump line="170" column="9" filename="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/PlaylistController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>join(</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5496,16 +5496,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>join(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwbGF5bGlzdCgpCiAgICB7CiAgICAgICAgcmV0dXJuIFBsYXlsaXN0UHJlc2VudGVyOjpwcmVzZW50KCR0aGlzLT5vYmplY3RbJ3BsYXlsaXN0J10pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoICEgJGVudGl0eSkgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90Rm91bmRFeGNlcHRpb24oIkVudGl0eSBkb2VzIG5vdCBleGlzdCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiggISAkcmVzdWx0cyl7CiAgICAgICAgICAgIHRocm93IAogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
@@ -5514,22 +5514,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IHB1ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZXcgRHVtcGVyKS0+ZHVtcChbJGZpZWxkLCAkdW53cmFwcGVkXSk7Cg==</text>
+        <text encoding="base64">IHB1ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBEdW1wZXIpLT5kdW1wKFskZmllbGQsIGdldF9jbGFzcygkcmVsYXRpb24pXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZXcgRHVtcGVyKS0+ZHVtcChbJGZpZWxkLCAkdW53cmFwcGVkXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZXcgRHVtcGVyKS0+ZHVtcChbJGZpZWxkLCAkcmVsYXRpb25dKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBEdW1wZXIpLT5kdW1wKFskZmllbGQsIGdldF9jbGFzcygkcmVsYXRpb24pXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBEdW1wZXIpLT5kdW1wKFskZmllbGQsICRyZWxhdGlvbl0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZXcgRHVtcGVyKS0+ZHVtcChbJGZpZWxkLCAkcmVsYXRpb25dKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKG5ldyBEdW1wZXIpLT5kdW1wKFskZmllbGQsICRyZWxhdGlvbl0pOwo=</text>
