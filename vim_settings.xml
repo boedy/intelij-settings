@@ -3044,11 +3044,11 @@
         <mark key="^" line="29" column="52" />
         <mark key="." line="68" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/pincode.blade.php" timestamp="1502894682537">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="36" column="11" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/pincode.blade.php" timestamp="1535539399660">
+        <mark key="[" line="40" column="61" />
+        <mark key="]" line="40" column="73" />
+        <mark key="^" line="40" column="73" />
+        <mark key="." line="40" column="73" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-graphql/data/schema.graphql" timestamp="1519373934801">
         <mark key="[" line="135" column="0" />
@@ -3452,6 +3452,12 @@
         <mark key="]" line="7" column="26" />
         <mark key="^" line="2" column="8" />
         <mark key="." line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/payments/.env" timestamp="1535539642715">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/vendor/broadway/broadway/src/Broadway/EventSourcing/EventSourcingRepository.php" timestamp="1485713367334">
         <mark key="[" line="49" column="0" />
@@ -5484,7 +5490,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a0457021.ngrok.io</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5496,15 +5502,21 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a0457021.ngrok.io</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9yZ2FuaXNhdGlvbk1hbmFnZXIgPSBuZXcgT3JnYW5pc2F0aW9uTWFuYWdlcigkYWN0b3IsICRvcmdhbmlzYXRpb24pOwogICAgICAgICAgICAkdGhpcy0+YWNjZXNzQ29udHJvbFNlcnZpY2UtPmdyYW50KCRhY3RvciwgJG9yZ2FuaXNhdGlvbk1hbmFnZXIpOwo=</text>
+      <register name="0" type="4">
+        <text>ed259a27.ngrok.io</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">aHR0cHM6Ly9lZDI1OWEyNy5uZ3Jvay5pby9waW5jb2RlCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text>df:xj</text>
+      </register>
+      <register name="2" type="8">
         <text>$qb
 $qb
 $qb
@@ -5514,35 +5526,29 @@ $qb
 $qb
 $qb</text>
       </register>
-      <register name="q" type="4">
-        <text>df:xj</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBJREVOVElUWQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggISAkcmVzdWx0cyl7CiAgICAgICAgICAgIHRocm93IAogICAgICAgIH0K</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiggISAkcmVzdWx0cyl7CiAgICAgICAgICAgIHRocm93IAogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IHB1ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZXcgRHVtcGVyKS0+ZHVtcChbJGZpZWxkLCAkdW53cmFwcGVkXSk7Cg==</text>
+        <text encoding="base64">IHB1ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBEdW1wZXIpLT5kdW1wKFskZmllbGQsIGdldF9jbGFzcygkcmVsYXRpb24pXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZXcgRHVtcGVyKS0+ZHVtcChbJGZpZWxkLCAkdW53cmFwcGVkXSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -5578,7 +5584,6 @@ $qb</text>
         <entry encoding="base64">XDxhd2FpdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bm1hcCA8Qy1rPiA6YWN0aW9uIE1vdmVMaW5lVVA8Q1I+</entry>
         <entry>action MoveLineUP</entry>
         <entry>actionlist move</entry>
         <entry>action AceJumpAction</entry>
@@ -5593,11 +5598,12 @@ $qb</text>
         <entry>actionlist AceA</entry>
         <entry encoding="base64">bm5vcmVtYXAgc3MgOmFjdGlvbiBBY2VBY3Rpb248Y3I+IA==</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action AceAction</entry>
         <entry>action MoveLineUp</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>action SplitVertically</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
