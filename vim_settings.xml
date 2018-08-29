@@ -3355,6 +3355,9 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="30" />
       </file>
+      <file name="/Dummy.txt" timestamp="1535535943260">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Waveform.js" timestamp="1495472386967">
         <mark key="[" line="31" column="51" />
         <mark key="]" line="31" column="25" />
@@ -3528,11 +3531,11 @@
         <mark key="^" line="50" column="69" />
         <mark key="." line="50" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" timestamp="1535444347498">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="129" column="52" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" timestamp="1535535848822">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="110" column="58" />
+        <mark key="." line="110" column="58" />
+        <mark key="^" line="110" column="58" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/CredentialGenerator.js" timestamp="1519329512006">
         <mark key="[" line="28" column="91" />
@@ -4270,11 +4273,8 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" timestamp="1535444203756">
-        <mark key="[" line="67" column="65" />
-        <mark key="]" line="67" column="65" />
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" timestamp="1535535883047">
         <mark key="^" line="67" column="66" />
-        <mark key="." line="67" column="65" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/config/cache.php" timestamp="1506440295812">
         <mark key="[" line="15" column="38" />
@@ -5483,8 +5483,8 @@
       <jump line="170" column="9" filename="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/PlaylistController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>join(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZ2FuaXNhdGlvbk1hbmFnZXIgPSBuZXcgT3JnYW5pc2F0aW9uTWFuYWdlcigkYWN0b3IsICRvcmdhbmlzYXRpb24pOwogICAgICAgICAgICAkdGhpcy0+YWNjZXNzQ29udHJvbFNlcnZpY2UtPmdyYW50KCRhY3RvciwgJG9yZ2FuaXNhdGlvbk1hbmFnZXIpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5496,46 +5496,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>join(</text>
+        <text encoding="base64">SURFTlRJVFkoYXV0aC5yb2xlKSwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoICEgJGVudGl0eSkgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90Rm91bmRFeGNlcHRpb24oIkVudGl0eSBkb2VzIG5vdCBleGlzdCIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZ2FuaXNhdGlvbk1hbmFnZXIgPSBuZXcgT3JnYW5pc2F0aW9uTWFuYWdlcigkYWN0b3IsICRvcmdhbmlzYXRpb24pOwogICAgICAgICAgICAkdGhpcy0+YWNjZXNzQ29udHJvbFNlcnZpY2UtPmdyYW50KCRhY3RvciwgJG9yZ2FuaXNhdGlvbk1hbmFnZXIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggISAkcmVzdWx0cyl7CiAgICAgICAgICAgIHRocm93IAogICAgICAgIH0K</text>
+      <register name="1" type="8">
+        <text>$qb
+$qb
+$qb
+$qb
+$qb
+$qb
+$qb
+$qb</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJREVOVElUWQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiggISAkcmVzdWx0cyl7CiAgICAgICAgICAgIHRocm93IAogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IHB1ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZXcgRHVtcGVyKS0+ZHVtcChbJGZpZWxkLCAkdW53cmFwcGVkXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBEdW1wZXIpLT5kdW1wKFskZmllbGQsIGdldF9jbGFzcygkcmVsYXRpb24pXSk7Cg==</text>
+        <text encoding="base64">IHB1ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZXcgRHVtcGVyKS0+ZHVtcChbJGZpZWxkLCAkcmVsYXRpb25dKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZXcgRHVtcGVyKS0+ZHVtcChbJGZpZWxkLCAkdW53cmFwcGVkXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBEdW1wZXIpLT5kdW1wKFskZmllbGQsICRyZWxhdGlvbl0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBEdW1wZXIpLT5kdW1wKFskZmllbGQsIGdldF9jbGFzcygkcmVsYXRpb24pXSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5571,7 +5578,6 @@
         <entry encoding="base64">XDxhd2FpdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bm1hcCA8Qy1rPiA6YWN0aW9uIE1vdmVMaW5lVVA=</entry>
         <entry encoding="base64">bm1hcCA8Qy1rPiA6YWN0aW9uIE1vdmVMaW5lVVA8Q1I+</entry>
         <entry>action MoveLineUP</entry>
         <entry>actionlist move</entry>
@@ -5591,6 +5597,7 @@
         <entry>action AceAction</entry>
         <entry>action MoveLineUp</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
