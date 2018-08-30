@@ -161,12 +161,6 @@
         <mark key="." line="29" column="9" />
         <mark key="^" line="29" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/routes/web.php" timestamp="1502885090707">
-        <mark key="[" line="15" column="60" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="48" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/vendor/nmred/kafka-php/src/Kafka/Consumer/Process.php" timestamp="1511358853570">
         <mark key="[" line="641" column="94" />
         <mark key="]" line="642" column="33" />
@@ -2397,11 +2391,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" timestamp="1535629827247">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" timestamp="1535631458899">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="15" column="32" />
-        <mark key="." line="19" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/pages/single.css" timestamp="1493722025315">
         <mark key="[" line="42" column="84" />
@@ -2766,11 +2760,11 @@
         <mark key="^" line="25" column="27" />
         <mark key="." line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Middleware/Pincode.php" timestamp="1502442890855">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="29" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Middleware/Pincode.php" timestamp="1535632260929">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/process-dev.yml" timestamp="1533041466526">
         <mark key="[" line="7" column="22" />
@@ -3058,11 +3052,11 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/Payments.php" timestamp="1535630625747">
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="46" />
-        <mark key="^" line="38" column="34" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/Payments.php" timestamp="1535634351733">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="31" column="81" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/pincode.blade.php" timestamp="1535539399660">
         <mark key="[" line="40" column="61" />
@@ -3645,6 +3639,11 @@
         <mark key="^" line="66" column="13" />
         <mark key="." line="66" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/payments/database/migrations/2017_08_10_085310_create_recurring_invoice_table.php" timestamp="1535631379583">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/User/Query/ShowDevicePassword.php" timestamp="1518555490678">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="44" />
@@ -3872,11 +3871,11 @@
         <mark key="^" line="56" column="26" />
         <mark key="." line="56" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/app/BillingAddress.php" timestamp="1502884248246">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="38" />
-        <mark key="." line="9" column="38" />
-        <mark key="^" line="9" column="38" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/BillingAddress.php" timestamp="1535634067217">
+        <mark key="[" line="52" column="10" />
+        <mark key="]" line="53" column="55" />
+        <mark key="." line="53" column="55" />
+        <mark key="^" line="53" column="55" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/css/unslider.css" timestamp="1484312957512">
         <mark key="[" line="88" column="14" />
@@ -4272,6 +4271,12 @@
         <mark key="]" line="1" column="121" />
         <mark key="." line="1" column="121" />
         <mark key="^" line="1" column="121" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/payments/database/migrations/2017_08_10_095310_create_billing_address_table.php" timestamp="1535631281408">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+        <mark key="^" line="19" column="45" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Contract/Agreement/Events/IntroducedNewPricingTierEvent.php" timestamp="1485859037778">
         <mark key="[" line="39" column="0" />
@@ -4775,12 +4780,7 @@
         <mark key="." line="12" column="80" />
         <mark key="^" line="12" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Kernel.php" timestamp="1502380299159">
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="34" />
-        <mark key="^" line="59" column="34" />
-        <mark key="." line="59" column="34" />
-      </file>
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Kernel.php" timestamp="1535631834611" />
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/Store.js" timestamp="1533044339404">
         <mark key="[" line="24" column="31" />
         <mark key="]" line="24" column="31" />
@@ -4912,10 +4912,10 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/database/migrations/2017_08_10_083422_create_organisation_table.php" timestamp="1502357918596">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/database/migrations/2017_08_10_083422_create_organisation_table.php" timestamp="1535631238563">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="30" />
       </file>
       <file name="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/ShowPassworc.js" timestamp="1519987182544">
@@ -5210,12 +5210,6 @@
         <mark key="." line="5" column="5" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/strip-creditcard.blade.php" timestamp="1535618873578">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/instore-frontend/src/app/organisation/create-organisation/create-organisation.js" timestamp="1487892521014">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="45" column="22" />
@@ -5506,8 +5500,8 @@
       <jump line="28" column="0" filename="$USER_HOME$/projects/atmosphere/payments/public/css/stripe.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+aW5wdXQoJ293bmVyLmVtYWlsJykpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5519,31 +5513,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>e77ec432</text>
+        <text encoding="base64">KCRyZXF1ZXN0LT5nZXQoJ2lkJyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3JlcXVpcmVkJwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+aW5wdXQoJ293bmVyLmVtYWlsJykpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly9lNzdlYzQzMi5uZ3Jvay5pbyAK</text>
+        <text encoding="base64">ICAgICAgICBpZmRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1hbmFkYXRlLT4K</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VzdG9tZXIgPSAkbW9sbGllLT5jdXN0b21lcnMtPmNyZWF0ZSgKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICRvcmdhbmlzYXRpb24tPm5hbWUKICAgICAgICAgICAgXQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -5552,13 +5546,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9sbGllID0gbmV3IFxNb2xsaWVfQVBJX0NsaWVudCgpOwogICAgICAgICRtb2xsaWUtPnNldEFwaUtleSgndGVzdF9nNWNtVUNFTTJyRXZtczR4S3NmZzNGa1ZLSkZSVmEnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9TZW5kIHRoZSBjdXN0b21lciBvZmYgdG8gY29tcGxldGUgdGhlIHBheW1lbnQuCiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgkbW9sbGllUGF5bWVudC0+Z2V0UGF5bWVudFVybCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9wdGlvbnMgPSBbCiAgICAgICAgICAgICAgICAnYW1vdW50JyAgICAgICAgPT4gMC4wMSwgICAgICAgICAgLy8gMSBjZW50IG9yIGhpZ2hlcgogICAgICAgICAgICAgICAgJ2N1c3RvbWVySWQnICAgID0+ICRvcmdhbmlzYXRpb24tPm1vbGxpZV9jdXN0b21lcl9pZCwKICAgICAgICAgICAgICAgICdyZWN1cnJpbmdUeXBlJyA9PiAnZmlyc3QnLCAgICAgICAvLyBpbXBvcnRhbnQKICAgICAgICAgICAgICAgICdkZXNjcmlwdGlvbicgICA9PiAnRmlyc3QgcGF5bWVudCcsCiAgICAgICAgICAgICAgICAncmVkaXJlY3RVcmwnICAgPT4gZW52KCdBUFBfVVJMJykgLiAkb3JnYW5pc2F0aW9uLT51cmwsCiAgICAgICAgICAgICAgICAnd2ViaG9va1VybCcgICAgPT4gZW52KCdBUFBfVVJMJykgLiAnYXBpL3BheW1lbnRzL3Byb2Nlc3NpbmcnCiAgICAgICAgICAgIF07CiAgICAgICAgICAgICRtb2xsaWVQYXltZW50ID0gJG1vbGxpZS0+cGF5bWVudHMtPmNyZWF0ZSgkb3B0aW9ucyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkbWFuYWRhdGUgPSBNYW5kYXRlOjpmaXJzdE9yTmV3KFsnJ10pCiAgICAgICAgICAgICRtYW5hZGF0ZSA9IG5ldyBNYW5kYXRlKCRjdXN0b21lci0+aWQsICRjdXN0b21lci0+ZGVmYXVsdFNvdXJjZSk7CiAgICAgICAgICAgICRtYW5hZGF0ZS0+aWQgPSAndGVzdCc7CiAgICAgICAgICAgICRtYW5hZGF0ZS0+Y3VzdG9tZXJJZCA9ICRjdXN0b21lci0+aWQ7CiAgICAgICAgICAgIC8vc3RvcmUgcGF5bWVudCBkZXRhaWxzCiAgICAgICAgICAgICRwYXltZW50ID0gbmV3IFBheW1lbnQoKTsKICAgICAgICAgICAgJHBheW1lbnQtPnBheW1lbnRfaWQgPSAkbW9sbGllUGF5bWVudC0+aWQ7CiAgICAgICAgICAgICRwYXltZW50LT5zdGF0dXMgPSAkbW9sbGllUGF5bWVudC0+c3RhdHVzOwogICAgICAgICAgICAkcGF5bWVudC0+YmlsbGluZ19hZGRyZXNzX2lkID0gJHJlcXVlc3QtPmdldCgnYmlsbGluZ19hZGRyZXNzX2lkJyk7CiAgICAgICAgICAgICRwYXltZW50LT5zYXZlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SplitHorizontally</text>
+        <text>action MoveLineDown</text>
       </register>
     </registers>
     <search>
@@ -5594,7 +5588,6 @@
         <entry encoding="base64">XDxhd2FpdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action MoveLineUP</entry>
         <entry>actionlist move</entry>
         <entry>action AceJumpAction</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
@@ -5614,6 +5607,7 @@
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action SplitHorizontally</entry>
+        <entry>action MoveLineDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
