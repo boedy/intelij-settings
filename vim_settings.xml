@@ -2736,6 +2736,12 @@
         <mark key="." line="84" column="37" />
         <mark key="^" line="84" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/PaymentSource.php" timestamp="1535714686242">
+        <mark key="[" line="20" column="102" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Console/Commands/ProduceTest.php" timestamp="1518290397834">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="30" />
@@ -3868,11 +3874,11 @@
         <mark key="^" line="56" column="26" />
         <mark key="." line="56" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/app/BillingAddress.php" timestamp="1535712240810">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="56" column="70" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/BillingAddress.php" timestamp="1535714947427">
+        <mark key="[" line="60" column="29" />
+        <mark key="]" line="60" column="36" />
+        <mark key="^" line="60" column="36" />
+        <mark key="." line="60" column="36" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/website/css/unslider.css" timestamp="1484312957512">
         <mark key="[" line="88" column="14" />
@@ -4197,11 +4203,11 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/PaymentsController.php" timestamp="1535712204944">
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/PaymentsController.php" timestamp="1535714532412">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
-        <mark key="^" line="25" column="61" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Http/Controllers/Contract/ContractController.php" timestamp="1485867018307">
         <mark key="[" line="10" column="27" />
@@ -5503,8 +5509,8 @@
       <jump line="28" column="0" filename="$USER_HOME$/projects/atmosphere/payments/public/css/stripe.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>source</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5516,7 +5522,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPg==</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
@@ -5525,34 +5531,34 @@
         <text encoding="base64">ICAgICAgICAkYWNjb3VudGluZyA9IG5ldyBBY2NvdW50aW5nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJlbWFpbCIgID0+ICRlbWFpbAo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggJGJpbGxpbmdBZGRyZXNzLT5oYXNDdXN0b21lcigpKSB7CiAgICAgICAgICAgICRiaWxsaW5nQWRkcmVzcy0+dXBkYXRlU291cmNlKCRyZXF1ZXN0LT5pbnB1dCgnaWQnKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJGJpbGxpbmdBZGRyZXNzLT5jcmVhdGVDdXN0b21lcigkcmVxdWVzdC0+aW5wdXQoJ2lkJyksICRyZXF1ZXN0LT5pbnB1dCgnb3duZXIuZW1haWwnKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPcmdhbmlzYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9Sb3V0ZTo6cG9zdCgnL29yZ2FuaXNhdGlvbnMve3VybH0nLCAnT3JnYW5pc2F0aW9uQ29udHJvbGxlckBhZGRSZWN1cnJpbmdJbnZvaWNlcycpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBoYXNDdXN0b21lcigpCiAgICB7CiAgICAgICAgcmV0dXJuIGlzc2V0KCR0aGlzLT5zdHJpcGVfY3VzdG9tZXJfaWQpOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBcU3RyaXBlXFN0cmlwZU9iamVjdAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Q3VzdG9tZXIoKQogICAgewogICAgICAgIGlmICggISAkdGhpcy0+aGFzQ3VzdG9tZXIoKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgaWYgKCR0aGlzLT5jdXN0b21lcikgewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPmN1c3RvbWVyOwogICAgICAgIH0KICAgICAgICAkdGhpcy0+Y3VzdG9tZXIgPSBDdXN0b21lcjo6cmV0cmlldmUoJHRoaXMtPnN0cmlwZV9jdXN0b21lcl9pZCk7CiAgICAgICAgaWYoICEgJHRoaXMtPmN1c3RvbWVyKXsKICAgICAgICAgICAgJHRoaXMtPnN0cmlwZV9jdXN0b21lcl9pZCA9IG51bGw7CiAgICAgICAgfQogICAgICAgIHJldHVybiAkdGhpcy0+Y3VzdG9tZXI7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGNyZWF0ZUN1c3RvbWVyKCRzb3VyY2UsICRlbWFpbCkKICAgIHsKICAgICAgICAkdGhpcy0+Y3VzdG9tZXIgPSBDdXN0b21lcjo6Y3JlYXRlKAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAic291cmNlIiA9PiAkc291cmNlLAogICAgICAgICAgICAgICAgImVtYWlsIiAgPT4gJGVtYWlsCiAgICAgICAgICAgIF0KICAgICAgICApOwogICAgICAgICR0aGlzLT5zdHJpcGVfY3VzdG9tZXJfaWQgPSAkdGhpcy0+Y3VzdG9tZXItPmlkOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGF5bWVudF9zaWduYXR1cmUgPSAkcGF5bWVudFNvdXJjZS0+Z2V0U2lnbmF0dXJlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2kK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkb3JnYW5pc2F0aW9uLT5uYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnBheW1lbnRfc2lnbmF0dXJlID0gJGlucHV0Wydjb3VudHJ5J107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3Nlcy0+ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnBheW1lbnRfc2lnbmF0dXJlIC49ICcqKiAnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkb3JnYW5pc2F0aW9uLT5uYW1lZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnBheW1lbnRfc2lnbmF0dXJlIC49ICRpbnB1dFsnYmFua19jb2RlJ107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SplitVertically</text>
