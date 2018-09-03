@@ -4240,11 +4240,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/docker-config/jobs/supervisord.conf" timestamp="1535970376409">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="19" column="15" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/docker-config/jobs/supervisord.conf" timestamp="1535971864781">
+        <mark key="[" line="21" column="75" />
+        <mark key="]" line="21" column="75" />
+        <mark key="." line="21" column="75" />
+        <mark key="^" line="21" column="67" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Location/Location.php" timestamp="1510917172133">
         <mark key="[" line="24" column="12" />
@@ -5159,7 +5159,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1535969916598">
+      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1535971459514">
         <mark key="^" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/docker-compose.yml" timestamp="1511359198087">
@@ -5541,7 +5541,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var/www/html</text>
+        <text encoding="base64">IC0tZGFlbW9u</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5553,7 +5553,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>var/www/html</text>
+        <text encoding="base64">IC0tZGFlbW9u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
@@ -5592,7 +5592,7 @@
         <text encoding="base64">ICAgICAgJCgnLnVpLmRyb3Bkb3duJykKICAgICAgICAuZHJvcGRvd24oewogICAgICAgICAgb25DaGFuZ2U6IGZ1bmN0aW9uICh2YWx1ZSwgdGV4dCwgJHNlbGVjdGVkSXRlbSkgewogICAgICAgICAgICBpZighICRzZWxlY3RlZEl0ZW0pIHJldHVybjsKICAgICAgICAgICAgd2luZG93Lml0ZW0gPSAkc2VsZWN0ZWRJdGVtOwogICAgICAgICAgICAkKCcudWkudGlueS5tb2RhbCcpLm1vZGFsKHsKICAgICAgICAgICAgICAvLyBpbnZlcnRlZDogdHJ1ZSwKICAgICAgICAgICAgICBvbkhpZGU6IHJlc3RvcmVEZWZhdWx0cwogICAgICAgICAgICB9KS5tb2RhbCgnc2hvdycpOwogICAgICAgICAgICB2YXIgZm9ybSA9ICRzZWxlY3RlZEl0ZW0ucGFyZW50cygnZm9ybScpOwogICAgICAgICAgICB2YXIgdmFsdWVzID0ge307CiAgICAgICAgICAgICQuZWFjaCgkKGZvcm0pLnNlcmlhbGl6ZUFycmF5KCksIGZ1bmN0aW9uKGksIGZpZWxkKSB7CiAgICAgICAgICAgICAgdmFsdWVzW2ZpZWxkLm5hbWVdID0gZmllbGQudmFsdWU7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZXMpOwoKICAgICAgICAgICAgLy8gJHNlbGVjdGVkSXRlbS5wYXJlbnRzKCdmb3JtJykuc3VibWl0KCk7CiAgICAgICAgICB9CiAgICAgICAgfSkgOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5639,7 +5639,6 @@
         <entry>actionlist AceA</entry>
         <entry encoding="base64">bm5vcmVtYXAgc3MgOmFjdGlvbiBBY2VBY3Rpb248Y3I+IA==</entry>
         <entry>action MoveLineUp</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action SplitHorizontally</entry>
@@ -5648,6 +5647,7 @@
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action AceAction</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
