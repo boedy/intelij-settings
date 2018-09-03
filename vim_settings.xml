@@ -2171,11 +2171,11 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.override.yml" timestamp="1502882596389">
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="13" />
-        <mark key="." line="30" column="13" />
-        <mark key="^" line="30" column="13" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.override.yml" timestamp="1535970405080">
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="51" />
+        <mark key="." line="18" column="51" />
+        <mark key="^" line="18" column="48" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/User/User.php" timestamp="1511388680555">
         <mark key="[" line="36" column="5" />
@@ -4240,6 +4240,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/payments/docker-config/jobs/supervisord.conf" timestamp="1535970376409">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Domain/Location/Location.php" timestamp="1510917172133">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="25" column="28" />
@@ -5153,10 +5159,8 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1535725626947">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1535969916598">
+        <mark key="^" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/docker-compose.yml" timestamp="1511359198087">
         <mark key="[" line="20" column="20" />
@@ -5536,8 +5540,8 @@
       <jump line="12" column="17" filename="$USER_HOME$/projects/atmosphere/payments/app/InvoiceDetails.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>var/www/html</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5549,13 +5553,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>welcome</text>
+        <text>var/www/html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ID09ICcn</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkYi1kYXRhOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
