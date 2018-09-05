@@ -43,6 +43,12 @@
         <mark key="^" line="9" column="73" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1536158338109">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" timestamp="1533848716424">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -207,11 +213,11 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/wercker.yml" timestamp="1536156030593">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="45" column="35" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/wercker.yml" timestamp="1536159043130">
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="32" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="43" column="14" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/composer.json" timestamp="1536154909337">
         <mark key="[" line="47" column="65" />
@@ -249,7 +255,7 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536154921985">
+      <file name="/Dummy.txt" timestamp="1536158341773">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Middleware/ObfuscationMiddleware.php" timestamp="1535360825829">
@@ -463,7 +469,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>WERCKER_MAIN_PIPELINE_STARTED</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -475,13 +481,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>WERCKER_MAIN_PIPELINE_STARTED</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhY2Nlc3Nfa2V5OiAkUkFOQ0hFUl9BQ0NFU1NfS0VZCiAgICAgICAgc2VjcmV0X2tleTogJFJBTkNIRVJfU0VDUkVUX0tFWQogICAgICAgIHJhbmNoZXJfdXJsOiAkUkFOQ0hFUl9VUkwKICAgICAgICBodHRwczogZmFsc2UgIyBzaG91bGQgaHR0cHMgcHJvdG9jb2wgYmUgdXNlZD8KICAgICAgICB0YWc6ICRXRVJDS0VSX01BSU5fUElQRUxJTkVfU1RBUlRFRCAgIyBkb2NrZXIgdGFnIGZvciB0aGUgYGltYWdlOmAgc2VjdGlvbiBpbiBkb2NrZXItY29tcG9zZQogICAgICAgIHN0YWNrX25hbWU6IHBheW1lbnRzICMgUmFuY2hlciBzdGFjayBuYW1lCiAgICAgICAgZG9ja2VyX2ltYWdlOiBrb2xsZWt0L3BheW1lbnRzCiAgICAgICAgdXNlX3RhZzogdHJ1ZQogICAgICAgIHZlcmJvc2U6ICRSQU5DSEVSX1ZFUkJPU0UKICAgICAgICBmb3JjZTogICRSQU5DSEVSX0ZPUkNFX1VQR1JBREUK</text>
+      <register name="0" type="4">
+        <text>WERCKER_GIT_COMMIT</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIgo=</text>
