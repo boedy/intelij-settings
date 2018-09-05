@@ -43,11 +43,11 @@
         <mark key="^" line="9" column="73" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1536159938281">
-        <mark key="[" line="50" column="14" />
-        <mark key="]" line="50" column="18" />
-        <mark key="^" line="50" column="18" />
-        <mark key="." line="50" column="18" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1536161560362">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="94" />
+        <mark key="^" line="50" column="3" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" timestamp="1533848716424">
         <mark key="[" line="13" column="0" />
@@ -175,11 +175,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.override.yml" timestamp="1536078460526">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="5" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="17" column="5" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.override.yml" timestamp="1536161549765">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="56" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/welcome.blade.php" timestamp="1535647867739">
         <mark key="[" line="10" column="0" />
@@ -213,11 +213,11 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/wercker.yml" timestamp="1536159043130">
-        <mark key="[" line="43" column="14" />
-        <mark key="]" line="43" column="32" />
-        <mark key="^" line="57" column="20" />
-        <mark key="." line="43" column="14" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/wercker.yml" timestamp="1536161360747">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="24" column="31" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/composer.json" timestamp="1536154909337">
         <mark key="[" line="47" column="65" />
@@ -255,7 +255,7 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536159940198">
+      <file name="/Dummy.txt" timestamp="1536161603056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Middleware/ObfuscationMiddleware.php" timestamp="1535360825829">
@@ -468,8 +468,8 @@
       <jump line="12" column="17" filename="$USER_HOME$/projects/atmosphere/payments/app/InvoiceDetails.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29tbWFuZDogWyJzdXBlcnZpc29yZCIsIi1uIiwgIi1jIiwgIi92YXIvd3d3L2h0bWwvZG9ja2VyLWNvbmZpZy9qb2JzL3N1cGVydmlzb3JkLmNvbmYiXQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -481,7 +481,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>supervisor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd2FpdFw+</text>
@@ -490,34 +490,34 @@
         <text>WERCKER_GIT_COMMIT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIgo=</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZDogWyJzdXBlcnZpc29yZCIsIi1uIiwgIi1jIiwgIi92YXIvd3d3L2h0bWwvZG9ja2VyLWNvbmZpZy9qb2JzL3N1cGVydmlzb3JkLmNvbmYiXQo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3RkaW5fb3BlbjogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwKICAgIGV4dGVybmFsOiBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IEluc3RhbGwgZGVwZW5kZW5jaWVzIGZvciByYW5jaGVyIHVwZ3JhZGUgc3RlcAogICAgICAgIGNvZGU6IHwKICAgICAgICAgIGFwdC1nZXQgdXBkYXRlCiAgICAgICAgICBhcHQtZ2V0IGluc3RhbGwgLXkgY3VybCB1bnppcAogICAgLSBib2VkeS9yYW5jaGVyLWluc2VydmljZS11cGdyYWRlQDAuMy4wOgogICAgICAgIGFjY2Vzc19rZXk6ICRSQU5DSEVSX0FDQ0VTU19LRVkKICAgICAgICBzZWNyZXRfa2V5OiAkUkFOQ0hFUl9TRUNSRVRfS0VZCiAgICAgICAgcmFuY2hlcl91cmw6ICRSQU5DSEVSX1VSTAogICAgICAgIGh0dHBzOiBmYWxzZSAjIHNob3VsZCBodHRwcyBwcm90b2NvbCBiZSB1c2VkPwogICAgICAgIHRhZzogJFdFUkNLRVJfTUFJTl9QSVBFTElORV9TVEFSVEVEICAjIGRvY2tlciB0YWcgZm9yIHRoZSBgaW1hZ2U6YCBzZWN0aW9uIGluIGRvY2tlci1jb21wb3NlCiAgICAgICAgc3RhY2tfbmFtZTogcGF5bWVudHMgIyBSYW5jaGVyIHN0YWNrIG5hbWUKICAgICAgICBkb2NrZXJfaW1hZ2U6IGtvbGxla3QvcGF5bWVudHMKICAgICAgICB1c2VfdGFnOiB0cnVlCiAgICAgICAgdmVyYm9zZTogJFJBTkNIRVJfVkVSQk9TRQogICAgICAgIGZvcmNlOiAgJFJBTkNIRVJfRk9SQ0VfVVBHUkFERQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWNjZXNzX2tleTogJFJBTkNIRVJfQUNDRVNTX0tFWQogICAgICBzZWNyZXRfa2V5OiAkUkFOQ0hFUl9TRUNSRVRfS0VZCiAgICAgIHJhbmNoZXJfdXJsOiAkUkFOQ0hFUl9VUkwKICAgICAgaHR0cHM6IGZhbHNlICMgc2hvdWxkIGh0dHBzIHByb3RvY29sIGJlIHVzZWQ/CiAgICAgIHRhZzogJFdFUkNLRVJfR0lUX0NPTU1JVCAgIyBkb2NrZXIgdGFnIGZvciB0aGUgYGltYWdlOmAgc2VjdGlvbiBpbiBkb2NrZXItY29tcG9zZQogICAgICBzdGFja19uYW1lOiBkZWZhdWx0ICMgUmFuY2hlciBzdGFjayBuYW1lCiAgICAgIGRvY2tlcl9pbWFnZToga29sbGVrdC9rb2xsZWt0LWFwcC1zb3VyY2UKICAgICAgdXNlX3RhZzogdHJ1ZQogICAgICB2ZXJib3NlOiBmYWxzZQogICAgICBmb3JjZTogIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IEluc3RhbGwgZGVwZW5kZW5jaWVzIGZvciByYW5jaGVyIHVwZ3JhZGUgc3RlcAogICAgICAgIGNvZGU6IHwKICAgICAgICAgIGFwdC1nZXQgdXBkYXRlCiAgICAgICAgICBhcHQtZ2V0IGluc3RhbGwgLXkgY3VybCB1bnppcAogICAgLSBib2VkeS9yYW5jaGVyLWluc2VydmljZS11cGdyYWRlQDAuMy4wOgogICAgICAgIGFjY2Vzc19rZXk6ICRSQU5DSEVSX0FDQ0VTU19LRVkKICAgICAgICBzZWNyZXRfa2V5OiAkUkFOQ0hFUl9TRUNSRVRfS0VZCiAgICAgICAgcmFuY2hlcl91cmw6ICRSQU5DSEVSX1VSTAogICAgICAgIGh0dHBzOiBmYWxzZSAjIHNob3VsZCBodHRwcyBwcm90b2NvbCBiZSB1c2VkPwogICAgICAgIHRhZzogJFdFUkNLRVJfTUFJTl9QSVBFTElORV9TVEFSVEVEICAjIGRvY2tlciB0YWcgZm9yIHRoZSBgaW1hZ2U6YCBzZWN0aW9uIGluIGRvY2tlci1jb21wb3NlCiAgICAgICAgc3RhY2tfbmFtZTogcGF5bWVudHMgIyBSYW5jaGVyIHN0YWNrIG5hbWUKICAgICAgICBkb2NrZXJfaW1hZ2U6IGtvbGxla3QvcGF5bWVudHMKICAgICAgICB1c2VfdGFnOiB0cnVlCiAgICAgICAgdmVyYm9zZTogJFJBTkNIRVJfVkVSQk9TRQogICAgICAgIGZvcmNlOiAgJFJBTkNIRVJfRk9SQ0VfVVBHUkFERQo=</text>
+        <text encoding="base64">ICAgICAgc3RkaW5fb3BlbjogdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ3NhbGVzX2ludm9pY2Vfc3RhdGVfY2hhbmdlZF90b19kcmFmdCcsCi8vICAgICAgICAgICAgICAgICdzYWxlc19pbnZvaWNlX3N0YXRlX2NoYW5nZWRfdG9fcGFpZCcsCi8vICAgICAgICAgICAgICAgICdzYWxlc19pbnZvaWNlX3N0YXRlX2NoYW5nZWRfdG9fc2NoZWR1bGVkJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzYWxlc19pbnZvaWNlX3N0YXRlX2NoYW5nZWRfdG9fdGVzdCcsCg==</text>
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IEluc3RhbGwgZGVwZW5kZW5jaWVzIGZvciByYW5jaGVyIHVwZ3JhZGUgc3RlcAogICAgICAgIGNvZGU6IHwKICAgICAgICAgIGFwdC1nZXQgdXBkYXRlCiAgICAgICAgICBhcHQtZ2V0IGluc3RhbGwgLXkgY3VybCB1bnppcAogICAgLSBib2VkeS9yYW5jaGVyLWluc2VydmljZS11cGdyYWRlQDAuMy4wOgogICAgICAgIGFjY2Vzc19rZXk6ICRSQU5DSEVSX0FDQ0VTU19LRVkKICAgICAgICBzZWNyZXRfa2V5OiAkUkFOQ0hFUl9TRUNSRVRfS0VZCiAgICAgICAgcmFuY2hlcl91cmw6ICRSQU5DSEVSX1VSTAogICAgICAgIGh0dHBzOiBmYWxzZSAjIHNob3VsZCBodHRwcyBwcm90b2NvbCBiZSB1c2VkPwogICAgICAgIHRhZzogJFdFUkNLRVJfTUFJTl9QSVBFTElORV9TVEFSVEVEICAjIGRvY2tlciB0YWcgZm9yIHRoZSBgaW1hZ2U6YCBzZWN0aW9uIGluIGRvY2tlci1jb21wb3NlCiAgICAgICAgc3RhY2tfbmFtZTogcGF5bWVudHMgIyBSYW5jaGVyIHN0YWNrIG5hbWUKICAgICAgICBkb2NrZXJfaW1hZ2U6IGtvbGxla3QvcGF5bWVudHMKICAgICAgICB1c2VfdGFnOiB0cnVlCiAgICAgICAgdmVyYm9zZTogJFJBTkNIRVJfVkVSQk9TRQogICAgICAgIGZvcmNlOiAgJFJBTkNIRVJfRk9SQ0VfVVBHUkFERQo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
