@@ -271,7 +271,7 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536412104272">
+      <file name="/Dummy.txt" timestamp="1536490254013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -337,6 +337,13 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/Jobs/ChargeInvoice.php" timestamp="1536488987182">
+        <mark key="j" line="43" column="42" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="115" />
+        <mark key="." line="59" column="80" />
+        <mark key="^" line="59" column="80" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Command/RemovePlaylistMixin.php" timestamp="1535448512667">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -365,11 +372,11 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/app/Jobs/HandleStripeWebhook.php" timestamp="1536182946791">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="49" column="35" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/Jobs/HandleStripeWebhook.php" timestamp="1536490151235">
+        <mark key="[" line="56" column="89" />
+        <mark key="]" line="57" column="21" />
+        <mark key="." line="57" column="21" />
+        <mark key="^" line="57" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/config.xml" timestamp="1536406903464">
         <mark key="[" line="18" column="51" />
@@ -382,11 +389,11 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/payments/app/Invoice.php" timestamp="1536145588923">
-        <mark key="[" line="75" column="27" />
-        <mark key="]" line="75" column="27" />
-        <mark key="." line="75" column="27" />
-        <mark key="^" line="75" column="27" />
+      <file name="$USER_HOME$/projects/atmosphere/payments/app/Invoice.php" timestamp="1536489693557">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/billingOverview.blade.php" timestamp="1536228650644">
         <mark key="[" line="58" column="0" />
@@ -498,7 +505,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7 days</text>
+        <text>Stripe charge failed</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -510,43 +517,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>7 days</text>
+        <text>Stripe charge failed</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
       </register>
-      <register name="0" type="4">
-        <text>STRIPE_APP_KEY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhID0gJHRoaXMtPmV2ZW50WydkYXRhJ107CiAgICAgICAgICAgICAgICAkaW52b2ljZUlkID0gJGRhdGFbJ29iamVjdCddWydtZXRhZGF0YSddWydpbnZvaWNlX2lkJ107CiAgICAgICAgICAgICAgICBMb2c6OmFsZXJ0KCdTdHJpcGUgY2hhcmdlIGZhaWxlZCBmb3IgaW52b2ljZTonLiRpbnZvaWNlSWQuJy4gJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnY2hhcmdlLnBlbmRpbmcnOgo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkdWVEYXRlLT5zdWIobmV3IFxEYXRlSW50ZXJ2YWwoKSkK</text>
+        <text encoding="base64">CiAgICAgICAgJGludm9pY2UtPnRvQmVQYWlkID0gc3RyX3JlcGxhY2UoJy4nLCAnJywgJGludm9pY2UtPnRvQmVQYWlkKTsKICAgICAgICAkaW52b2ljZS0+dG9CZVBhaWQgPSBzdHJfcmVwbGFjZSgnLCcsICcnLCAkaW52b2ljZS0+dG9CZVBhaWQpOwogICAgICAgICRpbnZvaWNlLT50b0JlUGFpZCA9IChpbnQpICRpbnZvaWNlLT50b0JlUGFpZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVydCB0byBEYXRlVGltZSBhbmQgc2V0IGRlZmF1bHQgdGltZQogICAgICogQHBhcmFtICRzdHJpbmcKICAgICAqIEByZXR1cm4gYm9vbHxEYXRlVGltZXxmYWxzZQogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGRhdGVTdHJpbmdUb0RhdGVUaW1lKCRzdHJpbmcpCiAgICB7CiAgICAgICAgcmV0dXJuIC0+c2V0VGltZSg4LDApOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvL2NvbnZlcnQgY3VycmVuY3kgdG8gY2VudHMgaW50ZWdlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdG9kYXkgPSBuZXcgRGF0ZVRpbWUoJ25vdycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaW52b2ljZS0+dG9CZVBhaWQgPSBiY211bCgkc2FsZXNJbnZvaWNlLT50b3RhbF91bnBhaWQsIDEwMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkaW50ZXJ2YWwgPSAkZGF0ZXRpbWUxLT5kaWZmKCRkYXRldGltZTIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaW52b2ljZS0+dG9CZVBhaWQgPSAkc2FsZXNJbnZvaWNlLT50b3RhbF91bnBhaWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJmc2V2ZW50cyI6ICIqIgo=</text>
+        <text encoding="base64">ICAgICAgICAkaW52b2ljZS0+dG9CZVBhaWQgPSAkc2FsZXNJbnZvaWNlLT50b3RhbF91bnBhaWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJubC5raW5nc3F1YXJlLmNvcmRvdmEuYmFja2dyb3VuZC1hdWRpbyI6ICJ+MS4wLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAkaW52b2ljZS0+dG9CZVBhaWQgPSBiY211bCgkc2FsZXNJbnZvaWNlLT50b3RhbF91bnBhaWQsIDEwMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjb20ucmQxMS5yZW1vdGUtY29udHJvbHMiOiAiaHR0cHM6Ly9naXRodWIuY29tL3NoaTExL1JlbW90ZUNvbnRyb2xzIiwKICAgICJjb20ucmpmdW4uY29yZG92YS5odHRwZCI6ICJodHRwczovL2dpdGh1Yi5jb20vZmxvYXRpbmdob3Rwb3QvY29yZG92YS1odHRwZC5naXQiLAogICAgImNvbS5zY290dC5zZXJ2aWNlRGlzY292ZXJ5IjogImh0dHBzOi8vZ2l0aHViLmNvbS9ib2VkeS9jb3Jkb3ZhLXBsdWdpbi1kaXNjb3ZlcnkiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJjb3Jkb3ZhLWFuZHJvaWQiOiAifjYuMS4wIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkdWVEYXRlLT5zdWIobmV3IFxEYXRlSW50ZXJ2YWwoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
