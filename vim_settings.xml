@@ -49,6 +49,10 @@
         <mark key="^" line="23" column="47" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/src/desktop/package.json" timestamp="1536570848105">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="24" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" timestamp="1533848716424">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -501,8 +505,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/payments/storage/logs/app.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Stripe charge failed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiYnVpbGQiOiB7CiAgICAiYXBwSWQiOiAia29sbGVrdC5mbS5hdG1vc3BoZXJlIiwKICAgICJwdWJsaXNoIjogW3sKICAgICAgInByb3ZpZGVyIjogInMzIiwKICAgICAgImJ1Y2tldCIgOiAiYXRtb3NwaGVyZS1kZXNrdG9wIiwKICAgICAgInBhdGgiIDogInByb2R1Y3Rpb24iCiAgICB9XSwKICAgICJ3aW4iOiB7CiAgICAgICJpY29uIjogImljb24iLAogICAgICAiY2VydGlmaWNhdGVGaWxlIjogIi4vc3JjL2Rlc2t0b3Avd2luZG93c19jb2RlX3NpZ25pbmdfY2VydC5wMTIiLAogICAgICAicHVibGlzaGVyTmFtZSI6ICJLT0xMRUtUIEIuVi4iLAogICAgICAiZWxlY3Ryb25VcGRhdGVyQ29tcGF0aWJpbGl0eSI6ICI+PTEuMC4wIgogICAgfSwKICAgICJtYWMiOiB7CiAgICAgICJjYXRlZ29yeSI6ICIiLAogICAgICAiaWNvbiI6ICJpY29uIgogICAgfSwK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -520,7 +524,7 @@
         <text>Playlist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhID0gJHRoaXMtPmV2ZW50WydkYXRhJ107CiAgICAgICAgICAgICAgICAkaW52b2ljZUlkID0gJGRhdGFbJ29iamVjdCddWydtZXRhZGF0YSddWydpbnZvaWNlX2lkJ107CiAgICAgICAgICAgICAgICBMb2c6OmFsZXJ0KCdTdHJpcGUgY2hhcmdlIGZhaWxlZCBmb3IgaW52b2ljZTonLiRpbnZvaWNlSWQuJy4gJyk7Cg==</text>
+        <text encoding="base64">ICAiYnVpbGQiOiB7CiAgICAiYXBwSWQiOiAia29sbGVrdC5mbS5hdG1vc3BoZXJlIiwKICAgICJwdWJsaXNoIjogW3sKICAgICAgInByb3ZpZGVyIjogInMzIiwKICAgICAgImJ1Y2tldCIgOiAiYXRtb3NwaGVyZS1kZXNrdG9wIiwKICAgICAgInBhdGgiIDogInByb2R1Y3Rpb24iCiAgICB9XSwKICAgICJ3aW4iOiB7CiAgICAgICJpY29uIjogImljb24iLAogICAgICAiY2VydGlmaWNhdGVGaWxlIjogIi4vc3JjL2Rlc2t0b3Avd2luZG93c19jb2RlX3NpZ25pbmdfY2VydC5wMTIiLAogICAgICAicHVibGlzaGVyTmFtZSI6ICJLT0xMRUtUIEIuVi4iLAogICAgICAiZWxlY3Ryb25VcGRhdGVyQ29tcGF0aWJpbGl0eSI6ICI+PTEuMC4wIgogICAgfSwKICAgICJtYWMiOiB7CiAgICAgICJjYXRlZ29yeSI6ICIiLAogICAgICAiaWNvbiI6ICJpY29uIgogICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnY2hhcmdlLnBlbmRpbmcnOgo=</text>
