@@ -56,9 +56,9 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/PlaylistItem.php" timestamp="1536852609941">
-        <mark key="[" line="30" column="45" />
-        <mark key="]" line="30" column="45" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/PlaylistItem.php" timestamp="1536854226155">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="42" />
         <mark key="^" line="30" column="62" />
         <mark key="." line="30" column="45" />
       </file>
@@ -252,6 +252,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Track/Command/RemoveTrack.php" timestamp="1536855309061">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/database/migrations/2017_08_10_085310_create_recurring_invoice_table.php" timestamp="1535631379583">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -316,7 +322,7 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536754497465">
+      <file name="/Dummy.txt" timestamp="1536855164192">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -336,11 +342,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Command/DeletePlaylist.php" timestamp="1536853492082">
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="37" column="39" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Command/DeletePlaylist.php" timestamp="1536855328397">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Query/ViewLocationPlaylist.php" timestamp="1535460451171">
         <mark key="[" line="37" column="0" />
@@ -362,6 +367,11 @@
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Track/TrackService.php" timestamp="1536855097882">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/config/queue.php" timestamp="1535973874802">
         <mark key="[" line="17" column="38" />
@@ -406,6 +416,12 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/LocationPlaylistMixin.php" timestamp="1536854228306">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="34" column="6" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Query/ViewPlaylistItemsOfLocation.php" timestamp="1535450044979">
         <mark key="[" line="20" column="7" />
         <mark key="]" line="50" column="0" />
@@ -445,6 +461,12 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
         <mark key="^" line="123" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/DeleteTrackFromStorage.php" timestamp="1536854665530">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="33" column="7" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="7" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Invoice.php" timestamp="1536754327966">
         <mark key="[" line="80" column="0" />
@@ -561,8 +583,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/payments/storage/logs/app.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, cascade={&quot;remove}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -589,28 +611,28 @@
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGxheWxpc3RJdGVtcyA9ICR0aGlzLT5wbGF5bGlzdEl0ZW1SZXBvc2l0b3J5LT5nZXRCeVBsYXlsaXN0SWQoJHBsYXlsaXN0LT5nZXRJZCgpKTsKICAgICAgICBmb3JlYWNoICgkcGxheWxpc3RJdGVtcyBhcyAkaXRlbSl7CiAgICAgICAgICAgIGRpc3BhdGNoKG5ldyBEZWxldGVUcmFja0Zyb21TdG9yYWdlKCRpdGVtLT5nZXRUcmFjaygpKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChuZXcgRGVsZXRlVHJhY2tGcm9tU3RvcmFnZSgkaXRlbS0+Z2V0VHJhY2soKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QnlQbGF5bGlzdElkKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgIHB1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGxhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcGxheWxpc3QtPmdldEkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChuZXcgRGVsZXRlVHJhY2tGcm9tU3RvcmFnZSgkaXRlbS0+Z2V0VHJhY2soKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
