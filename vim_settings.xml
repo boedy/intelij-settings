@@ -344,12 +344,12 @@
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/strip-creditcard.blade.php" timestamp="1536186544178">
         <mark key="[" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/index.js" timestamp="1536909638830">
+      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/index.js" timestamp="1536914518484">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/public/js/stripe.js" timestamp="1536228138927">
         <mark key="[" line="0" column="21" />
@@ -467,11 +467,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/Mixpanel.js" timestamp="1536912971860">
+      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/Mixpanel.js" timestamp="1536914975377">
         <mark key="'" line="116" column="0" />
-        <mark key="[" line="32" column="42" />
-        <mark key="]" line="32" column="42" />
-        <mark key="." line="32" column="42" />
+        <mark key="[" line="91" column="12" />
+        <mark key="]" line="91" column="12" />
+        <mark key="." line="91" column="12" />
         <mark key="^" line="91" column="5" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Query/ViewLocationPlaylist.php" timestamp="1535460451171">
@@ -506,7 +506,7 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/.env" timestamp="1536913274481">
+      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/.env" timestamp="1536914038482">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
@@ -650,7 +650,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>params.organisation</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -662,7 +662,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>params.organisation</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
@@ -673,35 +673,35 @@
         script: uptime,
       })</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ewogICAgICAgIHBhcmFtczogSlNPTi5zdHJpbmdpZnkoeyBvcmdhbmlzYXRpb24gfSksCiAgICAgICAgc2NyaXB0OiA=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIGV4aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICB0aW1lOiB0dXBsZS5ldmVudC50aW1lLAogICAgICAgIG5hbWU6IHR1cGxlLnVzZXIucHJvcGVydGllcy4kbmFtZSwKICAgICAgICBkdXJhdGlvbjogdHVwbGUuZXZlbnQucHJvcGVydGllcy50cmFjay5zb3VyY2VzWzBdLnNpemUgLyAodHVwbGUuZXZlbnQucHJvcGVydGllcy50cmFjay5zb3VyY2VzWzBdLmJpdHJhdGUgLyA4KSAvIDM2MDAKICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5bGlzdElkOiB0dXBsZS5ldmVudC5wcm9wZXJ0aWVzLnBsYXlsaXN0SUQsCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICB0aW1lOiB0dXBsZS5ldmVudC50aW1lLAogICAgICAgIG5hbWU6IHR1cGxlLnVzZXIucHJvcGVydGllcy4kbmFtZSwKICAgICAgICBkdXJhdGlvbjogdHVwbGUuZXZlbnQucHJvcGVydGllcy50cmFjay5zb3VyY2VzWzBdLnNpemUgLyAodHVwbGUuZXZlbnQucHJvcGVydGllcy50cmFjay5zb3VyY2VzWzBdLmJpdHJhdGUgLyA4KSAvIDM2MDAKICAgICAgfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySWQ6IHR1cGxlLnVzZXIuZGlzdGluY3RfaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICBwbGF5bGlzdElkOiB0dXBsZS5ldmVudC5wcm9wZXJ0aWVzLnBsYXlsaXN0SUQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VySWQ6IHR1cGxlLnVzZXIuZGlzdGluY3RfaWQsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHJlc3AgPT4gcmVzcC5kYXRhLmZpbHRlcih1c2VyID0+IHVzZXIudHlwZSA9PSAnZGV2aWNlJyAmJiB1c2VyLmRpc3BsYXlfbmFtZS5pbmRleE9mKG5hbWUpICE9PSAtMSkpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
