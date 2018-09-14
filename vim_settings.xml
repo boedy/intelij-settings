@@ -467,11 +467,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/Mixpanel.js" timestamp="1536912193422">
+      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/Mixpanel.js" timestamp="1536912971860">
         <mark key="'" line="116" column="0" />
-        <mark key="[" line="91" column="6" />
-        <mark key="]" line="94" column="8" />
-        <mark key="." line="91" column="6" />
+        <mark key="[" line="32" column="42" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
         <mark key="^" line="91" column="5" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Location/Query/ViewLocationPlaylist.php" timestamp="1535460451171">
@@ -506,7 +506,7 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/.env" timestamp="1536874403007">
+      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/.env" timestamp="1536913274481">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
@@ -650,10 +650,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>querystring.stringify({
-        params: JSON.stringify({ organisation }),
-        script: uptime,
-      })</text>
+        <text>params.organisation</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -665,7 +662,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>params.organisation</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
