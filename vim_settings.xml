@@ -56,10 +56,10 @@
         <mark key="^" line="61" column="16" />
         <mark key="." line="61" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/FfmpegSilenceDetector.php" timestamp="1537451093833">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/FfmpegSilenceDetector.php" timestamp="1537457571843">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="32" />
         <mark key="^" line="43" column="63" />
         <mark key="." line="73" column="0" />
       </file>
@@ -111,11 +111,11 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/jobs/Dockerfile" timestamp="1537436541579">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/docker-config/jobs/Dockerfile" timestamp="1537456999040">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/config/queue.php" timestamp="1537363732437">
         <mark key="[" line="48" column="24" />
@@ -190,10 +190,16 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/FfmpegSilenceDetectorTest.php" timestamp="1537449748685">
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/Mp3ValidateTest.php" timestamp="1537459067247">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/FfmpegSilenceDetectorTest.php" timestamp="1537457756232">
         <mark key="'" line="14" column="65" />
-        <mark key="[" line="71" column="28" />
-        <mark key="]" line="71" column="29" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="88" />
         <mark key="." line="71" column="29" />
         <mark key="^" line="37" column="85" />
       </file>
@@ -247,10 +253,10 @@
         <mark key="." line="19" column="48" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1537452046727">
-        <mark key="[" line="88" column="49" />
-        <mark key="]" line="88" column="52" />
-        <mark key="." line="88" column="52" />
-        <mark key="^" line="88" column="52" />
+        <mark key="[" line="89" column="49" />
+        <mark key="]" line="89" column="52" />
+        <mark key="." line="89" column="52" />
+        <mark key="^" line="89" column="52" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/DeleteTrackFromStorage.php" timestamp="1536856260099">
         <mark key="[" line="12" column="15" />
@@ -354,6 +360,12 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Validate.php" timestamp="1537457790837">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/payments.blade.php" timestamp="1536228662531">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="18" column="71" />
@@ -365,6 +377,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Validator.php" timestamp="1537458719423">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/intro.blade.php" timestamp="1536304240027">
         <mark key="[" line="4" column="23" />
@@ -378,7 +396,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537450339710">
+      <file name="/Dummy.txt" timestamp="1537457617168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -539,8 +557,8 @@
       <jump line="14" column="65" filename="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/FfmpegSilenceDetectorTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>for</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0UnVuVGVzdEluU2VwYXJhdGVQcm9jZXNzKHRydWUpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -552,49 +570,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>for</text>
+        <text>assertFalse</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZSA9ICRwZXJjZW50YWdlLiIgc2lsZW5jZSByZW1vdmVkIGZvciBzb3VyY2U6ICIuJHNvdXJjZS0+Z2V0SWQoKTsK</text>
+      <register name="0" type="4">
+        <text>&quot;/test/track2.mp3&quot; (offset 0x22138): MPEG stream error, resynchronized successfully</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9Ub2RvOiBBZGQgbG9nIG1lc3NhZ2UKLy8gICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbigiRmFpbGVkIHRvIHJlbW92ZSBzaWxlbmNlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0UnVuVGVzdEluU2VwYXJhdGVQcm9jZXNzKHRydWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZSAuPSAiICI7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFZhbGlkTXAzKCkKICAgIHsKICAgICAgICAkbXAzdmFsT3V0cHV0ID0gJwogICAgICAgICAgICBBbmFseXppbmcgZmlsZSAidHJhY2syLm1wMyIuLi4KICAgICAgICAgICAgSU5GTzogIi90ZXN0L3RyYWNrMi5tcDMiOiAzMTI0IE1QRUcgZnJhbWVzIChNUEVHIDEgTGF5ZXIgSUlJKSwgK0lEM3YyLCBDQlIKICAgICAgICAgICAgRG9uZSEKICAgICAgICAnOwogICAgICAgIHNlbGY6OiRmdW5jdGlvbnMtPnNob3VsZFJlY2VpdmUoJ3NoZWxsX2V4ZWMnKS0+YW5kUmV0dXJuVmFsdWVzKFskbXAzdmFsT3V0cHV0XSk7CgogICAgICAgICRtcDNWYWxpZGF0b3IgPSBuZXcgTXAzVmFsaWRhdG9yKCk7CiAgICAgICAgJHJlc3VsdCA9ICRtcDNWYWxpZGF0b3ItPnZhbGlkYXRlKCcvdGhpcy9maWxlcGF0aC9pcy9pZ25vcmVkLm1wMycpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkcmVzdWx0KTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDAsIGNvdW50KCRtcDNWYWxpZGF0b3ItPmdldFdhcm5pbmdzKCkpKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKAogICAgICAgICAgICAnKG9mZnNldCAweDIyMTM4KTogTVBFRyBzdHJlYW0gZXJyb3IsIHJlc3luY2hyb25pemVkIHN1Y2Nlc3NmdWxseScsCiAgICAgICAgICAgICRtcDNWYWxpZGF0b3ItPmdldFdhcm5pbmdzKClbMF0KICAgICAgICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgV0FSTklORzogIi90ZXN0L3RyYWNrMi5tcDMiIChvZmZzZXQgMHgyMjEzOCk6IE1QRUcgc3RyZWFtIGVycm9yLCByZXN5bmNocm9uaXplZCBzdWNjZXNzZnVsbHkKICAgICAgICAgICAgV0FSTklORzogIi90ZXN0L3RyYWNrMi5tcDMiIChvZmZzZXQgMHgyZTNmMTgpOiBNUEVHIHN0cmVhbSBlcnJvciwgcmVzeW5jaHJvbml6ZWQgc3VjY2Vzc2Z1bGx5CiAgICAgICAgICAgIFdBUk5JTkc6ICIvdGVzdC90cmFjazIubXAzIjogV3JvbmcgbnVtYmVyIG9mIE1QRUcgZGF0YSBieXRlcyBzcGVjaWZpZWQgaW4gWGluZyBoZWFkZXIgKDE4NzQ4NjA0IGluc3RlYWQgb2YgMzI2NDI2MSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgTG9nOjpub3RpY2UoIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNvdXJjZS0+Z2V0Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRXYXJuaW5ncygpCiAgICB7CgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -647,9 +665,9 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
