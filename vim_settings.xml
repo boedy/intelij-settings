@@ -330,11 +330,11 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1537452046727">
-        <mark key="[" line="89" column="49" />
-        <mark key="]" line="89" column="52" />
-        <mark key="." line="89" column="52" />
-        <mark key="^" line="89" column="52" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1537462215582">
+        <mark key="[" line="60" column="61" />
+        <mark key="]" line="60" column="62" />
+        <mark key="." line="60" column="62" />
+        <mark key="^" line="50" column="17" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/DeleteTrackFromStorage.php" timestamp="1536856260099">
         <mark key="[" line="12" column="15" />
@@ -534,7 +534,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537457617168">
+      <file name="/Dummy.txt" timestamp="1537462227004">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -623,6 +623,12 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
         <mark key="^" line="123" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" timestamp="1537462748729">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/billingOverview.blade.php" timestamp="1536228650644">
         <mark key="[" line="58" column="0" />
@@ -739,8 +745,8 @@
       <jump line="14" column="65" filename="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/FfmpegSilenceDetectorTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -752,7 +758,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Mp3ValidateTest</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
@@ -761,34 +767,34 @@
         <text encoding="base64">cmVxdWlyZV9vbmNlICdzaGVsbF9leGVjLnBocCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBNb2NrZXJ5XE1vY2sKICAgICAqLwogICAgcHVibGljIHN0YXRpYyAkZnVuY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZzo6d2FybmluZygiTXAzIHZhbGlkYXRvciBmbGFnIG1wMyBhcyBpbnZhbGlkIGZvciBzb3VyY2U6ICIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIE92ZXJyaWRlIHNoZWxsX2V4ZWMoKSBpbiBjdXJyZW50IG5hbWVzcGFjZSBmb3IgdGVzdGluZwogKgogKiBAcmV0dXJuIGludAogKi8KZnVuY3Rpb24gc2hlbGxfZXhlYygpCnsKICAgIHJldHVybiBGZm1wZWdTaWxlbmNlRGV0ZWN0b3JUZXN0OjokZnVuY3Rpb25zLT5zaGVsbF9leGVjKCk7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBNb2NrZXJ5XE1vY2sKICAgICAqLwogICAgcHVibGljIHN0YXRpYyAkZnVuY3Rpb25zOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBNb2NrZXJ5XE1vY2sKICAgICAqLwogICAgcHVibGljIHN0YXRpYyAkZnVuY3Rpb25zOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIE92ZXJyaWRlIHNoZWxsX2V4ZWMoKSBpbiBjdXJyZW50IG5hbWVzcGFjZSBmb3IgdGVzdGluZwogKgogKiBAcmV0dXJuIGludAogKi8KZnVuY3Rpb24gc2hlbGxfZXhlYygpCnsKICAgIHJldHVybiBGZm1wZWdTaWxlbmNlRGV0ZWN0b3JUZXN0OjokZnVuY3Rpb25zLT5zaGVsbF9leGVjKCk7Cn0K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBNb2NrZXJ5XE1vY2sKICAgICAqLwogICAgcHVibGljIHN0YXRpYyAkZnVuY3Rpb25zOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIE1vY2tlcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
