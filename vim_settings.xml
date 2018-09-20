@@ -38,11 +38,11 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/Mp3SplitTest.php" timestamp="1537438369815">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="40" />
-        <mark key="." line="26" column="40" />
-        <mark key="^" line="26" column="40" />
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/Mp3SplitTest.php" timestamp="1537439706169">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Playlist/PlaylistItem.php" timestamp="1536854226155">
         <mark key="[" line="31" column="0" />
@@ -333,11 +333,10 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" timestamp="1537438352263">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" timestamp="1537439678596">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Track/Command/RemoveTrack.php" timestamp="1536855309061">
         <mark key="[" line="10" column="1" />
@@ -532,7 +531,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shell_exec</text>
+        <text>passthru</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -544,7 +543,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>shell_exec</text>
+        <text>passthru</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
@@ -553,37 +552,37 @@
         <text encoding="base64">bmFtZXNwYWNlIEFwcFxJbmZyYXN0cnVjdHVyZVxUcmFja1xTb3VyY2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxJbmZyYWN0aW9uIEFjZUFjdGlvbnN0cnVjdHVyZVxUcmFja1xTb3VyY2VcTXAzU3BsaXQ7Cg==</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjbWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IGZ1bmN0aW9uIHNoZWxsX2V4ZWMoJGNtZCkgewoKIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dXNlIEFwcFxJbmZyYWN0aW9uIEFjZUFjdGlvbnN0cnVjdHVyZVxUcmFja1xTb3VyY2VcTXAzU3BsaXQ7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IGZ1bmN0aW9uIHNoZWxsX2V4ZWMoJGNtZCkgewoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEFwcFxJbmZyYXN0cnVjdHVyZVxUcmFja1xTb3VyY2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbXAzID0gbmV3IE1wMyhfX0RJUl9fIC4gJy8uLi8uLi9hc3NldHMvdmFsaWQwMS5tcDMnKTsK</text>
+        <text encoding="base64">IGZ1bmN0aW9uIHNoZWxsX2V4ZWMoJGNtZCkgewoKIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
