@@ -56,12 +56,11 @@
         <mark key="^" line="61" column="16" />
         <mark key="." line="61" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1536938233181" />
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/FfmpegSilenceDetector.php" timestamp="1537444786803">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/FfmpegSilenceDetector.php" timestamp="1537446325844">
+        <mark key="[" line="58" column="30" />
+        <mark key="]" line="58" column="34" />
+        <mark key="^" line="58" column="34" />
+        <mark key="." line="58" column="34" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/PaymentSource.php" timestamp="1535716770921">
         <mark key="[" line="0" column="0" />
@@ -190,11 +189,11 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/FfmpegSilenceDetectorTest.php" timestamp="1537444888120">
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="38" />
-        <mark key="^" line="28" column="38" />
-        <mark key="." line="28" column="38" />
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/FfmpegSilenceDetectorTest.php" timestamp="1537447198406">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+        <mark key="^" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Command/DeletePlaylist.php" timestamp="1536857459250">
         <mark key="[" line="15" column="0" />
@@ -222,6 +221,10 @@
         <mark key="]" line="35" column="0" />
         <mark key="^" line="34" column="6" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Repositories/DoctrineLocationRepositoryTest.php" timestamp="1537446818351">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Providers/AppServiceProvider.php" timestamp="1536150035104">
         <mark key="[" line="17" column="46" />
@@ -536,7 +539,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcGFzc3RocnUoKSB7IHJldHVybiAiIjsgfQpmdW5jdGlvbiByZW5hbWUoKSB7IHJldHVybiAiIjsgfQo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -548,49 +551,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stripSilence</text>
+        <text>correctStartEndTimesTest3</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEFwcFxJbmZyYXN0cnVjdHVyZVxUcmFja1xTb3VyY2U7Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcGFzc3RocnUoKSB7IHJldHVybiAiIjsgfQpmdW5jdGlvbiByZW5hbWUoKSB7IHJldHVybiAiIjsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzaWxlbmNlQXRCZWdpbm5pbmdUZXN0KCkKICAgIHsKICAgICAgICAvKioKICAgICAgICAgKiBPdmVycmlkZSBzaGVsbF9leGVjKCkgaW4gY3VycmVudCBuYW1lc3BhY2UgZm9yIHRlc3RpbmcKICAgICAgICAgKgogICAgICAgICAqIEByZXR1cm4gaW50CiAgICAgICAgICovCiAgICAgICAgZnVuY3Rpb24gc2hlbGxfZXhlYygpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gIgogICAgICAgICAgICAgICAgW3NpbGVuY2VkZXRlY3QgQCAweDU2MGJhOWYzNWYwMF0gc2lsZW5jZV9zdGFydDogLTAuMDA2MjgxMTgKICAgICAgICAgICAgICAgIFtzaWxlbmNlZGV0ZWN0IEAgMHg1NjBiYTlmMzVmMDBdIHNpbGVuY2VfZW5kOiA2LjEzOTg0IHwgc2lsZW5jZV9kdXJhdGlvbjogNi4xNDYxMgogICAgICAgICAgICAgIjsKICAgICAgICB9CgogICAgICAgICRzaWxlbmNlRGV0ZWN0b3IgPSBuZXcgRmZtcGVnU2lsZW5jZURldGVjdG9yKCk7CiAgICAgICAgJHNpbGVuY2VEZXRlY3Rvci0+ZGV0ZWN0ZWQoIi9uby9zdWNoL3BhdGgvbW9ja2ZpbGUubXAzIik7CgogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoNi4xMzk4NCwgJHNpbGVuY2VEZXRlY3Rvci0+Z2V0U3RhcnQoKSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscyhudWxsLCAkc2lsZW5jZURldGVjdG9yLT5nZXRFbmQoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtzaWxlbmNlZGV0ZWN0IEAgMHg1NWRkZDBmZjBmMDBdIHNpbGVuY2Vfc3RhcnQ6IC0wLjAwNjI4MTE4CiAgICAgICAgICAgICAgICBbc2lsZW5jZWRldGVjdCBAIDB4NTVkZGQwZmYwZjAwXSBzaWxlbmNlX2VuZDogNi4xMzk4NCB8IHNpbGVuY2VfZHVyYXRpb246IDYuMTQ2MTIKICAgICAgICAgICAgICAgIFtzaWxlbmNlZGV0ZWN0IEAgMHg1NWRkZDBmZjBmMDBdIHNpbGVuY2Vfc3RhcnQ6IDIyOC4zMwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRCZWdpbigpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGdldEVuZCgpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHRlc3QKICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RhcnQgPSAkdGhpcy0+Zm9ybWF0U2Vjb25kcygwKTsKICAgICAgICAkdGhpcy0+ZW5kID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRzaWxlbmNlRGV0ZWN0b3ItPmdldFN0YXJ0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkdGhpcy0+c3RhcnQpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVydCBzZWNvbmRzIHRvIHJlcXVpcmVkIHRyaW0gZm9ybWF0CiAgICAgKiBAcGFyYW0gJHNlY29uZHMKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHByb3RlY3RlZCBmdW5jdGlvbiBmb3JtYXRTZWNvbmRzKCRzZWNvbmRzKQogICAgewogICAgICAgICRzZWNvbmRzID0gKGZsb2F0KSAkc2Vjb25kczsKICAgICAgICAkbWluID0gZmxvb3IoJHNlY29uZHMgLyA2MCk7CiAgICAgICAgJHNlYyA9IGZsb29yKCRzZWNvbmRzKSAlIDYwOwogICAgICAgICRtU2VjID0gJHNlY29uZHMgKiAxMDAgJSA2MDsKCiAgICAgICAgcmV0dXJuIHNwcmludGYoJyVkLiUwMmQuJTAyZCcsICRtaW4sICRzZWMsICRtU2VjKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2lsZW5jZURldGVjdG9yLT5nZXRTdGFydCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCiAqIE92ZXJyaWRlIHNoZWxsX2V4ZWMoKSBpbiBjdXJyZW50IG5hbWVzcGFjZSBmb3IgdGVzdGluZwogKgogKiBAcmV0dXJuIGludAogKi8KZnVuY3Rpb24gc2hlbGxfZXhlYygpIHsgcmV0dXJuICIKW3NpbGVuY2VkZXRlY3QgQCAweDU1ZGRkMGZmMGYwMF0gc2lsZW5jZV9zdGFydDogLTAuMDA2MjgxMTgKW3NpbGVuY2VkZXRlY3QgQCAweDU1ZGRkMGZmMGYwMF0gc2lsZW5jZV9lbmQ6IDYuMTM5ODQgfCBzaWxlbmNlX2R1cmF0aW9uOiA2LjE0NjEyCltzaWxlbmNlZGV0ZWN0IEAgMHg1NWRkZDBmZjBmMDBdIHNpbGVuY2Vfc3RhcnQ6IDIyOC4zMwoiOyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -642,10 +645,10 @@
         <entry>vs</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
-        <entry>w</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
