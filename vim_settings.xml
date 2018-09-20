@@ -57,6 +57,12 @@
         <mark key="." line="61" column="9" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1536938233181" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/FfmpegSilenceDetector.php" timestamp="1537442647012">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/PaymentSource.php" timestamp="1535716770921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -333,11 +339,7 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" timestamp="1537439678596">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" timestamp="1537442529107" />
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Track/Command/RemoveTrack.php" timestamp="1536855309061">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="12" column="26" />
@@ -362,7 +364,13 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537437228997">
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/SilenceDetection.php" timestamp="1537442474154">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537442438596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -530,8 +538,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>passthru</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -543,7 +551,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>passthru</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
@@ -552,37 +560,37 @@
         <text encoding="base64">bmFtZXNwYWNlIEFwcFxJbmZyYXN0cnVjdHVyZVxUcmFja1xTb3VyY2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">ICAgICAgICAkY21kID0gImZmbXBlZyAtaSB7JGZpbGVQYXRofSAtYWYgc2lsZW5jZWRldGVjdD1uPS01MGRCOmQ9MSAtZiBudWxsIC9kZXYvbnVsbCAyPiYxIHwgZ3JlcCBzaWxlbmNlZGV0ZWN0IjsKICAgICAgICAkb3V0cHV0ID0gc2hlbGxfZXhlYygkY21kKTsKCiAgICAgICAgaWYgKCAhIHByZWdfbWF0Y2hfYWxsKCIvc2lsZW5jZV8oc3RhcnR8ZW5kKS4qP1xzKC0/XGQrXC4/XGQrKS9tIiwgJG91dHB1dCwgJG1hdGNoZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIC8vcGFyc2UgYmVnaW4gYW5kIGVuZCB0aW1lcwogICAgICAgICRiZWdpbiA9ICR0aGlzLT5mb3JtYXRTZWNvbmRzKDApOwogICAgICAgICRlbmQgPSAnRU9GJzsKICAgICAgICAkbGVuZ3RoID0gY291bnQoJG1hdGNoZXNbMF0pOwogICAgICAgIGlmICgkbGVuZ3RoID09IDEgJiYgJG1hdGNoZXNbMV1bMF0gPT0gJ3N0YXJ0JykgewogICAgICAgICAgICAkZW5kID0gJHRoaXMtPmZvcm1hdFNlY29uZHMoJG1hdGNoZXNbMl1bMF0pOwogICAgICAgIH0gZWxzZSBpZiAoJG1hdGNoZXNbMl1bMF0gPD0gMCkgewogICAgICAgICAgICAkYmVnaW4gPSAkdGhpcy0+Zm9ybWF0U2Vjb25kcygkbWF0Y2hlc1syXVsxXSk7CiAgICAgICAgICAgIGlmICgkbWF0Y2hlc1sxXVskbGVuZ3RoIC0gMV0gPT0gJ3N0YXJ0JykgewogICAgICAgICAgICAgICAgJGVuZCA9ICR0aGlzLT5mb3JtYXRTZWNvbmRzKCRtYXRjaGVzWzJdWyRsZW5ndGggLSAxXSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY21kID0gImZmbXBlZyAtaSB7JGZpbGVQYXRofSAtYWYgc2lsZW5jZWRldGVjdD1uPS01MGRCOmQ9MSAtZiBudWxsIC9kZXYvbnVsbCAyPiYxIHwgZ3JlcCBzaWxlbmNlZGV0ZWN0IjsKICAgICAgICAkb3V0cHV0ID0gc2hlbGxfZXhlYygkY21kKTsKCiAgICAgICAgaWYgKCAhIHByZWdfbWF0Y2hfYWxsKCIvc2lsZW5jZV8oc3RhcnR8ZW5kKS4qP1xzKC0/XGQrXC4/XGQrKS9tIiwgJG91dHB1dCwgJG1hdGNoZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIC8vcGFyc2UgYmVnaW4gYW5kIGVuZCB0aW1lcwogICAgICAgICRiZWdpbiA9ICR0aGlzLT5mb3JtYXRTZWNvbmRzKDApOwogICAgICAgICRlbmQgPSAnRU9GJzsKICAgICAgICAkbGVuZ3RoID0gY291bnQoJG1hdGNoZXNbMF0pOwogICAgICAgIGlmICgkbGVuZ3RoID09IDEgJiYgJG1hdGNoZXNbMV1bMF0gPT0gJ3N0YXJ0JykgewogICAgICAgICAgICAkZW5kID0gJHRoaXMtPmZvcm1hdFNlY29uZHMoJG1hdGNoZXNbMl1bMF0pOwogICAgICAgIH0gZWxzZSBpZiAoJG1hdGNoZXNbMl1bMF0gPD0gMCkgewogICAgICAgICAgICAkYmVnaW4gPSAkdGhpcy0+Zm9ybWF0U2Vjb25kcygkbWF0Y2hlc1syXVsxXSk7CiAgICAgICAgICAgIGlmICgkbWF0Y2hlc1sxXVskbGVuZ3RoIC0gMV0gPT0gJ3N0YXJ0JykgewogICAgICAgICAgICAgICAgJGVuZCA9ICR0aGlzLT5mb3JtYXRTZWNvbmRzKCRtYXRjaGVzWzJdWyRsZW5ndGggLSAxXSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjbWQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxJbmZyYWN0aW9uIEFjZUFjdGlvbnN0cnVjdHVyZVxUcmFja1xTb3VyY2VcTXAzU3BsaXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjbWQpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IGZ1bmN0aW9uIHNoZWxsX2V4ZWMoJGNtZCkgewoKIH0K</text>
+        <text encoding="base64">dXNlIEFwcFxJbmZyYWN0aW9uIEFjZUFjdGlvbnN0cnVjdHVyZVxUcmFja1xTb3VyY2VcTXAzU3BsaXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
