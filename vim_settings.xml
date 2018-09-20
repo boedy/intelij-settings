@@ -57,11 +57,11 @@
         <mark key="." line="61" column="9" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1536938233181" />
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/FfmpegSilenceDetector.php" timestamp="1537442647012">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="37" />
-        <mark key="^" line="17" column="37" />
-        <mark key="." line="17" column="37" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/FfmpegSilenceDetector.php" timestamp="1537444786803">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/PaymentSource.php" timestamp="1535716770921">
         <mark key="[" line="0" column="0" />
@@ -190,6 +190,12 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="35" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/FfmpegSilenceDetectorTest.php" timestamp="1537444888120">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="38" />
+        <mark key="^" line="28" column="38" />
+        <mark key="." line="28" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Command/DeletePlaylist.php" timestamp="1536857459250">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -298,13 +304,6 @@
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/strip-creditcard.blade.php" timestamp="1536186544178">
         <mark key="[" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/index.js" timestamp="1536917074562">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Files/Mp3Test.php" timestamp="1537437677533">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="16" column="5" />
@@ -339,7 +338,12 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" timestamp="1537442529107" />
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" timestamp="1537444708235">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Track/Command/RemoveTrack.php" timestamp="1536855309061">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="12" column="26" />
@@ -370,7 +374,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537442438596">
+      <file name="/Dummy.txt" timestamp="1537444386122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -384,13 +388,6 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/Mixpanel.js" timestamp="1536916868023">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="91" column="12" />
-        <mark key="]" line="91" column="12" />
-        <mark key="." line="91" column="12" />
-        <mark key="^" line="91" column="5" />
       </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/Sources/Mixpanel/skips_vs_age.js" timestamp="1537278228154">
         <mark key="[" line="0" column="0" />
@@ -539,7 +536,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gcGFzc3RocnUoKSB7IHJldHVybiAiIjsgfQpmdW5jdGlvbiByZW5hbWUoKSB7IHJldHVybiAiIjsgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -551,7 +548,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>stripSilence</text>
       </register>
       <register name="/" type="4">
         <text>Playlist</text>
@@ -560,37 +557,37 @@
         <text encoding="base64">bmFtZXNwYWNlIEFwcFxJbmZyYXN0cnVjdHVyZVxUcmFja1xTb3VyY2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gcGFzc3RocnUoKSB7IHJldHVybiAiIjsgfQpmdW5jdGlvbiByZW5hbWUoKSB7IHJldHVybiAiIjsgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>df:xj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY21kID0gImZmbXBlZyAtaSB7JGZpbGVQYXRofSAtYWYgc2lsZW5jZWRldGVjdD1uPS01MGRCOmQ9MSAtZiBudWxsIC9kZXYvbnVsbCAyPiYxIHwgZ3JlcCBzaWxlbmNlZGV0ZWN0IjsKICAgICAgICAkb3V0cHV0ID0gc2hlbGxfZXhlYygkY21kKTsKCiAgICAgICAgaWYgKCAhIHByZWdfbWF0Y2hfYWxsKCIvc2lsZW5jZV8oc3RhcnR8ZW5kKS4qP1xzKC0/XGQrXC4/XGQrKS9tIiwgJG91dHB1dCwgJG1hdGNoZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIC8vcGFyc2UgYmVnaW4gYW5kIGVuZCB0aW1lcwogICAgICAgICRiZWdpbiA9ICR0aGlzLT5mb3JtYXRTZWNvbmRzKDApOwogICAgICAgICRlbmQgPSAnRU9GJzsKICAgICAgICAkbGVuZ3RoID0gY291bnQoJG1hdGNoZXNbMF0pOwogICAgICAgIGlmICgkbGVuZ3RoID09IDEgJiYgJG1hdGNoZXNbMV1bMF0gPT0gJ3N0YXJ0JykgewogICAgICAgICAgICAkZW5kID0gJHRoaXMtPmZvcm1hdFNlY29uZHMoJG1hdGNoZXNbMl1bMF0pOwogICAgICAgIH0gZWxzZSBpZiAoJG1hdGNoZXNbMl1bMF0gPD0gMCkgewogICAgICAgICAgICAkYmVnaW4gPSAkdGhpcy0+Zm9ybWF0U2Vjb25kcygkbWF0Y2hlc1syXVsxXSk7CiAgICAgICAgICAgIGlmICgkbWF0Y2hlc1sxXVskbGVuZ3RoIC0gMV0gPT0gJ3N0YXJ0JykgewogICAgICAgICAgICAgICAgJGVuZCA9ICR0aGlzLT5mb3JtYXRTZWNvbmRzKCRtYXRjaGVzWzJdWyRsZW5ndGggLSAxXSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY21kID0gImZmbXBlZyAtaSB7JGZpbGVQYXRofSAtYWYgc2lsZW5jZWRldGVjdD1uPS01MGRCOmQ9MSAtZiBudWxsIC9kZXYvbnVsbCAyPiYxIHwgZ3JlcCBzaWxlbmNlZGV0ZWN0IjsKICAgICAgICAkb3V0cHV0ID0gc2hlbGxfZXhlYygkY21kKTsKCiAgICAgICAgaWYgKCAhIHByZWdfbWF0Y2hfYWxsKCIvc2lsZW5jZV8oc3RhcnR8ZW5kKS4qP1xzKC0/XGQrXC4/XGQrKS9tIiwgJG91dHB1dCwgJG1hdGNoZXMpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIC8vcGFyc2UgYmVnaW4gYW5kIGVuZCB0aW1lcwogICAgICAgICRiZWdpbiA9ICR0aGlzLT5mb3JtYXRTZWNvbmRzKDApOwogICAgICAgICRlbmQgPSAnRU9GJzsKICAgICAgICAkbGVuZ3RoID0gY291bnQoJG1hdGNoZXNbMF0pOwogICAgICAgIGlmICgkbGVuZ3RoID09IDEgJiYgJG1hdGNoZXNbMV1bMF0gPT0gJ3N0YXJ0JykgewogICAgICAgICAgICAkZW5kID0gJHRoaXMtPmZvcm1hdFNlY29uZHMoJG1hdGNoZXNbMl1bMF0pOwogICAgICAgIH0gZWxzZSBpZiAoJG1hdGNoZXNbMl1bMF0gPD0gMCkgewogICAgICAgICAgICAkYmVnaW4gPSAkdGhpcy0+Zm9ybWF0U2Vjb25kcygkbWF0Y2hlc1syXVsxXSk7CiAgICAgICAgICAgIGlmICgkbWF0Y2hlc1sxXVskbGVuZ3RoIC0gMV0gPT0gJ3N0YXJ0JykgewogICAgICAgICAgICAgICAgJGVuZCA9ICR0aGlzLT5mb3JtYXRTZWNvbmRzKCRtYXRjaGVzWzJdWyRsZW5ndGggLSAxXSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRCZWdpbigpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGdldEVuZCgpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RhcnQgPSAkdGhpcy0+Zm9ybWF0U2Vjb25kcygwKTsKICAgICAgICAkdGhpcy0+ZW5kID0gMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjbWQpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVydCBzZWNvbmRzIHRvIHJlcXVpcmVkIHRyaW0gZm9ybWF0CiAgICAgKiBAcGFyYW0gJHNlY29uZHMKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHByb3RlY3RlZCBmdW5jdGlvbiBmb3JtYXRTZWNvbmRzKCRzZWNvbmRzKQogICAgewogICAgICAgICRzZWNvbmRzID0gKGZsb2F0KSAkc2Vjb25kczsKICAgICAgICAkbWluID0gZmxvb3IoJHNlY29uZHMgLyA2MCk7CiAgICAgICAgJHNlYyA9IGZsb29yKCRzZWNvbmRzKSAlIDYwOwogICAgICAgICRtU2VjID0gJHNlY29uZHMgKiAxMDAgJSA2MDsKCiAgICAgICAgcmV0dXJuIHNwcmludGYoJyVkLiUwMmQuJTAyZCcsICRtaW4sICRzZWMsICRtU2VjKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxJbmZyYWN0aW9uIEFjZUFjdGlvbnN0cnVjdHVyZVxUcmFja1xTb3VyY2VcTXAzU3BsaXQ7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiAK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
