@@ -10,6 +10,12 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/RemoveTrailingSilenceJob.php" timestamp="1537526721385">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="27" />
+        <mark key="." line="42" column="27" />
+        <mark key="^" line="42" column="27" />
+      </file>
       <file name="/a.dummy" timestamp="1537521783109">
         <mark key="[" line="0" column="0" />
       </file>
@@ -56,6 +62,7 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
+      <file name="$USER_HOME$/Downloads/tesdsa/server/server.1js" timestamp="1537276270138" />
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application.php" timestamp="1537480130179">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -82,6 +89,14 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1537276143672">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Repositories/DoctrineLocationRepositoryTest.php" timestamp="1537446818351">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1537526704960">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="56" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1537478843430">
         <mark key="[" line="60" column="0" />
@@ -162,6 +177,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/tesdsa/server/server.backup.js" timestamp="1537276339611" />
+      <file name="$USER_HOME$/projects/atmosphere/api/storage/logs/lumen.log" timestamp="1537526847474" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/tests/Functional/AccessControlServiceTest.php" />
@@ -267,7 +284,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>RemoveTrailingSilenceJob</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -279,13 +296,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>RemoveTrailingSilenceJob</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZmZtcGVnQ21kKCRmaWxlUGF0aCkKICAgIHsKICAgICAgICAkY21kID0gImZmbXBlZyAtaSB7JGZpbGVQYXRofSAtYWYgc2lsZW5jZWRldGVjdD1uPS01MGRCOmQ9MSAtZiBudWxsIC9kZXYvbnVsbCAyPiYxIHwgZ3JlcCBzaWxlbmNlZGV0ZWN0IjsKICAgICAgICAkb3V0cHV0ID0gW107CiAgICAgICAgJGVycm9yID0gbnVsbDsKICAgICAgICBleGVjKCRjbWQsICRvdXRwdXQsICRlcnJvcik7CiAgICAgICAgaWYoJGVycm9yKXsKICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ2ZmbXBlZyBmYWlsZWQgaW4gc2lsZW5jZSBkZXRlY3Rpb24nKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGpvaW4oIlxuIiwgJG91dHB1dCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChuZXcgUmVtb3ZlVHJhaWxpbmdTaWxlbmNlSm9iKCRzb3VyY2UpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkY21kID0gImZmbXBlZyAtaSB7JGZpbGVQYXRofSAtYWYgc2lsZW5jZWRldGVjdD1uPS01MGRCOmQ9MSAtZiBudWxsIC9kZXYvbnVsbCAyPiYxIHwgZ3JlcCBzaWxlbmNlZGV0ZWN0IjsK</text>
