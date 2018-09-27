@@ -78,11 +78,11 @@
         <mark key="^" line="19" column="65" />
         <mark key="." line="19" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationService.js" timestamp="1538068021362">
-        <mark key="[" line="33" column="113" />
-        <mark key="]" line="34" column="48" />
-        <mark key="^" line="34" column="48" />
-        <mark key="." line="34" column="48" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationService.js" timestamp="1538079707333">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="33" column="48" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Kernel.php" timestamp="1535980312631">
         <mark key="[" line="61" column="9" />
@@ -474,6 +474,12 @@
         <mark key="^" line="9" column="73" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/frontMail.js" timestamp="1538080723621">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1536221751495">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -490,8 +496,11 @@
         <mark key="]" line="29" column="44" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationConversation.js" timestamp="1538079235680">
-        <mark key="[" line="8" column="3" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationConversation.js" timestamp="1538080793022">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="10" column="42" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Middleware/AdminOnly.php" timestamp="1535980454894">
         <mark key="[" line="37" column="0" />
@@ -784,6 +793,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="18" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/test.js" timestamp="1538080571405">
+        <mark key="[" line="3" column="100" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/.env" timestamp="1536914038482">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="0" column="27" />
@@ -939,7 +954,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEZyb250LnJlbW92ZVRhZyh0aGlzLmlkLCAnUmVtaW5kaW5nJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -951,7 +966,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>conversationId</text>
+        <text>const token =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -960,7 +975,7 @@
         <text encoding="base64">ICBhZGREdXBsaWNhdGVEZWxlZ2F0aW9uV2FybmluZygpewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEZyb250LnJlbW92ZVRhZyh0aGlzLmlkLCAnUmVtaW5kaW5nJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -974,31 +989,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRnJvbnQucmVtb3ZlVGFnKHRoaXMuaWQsICdSZW1pbmRpbmcnKTsK</text>
+        <text encoding="base64">ICBoYXNEdXBsaWNhdGVMaW5rcygpIHsKCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKHRoaXMuZGVsZWdhdGlvbklkcy5sZW5ndGggPiAxKXsKICAgICAgdGhpcy5hZGREdXBsaWNhdGVEZWxlZ2F0aW9uV2FybmluZygpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZyb250LnJlbW92ZVRhZyhjb252ZXJzYXRpb25JZCwgJ1JlbWluZGluZycpOwogICAgRnJvbnQuYWRkQ29tbWVudChjb252ZXJzYXRpb25JZCwgJzpyYWRpb2FjdGl2ZV9zaWduOiA6d2FybmluZzogRG9uXCd0IHNlbmQgbXVsdGlwbGUgZGVsZWdhdGlvbiBsaW5rcyBwZXIgY29udmVyc2F0aW9uIDp3YXJuaW5nOiA6cmFkaW9hY3RpdmVfc2lnbjpcbiBBdXRvbWF0aWMgcmVtaW5kZXJzIGhhdmUgYmVlbiBkaXNhYmxlZCBmb3IgdGhpcyBjb252ZXJzYXRpb24nKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gdG9rZW47Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvL3RoaXMgaGFwcGVucyB3aGVuIG11bHRpcGxlIGxpbmtzIGFyZSBmb3VuZCB3aXRoaW4gdGhlIGNvbnZlcnNhdGlvbgogIGlmIChkZWxlZ2F0aW9uSWRzLmxlbmd0aCA+IDEgJiYgZGVsZWdhdGlvbklkcy5sZW5ndGggIT09IGRlbGVnYXRpb25SZXF1ZXN0c1tsb2NhdGlvbklkXS5kZWxlZ2F0aW9ubGlua3NGb3VuZCkgewogICAgRnJvbnQucmVtb3ZlVGFnKGNvbnZlcnNhdGlvbklkLCAnUmVtaW5kaW5nJyk7CiAgICBGcm9udC5hZGRDb21tZW50KGNvbnZlcnNhdGlvbklkLCAnOnJhZGlvYWN0aXZlX3NpZ246IDp3YXJuaW5nOiBEb25cJ3Qgc2VuZCBtdWx0aXBsZSBkZWxlZ2F0aW9uIGxpbmtzIHBlciBjb252ZXJzYXRpb24gOndhcm5pbmc6IDpyYWRpb2FjdGl2ZV9zaWduOlxuIEF1dG9tYXRpYyByZW1pbmRlcnMgaGF2ZSBiZWVuIGRpc2FibGVkIGZvciB0aGlzIGNvbnZlcnNhdGlvbicpOwogIH0K</text>
+        <text encoding="base64">ICAvKioKICAgKiBUb2RvOiBmaW5kIG91dCBob3cgdG8gY2hlY2sgZm9yIGR1cGxpY2F0ZSBsaW5rcwogICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmRlbGVnYXRpb25JZHMubGVuZ3RoID4gMSAmJiBkZWxlZ2F0aW9uSWRzLmxlbmd0aCAhPT0gZGVsZWdhdGlvblJlcXVlc3RzW2xvY2F0aW9uSWRdLmRlbGVnYXRpb25saW5rc0ZvdW5kKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
