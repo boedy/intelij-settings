@@ -78,11 +78,11 @@
         <mark key="^" line="19" column="65" />
         <mark key="." line="19" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationService.js" timestamp="1538082527632">
-        <mark key="[" line="0" column="59" />
-        <mark key="]" line="0" column="59" />
-        <mark key="." line="0" column="59" />
-        <mark key="^" line="0" column="59" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationService.js" timestamp="1538085328602">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Kernel.php" timestamp="1535980312631">
         <mark key="[" line="61" column="9" />
@@ -128,12 +128,12 @@
         <mark key="." line="208" column="0" />
         <mark key="^" line="208" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" timestamp="1538082499654">
-        <mark key="'" line="67" column="66" />
-        <mark key="[" line="0" column="56" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="30" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" timestamp="1538085486108">
+        <mark key="'" line="70" column="66" />
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env.wercker" timestamp="1536228436377">
         <mark key="[" line="22" column="23" />
@@ -370,6 +370,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/index.js" timestamp="1538084008043">
+        <mark key="[" line="82" column="72" />
+        <mark key="]" line="82" column="100" />
+        <mark key="^" line="82" column="71" />
+        <mark key="." line="82" column="72" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/Makefile" timestamp="1537620441421">
         <mark key="[" line="8" column="88" />
         <mark key="]" line="8" column="110" />
@@ -496,11 +502,8 @@
         <mark key="]" line="29" column="44" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationConversation.js" timestamp="1538082131733">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="1" />
-        <mark key="^" line="25" column="1" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationConversation.js" timestamp="1538085988035">
+        <mark key="[" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Middleware/AdminOnly.php" timestamp="1535980454894">
         <mark key="[" line="37" column="0" />
@@ -953,8 +956,8 @@
       <jump line="29" column="66" filename="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>from</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -966,16 +969,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>getConversationId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRlbGVnYXRpb25SZXF1ZXN0ID0gdGhpcy5yZWNvcmRzW2FjY291bnREZWxlZ2F0aW9uLmxvY2F0aW9uSWRdOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWxlZ2F0aW9uUmVxdWVzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvL3RvZG86IGRvZXMgbm90IGhhdmUgdG8gd2FpdAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -989,34 +992,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgRnJvbnQgPSByZXF1aXJlKCcuL2Zyb250TWFpbCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGxvY2F0aW9uSWQgfSA9IGFjY291bnREZWxlZ2F0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBOb3QgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzYXZlKCkgewoKICB9Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRlbGVnYXRpb25SZXF1ZXN0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhd2FpdCBzdG9yZS5zZXQoJ2RlbGVnYXRpb25SZXF1ZXN0cycsIGRlbGVnYXRpb25SZXF1ZXN0cyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWxlZ2F0aW9uUmVxdWVzdCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -1070,8 +1073,8 @@
         <entry>set visualbell set noerrorbells</entry>
         <entry>vsp</entry>
         <entry>set visualbell</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
