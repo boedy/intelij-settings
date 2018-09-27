@@ -78,8 +78,11 @@
         <mark key="^" line="19" column="65" />
         <mark key="." line="19" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationService.js" timestamp="1538059541118">
-        <mark key="[" line="19" column="58" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationService.js" timestamp="1538068021362">
+        <mark key="[" line="33" column="113" />
+        <mark key="]" line="34" column="48" />
+        <mark key="^" line="34" column="48" />
+        <mark key="." line="34" column="48" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Kernel.php" timestamp="1535980312631">
         <mark key="[" line="61" column="9" />
@@ -125,11 +128,12 @@
         <mark key="." line="208" column="0" />
         <mark key="^" line="208" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" timestamp="1538059559982">
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="53" />
-        <mark key="^" line="24" column="53" />
-        <mark key="." line="24" column="53" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" timestamp="1538067305238">
+        <mark key="'" line="48" column="66" />
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+        <mark key="^" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env.wercker" timestamp="1536228436377">
         <mark key="[" line="22" column="23" />
@@ -486,6 +490,7 @@
         <mark key="]" line="29" column="44" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationConversation.js" timestamp="1538068351314" />
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Middleware/AdminOnly.php" timestamp="1535980454894">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -829,7 +834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="11" filename="$USER_HOME$/projects/atmosphere/api/app/Providers/ExceptionServiceProvider.php" />
       <jump line="51" column="44" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/LocationAccountDelegation.js" />
       <jump line="157" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Location.js" />
       <jump line="314" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/AccountDelegationSetup.js" />
@@ -929,10 +933,11 @@
       <jump line="1" column="11" filename="$USER_HOME$/projects/atmosphere/content-digger/src/request.js" />
       <jump line="74" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api.js" />
       <jump line="350" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api.js" />
+      <jump line="29" column="66" filename="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>conversationId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEZyb250LnJlbW92ZVRhZyh0aGlzLmlkLCAnUmVtaW5kaW5nJyk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -949,11 +954,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
-      <register name="0" type="4">
-        <text>delegationRequest</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBhZGREdXBsaWNhdGVEZWxlZ2F0aW9uV2FybmluZygpewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZyb250LnJlbW92ZVRhZyh0aGlzLmlkLCAnUmVtaW5kaW5nJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -967,28 +972,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbG9jYXRpb25JZCwgZGVsZWdhdGlvbklkIH0gPSBhY2NvdW50RGVsZWdhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgRnJvbnQucmVtb3ZlVGFnKHRoaXMuaWQsICdSZW1pbmRpbmcnKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWFjdGl2YXRlT2xkRGVsZWdhdGlvbnMoYWNjb3VudERlbGVnYXRpb24sIGRlbGVnYXRpb25SZXF1ZXN0cyk7Cg==</text>
+        <text encoding="base64">ICAgIGlmKHRoaXMuZGVsZWdhdGlvbklkcy5sZW5ndGggPiAxKXsKICAgICAgdGhpcy5hZGREdXBsaWNhdGVEZWxlZ2F0aW9uV2FybmluZygpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gZGVsZWdhdGlvblJlcXVlc3RzCg==</text>
+        <text encoding="base64">ICAgIEZyb250LnJlbW92ZVRhZyhjb252ZXJzYXRpb25JZCwgJ1JlbWluZGluZycpOwogICAgRnJvbnQuYWRkQ29tbWVudChjb252ZXJzYXRpb25JZCwgJzpyYWRpb2FjdGl2ZV9zaWduOiA6d2FybmluZzogRG9uXCd0IHNlbmQgbXVsdGlwbGUgZGVsZWdhdGlvbiBsaW5rcyBwZXIgY29udmVyc2F0aW9uIDp3YXJuaW5nOiA6cmFkaW9hY3RpdmVfc2lnbjpcbiBBdXRvbWF0aWMgcmVtaW5kZXJzIGhhdmUgYmVlbiBkaXNhYmxlZCBmb3IgdGhpcyBjb252ZXJzYXRpb24nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBkZWxlZ2F0aW9uUmVxdWVzdHMgPSBhd2FpdCBzdG9yZS5nZXQoJ2RlbGVnYXRpb25SZXF1ZXN0cycpIHx8IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBkZWxlZ2F0aW9ucyA9IERlbGVnYXRpb25zLmZldGNoRGVsZWdhdGlvbnMoKTsK</text>
+        <text encoding="base64">ICAvL3RoaXMgaGFwcGVucyB3aGVuIG11bHRpcGxlIGxpbmtzIGFyZSBmb3VuZCB3aXRoaW4gdGhlIGNvbnZlcnNhdGlvbgogIGlmIChkZWxlZ2F0aW9uSWRzLmxlbmd0aCA+IDEgJiYgZGVsZWdhdGlvbklkcy5sZW5ndGggIT09IGRlbGVnYXRpb25SZXF1ZXN0c1tsb2NhdGlvbklkXS5kZWxlZ2F0aW9ubGlua3NGb3VuZCkgewogICAgRnJvbnQucmVtb3ZlVGFnKGNvbnZlcnNhdGlvbklkLCAnUmVtaW5kaW5nJyk7CiAgICBGcm9udC5hZGRDb21tZW50KGNvbnZlcnNhdGlvbklkLCAnOnJhZGlvYWN0aXZlX3NpZ246IDp3YXJuaW5nOiBEb25cJ3Qgc2VuZCBtdWx0aXBsZSBkZWxlZ2F0aW9uIGxpbmtzIHBlciBjb252ZXJzYXRpb24gOndhcm5pbmc6IDpyYWRpb2FjdGl2ZV9zaWduOlxuIEF1dG9tYXRpYyByZW1pbmRlcnMgaGF2ZSBiZWVuIGRpc2FibGVkIGZvciB0aGlzIGNvbnZlcnNhdGlvbicpOwogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIFN0b3JlIGV4cGlyZWQgY29udmVyc2F0aW9uCiAqIEBwYXJhbSBjb252ZXJzYXRpb25JZAogKiBAcGFyYW0gZGVsZWdhdGlvbklkCiAqIEByZXR1cm5zIHtQcm9taXNlPCo+fQogKi8KY29uc3QgdHJhY2tFeHBpcmVkRGVsZWdhdGlvbkVtYWlscyA9IGFzeW5jIChjb252ZXJzYXRpb25JZCwgZGVsZWdhdGlvbklkKSA9PiB7CiAgY29uc3QgY29udmVyc2F0aW9ucyA9IGF3YWl0IHN0b3JlLmdldCgnZXhwaXJlZEZyb250Q29udmVyc2F0aW9ucycpIHx8IHt9OwogIGNvbnZlcnNhdGlvbnNbZGVsZWdhdGlvbklkXSA9IGNvbnZlcnNhdGlvbnNbZGVsZWdhdGlvbklkXSB8fCBbXTsKICBpZihjb252ZXJzYXRpb25zW2RlbGVnYXRpb25JZF0uaW5kZXhPZihjb252ZXJzYXRpb25JZCkgPT09IC0xKXsKICAgIGNvbnZlcnNhdGlvbnNbZGVsZWdhdGlvbklkXS5wdXNoKGNvbnZlcnNhdGlvbklkKTsKICAgIHJldHVybiBzdG9yZS5zZXQoJ2V4cGlyZWRGcm9udENvbnZlcnNhdGlvbnMnLCBjb252ZXJzYXRpb25zKTsKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
