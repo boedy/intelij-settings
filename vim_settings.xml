@@ -78,6 +78,9 @@
         <mark key="^" line="19" column="65" />
         <mark key="." line="19" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationService.js" timestamp="1538059541118">
+        <mark key="[" line="19" column="58" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Kernel.php" timestamp="1535980312631">
         <mark key="[" line="61" column="9" />
         <mark key="]" line="61" column="9" />
@@ -121,6 +124,12 @@
         <mark key="]" line="208" column="0" />
         <mark key="." line="208" column="0" />
         <mark key="^" line="208" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" timestamp="1538059559982">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="53" />
+        <mark key="^" line="24" column="53" />
+        <mark key="." line="24" column="53" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env.wercker" timestamp="1536228436377">
         <mark key="[" line="22" column="23" />
@@ -923,7 +932,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>delegationId</text>
+        <text>conversationId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -935,7 +944,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>delegationId</text>
+        <text>conversationId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -985,7 +994,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>set visualbell</text>
       </register>
     </registers>
     <search>
@@ -1021,7 +1030,6 @@
         <entry encoding="base64">XDxpZlw+</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist AceJump</entry>
         <entry>actionlist jump</entry>
         <entry>actionlist AceA</entry>
         <entry encoding="base64">bm5vcmVtYXAgc3MgOmFjdGlvbiBBY2VBY3Rpb248Y3I+IA==</entry>
@@ -1037,10 +1045,11 @@
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action AceAction</entry>
         <entry>w</entry>
-        <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>set visualbell set noerrorbells</entry>
+        <entry>vsp</entry>
+        <entry>set visualbell</entry>
       </history-cmd>
       <history-expr />
       <history-input />
