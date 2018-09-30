@@ -114,11 +114,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/tesdsa/client/index.html" timestamp="1538334396677">
-        <mark key="[" line="71" column="24" />
-        <mark key="]" line="71" column="24" />
-        <mark key="." line="71" column="24" />
-        <mark key="^" line="71" column="31" />
+      <file name="$USER_HOME$/Downloads/tesdsa/client/index.html" timestamp="1538343347179">
+        <mark key="'" line="291" column="0" />
+        <mark key="[" line="81" column="16" />
+        <mark key="]" line="81" column="16" />
+        <mark key="." line="81" column="16" />
+        <mark key="^" line="87" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" timestamp="1538313435235">
         <mark key="'" line="78" column="66" />
@@ -854,9 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="44" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/LocationAccountDelegation.js" />
-      <jump line="157" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/Location.js" />
-      <jump line="314" column="0" filename="$USER_HOME$/projects/kollekt/atmosphere-backstage/src/app/components/AccountDelegationSetup.js" />
       <jump line="52" column="20" filename="$USER_HOME$/projects/services/AccountCreationDelegation/index.js" />
       <jump line="34" column="19" filename="$USER_HOME$/projects/services/AccountCreationDelegation/AccountDelegationRequest.js" />
       <jump line="20" column="41" filename="$USER_HOME$/projects/services/AccountCreationDelegation/AccountDelegationRequest.js" />
@@ -954,10 +952,13 @@
       <jump line="74" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api.js" />
       <jump line="350" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api.js" />
       <jump line="29" column="66" filename="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" />
+      <jump line="86" column="22" filename="$USER_HOME$/Downloads/tesdsa/client/index.html" />
+      <jump line="85" column="7" filename="$USER_HOME$/Downloads/tesdsa/client/index.html" />
+      <jump line="290" column="0" filename="$USER_HOME$/Downloads/tesdsa/client/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8gd2Vla3M=</text>
+        <text>log</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -969,10 +970,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gd2Vla3M=</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZlw+</text>
+        <text>plot2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgYVdlZWtzID0gYVsyXTsKICAgICAgY29uc3QgYVNraXBzID0gYVszXTsKICAgICAgY29uc3QgYVBsYXlzID0gYVs0XTsK</text>
@@ -1023,21 +1024,20 @@ a</text>
         <text encoding="base64">ICAgICAgcmV0dXJuIHNlbmQocmVzLCAyMDApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZlw+</last-search>
+      <last-search>plot2</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZlw+</last-pattern>
+      <last-pattern>plot2</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>from</entry>
         <entry>mbToken</entry>
         <entry>TOKEN_PATH</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
@@ -1057,6 +1057,7 @@ a</text>
         <entry encoding="base64">XDxhd2FpdFw+</entry>
         <entry>Playlist</entry>
         <entry encoding="base64">XDxpZlw+</entry>
+        <entry>plot2</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist jump</entry>
@@ -1071,7 +1072,6 @@ a</text>
         <entry>vs</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>sp</entry>
-        <entry>action AceAction</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>set visualbell set noerrorbells</entry>
@@ -1079,6 +1079,7 @@ a</text>
         <entry>set visualbell</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
