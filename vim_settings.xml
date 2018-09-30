@@ -114,12 +114,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/tesdsa/client/index.html" timestamp="1538343347179">
-        <mark key="'" line="291" column="0" />
-        <mark key="[" line="81" column="16" />
-        <mark key="]" line="81" column="16" />
-        <mark key="." line="81" column="16" />
-        <mark key="^" line="87" column="23" />
+      <file name="$USER_HOME$/Downloads/tesdsa/client/index.html" timestamp="1538344795903">
+        <mark key="'" line="294" column="0" />
+        <mark key="[" line="84" column="27" />
+        <mark key="]" line="84" column="28" />
+        <mark key="." line="84" column="28" />
+        <mark key="^" line="72" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" timestamp="1538313435235">
         <mark key="'" line="78" column="66" />
@@ -958,7 +958,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>log</text>
+        <text>weeks</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -970,16 +970,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>weeks</text>
       </register>
       <register name="/" type="4">
         <text>plot2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYVdlZWtzID0gYVsyXTsKICAgICAgY29uc3QgYVNraXBzID0gYVszXTsKICAgICAgY29uc3QgYVBsYXlzID0gYVs0XTsK</text>
+      <register name="0" type="4">
+        <text>totalPlayCount[weeks]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaVszXSA9IHNraXBzIC8gcGxheXMgLyB3ZWVrczsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -993,35 +993,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGkK</text>
+        <text encoding="base64">ICAgICAgaVszXSA9IHNraXBzIC8gcGxheXMgLyB3ZWVrczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVBsb3RDaGFydChkYXRhLCAncGxvdDInLCB0b1JlbW92ZVNvcnRlZC5zbGljZSgwLCB0cmFja3NUb1JlbW92ZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGkK</text>
       </register>
-      <register name="4" type="8">
-        <text>a
-a
-a</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZVBsb3RDaGFydChkYXRhLCAncGxvdDInLCB0b1JlbW92ZVNvcnRlZC5zbGljZSgwLCB0cmFja3NUb1JlbW92ZSkpOwo=</text>
       </register>
       <register name="5" type="8">
         <text>a
 a
 a</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>a
+a
+a</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBkYXRhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNlbmQocmVzLCAyMDApOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
