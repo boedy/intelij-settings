@@ -114,11 +114,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/tesdsa/client/index.html" timestamp="1537373671233">
-        <mark key="[" line="206" column="24" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-        <mark key="^" line="208" column="19" />
+      <file name="$USER_HOME$/Downloads/tesdsa/client/index.html" timestamp="1538334396677">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="24" />
+        <mark key="." line="71" column="24" />
+        <mark key="^" line="71" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" timestamp="1538313435235">
         <mark key="'" line="78" column="66" />
@@ -957,7 +957,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IC8gd2Vla3M=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -969,16 +969,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IC8gd2Vla3M=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
-      <register name="0" type="4">
-        <text>delegationRequest.url</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgYVdlZWtzID0gYVsyXTsKICAgICAgY29uc3QgYVNraXBzID0gYVszXTsKICAgICAgY29uc3QgYVBsYXlzID0gYVs0XTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaVszXSA9IHNraXBzIC8gcGxheXMgLyB3ZWVrczsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -992,31 +992,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNlbmQocmVzLCAyMDApOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKGVycikgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZVBsb3RDaGFydChkYXRhLCAncGxvdDInLCB0b1JlbW92ZVNvcnRlZC5zbGljZSgwLCB0cmFja3NUb1JlbW92ZSkpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRlbGVnYXRpb25SZWNvcmRzKTsK</text>
+      <register name="4" type="8">
+        <text>a
+a
+a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdxdWl0IHN0b3JlJyk7Cg==</text>
+      <register name="5" type="8">
+        <text>a
+a
+a</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNvbnN0IHRyYWNrRXhwaXJlZERlbGVnYXRpb25FbWFpbHMgPSBhc3luYyAoY29udmVyc2F0aW9uSWQsIGRlbGVnYXRpb25JZCkgPT4gewogIGNvbnN0IGNvbnZlcnNhdGlvbnMgPSBhd2FpdCBzdG9yZS5nZXQoJ2V4cGlyZWRGcm9udENvbnZlcnNhdGlvbnMnKSB8fCB7fTsKICBjb252ZXJzYXRpb25zW2RlbGVnYXRpb25JZF0gPSBjb252ZXJzYXRpb25zW2RlbGVnYXRpb25JZF0gfHwgW107CiAgaWYgKGNvbnZlcnNhdGlvbnNbZGVsZWdhdGlvbklkXS5pbmRleE9mKGNvbnZlcnNhdGlvbklkKSA9PT0gLTEpIHsKICAgIGNvbnZlcnNhdGlvbnNbZGVsZWdhdGlvbklkXS5wdXNoKGNvbnZlcnNhdGlvbklkKTsKICAgIHJldHVybiBzdG9yZS5zZXQoJ2V4cGlyZWRGcm9udENvbnZlcnNhdGlvbnMnLCBjb252ZXJzYXRpb25zKTsKICB9Cn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIFN0b3JlIGV4cGlyZWQgY29udmVyc2F0aW9uCiAqIEBwYXJhbSBjb252ZXJzYXRpb25JZAogKiBAcGFyYW0gZGVsZWdhdGlvbklkCiAqIEByZXR1cm5zIHtQcm9taXNlPCo+fQogKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbGQgbGluayBleHBpcmVkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNlbmQocmVzLCAyMDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
