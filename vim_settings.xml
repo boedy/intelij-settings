@@ -547,11 +547,11 @@
         <mark key="]" line="10" column="27" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/test.js" timestamp="1538429709986">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/test.js" timestamp="1538431744782">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/Organisation/LocationPlaylistMixinPresenter.php" timestamp="1535460083496">
         <mark key="[" line="6" column="36" />
@@ -617,10 +617,11 @@
         <mark key="]" line="104" column="12" />
         <mark key="." line="104" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" timestamp="1538430421180">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" timestamp="1538431982648">
+        <mark key="[" line="55" column="3" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/.env" timestamp="1538427012772">
         <mark key="[" line="4" column="44" />
@@ -669,11 +670,10 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/DeviceProvisioner.js" timestamp="1538425328425">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="6" column="34" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/DeviceProvisioner.js" timestamp="1538432048326">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/payments.blade.php" timestamp="1536228662531">
         <mark key="[" line="18" column="62" />
@@ -995,7 +995,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1007,16 +1007,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Fetch</text>
+        <text>getAvailableDevices</text>
       </register>
       <register name="/" type="4">
         <text>plot2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogRmV0Y2ggYWxsIGRldmljZXMgdGhhdCBhcmUgcmVhZHkgdG8gYmUgcHJvdmlzaW9uZWQK</text>
+        <text encoding="base64">Y29uc3Qgc3Vic2NyaWJlID0gY2IgPT4gc3Vic2NyaWJlcnMucHVzaChjYik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1030,31 +1030,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdXBkYXRlTmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVzaW4uZmV0Y2hSZXF1aXJlZERldmljZXMoKS50aGVuKGNvbnNvbGUubG9nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIEludGVydmFsIHRvIHJlZ3VsYXJseSBjaGVjayBmb3IgbmV3IGRldmljZXMKY29uc3QgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbChmZXRjaFJlcXVpcmVkRGV2aWNlcywgNjAgKiBzZWMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0QXZhaWxhYmxlRGV2aWNlcyA9ICgpID0+IGF2YWlsYWJsZURldmljZXM7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBleGlzdGluZ0RldmljZSA9IGF2YWlsYWJsZURldmljZXM7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0QXZhaWxhYmxlRGV2aWNlcyA9ICgpID0+IGF2YWlsYWJsZURldmljZXM7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YXN5bmMgKCkgPT4gewogIHJldHVybiBhdmFpbGFibGVEZXZpY2VzCn07</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIFJldHVybnMgYWxsIGRldmljZXMgdGhhdCBhcmUgcmVhZHkgdG8gYmUgcHJvdmlzaW9uZWQKICogQHJldHVybnMge0FycmF5fQogKi8KY29uc3QgZ2V0QXZhaWxhYmxlRGV2aWNlcyA9ICgpID0+IGF2YWlsYWJsZURldmljZXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
