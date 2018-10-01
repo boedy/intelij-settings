@@ -537,10 +537,21 @@
         <mark key="]" line="10" column="27" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/services/device-provisioning/test.js" timestamp="1538416061734">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/Presenters/Organisation/LocationPlaylistMixinPresenter.php" timestamp="1535460083496">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="15" column="5" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/app.js" timestamp="1538415170861">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Middleware/JwtAuth.php" timestamp="1535980280767">
         <mark key="[" line="10" column="10" />
@@ -573,11 +584,6 @@
         <mark key="[" line="193" column="0" />
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/delegationEmails.js" timestamp="1537957560018">
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
       </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/server.js" timestamp="1537367488651">
         <mark key="[" line="104" column="23" />
@@ -962,7 +968,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhc2UgJ0JpbGxpbmdEZXRhaWxzUmVnaXN0ZXJlZCc6CiAgICAgIGF3YWl0IGxvY2F0aW9uTGlmZUN5Y2xlLnJlZ2lzdGVyQmlsbGluZ0RldGFpbHMocGF5bG9hZC5sb2NhdGlvbklkLCBwYXlsb2FkLCBldmVudFRpbWVzdGFtcCk7CiAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -974,16 +980,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>weeks</text>
+        <text>authToken</text>
       </register>
       <register name="/" type="4">
         <text>plot2</text>
       </register>
-      <register name="0" type="4">
-        <text>totalPlayCount[weeks]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBheWxvYWQgPSBhd2FpdCBqc29uKHJlcSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgJ0JpbGxpbmdEZXRhaWxzUmVnaXN0ZXJlZCc6CiAgICAgIGF3YWl0IGxvY2F0aW9uTGlmZUN5Y2xlLnJlZ2lzdGVyQmlsbGluZ0RldGFpbHMocGF5bG9hZC5sb2NhdGlvbklkLCBwYXlsb2FkLCBldmVudFRpbWVzdGFtcCk7CiAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -997,38 +1003,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgJ0FjY291bnREZWxlZ2F0aW9uTGlua0dlbmVyYXRlZCc6CiAgICAgIGF3YWl0IGxvY2F0aW9uTGlmZUN5Y2xlLmFkZFRvQ2xpZW50Um9sbE91dChwYXlsb2FkLmxvY2F0aW9uSWQpOwogICAgICBicmVhazsKICAgIGNhc2UgJ0FjY291bnREZWxlZ2F0aW9uQ29tcGxldGVkJzoKICAgICAgYXdhaXQgbG9jYXRpb25MaWZlQ3ljbGUuYWRkVG9CaWxsaW5nKHBheWxvYWQubG9jYXRpb25JZCk7CiAgICAgIGF3YWl0IGxvY2F0aW9uTGlmZUN5Y2xlLm1vdmVUb0NsaWVudHMocGF5bG9hZC5sb2NhdGlvbklkKTsKICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICBhcGlVcmw6ICJodHRwczovL2FwaS5yZXNpbi5pby8iLAogIGRhdGFEaXJlY3Rvcnk6ICIvb3B0L2xvY2FsL3Jlc2luIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgbG9jYXRpb25MaWZlQ3ljbGUgPSByZXF1aXJlKCcuL0xvY2F0aW9uTGlmZUN5Y2xlJykK</text>
+        <text encoding="base64">Y29uc3QgTG9jYXRpb25MaWZlQ3ljbGUgPSByZXF1aXJlKCcuL0xvY2F0aW9uTGlmZUN5Y2xlJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBUaGlzIG1ldGhvZCBhdHRhY2hlcyBhbiBBc2FuYSB0YXNrIHRvIGEgbG9jYXRpb24gYnkgaWQKICAgKi8KICBhdHRhY2hUYXNrVG9Mb2NhdGlvbjogYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zdCBwYXlsb2FkID0gYXdhaXQganNvbihyZXEpOwogICAgY29uc3QgeyBsb2NhdGlvbklkLCB0YXNrSWQgfSA9IHBheWxvYWQ7CgogICAgaWYgKCFsb2NhdGlvbklkIHx8ICF0YXNrSWQpIHsKICAgICAgcmV0dXJuIHNlbmQocmVzLCA0MDAsIHsgbWVzc2FnZTogJ0ludmFsaWQgaW5wdXQnIH0pOwogICAgfQoKICAgIGlmICghaXNBZG1pbihyZXEpKSByZXR1cm4gc2VuZChyZXMsIDQwMywge30pOwoKICAgIGNvbnN0IFtlcnIsIHJlc3VsdF0gPSBhd2FpdCB0byhMb2NhdGlvbkxpZmVDeWNsZS5hdHRhY2hUYXNrKGxvY2F0aW9uSWQsIHRhc2tJZCkpOwogICAgaWYgKGVycikgcmV0dXJuIHNlbmQocmVzLCA0MDMsIHsgbWVzc2FnZTogZXJyLm1lc3NhZ2UgfSk7CgogICAgcmV0dXJuIHNlbmQocmVzLCAyMDAsIHJlc3VsdCk7CiAgfSwKICBkZXRhY2hUYXNrRnJvbUxvY2F0aW9uOiBhc3luYyAocmVxLCByZXMpID0+IHsKICAgIGNvbnN0IHBheWxvYWQgPSBhd2FpdCBqc29uKHJlcSk7CiAgICBjb25zdCB7IGxvY2F0aW9uSWR9ID0gcGF5bG9hZDsKCiAgICBpZiAoIWxvY2F0aW9uSWQpIHsKICAgICAgcmV0dXJuIHNlbmQocmVzLCA0MDAsIHsgbWVzc2FnZTogJ0ludmFsaWQgaW5wdXQnIH0pOwogICAgfQoKICAgIGlmICghaXNBZG1pbihyZXEpKSByZXR1cm4gc2VuZChyZXMsIDQwMywge30pOwoKICAgIGNvbnN0IFtlcnJdID0gYXdhaXQgdG8oTG9jYXRpb25MaWZlQ3ljbGUuZGV0YWNoVGFzayhsb2NhdGlvbklkKSk7CiAgICBpZiAoZXJyKSByZXR1cm4gc2VuZChyZXMsIDQwMywgeyBtZXNzYWdlOiBlcnIubWVzc2FnZSB9KTsKCiAgICByZXR1cm4gc2VuZChyZXMsIDIwMCk7CiAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaVszXSA9IHNraXBzIC8gcGxheXMgLyB3ZWVrczsK</text>
+        <text encoding="base64">ICAgIGlmICghcmVxLnF1ZXJ5LmxvY2F0aW9uSWQpIHJldHVybiBzZW5kKHJlcywgNDAwLCB7IG1lc3NhZ2U6ICdNaXNzaW5nIGxvY2F0aW9uSWQgaWQnIH0pOwogICAgY29uc3QgW2VyciwgcmVzdWx0XSA9IGF3YWl0IHRvKExvY2F0aW9uTGlmZUN5Y2xlLmdldFRhc2tCeUxvY2F0aW9uSWQocmVxLnF1ZXJ5LmxvY2F0aW9uSWQpKTsKICAgIGlmIChlcnIpIHJldHVybiBzZW5kKHJlcywgNDA0LCB7IG1lc3NhZ2U6IGVyci5tZXNzYWdlIH0pOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGkK</text>
+        <text encoding="base64">ICAgIHBvc3QoJy90YXNrcycsIHJvdXRlcy5hdHRhY2hUYXNrVG9Mb2NhdGlvbiksCiAgICBkZWwoJy90YXNrcycsIHJvdXRlcy5kZXRhY2hUYXNrRnJvbUxvY2F0aW9uKSwK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVBsb3RDaGFydChkYXRhLCAncGxvdDInLCB0b1JlbW92ZVNvcnRlZC5zbGljZSgwLCB0cmFja3NUb1JlbW92ZSkpOwo=</text>
+        <text encoding="base64">ICAgIGNhc2UgJ0JpbGxpbmdEZXRhaWxzUmVnaXN0ZXJlZCc6CiAgICAgIGF3YWl0IGxvY2F0aW9uTGlmZUN5Y2xlLnJlZ2lzdGVyQmlsbGluZ0RldGFpbHMocGF5bG9hZC5sb2NhdGlvbklkLCBwYXlsb2FkLCBldmVudFRpbWVzdGFtcCk7CiAgICAgIGJyZWFrOwo=</text>
       </register>
-      <register name="8" type="8">
-        <text>a
-a
-a</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNhc2UgJ0FjY291bnREZWxlZ2F0aW9uTGlua0dlbmVyYXRlZCc6CiAgICAgIGF3YWl0IGxvY2F0aW9uTGlmZUN5Y2xlLmFkZFRvQ2xpZW50Um9sbE91dChwYXlsb2FkLmxvY2F0aW9uSWQpOwogICAgICBicmVhazsKICAgIGNhc2UgJ0FjY291bnREZWxlZ2F0aW9uQ29tcGxldGVkJzoKICAgICAgYXdhaXQgbG9jYXRpb25MaWZlQ3ljbGUuYWRkVG9CaWxsaW5nKHBheWxvYWQubG9jYXRpb25JZCk7CiAgICAgIGF3YWl0IGxvY2F0aW9uTGlmZUN5Y2xlLm1vdmVUb0NsaWVudHMocGF5bG9hZC5sb2NhdGlvbklkKTsKICAgICAgYnJlYWs7Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>a
-a
-a</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgbG9jYXRpb25MaWZlQ3ljbGUgPSByZXF1aXJlKCcuL0xvY2F0aW9uTGlmZUN5Y2xlJykK</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1076,7 +1078,6 @@ a</text>
         <entry>vs</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>sp</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>set visualbell set noerrorbells</entry>
         <entry>vsp</entry>
@@ -1084,6 +1085,7 @@ a</text>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action AceAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
