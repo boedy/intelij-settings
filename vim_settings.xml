@@ -160,6 +160,12 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/Store.js" timestamp="1538490057203">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/routes/web.php" timestamp="1536592264678">
         <mark key="[" line="16" column="52" />
         <mark key="]" line="16" column="52" />
@@ -189,11 +195,10 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/listener.js" timestamp="1538426332249">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-        <mark key="^" line="8" column="9" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/listener.js" timestamp="1538489934399">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="85" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/Mixpanel.js" timestamp="1536871526906">
         <mark key="[" line="0" column="0" />
@@ -500,10 +505,11 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/DeviceProvisioner.js" timestamp="1538432048326">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/DeviceProvisioner.js" timestamp="1538490020506">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/payments.blade.php" timestamp="1536228662531">
         <mark key="[" line="18" column="62" />
@@ -757,7 +763,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>device</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -769,7 +775,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>device</text>
       </register>
       <register name="/" type="4">
         <text>plot2</text>
@@ -778,7 +784,7 @@
         <text encoding="base64">ICAgICAgdHVwbGUudXNlci5wcm9wZXJ0aWVzLiRuYW1lICYmIHR1cGxlLnVzZXIucHJvcGVydGllcy4kbmFtZS5pbmRleE9mKCdTcGFjZXMgLSBGUiAtIEJvdWxvZ25lJykgIT09IC0xICYmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHVwbGUudXNlci5wcm9wZXJ0aWVzLm5hbWUgJiYgdHVwbGUudXNlci5wcm9wZXJ0aWVzLm5hbWUuaW5kZXhPZignU3BhY2VzIC0gRlIgLSBCb3Vsb2duZScpICE9PSAtMSAmJgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcHJvdmlzaW9uZXIgPSBuZXcgRGV2aWNlUHJvdmlzaW9uZXIoKTsKICAgICAgcHJvdmlzaW9uZXIuYXR0YXRjaERldmljZVRvVXNlckZvckxvY2F0aW9uKHBheWxvYWQudXNlcklkLCBwYXlsb2FkLmxvY2F0aW9uSWQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -792,34 +798,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHlwZW9mIHR1cGxlLnVzZXIucHJvcGVydGllcy5zaG91bGRfdHJhY2sgIT09ICd1bmRlZmluZWQnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdHVwbGUudXNlci5wcm9wZXJ0aWVzLm5hbWUgJiYgdHVwbGUudXNlci5wcm9wZXJ0aWVzLm5hbWUuaW5kZXhPZignU3BhY2VzIC0gRlIgLSBCb3Vsb2duZScpICE9PSAtMSAmJgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdHlwZW9mIHR1cGxlLnVzZXIucHJvcGVydGllcy5zaG91bGRfdHJhY2sgIT09ICd1bmRlZmluZWQnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5ncm91cEJ5KFsKICAgICAgJ2V2ZW50LnByb3BlcnRpZXMudHJhY2tJRCcsCiAgICBdLCBtaXhwYW5lbC5yZWR1Y2VyLmNvdW50KCkpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRvdGFsU2tpcHMgPSB7fTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC5ncm91cEJ5KFsKICAgICAgJ2V2ZW50LnByb3BlcnRpZXMudHJhY2tJRCcsCiAgICBdLCBtaXhwYW5lbC5yZWR1Y2VyLmNvdW50KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRvdGFsU2tpcHMgPSB7fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVzaW4uZmV0Y2hSZXF1aXJlZERldmljZXMoKS50aGVuKGNvbnNvbGUubG9nKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
     <search>
@@ -868,13 +874,13 @@
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>set visualbell set noerrorbells</entry>
-        <entry>vsp</entry>
         <entry>set visualbell</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action AceAction</entry>
         <entry>w</entry>
         <entry encoding="base64">c2V0IHZpc3VhbGJlbGwgc2V0IG5vZXJyb3JiZWxscyA=</entry>
+        <entry>vsp</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
