@@ -74,10 +74,10 @@
         <mark key="." line="19" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Controllers/LocationController.php" timestamp="1538516702826">
-        <mark key="[" line="67" column="61" />
-        <mark key="]" line="67" column="79" />
-        <mark key="^" line="67" column="79" />
-        <mark key="." line="67" column="79" />
+        <mark key="[" line="66" column="61" />
+        <mark key="]" line="66" column="79" />
+        <mark key="^" line="66" column="79" />
+        <mark key="." line="66" column="79" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Kernel.php" timestamp="1535980312631">
         <mark key="[" line="61" column="9" />
@@ -400,6 +400,11 @@
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/delegationConversation.js" timestamp="1538305348509">
         <mark key="[" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/DTO/DeviceDTO.php" timestamp="1538554666311">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/BillingAddress.php" timestamp="1536055160610">
         <mark key="[" line="9" column="40" />
@@ -794,8 +799,8 @@
       <jump line="144" column="18" filename="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hardwareNeeded</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -807,7 +812,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hardwareNeeded</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>plot2</text>
@@ -816,7 +821,7 @@
         <text encoding="base64">Y29uc3Qge3RvfSA9IHJlcXVpcmUoJ2F3YWl0LXRvLWpzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -830,16 +835,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLyogdG9kbzogaGFuZGxlIHByb3Zpc2lvbmluZyBpZiBuZWVkZWQKICAgICAgKiAgLSBTdG9yZSBzdGF0ZQogICAgICAqICAtIEZpbmQgZGV2aWNlIHRoYXQgY2FuIGJlIHVzZWQKICAgICAgKiAgLSBDaGFuZ2UgbmFtZSBpbiByZXNpbgogICAgICAqICAtIExvZ2luIHdpdGggZGV2aWNlIGNyZWRlbnRpYWxzCiAgICAgICogIC0gU3RvcmUgSldUIHRva2VuIGFzIGVudiB2YXJpYWJsZSBvbiBkZXZpY2UKICAgICAgKiAgLSBQdXJnZSBkYXRhIGRpcmVjdG9yeQogICAgICAqICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+aGFyZHdhcmUgPSAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKiAgLQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgd2FpdGluZ0xpc3QgPSBXYWl0aW5nTGlzdC5pbml0aWFsaXplKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLyogdG9kbzogaGFuZGxlIHByb3Zpc2lvbmluZyBpZiBuZWVkZWQKICAgICAgKiAgLSBTdG9yZSBzdGF0ZQogICAgICAqICAtIEZpbmQgZGV2aWNlIHRoYXQgY2FuIGJlIHVzZWQKICAgICAgKiAgLSBDaGFuZ2UgbmFtZSBpbiByZXNpbgogICAgICAqICAtIExvZ2luIHdpdGggZGV2aWNlIGNyZWRlbnRpYWxzCiAgICAgICogIC0gU3RvcmUgSldUIHRva2VuIGFzIGVudiB2YXJpYWJsZSBvbiBkZXZpY2UKICAgICAgKiAgLSBQdXJnZSBkYXRhIGRpcmVjdG9yeQogICAgICAqICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgd2FpdGluZ0xpc3QgPSBXYWl0aW5nTGlzdC5pbml0aWFsaXplKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgKiAgLQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc3Qgd2FpdGluZ0xpc3QgPSBXYWl0aW5nTGlzdC5pbml0aWFsaXplKCk7Cg==</text>
@@ -848,13 +853,13 @@
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc2luLgo=</text>
+        <text encoding="base64">Y29uc3Qgd2FpdGluZ0xpc3QgPSBXYWl0aW5nTGlzdC5pbml0aWFsaXplKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgd2FpdGluZ0xpc3QgPSBXYWl0aW5nTGlzdC5pbml0aWFsaXplKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZihlcnIpIAo=</text>
+        <text encoding="base64">ICAgIHJlc2luLgo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
