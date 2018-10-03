@@ -99,10 +99,10 @@
         <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/WaitingList.js" timestamp="1538575546491">
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="43" />
-        <mark key="." line="29" column="5" />
-        <mark key="^" line="29" column="5" />
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="43" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/RemoveTrack.php" timestamp="1536856703058">
         <mark key="[" line="34" column="0" />
@@ -486,11 +486,11 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/wercker.yml" timestamp="1538580343912">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="31" column="40" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/wercker.yml" timestamp="1538604859060">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
         <mark key="^" line="31" column="40" />
-        <mark key="." line="31" column="40" />
+        <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/server.js" timestamp="1538483836731">
         <mark key="[" line="113" column="48" />
@@ -503,12 +503,12 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" timestamp="1538577276304">
-        <mark key="'" line="165" column="18" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="128" column="48" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" timestamp="1538605975570">
+        <mark key="'" line="166" column="18" />
+        <mark key="[" line="106" column="33" />
+        <mark key="]" line="82" column="21" />
+        <mark key="." line="82" column="21" />
+        <mark key="^" line="82" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/.env" timestamp="1538580646662">
         <mark key="[" line="4" column="12" />
@@ -642,7 +642,7 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="66" column="96" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538582856881">
+      <file name="/Dummy.txt" timestamp="1538605984737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -833,7 +833,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${serial}</text>
+        <text encoding="base64">ID09PSB1bmRlZmluZWQ=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -845,7 +845,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${serial}</text>
+        <text encoding="base64">ID09PSB1bmRlZmluZWQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JcPg==</text>
