@@ -504,12 +504,11 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" timestamp="1538657435893">
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" timestamp="1538659227227">
         <mark key="'" line="142" column="44" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="67" />
-        <mark key="." line="138" column="114" />
-        <mark key="^" line="138" column="114" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/.env" timestamp="1538580646662">
         <mark key="[" line="4" column="12" />
@@ -834,7 +833,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc2luLm1vZGVscy5kZXZpY2UudGFncy5zZXQoZGV2aWNlLmlkLCAnc3RhdHVzJywgJ2F2YWlsYWJsZScpLAo=</text>
+        <text encoding="base64">ICAgIHJlc2luLm1vZGVscy5kZXZpY2UudGFncy5zZXQoZGV2aWNlLmlkLCAnY2xpZW50JywgbG8pLAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -846,16 +845,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'9f5dd94af0b1e640bb142b2272352d42'</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc2luLm1vZGVscy5kZXZpY2UudGFncy5zZXQoZGV2aWNlLmlkLCAnc3RhdHVzJywgJ2F2YWlsYWJsZScpLAo=</text>
+        <text encoding="base64">ICAgIHJlc2luLm1vZGVscy5kZXZpY2UudGFncy5yZW1vdmUoZGV2aWNlLmlkLCAnc3RhdHVzJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC50aGVuKGZ1bmN0aW9uKCkgewogIH0pOwo=</text>
+        <text encoding="base64">ICAgIHJlc2luLm1vZGVscy5kZXZpY2UudGFncy5zZXQoZGV2aWNlLmlkLCAnY2xpZW50JywgbG8pLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -869,31 +868,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuLi4K</text>
+        <text encoding="base64">ICAgIC50aGVuKGZ1bmN0aW9uKCkgewogIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvdmlzaW9uaW5nUXVldWUub24oJ3N0YWxsZWQnLCAoKSA9PiBqb2IK</text>
+        <text encoding="base64">ICAuLi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFsbGVkJyk7Cg==</text>
+        <text encoding="base64">cHJvdmlzaW9uaW5nUXVldWUub24oJ3N0YWxsZWQnLCAoKSA9PiBqb2IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvL3RvZG86IGNoZWNrIGlmIGRldmljZSBpcyBzdGlsbCBhdmFpbGFibGUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFsbGVkJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ICAvL3RvZG86IGNoZWNrIGlmIGRldmljZSBpcyBzdGlsbCBhdmFpbGFibGUK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdG9wUHJvY2Vzc2luZ0RldmljZShkZXZpY2UpOwo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzdG9wUHJvY2Vzc2luZ0RldmljZShkZXZpY2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
