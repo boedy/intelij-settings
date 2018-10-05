@@ -98,6 +98,7 @@
         <mark key="^" line="61" column="16" />
         <mark key="." line="61" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1538742720391" />
       <file name="$USER_HOME$/projects/atmosphere/payments/app/PaymentSource.php" timestamp="1535716770921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -538,6 +539,13 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/test/spaces-invoices/index.js" timestamp="1538744117468">
+        <mark key="'" line="121" column="103" />
+        <mark key="[" line="125" column="2" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="127" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/server.js" timestamp="1538483836731">
         <mark key="[" line="113" column="48" />
         <mark key="]" line="114" column="0" />
@@ -603,11 +611,10 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/DeviceProvisioner.js" timestamp="1538663792158">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/test/spaces-invoices/moneybird-api.js" timestamp="1538742918286">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/payments.blade.php" timestamp="1536228662531">
         <mark key="[" line="18" column="62" />
@@ -713,6 +720,11 @@
         <mark key="." line="65" column="52" />
         <mark key="^" line="65" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/test/spaces-invoices/.env" timestamp="1538742794767">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Jobs/HandleMoneybirdWebhook.php" timestamp="1536412113228">
         <mark key="[" line="57" column="61" />
         <mark key="]" line="58" column="17" />
@@ -779,7 +791,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="7" filename="$USER_HOME$/projects/atmosphere/atmosphere-backstage/src/app/components/AsanaTask.js" />
       <jump line="75" column="2" filename="$USER_HOME$/projects/services/asana-tracking/src/LocationLifeCycle.js" />
       <jump line="111" column="48" filename="$USER_HOME$/projects/atmosphere/atmosphere-backstage/src/app/components/AsanaTask.js" />
       <jump line="204" column="1" filename="$USER_HOME$/projects/atmosphere/content-digger/search/fullText.js" />
@@ -879,10 +890,11 @@
       <jump line="3619" column="2" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
       <jump line="797" column="19" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
       <jump line="38" column="41" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
+      <jump line="17" column="103" filename="$USER_HOME$/Projects/test/spaces-invoices/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlcigpOwogICAgICAgIGRkKCApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>contact</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -894,7 +906,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>contact</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
@@ -903,7 +915,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QtPmhlYWRlcigneC1mb3J3YXJkZWQtZm9yJykgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlcigpOwogICAgICAgIGRkKCApOwo=</text>
+        <text encoding="base64">ICAgIG4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -917,31 +929,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKXsKICAgICAgICAgICAgICAgIENhY2hlOjphZGQoJ2ludGVybmFsLnByb3h5JywgJ29mZmxpbmUnLCAxMCk7CiAgICAgICAgICAgICAgICByZXR1cm4gJHVybDsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">cGlwZWRyaXZlX3NlY3JldD02OTU0NTBhZjU4ZTQyOGY4YmQ0MDIyMGRjNzRjY2MyODNkNjg5Y2EwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggISAkdGhpcy0+aXNEb21haW5BdmFpbGlibGUoJ2h0dHA6Ly9pbnRlcm5hbC50dW5lcy5rb2xsZWt0LmZtOjQzNjcnKSl7CiAgICAgICAgICAgIENhY2hlOjphZGQoJ2ludGVybmFsLnByb3h5JywgJ29mZmxpbmUnLCAxMCk7CiAgICAgICAgICAgIHJldHVybiAkdXJsOwogICAgICAgIH0K</text>
+        <text encoding="base64">bWl4cGFuZWxfc2VjcmV0PWU4OTdkZjkwODc5NWM1MTg1NGJlZjFiMmNlZWNlMWJkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlcigpaGhoCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlcigpOwogICAgICAgIGRkKCApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+KCktPmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKXsKICAgICAgICAgICAgICAgIENhY2hlOjphZGQoJ2ludGVybmFsLnByb3h5JywgJ29mZmxpbmUnLCAxMCk7CiAgICAgICAgICAgICAgICByZXR1cm4gJHVybDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoICEgJHRoaXMtPmlzRG9tYWluQXZhaWxpYmxlKCdodHRwOi8vaW50ZXJuYWwudHVuZXMua29sbGVrdC5mbTo0MzY3JykpewogICAgICAgICAgICAgICAgQ2FjaGU6OmFkZCgnaW50ZXJuYWwucHJveHknLCAnb2ZmbGluZScsIDEwKTsKICAgICAgICAgICAgICAgIHJldHVybiAkdXJsOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAkdXJsID0gc3RyX3JlcGxhY2UoJ2h0dHBzOi8vdHVuZXMuYW1zMy5kaWdpdGFsb2NlYW5zcGFjZXMuY29tJywgJ2h0dHA6Ly9pbnRlcm5hbC50dW5lcy5rb2xsZWt0LmZtOjQzNjcnLCAkdXJsKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiggISAkdGhpcy0+aXNEb21haW5BdmFpbGlibGUoJ2h0dHA6Ly9pbnRlcm5hbC50dW5lcy5rb2xsZWt0LmZtOjQzNjcnKSl7CiAgICAgICAgICAgIENhY2hlOjphZGQoJ2ludGVybmFsLnByb3h5JywgJ29mZmxpbmUnLCAxMCk7CiAgICAgICAgICAgIHJldHVybiAkdXJsOwogICAgICAgIH0K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVybDsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlcigpaGhoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+KCktPmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoICEgJHRoaXMtPmlzRG9tYWluQXZhaWxpYmxlKCdodHRwOi8vaW50ZXJuYWwudHVuZXMua29sbGVrdC5mbTo0MzY3JykpewogICAgICAgICAgICAgICAgQ2FjaGU6OmFkZCgnaW50ZXJuYWwucHJveHknLCAnb2ZmbGluZScsIDEwKTsKICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoICEgJHRoaXMtPmlzRG9tYWluQXZhaWxpYmxlKCdodHRwOi8vaW50ZXJuYWwudHVuZXMua29sbGVrdC5mbTo0MzY3JykpewogICAgICAgICAgICAgICAgQ2FjaGU6OmFkZCgnaW50ZXJuYWwucHJveHknLCAnb2ZmbGluZScsIDEwKTsKICAgICAgICAgICAgICAgIHJldHVybiAkdXJsOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAkdXJsID0gc3RyX3JlcGxhY2UoJ2h0dHBzOi8vdHVuZXMuYW1zMy5kaWdpdGFsb2NlYW5zcGFjZXMuY29tJywgJ2h0dHA6Ly9pbnRlcm5hbC50dW5lcy5rb2xsZWt0LmZtOjQzNjcnLCAkdXJsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
