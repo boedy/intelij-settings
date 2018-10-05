@@ -539,12 +539,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/test/spaces-invoices/index.js" timestamp="1538747269659">
-        <mark key="'" line="121" column="103" />
-        <mark key="[" line="146" column="46" />
-        <mark key="]" line="147" column="38" />
-        <mark key="." line="147" column="38" />
-        <mark key="^" line="147" column="38" />
+      <file name="$USER_HOME$/Projects/test/spaces-invoices/index.js" timestamp="1538751169223">
+        <mark key="'" line="120" column="103" />
+        <mark key="[" line="198" column="64" />
+        <mark key="]" line="198" column="75" />
+        <mark key="." line="198" column="75" />
+        <mark key="^" line="198" column="75" />
       </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/server.js" timestamp="1538483836731">
         <mark key="[" line="113" column="48" />
@@ -893,8 +893,8 @@
       <jump line="17" column="103" filename="$USER_HOME$/Projects/test/spaces-invoices/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZXRhaWxzCg==</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -911,11 +911,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>`sales_invoices/${id}`</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvLyBmb3IobGV0IGkgPSAwOyBpIDwgaW52b2ljZXMubGVuZ3RoOyBpKyspewogIC8vICAgYXdhaXQgZGVsZXRlSW52b2ljZShpbnZvaWNlc1tpXS5pZCk7CiAgLy8gICBjb25zb2xlLmxvZygnZGVsZXRlZCcsIGludm9pY2VzW2ldLmNvbnRhY3QuZmlyc3RuYW1lKTsKICAvLyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZXRhaWxzCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVjdXJyaW5nSW52b2ljZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -929,31 +929,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVjdXJyaW5nSW52b2ljZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gZ2V0UmVjdXJyaW5nSW52b2ljZUZvckNvbnRhY3QoJzIyOTk5NjU3ODczMzAzMjc1MCcpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlY3VycmluZ0ludm9pY2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGRlbGV0ZUludm9pY2UoaW52b2ljZXNbaV0uaWQpOwogICAgY29uc29sZS5sb2coJ2RlbGV0ZWQnLCBpbnZvaWNlc1tpXS5jb250YWN0LmZpcnN0bmFtZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3YWl0IAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb3IK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbW91bnQ6IGQuYW1vdW50ID09PSAnMyB4JyB8fCBkLmFtb3VudCA9PT0gJzMnID8gNSA6IGQuYW1vdW50LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBkb3VibGVzID0gCg==</text>
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG4K</text>
+        <text encoding="base64">ICByZXR1cm47CiAgbGV0IGludm9pY2VzID0gYXdhaXQgZmV0Y2hJbnZvaWNlcygpOwogIGludm9pY2VzID0gaW52b2ljZXMuZmlsdGVyKGkgPT4KICAgIGNvbnRhY3RJZHMuaW5kZXhPZihpLmNvbnRhY3RfaWQpICE9PSAtMQogICAgLy8gJiYgaS5jcmVhdGVkX2F0LmluZGV4T2YoJzIwMTgtMDgtMDYnKQogICk7CgogIGZvcihsZXQgaSA9IDA7IGkgPCBpbnZvaWNlcy5sZW5ndGg7IGkrKyl7CiAgICBhd2FpdCBkZWxldGVJbnZvaWNlKGludm9pY2VzW2ldLmlkKTsKICAgIGNvbnNvbGUubG9nKCdkZWxldGVkJywgaW52b2ljZXNbaV0uY29udGFjdC5maXJzdG5hbWUpOwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
