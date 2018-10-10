@@ -235,11 +235,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/App.js" timestamp="1539165785886">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="11" column="20" />
+      <file name="$USER_HOME$/Projects/test/dartboard/src/App.js" timestamp="1539173530164">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.override.yml" timestamp="1536179915030">
         <mark key="[" line="19" column="44" />
@@ -262,11 +262,11 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/plots/index.js" timestamp="1539165948051">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="21" />
+      <file name="$USER_HOME$/Projects/test/dartboard/src/plots/index.js" timestamp="1539173298677">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/serialnumber.js" timestamp="1538661961365">
         <mark key="[" line="30" column="0" />
@@ -672,11 +672,10 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539169733810">
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="10" />
-        <mark key="." line="30" column="10" />
-        <mark key="^" line="30" column="10" />
+      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539173164046">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/proxyRequest.js" timestamp="1537732445261">
         <mark key="[" line="7" column="28" />
@@ -757,6 +756,12 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/test/dartboard/src/plots/BarChart.js" timestamp="1539173463203">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="46" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="46" />
       </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/Sources/Mixpanel/skips_vs_age.js" timestamp="1538486311984">
         <mark key="[" line="13" column="0" />
@@ -949,8 +954,8 @@
       <jump line="2" column="12" filename="$USER_HOME$/Projects/test/dartboard/src/play-song.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      <register name="&quot;" type="4">
+        <text>PieChart</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -962,16 +967,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>items</text>
+        <text>PieChart</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dGhpcy5wcm9wcy5kYXRhLml0ZW1zLm1hcChpID0+IGkud2VpZ2h0KQ==</text>
+        <text encoding="base64">dGhpcy5wcm9wcy5kYXRhLm1hcChpID0+IGkudmFsdWUpLA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVzOiAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -985,32 +990,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpdGVtczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzOiB0aGlzLnByb3BzLmRhdGEubWFwKGkgPT4gaS52YWx1ZSksCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gY29uc3QgcGxheSA9IGFzeW5jICgpID0+IHsKLy8gICBmb3IgKGxldCBpID0gMDsgaSA8IDEwMDAwOyBpKyspIHsKLy8gICAgIGNvbnN0IHNvbmcgPSBwaWNrU29uZyhpdGVtcyk7Ci8vICAgICBwZW5hbGl6ZShzb25nKTsKLy8gICAgIC8vIGNvbnNvbGUubG9nKCdQbGF5ZWQ6ICcsc29uZykKLy8gICAgIC8vIGNvbnNvbGUubG9nKGl0ZW1zLm1hcChpID0+IGkud2VpZ2h0KSk7Ci8vICAgICAvLyBhd2FpdCB3YWl0KDEwMDApOwovLyAgIH0KLy8gICByZXR1cm4gaXRlbXM7Ci8vIH07Ci8v</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ3BpZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gY29uc3QgcGxheSA9IGFzeW5jICgpID0+IHsKLy8gICBmb3IgKGxldCBpID0gMDsgaSA8IDEwMDAwOyBpKyspIHsKLy8gICAgIGNvbnN0IHNvbmcgPSBwaWNrU29uZyhpdGVtcyk7Ci8vICAgICBwZW5hbGl6ZShzb25nKTsKLy8gICAgIC8vIGNvbnNvbGUubG9nKCdQbGF5ZWQ6ICcsc29uZykKLy8gICAgIC8vIGNvbnNvbGUubG9nKGl0ZW1zLm1hcChpID0+IGkud2VpZ2h0KSk7Ci8vICAgICAvLyBhd2FpdCB3YWl0KDEwMDApOwovLyAgIH0KLy8gICByZXR1cm4gaXRlbXM7Ci8vIH07Ci8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFBpZUNoYXJ0IGRhdGE9e2RhdGF9Lz4KICAgICAgICAgICAgPFBpZUNoYXJ0IGRhdGE9e2RhdGF9Lz4K</text>
       </register>
-      <register name="5" type="8">
-        <text>.items
-.items</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldExvY2tPdmVycmlkZShkZXZpY2UsIHRydWUpLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCBzZXRMb2NrT3ZlcnJpZGUoZGV2aWNlLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpdGVtczsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc2luLm1vZAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gY29uc3QgcGxheSA9IGFzeW5jICgpID0+IHsKLy8gICBmb3IgKGxldCBpID0gMDsgaSA8IDEwMDAwOyBpKyspIHsKLy8gICAgIGNvbnN0IHNvbmcgPSBwaWNrU29uZyhpdGVtcyk7Ci8vICAgICBwZW5hbGl6ZShzb25nKTsKLy8gICAgIC8vIGNvbnNvbGUubG9nKCdQbGF5ZWQ6ICcsc29uZykKLy8gICAgIC8vIGNvbnNvbGUubG9nKGl0ZW1zLm1hcChpID0+IGkud2VpZ2h0KSk7Ci8vICAgICAvLyBhd2FpdCB3YWl0KDEwMDApOwovLyAgIH0KLy8gICByZXR1cm4gaXRlbXM7Ci8vIH07Ci8v</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldExvY2tPdmVycmlkZShkZXZpY2UsIHRydWUpLAo=</text>
+        <text encoding="base64">Ly8gY29uc3QgcGxheSA9IGFzeW5jICgpID0+IHsKLy8gICBmb3IgKGxldCBpID0gMDsgaSA8IDEwMDAwOyBpKyspIHsKLy8gICAgIGNvbnN0IHNvbmcgPSBwaWNrU29uZyhpdGVtcyk7Ci8vICAgICBwZW5hbGl6ZShzb25nKTsKLy8gICAgIC8vIGNvbnNvbGUubG9nKCdQbGF5ZWQ6ICcsc29uZykKLy8gICAgIC8vIGNvbnNvbGUubG9nKGl0ZW1zLm1hcChpID0+IGkud2VpZ2h0KSk7Ci8vICAgICAvLyBhd2FpdCB3YWl0KDEwMDApOwovLyAgIH0KLy8gICByZXR1cm4gaXRlbXM7Ci8vIH07Ci8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
