@@ -589,11 +589,11 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" timestamp="1539010332204">
-        <mark key="[" line="163" column="41" />
-        <mark key="]" line="163" column="42" />
-        <mark key="." line="163" column="42" />
-        <mark key="^" line="163" column="42" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" timestamp="1539167309800">
+        <mark key="[" line="139" column="32" />
+        <mark key="]" line="139" column="39" />
+        <mark key="^" line="139" column="39" />
+        <mark key="." line="139" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/.env" timestamp="1538667811861">
         <mark key="[" line="1" column="8" />
@@ -643,11 +643,11 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/DeviceProvisioner.js" timestamp="1539010288500">
-        <mark key="[" line="40" column="46" />
-        <mark key="]" line="40" column="46" />
-        <mark key="^" line="40" column="46" />
-        <mark key="." line="40" column="46" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/DeviceProvisioner.js" timestamp="1539167339397">
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="37" column="59" />
+        <mark key="^" line="37" column="59" />
+        <mark key="." line="37" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/play-song.js" timestamp="1539164892537">
         <mark key="[" line="60" column="5" />
@@ -743,7 +743,7 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="66" column="96" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539010337165">
+      <file name="/Dummy.txt" timestamp="1539167389644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -950,7 +950,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[19, 26, 55]</text>
+        <text>locationId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -962,16 +962,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[19, 26, 55]</text>
+        <text>locationId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtpdGVtcywgdG90YWx9ID0gdGhpcy5zdGF0ZTsK</text>
+        <text encoding="base64">ICAgIHJlc2luLm1vZGVscy5kZXZpY2UudGFncy5zZXQoZGV2aWNlLmlkLCAnbG9jYXRpb25faWQnLCBsb2NhdGlvbklkKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydCA9IHsgLy8gICBQaWVDaGFydDogcmVxdWlyZSgnLi9QaWVDaGFydCcpIC8vIH07Cg==</text>
+        <text encoding="base64">ICAgIHNldExvY2tPdmVycmlkZShkZXZpY2UsIHRydWUpLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -985,34 +985,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQaWVDaGFydDogCg==</text>
+        <text encoding="base64">ICAvLyBhd2FpdCBzZXRMb2NrT3ZlcnJpZGUoZGV2aWNlLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeDogdGhpcy5wcm9wcy5kYXRhLAogICAgICAgICAgICB0eXBlOiAnaGlzdG9ncmFtJywKICAgICAgICAgICAgbWFya2VyOiB7Y29sb3I6ICdibHVlJ30sCg==</text>
+        <text encoding="base64">ICAgIHJlc2luLm1vZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldExvY2tPdmVycmlkZShkZXZpY2UsIHRydWUpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8SGlzdG9ncmFtLz4K</text>
+        <text encoding="base64">ICAgIHJlc2luLm1vZGVscy5kZXZpY2UudGFncy5zZXQoZGV2aWNlLmlkLCAnbG9jYXRpb25faWQnLCBsb2NhdGlvbklkKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcGVuYWxpemUgPSBzb25nID0+IHsKICBjb25zdCBsb3NpbmdQb2ludHMgPSA2OwogIGNvbnN0IHdpbm5pbmdQb2ludHMgPSBsb3NpbmdQb2ludHMgLyAoaXRlbXMubGVuZ3RoIC0gMSk7CiAgaXRlbXMgPSBpdGVtcy5tYXAoaXRlbSA9PiB7CiAgICBpZiAoaXRlbS52YWx1ZSA9PT0gc29uZykgewogICAgICBpdGVtLndlaWdodCAtPSBsb3NpbmdQb2ludHM7CiAgICAgIGl0ZW0ucGxheXMrKzsKICAgIH0gZWxzZSB7CiAgICAgIGl0ZW0ud2VpZ2h0ICs9IHdpbm5pbmdQb2ludHM7CiAgICB9CiAgICByZXR1cm4gaXRlbTsKICB9KTsKfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9IkFwcCIgPgoKICAgICAgICA8SGlzdG9ncmFtIGRhdGE9e1snc29uZzEnLCAnc29uZzEnLCAnc29uZzEnLCAnc29uZzInLCAnc29uZzMnXX0gLz4KICAgICAgPC9kaXYgPgo=</text>
+        <text encoding="base64">ICAvL0RlbGV0ZSBhbGwgZGF0YSBzdG9yZWQgb24gdGhlIGRldmljZQogIFtlcnJdID0gYXdhaXQgdG8ocmVzaW4ubW9kZWxzLmRldmljZS5wdXJnZShkZXZpY2UuaWQpKTsKICBpZihlcnIpIGF3YWl0IHJlY292ZXJBbmRUaHJvdyhkZXZpY2UsIGBDb3VsZCBub3QgcHVyZ2UgZGV2aWNlOiAke2Vycn1gKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2VpZ2h0ID0gaXRlbXNbaV0ud2VpZ2h0OwogICAgICB2YWx1ZSA9IGl0ZW1zW2ldLnZhbHVlOwo=</text>
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydCA9IHsgLy8gICBQaWVDaGFydDogcmVxdWlyZSgnLi9QaWVDaGFydCcpIC8vIH07Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">bGV0IApsZXQg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBQaWVDaGFydDogCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
     <search>
@@ -1064,10 +1064,10 @@
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action AceAction</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
