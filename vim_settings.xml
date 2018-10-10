@@ -38,11 +38,11 @@
       <file name="/a.dummy" timestamp="1537521783109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/plots/PieChart.js" timestamp="1539165980628">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="21" column="22" />
+      <file name="$USER_HOME$/Projects/test/dartboard/src/plots/PieChart.js" timestamp="1539169070602">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+        <mark key="^" line="11" column="51" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Playlist/Command/RemovePlaylistItem.php" timestamp="1536857780003">
         <mark key="[" line="15" column="0" />
@@ -672,11 +672,11 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539165969843">
-        <mark key="[" line="67" column="42" />
-        <mark key="]" line="67" column="42" />
-        <mark key="." line="67" column="42" />
-        <mark key="^" line="67" column="15" />
+      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539169733810">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+        <mark key="^" line="30" column="10" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/proxyRequest.js" timestamp="1537732445261">
         <mark key="[" line="7" column="28" />
@@ -949,8 +949,8 @@
       <jump line="2" column="12" filename="$USER_HOME$/Projects/test/dartboard/src/play-song.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>locationId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -962,16 +962,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>locationId</text>
+        <text>items</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc2luLm1vZGVscy5kZXZpY2UudGFncy5zZXQoZGV2aWNlLmlkLCAnbG9jYXRpb25faWQnLCBsb2NhdGlvbklkKSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">dGhpcy5wcm9wcy5kYXRhLml0ZW1zLm1hcChpID0+IGkud2VpZ2h0KQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldExvY2tPdmVycmlkZShkZXZpY2UsIHRydWUpLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -985,31 +985,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCBzZXRMb2NrT3ZlcnJpZGUoZGV2aWNlLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpdGVtczsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc2luLm1vZAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gY29uc3QgcGxheSA9IGFzeW5jICgpID0+IHsKLy8gICBmb3IgKGxldCBpID0gMDsgaSA8IDEwMDAwOyBpKyspIHsKLy8gICAgIGNvbnN0IHNvbmcgPSBwaWNrU29uZyhpdGVtcyk7Ci8vICAgICBwZW5hbGl6ZShzb25nKTsKLy8gICAgIC8vIGNvbnNvbGUubG9nKCdQbGF5ZWQ6ICcsc29uZykKLy8gICAgIC8vIGNvbnNvbGUubG9nKGl0ZW1zLm1hcChpID0+IGkud2VpZ2h0KSk7Ci8vICAgICAvLyBhd2FpdCB3YWl0KDEwMDApOwovLyAgIH0KLy8gICByZXR1cm4gaXRlbXM7Ci8vIH07Ci8v</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNldExvY2tPdmVycmlkZShkZXZpY2UsIHRydWUpLAo=</text>
+        <text encoding="base64">Ly8gY29uc3QgcGxheSA9IGFzeW5jICgpID0+IHsKLy8gICBmb3IgKGxldCBpID0gMDsgaSA8IDEwMDAwOyBpKyspIHsKLy8gICAgIGNvbnN0IHNvbmcgPSBwaWNrU29uZyhpdGVtcyk7Ci8vICAgICBwZW5hbGl6ZShzb25nKTsKLy8gICAgIC8vIGNvbnNvbGUubG9nKCdQbGF5ZWQ6ICcsc29uZykKLy8gICAgIC8vIGNvbnNvbGUubG9nKGl0ZW1zLm1hcChpID0+IGkud2VpZ2h0KSk7Ci8vICAgICAvLyBhd2FpdCB3YWl0KDEwMDApOwovLyAgIH0KLy8gICByZXR1cm4gaXRlbXM7Ci8vIH07Ci8vCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc2luLm1vZGVscy5kZXZpY2UudGFncy5zZXQoZGV2aWNlLmlkLCAnbG9jYXRpb25faWQnLCBsb2NhdGlvbklkKSwK</text>
+      <register name="5" type="8">
+        <text>.items
+.items</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldExvY2tPdmVycmlkZShkZXZpY2UsIHRydWUpLAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvL0RlbGV0ZSBhbGwgZGF0YSBzdG9yZWQgb24gdGhlIGRldmljZQogIFtlcnJdID0gYXdhaXQgdG8ocmVzaW4ubW9kZWxzLmRldmljZS5wdXJnZShkZXZpY2UuaWQpKTsKICBpZihlcnIpIGF3YWl0IHJlY292ZXJBbmRUaHJvdyhkZXZpY2UsIGBDb3VsZCBub3QgcHVyZ2UgZGV2aWNlOiAke2Vycn1gKTsK</text>
+        <text encoding="base64">ICAvLyBhd2FpdCBzZXRMb2NrT3ZlcnJpZGUoZGV2aWNlLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydCA9IHsgLy8gICBQaWVDaGFydDogcmVxdWlyZSgnLi9QaWVDaGFydCcpIC8vIH07Cg==</text>
+        <text encoding="base64">ICAgIHJlc2luLm1vZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBQaWVDaGFydDogCg==</text>
+        <text encoding="base64">ICAgIHNldExvY2tPdmVycmlkZShkZXZpY2UsIHRydWUpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
