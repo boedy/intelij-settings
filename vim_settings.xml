@@ -217,12 +217,7 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/plots/Table.js" timestamp="1539245922869">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="32" />
-      </file>
+      <file name="$USER_HOME$/Projects/test/dartboard/src/plots/Table.js" timestamp="1539271449604" />
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/listener.js" timestamp="1538665742372">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="38" />
@@ -967,8 +962,8 @@
       <jump line="67" column="11" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>skips</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmRhdGEKICAgICAgICAgIC5zb3J0KChhLCBiKSA9PiBiLnBsYXlzIC0gYS5wbGF5cykKICAgICAgICAgIC5tYXAoaSA9PiA8U29uZyA+UGxheXM6IHtpLnBsYXlzfSBTa2lwczoge2kuc2tpcHN9IFZhbHVlOiB7aS52YWx1ZX0gV2VpZ2h0OiB7TWF0aC5mbG9vcihpLndlaWdodCl9PC9Tb25nID4pCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -989,7 +984,7 @@
         <text encoding="base64">ICAgIHRoaXMuc3RhdGUudG90YWwgPSB0aGlzLnN0YXRlLml0ZW1zLnJlZHVjZSgoc3VtLCBpKSA9PiBzdW0gKyBpLndlaWdodCwgMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNraXBDb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmRhdGEKICAgICAgICAgIC5zb3J0KChhLCBiKSA9PiBiLnBsYXlzIC0gYS5wbGF5cykKICAgICAgICAgIC5tYXAoaSA9PiA8U29uZyA+UGxheXM6IHtpLnBsYXlzfSBTa2lwczoge2kuc2tpcHN9IFZhbHVlOiB7aS52YWx1ZX0gV2VpZ2h0OiB7TWF0aC5mbG9vcihpLndlaWdodCl9PC9Tb25nID4pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1003,32 +998,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWNjICsgaS5za2lwcwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNraXBDb3VudCk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYWNjICsgaS5za2lwcwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNraXBDb3VudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgU3F1YXJlID0gU3R5bGVkLmRpdmAKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgd2lkdGg6IDIwcHg7CiAgaGVpZ2h0OiAyMHB4OwogIG1hcmdpbjogMXB4OwogIGJhY2tncm91bmQ6ICR7cHJvcHMgPT4gY29sb3JIYXNoLmhleChwcm9wcy5jb2xvcil9CmA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgU3F1YXJlID0gU3R5bGVkLmRpdmAKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgd2lkdGg6IDIwcHg7CiAgaGVpZ2h0OiAyMHB4OwogIG1hcmdpbjogMXB4OwogIGJhY2tncm91bmQ6ICR7cHJvcHMgPT4gY29sb3JIYXNoLmhleChwcm9wcy5jb2xvcil9CmA7Cg==</text>
+      </register>
+      <register name="8" type="8">
         <text>PlayOrder
 PlayOrder</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY29sb3JIYXNoID0gbmV3IENvbG9ySGFzaCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
