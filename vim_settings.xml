@@ -140,6 +140,11 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/listener.js" timestamp="1539329901219">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env.wercker" timestamp="1536228436377">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="25" />
@@ -463,11 +468,15 @@
         <mark key="^" line="9" column="73" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/frontMail.js" timestamp="1538996977195">
-        <mark key="[" line="141" column="30" />
-        <mark key="]" line="141" column="30" />
-        <mark key="^" line="105" column="0" />
-        <mark key="." line="141" column="30" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/frontMail.js" timestamp="1539329397930">
+        <mark key="[" line="100" column="5" />
+        <mark key="]" line="100" column="5" />
+        <mark key="^" line="100" column="5" />
+        <mark key="." line="100" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Organisation/Location/Event/LocationDiscontinued.php" timestamp="1539329703458">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1536221751495">
         <mark key="[" line="42" column="0" />
@@ -519,24 +528,10 @@
         <mark key="." line="50" column="25" />
         <mark key="^" line="50" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/test.js" timestamp="1538671878656">
-        <mark key="'" line="38" column="41" />
-        <mark key="[" line="45" column="80" />
-        <mark key="]" line="45" column="80" />
-        <mark key="." line="45" column="80" />
-        <mark key="^" line="37" column="28" />
-      </file>
       <file name="$USER_HOME$/Projects/tests/playback/src/index.html" timestamp="1539162272010">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/app.js" timestamp="1539095352788">
-        <mark key="'" line="31" column="26" />
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Middleware/JwtAuth.php" timestamp="1535980280767">
         <mark key="[" line="10" column="10" />
@@ -576,13 +571,6 @@
         <mark key="]" line="9" column="23" />
         <mark key="^" line="31" column="40" />
         <mark key="." line="9" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/test/spaces-invoices/index.js" timestamp="1539026570260">
-        <mark key="'" line="120" column="103" />
-        <mark key="[" line="270" column="11" />
-        <mark key="]" line="270" column="28" />
-        <mark key="." line="270" column="28" />
-        <mark key="^" line="270" column="28" />
       </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/server.js" timestamp="1538483836731">
         <mark key="[" line="113" column="48" />
@@ -750,7 +738,7 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="66" column="96" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539167389644">
+      <file name="/Dummy.txt" timestamp="1539329957675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -963,7 +951,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmRhdGEKICAgICAgICAgIC5zb3J0KChhLCBiKSA9PiBiLnBsYXlzIC0gYS5wbGF5cykKICAgICAgICAgIC5tYXAoaSA9PiA8U29uZyA+UGxheXM6IHtpLnBsYXlzfSBTa2lwczoge2kuc2tpcHN9IFZhbHVlOiB7aS52YWx1ZX0gV2VpZ2h0OiB7TWF0aC5mbG9vcihpLndlaWdodCl9PC9Tb25nID4pCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgJ0xvY2F0aW9uRGlzY29udGludWVkJzogewoKICAgIH0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -975,16 +963,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>skips</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUudG90YWwgPSB0aGlzLnN0YXRlLml0ZW1zLnJlZHVjZSgoc3VtLCBpKSA9PiBzdW0gKyBpLndlaWdodCwgMCk7Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgJ0xvY2F0aW9uRGlzY29udGludWVkJzogewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmRhdGEKICAgICAgICAgIC5zb3J0KChhLCBiKSA9PiBiLnBsYXlzIC0gYS5wbGF5cykKICAgICAgICAgIC5tYXAoaSA9PiA8U29uZyA+UGxheXM6IHtpLnBsYXlzfSBTa2lwczoge2kuc2tpcHN9IFZhbHVlOiB7aS52YWx1ZX0gV2VpZ2h0OiB7TWF0aC5mbG9vcihpLndlaWdodCl9PC9Tb25nID4pCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgJ0xvY2F0aW9uRGlzY29udGludWVkJzogewoKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -997,36 +985,35 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNraXBDb3VudCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgaWYoIGRlbGVnYXRpb25SZXF1ZXN0c1tsb2NhdGlvbklkXSA9PT0gdW5kZWZpbmVkKSBicmVhazsKICAgICAgY29uc3QgY29udmVyc2F0aW9uSWQgPSBkZWxlZ2F0aW9uUmVxdWVzdHNbbG9jYXRpb25JZF0udXJsLnNwbGl0KCcvJykucG9wKCk7CiAgICAgIGRlbGV0ZSBkZWxlZ2F0aW9uUmVxdWVzdHNbbG9jYXRpb25JZF07CiAgICAgIGF3YWl0IHN0b3JlLnNldCgnZGVsZWdhdGlvblJlcXVlc3RzJywgZGVsZWdhdGlvblJlcXVlc3RzKTsKICAgICAgYXdhaXQgdG8oUHJvbWlzZS5hbGwoWwogICAgICAgIEZyb250LnJlbW92ZVRhZyhjb252ZXJzYXRpb25JZCwgJ1JlbWluZGluZycpLAogICAgICAgIEZyb250LmFkZENvbXBsZXRlZFRhZyhjb252ZXJzYXRpb25JZCksCiAgICAgIF0pKTsKICAgICAgYnJlYWs7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWNjICsgaS5za2lwcwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmRhdGEKICAgICAgICAgIC5zb3J0KChhLCBiKSA9PiBiLnBsYXlzIC0gYS5wbGF5cykKICAgICAgICAgIC5tYXAoaSA9PiA8U29uZyA+UGxheXM6IHtpLnBsYXlzfSBTa2lwczoge2kuc2tpcHN9IFZhbHVlOiB7aS52YWx1ZX0gV2VpZ2h0OiB7TWF0aC5mbG9vcihpLndlaWdodCl9PC9Tb25nID4pCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNraXBDb3VudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoKQo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgU3F1YXJlID0gU3R5bGVkLmRpdmAKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgd2lkdGg6IDIwcHg7CiAgaGVpZ2h0OiAyMHB4OwogIG1hcmdpbjogMXB4OwogIGJhY2tncm91bmQ6ICR7cHJvcHMgPT4gY29sb3JIYXNoLmhleChwcm9wcy5jb2xvcil9CmA7Cg==</text>
+        <text encoding="base64">ICAgICAgYWNjICsgaS5za2lwcwo=</text>
       </register>
-      <register name="8" type="8">
-        <text>PlayOrder
-PlayOrder</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNraXBDb3VudCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -1080,8 +1067,8 @@ PlayOrder</text>
         <entry>vsp</entry>
         <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
-        <entry>action AceAction</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
