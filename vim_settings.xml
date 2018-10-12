@@ -539,6 +539,12 @@
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/test/dartboard/src/App.css" timestamp="1539337307572">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Middleware/JwtAuth.php" timestamp="1535980280767">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="38" column="0" />
@@ -673,12 +679,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539333704907">
-        <mark key="'" line="93" column="11" />
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="36" />
+      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539337240867">
+        <mark key="'" line="5" column="15" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="124" column="46" />
+        <mark key="^" line="124" column="46" />
+        <mark key="." line="124" column="46" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/proxyRequest.js" timestamp="1537732445261">
         <mark key="[" line="7" column="28" />
@@ -855,10 +861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/src/search/deezer.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/src/search/deezer.js" />
-      <jump line="28" column="11" filename="$USER_HOME$/projects/atmosphere/content-digger/src/test.js" />
-      <jump line="74" column="40" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="81" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="26" column="48" filename="$USER_HOME$/projects/atmosphere/content-digger/src/search/index.js" />
       <jump line="23" column="37" filename="$USER_HOME$/projects/atmosphere/content-digger/src/search/index.js" />
@@ -955,10 +957,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/test/dartboard/src/play-song.js" />
       <jump line="2" column="12" filename="$USER_HOME$/Projects/test/dartboard/src/play-song.js" />
       <jump line="67" column="11" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
+      <jump line="93" column="39" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
+      <jump line="4" column="15" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/test/dartboard/src/App.css" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/test/dartboard/src/App.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LkFwcCB7Cn0KCi5BcHAtbG9nbyB7CiAgYW5pbWF0aW9uOiBBcHAtbG9nby1zcGluIGluZmluaXRlIDIwcyBsaW5lYXI7CiAgaGVpZ2h0OiA0MHZtaW47Cn0KCi5BcHAtaGVhZGVyIHsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjgyYzM0OwogIG1pbi1oZWlnaHQ6IDEwMHZoOwogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIGp1c3RpZnktY29udGVudDogY2VudGVyOwogIGZvbnQtc2l6ZTogY2FsYygxMHB4ICsgMnZtaW4pOwogIGNvbG9yOiB3aGl0ZTsKfQoKLkFwcC1saW5rIHsKICBjb2xvcjogIzYxZGFmYjsKfQoKQGtleWZyYW1lcyBBcHAtbG9nby1zcGluIHsKICBmcm9tIHsKICAgIHRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogIH0KICB0byB7CiAgICB0cmFuc2Zvcm06IHJvdGF0ZSgzNjBkZWcpOwogIH0KfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -970,16 +976,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>Submit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgJ0xvY2F0aW9uRGlzY29udGludWVkJzogewo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0YXRlID0gdGhpcy5zdGF0ZTsKICAgIGZvciAobGV0IGkgPSAwOyBpIDwgMjsgaSsrKSB7CiAgICAgIHN0YXRlLml0ZW1zLnB1c2goeyBwbGF5czogMCwgc2tpcHM6IDAsIHdlaWdodDogMjUsIHZhbHVlOiAnc29uZyAnICsgaSB9KTsKICAgIH0KICAgIHN0YXRlLnRvdGFsID0gdGhpcy5zdGF0ZS5pdGVtcy5yZWR1Y2UoKHN1bSwgaSkgPT4gc3VtICsgaS53ZWlnaHQsIDApOwogICAgdGhpcy5zZXRTdGF0ZShzdGF0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgJ0xvY2F0aW9uRGlzY29udGludWVkJzogewoKICAgIH0K</text>
+        <text encoding="base64">LkFwcCB7Cn0KCi5BcHAtbG9nbyB7CiAgYW5pbWF0aW9uOiBBcHAtbG9nby1zcGluIGluZmluaXRlIDIwcyBsaW5lYXI7CiAgaGVpZ2h0OiA0MHZtaW47Cn0KCi5BcHAtaGVhZGVyIHsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjgyYzM0OwogIG1pbi1oZWlnaHQ6IDEwMHZoOwogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIGp1c3RpZnktY29udGVudDogY2VudGVyOwogIGZvbnQtc2l6ZTogY2FsYygxMHB4ICsgMnZtaW4pOwogIGNvbG9yOiB3aGl0ZTsKfQoKLkFwcC1saW5rIHsKICBjb2xvcjogIzYxZGFmYjsKfQoKQGtleWZyYW1lcyBBcHAtbG9nby1zcGluIHsKICBmcm9tIHsKICAgIHRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogIH0KICB0byB7CiAgICB0cmFuc2Zvcm06IHJvdGF0ZSgzNjBkZWcpOwogIH0KfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -992,32 +998,32 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgaWYoIGRlbGVnYXRpb25SZXF1ZXN0c1tsb2NhdGlvbklkXSA9PT0gdW5kZWZpbmVkKSBicmVhazsKICAgICAgY29uc3QgY29udmVyc2F0aW9uSWQgPSBkZWxlZ2F0aW9uUmVxdWVzdHNbbG9jYXRpb25JZF0udXJsLnNwbGl0KCcvJykucG9wKCk7CiAgICAgIGRlbGV0ZSBkZWxlZ2F0aW9uUmVxdWVzdHNbbG9jYXRpb25JZF07CiAgICAgIGF3YWl0IHN0b3JlLnNldCgnZGVsZWdhdGlvblJlcXVlc3RzJywgZGVsZWdhdGlvblJlcXVlc3RzKTsKICAgICAgYXdhaXQgdG8oUHJvbWlzZS5hbGwoWwogICAgICAgIEZyb250LnJlbW92ZVRhZyhjb252ZXJzYXRpb25JZCwgJ1JlbWluZGluZycpLAogICAgICAgIEZyb250LmFkZENvbXBsZXRlZFRhZyhjb252ZXJzYXRpb25JZCksCiAgICAgIF0pKTsKICAgICAgYnJlYWs7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvbGFiZWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmRhdGEKICAgICAgICAgIC5zb3J0KChhLCBiKSA9PiBiLnBsYXlzIC0gYS5wbGF5cykKICAgICAgICAgIC5tYXAoaSA9PiA8U29uZyA+UGxheXM6IHtpLnBsYXlzfSBTa2lwczoge2kuc2tpcHN9IFZhbHVlOiB7aS52YWx1ZX0gV2VpZ2h0OiB7TWF0aC5mbG9vcihpLndlaWdodCl9PC9Tb25nID4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNraXBDb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWRkIHNvbmdzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgIGFsZXJ0KCdBIG5hbWUgd2FzIHN1Ym1pdHRlZDogJyArIHRoaXMuc3RhdGUudmFsdWUpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWNjICsgaS5za2lwcwo=</text>
+        <text encoding="base64">ICBoYW5kbGVTdWJtaXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNraXBDb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQbGF5aW5nOiB7c29uZ30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
