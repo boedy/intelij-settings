@@ -456,6 +456,12 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistItemCountQuery.php" timestamp="1539356313137">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="35" />
+        <mark key="." line="52" column="15" />
+        <mark key="^" line="52" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" timestamp="1536592884935">
         <mark key="[" line="21" column="40" />
         <mark key="]" line="21" column="46" />
@@ -964,7 +970,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFBsYXlpbmc6IHtzb25nfQo=</text>
+        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+c2V0VGltZSgwLCAwLCAwKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -976,13 +982,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>500px</text>
+        <text>startDate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0YXRlID0gdGhpcy5zdGF0ZTsKICAgIGZvciAobGV0IGkgPSAwOyBpIDwgMjsgaSsrKSB7CiAgICAgIHN0YXRlLml0ZW1zLnB1c2goeyBwbGF5czogMCwgc2tpcHM6IDAsIHdlaWdodDogMjUsIHZhbHVlOiAnc29uZyAnICsgaSB9KTsKICAgIH0KICAgIHN0YXRlLnRvdGFsID0gdGhpcy5zdGF0ZS5pdGVtcy5yZWR1Y2UoKHN1bSwgaSkgPT4gc3VtICsgaS53ZWlnaHQsIDApOwogICAgdGhpcy5zZXRTdGF0ZShzdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+c2V0VGltZSgwLCAwLCAwKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIFBsYXlpbmc6IHtzb25nfQo=</text>
@@ -1026,7 +1032,7 @@
         <text encoding="base64">ICAgICAgICAgIDwvbGFiZWw+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -1079,9 +1085,9 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>vsp</entry>
         <entry>w</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action AceAction</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
