@@ -690,9 +690,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539692707163">
+      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539692857767">
         <mark key="'" line="8" column="22" />
-        <mark key="^" line="147" column="41" />
+        <mark key="[" line="108" column="18" />
+        <mark key="]" line="108" column="22" />
+        <mark key="^" line="108" column="22" />
+        <mark key="." line="108" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/proxyRequest.js" timestamp="1537732445261">
         <mark key="[" line="7" column="28" />
@@ -971,8 +974,8 @@
       <jump line="11" column="22" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGxheSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>positives</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -984,7 +987,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2tpcCBzb25nPA==</text>
+        <text>positives</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
@@ -993,7 +996,7 @@
         <text encoding="base64">ICAgIHN0YXRlLnRvdGFsID0gdGhpcy5zdGF0ZS5pdGVtcy5yZWR1Y2UoKHN1bSwgaSkgPT4gc3VtICsgaS53ZWlnaHQsIDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGxheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzTGVmdC09d2lubmluZ1BvaW50czsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1007,34 +1010,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIDxidXR0b24gb25DbGljaz17dGhpcy5za2lwU29uZ30gPlNraXAgc29uZzwvYnV0dG9uID4KICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3RoaXMucGxheX0gPlNraXAgc29uZzwvYnV0dG9uID4K</text>
+        <text encoding="base64">ICAgIGxldCBwb2ludHNMZWZ0ID0gd2lubmluZ1BvaW50czsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDxidXR0b24gb25DbGljaz17dGhpcy5za2lwU29uZ30gPlNraXAgc29uZzwvYnV0dG9uID4KICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3RoaXMucGxheX0gPlNraXAgc29uZzwvYnV0dG9uID4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBvc2l0aXZlcyA9IGl0ZW1zLmZpbHRlcihpID0+IGkud2VpZ2h0ID49IDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRkcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsKICAgIGNvbnNvbGUubG9nKCd0b3RhbCcsIHRvdGFsKTsKICAgIGNvbnNvbGUubG9nKCdwb3NpdGl2ZXMnLCBwb3NpdGl2ZXMpOwogICAgY29uc29sZS5sb2coJ3dpbm5pbmcnLCB3aW5uaW5nUG9pbnRzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLnRvdGFsID0gcG9zaXRpdmVzLnJlZHVjZSgoc3VtLCBpKSA9PiBzdW0gKyBpLndlaWdodCwgMCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwb2ludHMgbGVmdCcsIHBvaW50c0xlZnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvbmcud2VpZ2h0Kz1wb2ludHNMZWZ0Owo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      total: positives,
-      items: newItems
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMucGxheSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzTGVmdCs9IHBvaW50c0xlZnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgIDxidXR0b24gb25DbGljaz17dGhpcy5za2lwU29uZ30gPlNraXAgc29uZzwvYnV0dG9uID4KICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3RoaXMucGxheX0gPlNraXAgc29uZzwvYnV0dG9uID4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IDxidXR0b24gb25DbGljaz17dGhpcy5za2lwU29uZ30gPlNraXAgc29uZzwvYnV0dG9uID4KICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3RoaXMucGxheX0gPlNraXAgc29uZzwvYnV0dG9uID4=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
