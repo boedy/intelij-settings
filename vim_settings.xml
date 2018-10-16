@@ -690,12 +690,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539695399082">
-        <mark key="'" line="8" column="22" />
-        <mark key="[" line="59" column="24" />
-        <mark key="]" line="60" column="19" />
-        <mark key="." line="60" column="20" />
-        <mark key="^" line="60" column="19" />
+      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539707081343">
+        <mark key="'" line="9" column="22" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/proxyRequest.js" timestamp="1537732445261">
         <mark key="[" line="7" column="28" />
@@ -975,7 +975,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>...state</text>
+        <text>vose</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -987,16 +987,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>...state</text>
+        <text>vose</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3gnLCB4KTsK</text>
+      <register name="0" type="4">
+        <text>VoseAliasMethod</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
+        <text encoding="base64">Y29uc3QgZ2VuZXJhdG9yID0gbmV3IFZvc2VBbGlhc01ldGhvZCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1010,31 +1010,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0YXRlID0gdGhpcy5zdGF0ZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW1zLCBwbGF5aW5nKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0YXRlID0gdGhpcy5zdGF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvbmdJZHgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW1zLCBwbGF5aW5nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpJywgaSk7CiAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvbmdJZHgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dlaWdodCcsIHdlaWdodCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpJywgaSk7CiAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzTGVmdC09d2lubmluZ1BvaW50czsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dlaWdodCcsIHdlaWdodCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBwb2ludHNMZWZ0ID0gd2lubmluZ1BvaW50czsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzTGVmdC09d2lubmluZ1BvaW50czsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBvc2l0aXZlcyA9IGl0ZW1zLmZpbHRlcihpID0+IGkud2VpZ2h0ID49IDApOwo=</text>
+        <text encoding="base64">ICAgIGxldCBwb2ludHNMZWZ0ID0gd2lubmluZ1BvaW50czsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
