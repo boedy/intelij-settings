@@ -697,12 +697,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539709413116">
-        <mark key="'" line="1" column="23" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-        <mark key="^" line="1" column="7" />
+      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1539784200023">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="28" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/proxyRequest.js" timestamp="1537732445261">
         <mark key="[" line="7" column="28" />
@@ -879,8 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="37" filename="$USER_HOME$/projects/atmosphere/content-digger/src/search/index.js" />
-      <jump line="176" column="19" filename="$USER_HOME$/projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/js/script.js" />
       <jump line="0" column="1" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="41" column="8" filename="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.wercker.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.wercker.yml" />
@@ -979,10 +977,12 @@
       <jump line="30" column="0" filename="$USER_HOME$/Projects/test/dartboard/src/App.css" />
       <jump line="11" column="22" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
       <jump line="1" column="23" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>filter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCB3ZWlnaHQsIHZhbHVlLCB4LCBpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1003,7 +1003,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAkKCcuanVpY2VyLWZlZWQnKS5kYXRhKCdmaWx0ZXInLCBmaWx0ZXIpOwogICAgICAgICAgICAgIHdpbmRvdy5KdWljZXIucmVtb3ZlKCk7CiAgICAgICAgICAgICAgd2luZG93Lkp1aWNlci5pbml0aWFsaXplKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aW5kb3cuSnVpY2VyLkFjdGl2ZVswXS5tb2RlbC5maWx0ZXIgPSAnJzsKICAgICAgICAgICAgICB3aW5kb3cuSnVpY2VyLkFjdGl2ZVswXS5tb2RlbC5mZXRjaE5ld1Bvc3RzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCB3ZWlnaHQsIHZhbHVlLCB4LCBpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1017,33 +1017,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB3aW5kb3cuSnVpY2VyLkFjdGl2ZVswXS5tb2RlbC5maWx0ZXIgPSAnJzsKICAgICAgICAgICAgICB3aW5kb3cuSnVpY2VyLkFjdGl2ZVswXS5tb2RlbC5mZXRjaE5ld1Bvc3RzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBKdWljZXIuQWN0aXZlWzBdLm1vZGVsLmZpbHRlciA9IGZpbHRlcjsKICAgICAgICAgICAgICBKdWljZXIuQWN0aXZlWzBdLm1vZGVsLmZldGNoTmV3UG9zdHMoKTsK</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">IAog</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>J
 J</text>
-      </register>
-      <register name="6" type="8">
-        <text>window.
-window.</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZ2VuZXJhdG9yID0gbmV3IFZvc2VBbGlhc01ldGhvZCgpOwo=</text>
+      <register name="7" type="8">
+        <text>window.
+window.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
+        <text encoding="base64">Y29uc3QgZ2VuZXJhdG9yID0gbmV3IFZvc2VBbGlhc01ldGhvZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0YXRlID0gdGhpcy5zdGF0ZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
