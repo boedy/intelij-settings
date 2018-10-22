@@ -497,6 +497,14 @@
         <mark key="^" line="54" column="43" />
         <mark key="." line="54" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Organisation/Location/Event/LocationDiscontinued.php" timestamp="1539329703458">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Event/EventPublisher.php" timestamp="1540201067529">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="108" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1536221751495">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -586,6 +594,13 @@
         <mark key="]" line="9" column="23" />
         <mark key="^" line="31" column="40" />
         <mark key="." line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/routes.php" timestamp="1540201360254">
+        <mark key="'" line="222" column="78" />
+        <mark key="[" line="25" column="60" />
+        <mark key="]" line="25" column="59" />
+        <mark key="." line="25" column="59" />
+        <mark key="^" line="25" column="59" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Mandate.php" timestamp="1535630263857">
         <mark key="[" line="19" column="8" />
@@ -831,7 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="1" filename="$USER_HOME$/projects/atmosphere/content-digger-extension/src/Components/SearchResults.js" />
       <jump line="41" column="8" filename="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.wercker.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/docker-compose.wercker.yml" />
       <jump line="6" column="33" filename="$USER_HOME$/projects/atmosphere/content-digger/src/processes/downloadProcess.js" />
@@ -931,10 +945,11 @@
       <jump line="1" column="23" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
       <jump line="103" column="0" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
+      <jump line="215" column="78" filename="$USER_HOME$/Projects/atmosphere/api/app/Http/routes.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkd2ViaG9va1VybCA9IGVudignQVBQX1VSTCcpLidhcGkvcGF5bWVudHMvd2ViaG9va3MvZXZlbnRzJzsK</text>
+      <register name="&quot;" type="4">
+        <text>testing</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -946,16 +961,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.95</text>
+        <text>testing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3BcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkd2ViaG9va1VybCA9IGVudignQVBQX1VSTCcpLidhcGkvYWNjb3VudGluZy93ZWJob29rcy9ldmVudHMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2VyaWFsaXplciA9IFNlcmlhbGl6ZXJCdWlsZGVyOjpjcmVhdGUoKS0+YWRkTWV0YWRhdGFEaXIoY29uZmlnX3BhdGgoJ3NlcmlhbGl6ZXInKSktPmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkd2ViaG9va1VybCA9IGVudignQVBQX1VSTCcpLidhcGkvcGF5bWVudHMvd2ViaG9va3MvZXZlbnRzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkc2VyaWFsaXplci0+dG9BcnJheShbJ3NvbWVUaGluZycgPT4gJ3Rlc3RpbmcnXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -969,31 +984,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmVzdFNjb3JlOiAxLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLml0ZW1zLm1hcChpID0+IGkucGxheXMgPSAwKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkd2ViaG9va1VybCA9IGVudignQVBQX1VSTCcpLidhcGkvcGF5bWVudHMvd2ViaG9va3MvZXZlbnRzJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYmVzdFNjb3JlOiAxLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgU29uZyA9IFN0eWxlZC50cmAKYDsK</text>
+        <text encoding="base64">ICAgIHN0YXRlLml0ZW1zLm1hcChpID0+IGkucGxheXMgPSAwKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCB3ZWlnaHQsIHZhbHVlLCB4LCBpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aW5kb3cuSnVpY2VyLkFjdGl2ZVswXS5tb2RlbC5maWx0ZXIgPSAnJzsKICAgICAgICAgICAgICB3aW5kb3cuSnVpY2VyLkFjdGl2ZVswXS5tb2RlbC5mZXRjaE5ld1Bvc3RzKCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgU29uZyA9IFN0eWxlZC50cmAKYDsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
