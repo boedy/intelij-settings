@@ -737,12 +737,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1540305226483">
+      <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1540306867864">
         <mark key="'" line="89" column="17" />
-        <mark key="[" line="89" column="7" />
-        <mark key="]" line="89" column="16" />
-        <mark key="." line="89" column="7" />
-        <mark key="^" line="89" column="19" />
+        <mark key="[" line="172" column="15" />
+        <mark key="]" line="172" column="24" />
+        <mark key="." line="172" column="24" />
+        <mark key="^" line="172" column="24" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/proxyRequest.js" timestamp="1537732445261">
         <mark key="[" line="7" column="28" />
@@ -826,11 +826,11 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dartboard/src/plots/BarChart.js" timestamp="1540305275503">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="17" column="28" />
+      <file name="$USER_HOME$/Projects/test/dartboard/src/plots/BarChart.js" timestamp="1540306558936">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="52" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/Sources/Mixpanel/skips_vs_age.js" timestamp="1538486311984">
         <mark key="[" line="13" column="0" />
@@ -1029,8 +1029,8 @@
       <jump line="89" column="17" filename="$USER_HOME$/Projects/test/dartboard/src/Player.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0.7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1042,16 +1042,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0.7</text>
+        <text>plays-i.relative</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBwbGF5aW5nOiBzb25nSWR4LAogICAgICBwbGF5T3JkZXI6IHRoaXMuc3RhdGUucGxheU9yZGVyLAogICAgICBpc1BsYXlpbmc6IHRydWUKICAgIH0pOwo=</text>
+      <register name="0" type="4">
+        <text>(playcount/playsPerMonth).toFixed(1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1065,31 +1065,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiA8YnV0dG9uIG9uQ2xpY2s9e3RoaXMucGF1c2V9ID5QYXVzZTwvYnV0dG9uID4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gb25DbGljaz17dGhpcy5wbGF5fSA+UGxheTwvYnV0dG9uID4KICAgICAgICAgIDxidXR0b24gb25DbGljaz17dGhpcy5wYXVzZX0gPlBhdXNlPC9idXR0b24gPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOiA8YnV0dG9uIG9uQ2xpY2s9e3RoaXMucGF1c2V9ID5QYXVzZTwvYnV0dG9uID4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGxheU9yZGVyOiB0aGlzLnN0YXRlLnBsYXlPcmRlciwK</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gb25DbGljaz17dGhpcy5wbGF5fSA+UGxheTwvYnV0dG9uID4KICAgICAgICAgIDxidXR0b24gb25DbGljaz17dGhpcy5wYXVzZX0gPlBhdXNlPC9idXR0b24gPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGxheWluZzogc29uZ0lkeCwK</text>
+        <text encoding="base64">ICAgICAgcGxheU9yZGVyOiB0aGlzLnN0YXRlLnBsYXlPcmRlciwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGU6ICdwYXVzZWQnCg==</text>
+        <text encoding="base64">ICAgICAgcGxheWluZzogc29uZ0lkeCwK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+        <text encoding="base64">ICAgICAgc3RhdGU6ICdwYXVzZWQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKChwbGF5Y291bnQvcGxheXNQZXJNb250aCkK</text>
+        <text encoding="base64">ICAgIHRoaXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAxMHB4Owo=</text>
+        <text encoding="base64">ICAgIGlmKChwbGF5Y291bnQvcGxheXNQZXJNb250aCkK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
