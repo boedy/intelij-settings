@@ -337,13 +337,6 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/EventSubscriber.js" timestamp="1540549041973">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="33" column="63" />
-        <mark key="]" line="33" column="75" />
-        <mark key="." line="33" column="63" />
-        <mark key="^" line="33" column="62" />
-      </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/index.js" timestamp="1537959711251">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="58" />
@@ -414,6 +407,12 @@
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/deezer/deezer-api.js" timestamp="1540933069713">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="77" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Validator.php" timestamp="1537522123466">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="13" column="30" />
@@ -436,9 +435,6 @@
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1540914621109">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
         <mark key="[" line="1" column="0" />
@@ -1123,7 +1119,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFtdCg==</text>
+        <text encoding="base64">d29yayB1bmxlc3MgdXNpbmcgYmV0YSBicmFuY2guIFNob3VsZCByZXZlcnQgaWYgdHVybnMgb3V0IG5vdCB0bwpiZSBzdGFibGUuLgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1135,16 +1131,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">cmVzcC5kYXRhLnJlc3VsdHMuQ0hFQ0tGT1JNIHx8IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>{ dataSources }</text>
+        <text>resp.data.results.CHECKFORM</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFtdCg==</text>
+        <text encoding="base64">d29yayB1bmxlc3MgdXNpbmcgYmV0YSBicmFuY2guIFNob3VsZCByZXZlcnQgaWYgdHVybnMgb3V0IG5vdCB0bwpiZSBzdGFibGUuLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1158,31 +1154,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIGN0eC5UcmFja3MuZ2V0QWxsRm9yUGxheWxpc3QoaWQsIHNob3dSZW1vdmVkKTsK</text>
+        <text encoding="base64">ICAgIC8vICdodHRwczovL3d3dy5kZWV6ZXIuY29tL2FqYXgvZ3ctbGlnaHQucGhwP2FwaV92ZXJzaW9uPTEuMCZhcGlfdG9rZW49JmlucHV0PTMmbWV0aG9kPWRlZXplci5nZXRVc2VyRGF0YScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RhdGEnKTsK</text>
+        <text encoding="base64">ICAgICdodHRwczovL3d3dy5kZWV6ZXIuY29tL2FqYXgvZ3ctbGlnaHQucGhwP21ldGhvZD1kZWV6ZXIuZ2V0VXNlckRhdGEmaW5wdXQ9MyZhcGlfdmVyc2lvbj0xLjAmYXBpX3Rva2VuPScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEucmVzdWx0cy5jaGVja0Zvcm1Mb2dpbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oY29uc29sZS5sb2cpCg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhyZXNwLmRhdGEucmVzdWx0cy5jaGVja0Zvcm0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNob3dSZW1vdmVkKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaWQpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEucmVzdWx0cy5jaGVja0Zvcm1Mb2dpbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocmVzcCA9PiByZXNwLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocmVzcCA9PiByZXNwLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIGN0eC5UcmFja3MuZ2V0QWxsRm9yUGxheWxpc3QoaWQsIHNob3dSZW1vdmVkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusUp</text>
