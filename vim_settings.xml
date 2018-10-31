@@ -569,11 +569,11 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/Mixpanel.js" timestamp="1540986983241">
-        <mark key="[" line="42" column="50" />
-        <mark key="]" line="43" column="21" />
-        <mark key="." line="43" column="21" />
-        <mark key="^" line="43" column="21" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/Mixpanel.js" timestamp="1540988117479">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
+        <mark key="^" line="42" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/dataSources/InstoreApiConnector.js" timestamp="1540551646698">
         <mark key="[" line="2" column="57" />
@@ -1107,8 +1107,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/Comments.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0SWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>querystring.stringify({
+        params: JSON.stringify({ playlistId }),
+        script: skipCount,
+      }</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1125,11 +1128,14 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGF1dGggPSAnQmFzaWMgJyArIG5ldyBCdWZmZXIoc2VjcmV0ICsgJzonKS50b1N0cmluZygnYmFzZTY0Jyk7Cg==</text>
+      <register name="0" type="4">
+        <text>querystring.stringify({
+        params: JSON.stringify({ playlistId }),
+        script: skipCount,
+      }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3ApOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1143,31 +1149,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTWl4cGFuZWw6IG5ldyBNaXhwYW5lbCgpLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0SWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTWl4cGFuZWw6IG5ldyBNaXhwYW5lbCgpLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc2VjcmV0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbWl4cGFuZWxBcGkgPSAK</text>
+        <text encoding="base64">Y29uc3Qgc2VjcmV0ID0gCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">Y29uc3QgbWl4cGFuZWxBcGkgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1lbW9pemUgZnJvbSAnbG9kYXNoLm1lbW9pemUnOwo=</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1lbW9pemUgZnJvbSAnbG9kYXNoLm1lbW9pemUnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
