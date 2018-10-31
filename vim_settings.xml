@@ -156,6 +156,12 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="35" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/.env.example" timestamp="1540993126046">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="3" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/tests/playback/src/client.jsx" timestamp="1539162408213">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="24" />
@@ -360,11 +366,11 @@
         <mark key="." line="60" column="7" />
         <mark key="^" line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/data/resolvers.js" timestamp="1540986702671">
-        <mark key="[" line="193" column="41" />
-        <mark key="]" line="193" column="41" />
-        <mark key="^" line="189" column="17" />
-        <mark key="." line="193" column="41" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/data/resolvers.js" timestamp="1540993437045">
+        <mark key="[" line="213" column="42" />
+        <mark key="]" line="213" column="46" />
+        <mark key="^" line="213" column="46" />
+        <mark key="." line="213" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/.gitignore" timestamp="1538313987888">
         <mark key="[" line="0" column="13" />
@@ -420,8 +426,8 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540983739219">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1540993106148">
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -569,11 +575,11 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/Mixpanel.js" timestamp="1540988117479">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="8" />
-        <mark key="." line="42" column="8" />
-        <mark key="^" line="42" column="8" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/Mixpanel.js" timestamp="1540993424487">
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/dataSources/InstoreApiConnector.js" timestamp="1540551646698">
         <mark key="[" line="2" column="57" />
@@ -695,6 +701,12 @@
         <mark key="]" line="18" column="24" />
         <mark key="." line="18" column="24" />
         <mark key="^" line="27" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/node_modules/apollo-datasource-rest/dist/RESTDataSource.js" timestamp="1540991836625">
+        <mark key="[" line="138" column="38" />
+        <mark key="]" line="138" column="47" />
+        <mark key="." line="138" column="47" />
+        <mark key="^" line="138" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/Organisations.js" timestamp="1540914878380">
         <mark key="[" line="0" column="0" />
@@ -939,11 +951,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/node_modules/apollo-datasource-rest/src/RESTDataSource.ts" timestamp="1540981173264">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="98" column="2" />
-        <mark key="^" line="233" column="28" />
-        <mark key="." line="233" column="28" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/node_modules/apollo-datasource-rest/src/RESTDataSource.ts" timestamp="1540991063526">
+        <mark key="[" line="153" column="23" />
+        <mark key="]" line="153" column="22" />
+        <mark key="^" line="153" column="22" />
+        <mark key="." line="153" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/index.js" timestamp="1537732355257">
         <mark key="[" line="74" column="0" />
@@ -1108,10 +1120,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>querystring.stringify({
-        params: JSON.stringify({ playlistId }),
-        script: skipCount,
-      }</text>
+        <text>=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1123,7 +1132,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</text>
@@ -1135,7 +1144,7 @@
       }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3ApOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1149,31 +1158,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTWl4cGFuZWw6IG5ldyBNaXhwYW5lbCgpLAo=</text>
+        <text encoding="base64">ICAgIHR1cGxlLmV2ZW50LnByb3BlcnRpZXMucGxheWxpc3RJRCA9PT0gcGFyYW1zLnBsYXlsaXN0SWQgJiYKICAgIHR5cGVvZiB0dXBsZS51c2VyLnByb3BlcnRpZXMuc2hvdWxkX3RyYWNrICE9PSAndW5kZWZpbmVkJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG9wdGlvbnMuaGVhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF1dGgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc2VjcmV0ID0gCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0SWQpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbWl4cGFuZWxBcGkgPSAK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1lbW9pemUgZnJvbSAnbG9kYXNoLm1lbW9pemUnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1ZXJ5c3RyaW5nLnN0cmluZ2lmeSh7CiAgICAgICAgcGFyYW1zOiBKU09OLnN0cmluZ2lmeSh7IHBsYXlsaXN0SWQgfSksCiAgICAgICAgc2NyaXB0OiBza2lwQ291bnQsCiAgICAgIH0pKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
