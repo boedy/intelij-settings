@@ -291,6 +291,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/services/htmlAudioPlayer.js" timestamp="1541761730175">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/server.js" timestamp="1541087470153">
         <mark key="[" line="41" column="9" />
         <mark key="]" line="41" column="7" />
@@ -329,6 +335,12 @@
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/node_modules/resin-request/build/request.js" timestamp="1538508126529">
         <mark key="[" line="56" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/Playlist.js" timestamp="1541762385300">
+        <mark key="[" line="40" column="51" />
+        <mark key="]" line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+        <mark key="." line="41" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/docker-compose.yml" timestamp="1538576012306">
         <mark key="[" line="9" column="0" />
@@ -383,11 +395,6 @@
         <mark key="]" line="5" column="28" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/docker-compose.yml" timestamp="1541069679309">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/Organisations.js" timestamp="1540914878380">
         <mark key="[" line="0" column="0" />
@@ -918,7 +925,7 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="66" column="96" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541758256486">
+      <file name="/Dummy.txt" timestamp="1541761713330">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1013,6 +1020,12 @@
         <mark key="]" line="21" column="25" />
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/PlaylistItems.js" timestamp="1541763186510">
+        <mark key="[" line="117" column="16" />
+        <mark key="]" line="117" column="16" />
+        <mark key="." line="117" column="16" />
+        <mark key="^" line="117" column="16" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/MainApi.js" timestamp="1536873648307">
         <mark key="[" line="34" column="24" />
@@ -1125,7 +1138,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UmVxdWVzdENhc2luZ0RlY29yYXRvci5DYW1lbENhc2VSZXNwb25zZURlY29yYXRvcigg</text>
+        <text>nextProps.location.pathname !== this.props.location.pathname</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1137,16 +1150,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVxdWVzdENhc2luZ0RlY29yYXRvci5DYW1lbENhc2VSZXNwb25zZURlY29yYXRvcigg</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYmFzZVVybCA9IHByb2Nlc3MuZW52Lk5PREVfRU5WID09ICdwcm9kdWN0aW9uJwogID8gJ2h0dHBzOi8vaW5zdG9yZWFwaS5rb2xsZWt0LmZtJwogIDogJ2h0dHBzOi8vc3RhZ2luZ2FwaS5rb2xsZWt0LmZtJzsK</text>
+      <register name="0" type="4">
+        <text>nextProps.location.pathname !== this.props.location.pathname</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRyZXNzTGluZTI6IEpvaS5zdHJpbmcoKS5vcHRpb25hbCgpLmVtcHR5KCcnKSwK</text>
+        <text encoding="base64">ICAgIC8vIEBUT0RPIHlvdXIgbG9naWMgaGVyZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1160,32 +1173,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiB0cnVlIHRvIHVwZGF0ZSwgZmFsc2Ugb3RoZXJ3aXNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihkYXRhKSB7CiAgICB0aGlzLnByb2dyZXNzID0ge307CiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjdGl2ZSwgaXRlbSwgaXNQbGF5aW5nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnZhbGlkYXRlKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odmFsID0+IHRydWUpCiAgICAgIC5jYXRjaChlcnJvciA9PiBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncGF1cycsIHRyYWNrLnJlYWR5U3RhdGUpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9CgogIHZhbGlkYXRlKGRhdGEpIHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1bm1vdW50JywgcGxheWVyLmdldFBvc2l0aW9uKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhlbih2YWwpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0Jyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>const server = micro(index);
-server.listen(process.e</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzTGluZTI6IEpvaS5zdHJpbmcoKS5vcHRpb25hbCgpLmVtcHR5KCcnKSwK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
