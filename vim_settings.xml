@@ -689,12 +689,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" timestamp="1542196999320">
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" timestamp="1542197639794">
         <mark key="'" line="81" column="15" />
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="82" column="10" />
+        <mark key="[" line="92" column="31" />
+        <mark key="]" line="93" column="9" />
+        <mark key="." line="93" column="9" />
+        <mark key="^" line="93" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/test.js" timestamp="1540475294197">
         <mark key="[" line="26" column="2" />
@@ -1154,8 +1154,8 @@
       <jump line="94" column="15" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1167,13 +1167,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>resolve()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmlsZUVudHJ5LmZpbGUocmVhZEF0TGVhc3RPbmVMaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHdyaXRlci53cml0ZShmaWxlLnNwbGljZShjaHVua1NpemUpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1190,31 +1190,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbGVFbnRyeS5jcmVhdGVXcml0ZXIod3JpdGVyID0+IGZpbGVFbnRyeS5maWxlKGZpbGUgPT4gd3JpdGVyLndyaXRlKGZpbGUuc3BsaWNlKGNodW5rU2l6ZSkpLCByZWplY3QpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7IH0pOwo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oZmlsZUVudHJ5ID0+IAogICAgICAgIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHJlc29sdmUoKTspCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbGVFbnRyeS5jcmVhdGVXcml0ZXIod3JpdGVyID0+IGZpbGVFbnRyeS5maWxlKGZpbGUgPT4gd3JpdGVyLndyaXRlKGZpbGUuc3BsaWNlKGNodW5rU2l6ZSkpLCByZWplY3QpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKCiAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbGVFbnRyeS5jcmVhdGVXcml0ZXIod3JpdGVyID0+IGZpbGVFbnRyeS5maWxlKGZpbGUgPT4gd3JpdGVyLndyaXRlKGZpbGUuc3BsaWNlKGNodW5rU2l6ZSkpLCByZWplY3QpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmlsZUVudHJ5LmZpbGUocmVhZEF0TGVhc3RPbmVMaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbGVFbnRyeS5jcmVhdGVXcml0ZXIod3JpdGVyID0+IGZpbGVFbnRyeS5maWxlKChmaWxlKSA9PiB3cml0ZXIud3JpdGUoZmlsZS5zcGxpY2UoY2h1bmtTaXplKSksIHJlamVjdCkK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFByCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiAKICAgICAgICAgIGZpbGVFbnRyeS5jcmVhdGVXcml0ZXIod3JpdGVyID0+IGZpbGVFbnRyeS5maWxlKChmaWxlKSA9PiB3cml0ZXIud3JpdGUoZmlsZS5zcGxpY2UoY2h1bmtTaXplKSksIHJlamVjdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgY2h1bmsgPSAnJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2h1bmsgKz0gbGluZXMuam9pbignXG4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZUVudHJ5LmZpbGUoKGZpbGUpID0+IHdyaXRlci53cml0ZShmaWxlLnNwbGljZShjaHVua1NpemUpKSwgcmVqZWN0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
