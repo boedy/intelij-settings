@@ -689,11 +689,11 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" timestamp="1542189967494">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" timestamp="1542191445223">
+        <mark key="'" line="95" column="15" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/test.js" timestamp="1540475294197">
         <mark key="[" line="26" column="2" />
@@ -1050,8 +1050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="11" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" />
-      <jump line="67" column="18" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" />
       <jump line="72" column="70" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/User/MyCLabsUserRoleService.php" />
       <jump line="8" column="66" filename="$USER_HOME$/projects/atmosphere/api/app/Listeners/LocationAddressListener.php" />
       <jump line="37" column="4" filename="$USER_HOME$/projects/atmosphere/api/.env" />
@@ -1150,10 +1148,12 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="44" column="12" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" />
       <jump line="100" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" />
+      <jump line="60" column="28" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" />
+      <jump line="94" column="15" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIElmIHdlIGFyZSBhcHBlbmRpbmcgZGF0YSB0byBmaWxlLCBnbyB0byB0aGUgZW5kIG9mIHRoZSBmaWxlLgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1165,16 +1165,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlc29sdmUoKTs=</text>
+        <text>`\n${JSON.stringify(dataObj)}`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmaWxlRW50cnkuY3JlYXRlV3JpdGVyKGZpbGVXcml0ZXIgPT4gewogICAgZmlsZVdyaXRlci5vbndyaXRlZW5kID0gKCkgPT4gewogICAgICBjb25zb2xlLmxvZygiU3VjY2Vzc2Z1bCBmaWxlIHdyaXRlLi4uIik7CiAgICB9OwoKICAgIGZpbGVXcml0ZXIub25lcnJvciA9IGUgPT4gewogICAgICBjb25zb2xlLmxvZygiRmFpbGVkIGZpbGUgcmVhZDogIiArIGUudG9TdHJpbmcoKSk7CiAgICB9OwoKICAgIC8vIElmIHdlIGFyZSBhcHBlbmRpbmcgZGF0YSB0byBmaWxlLCBnbyB0byB0aGUgZW5kIG9mIHRoZSBmaWxlLgogICAgaWYgKGlzQXBwZW5kKSB7CiAgICAgIHRyeSB7CiAgICAgICAgZmlsZVdyaXRlci5zZWVrKGZpbGVXcml0ZXIubGVuZ3RoKTsKICAgICAgfQogICAgICBjYXRjaCAoZSkgewogICAgICAgIGNvbnNvbGUubG9nKCJmaWxlIGRvZXNuJ3QgZXhpc3QhIik7CiAgICAgIH0KICAgIH0KICAgIGZpbGVXcml0ZXIud3JpdGUoYFxuJHtKU09OLnN0cmluZ2lmeShkYXRhT2JqKX1gKTsKICB9KTsK</text>
+        <text encoding="base64">ICBmaWxlRW50cnkuY3JlYXRlV3JpdGVyKGZpbGVXcml0ZXIgPT4gewogICAgZmlsZVdyaXRlci5vbndyaXRlZW5kID0gKCkgPT4gewogICAgICBjb25zb2xlLmxvZygiU3VjY2Vzc2Z1bCBmaWxlIHdyaXRlLi4uIik7CiAgICB9OwoKICAgIGZpbGVXcml0ZXIub25lcnJvciA9IGUgPT4gewogICAgICBjb25zb2xlLmxvZygiRmFpbGVkIGZpbGUgcmVhZDogIiArIGUudG9TdHJpbmcoKSk7CiAgICB9OwoKICAgIC8vIElmIHdlIGFyZSBhcHBlbmRpbmcgZGF0YSB0byBmaWxlLCBnbyB0byB0aGUgZW5kIG9mIHRoZSBmaWxlLgogICAgaWYgKGlzQXBwZW5kKSB7CiAgICAgIHRyeSB7CiAgICAgICAgZmlsZVdyaXRlci5zZWVrKGZpbGVXcml0ZXIubGVuZ3RoKTsKICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIGNvbnNvbGUubG9nKCJmaWxlIGRvZXNuJ3QgZXhpc3QhIik7CiAgICAgIH0KICAgIH0KICAgIGZpbGVXcml0ZXIud3JpdGUoYFxuJHtKU09OLnN0cmluZ2lmeShkYXRhT2JqKX1gKTsKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIElmIHdlIGFyZSBhcHBlbmRpbmcgZGF0YSB0byBmaWxlLCBnbyB0byB0aGUgZW5kIG9mIHRoZSBmaWxlLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1188,31 +1188,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBzZWVrKCkgewogICAgLy8gV2UgZm91bmQgZW5vdWdoIGxpbmVzLgogICAgaWYgKGxpbmVDb3VudCA9PT0gbWF4TGluZXMpIHJldHVybjsKICAgIGlmIChvZmZzZXQgIT09IDAgJiYgb2Zmc2V0ID49IGZpbGUuc2l6ZSkgewogICAgICAvLyBXZSBkaWQgbm90IGZpbmQgYWxsIGxpbmVzLCBidXQgdGhlcmUgYXJlIG5vIG1vcmUgbGluZXMuCiAgICAgIGZvckVhY2hMaW5lKHJlc3VsdHMpOyAvLyBUaGlzIGlzIGZyb20gbGluZXMucG9wKCksIGJlZm9yZS4KICAgICAgcmV0dXJuOwogICAgfQogICAgY29uc3Qgc2xpY2UgPSBmaWxlLnNsaWNlKG9mZnNldCwgb2Zmc2V0ICsgY2h1bmtTaXplKTsKICAgIHJlYWRlci5yZWFkQXNBcnJheUJ1ZmZlcihzbGljZSk7CiAgfQoKICByZWFkZXIub25sb2FkID0gKCkgPT4gewogICAgcmVzdWx0cyArPSBkZWNvZGVyLmRlY29kZShyZWFkZXIucmVzdWx0LCB7IHN0cmVhbTogdHJ1ZSB9KTsKICAgIGNvbnN0IGxpbmVzID0gcmVzdWx0cy5zcGxpdCgnXG4nKTsKICAgIHJlc3VsdHMgPSBsaW5lcy5wb3AoKTsgLy8gSW4gY2FzZSB0aGUgbGluZSBkaWQgbm90IGVuZCB5ZXQuCiAgICBsaW5lQ291bnQgKz0gbGluZXMubGVuZ3RoOwoKICAgIC8vIFJlYWQgdG9vIG1hbnkgbGluZXM/IFRydW5jYXRlIHRoZSByZXN1bHRzLgogICAgaWYgKGxpbmVDb3VudCA+IG1heExpbmVzKSB7CiAgICAgIGxpbmVzLmxlbmd0aCAtPSBsaW5lQ291bnQgLSBtYXhMaW5lczsKICAgICAgbGluZUNvdW50ID0gbWF4TGluZXM7CiAgICB9CgogICAgZm9yIChsZXQgaSA9IDA7IGkgPCBsaW5lcy5sZW5ndGg7ICsraSkgewogICAgICBmb3JFYWNoTGluZShsaW5lc1tpXSk7CiAgICB9CiAgICBvZmZzZXQgKz0gY2h1bmtTaXplOwogICAgc2VlaygpOwogIH07CiAgcmVhZGVyLm9uZXJyb3IgPSAoKSA9PiB7IG9uQ29tcGxldGUocmVhZGVyLmVycm9yKTsgfTsKICBzZWVrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdyaXRlci5vbndyaXRlZW5kID0gKCkgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZygiU3VjY2Vzc2Z1bCBmaWxlIHdyaXRlLi4uIik7CiAgICAgICAgICB9OwoKICAgICAgICAgIHdyaXRlci5vbmVycm9yID0gZSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCJGYWlsZWQgZmlsZSByZWFkOiAiICsgZS50b1N0cmluZygpKTsKICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChpc0FwcGVuZCkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgIHdyaXRlci5zZWVrKHdyaXRlci5sZW5ndGgpOwogICAgICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgICAgY29uc29sZS5sb2coImZpbGUgZG9lc24ndCBleGlzdCEiKTsKICAgICAgICAgICAgfQogICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSBzdHJlYW06dHJ1ZSBpbiBjYXNlIHdlIGN1dCB0aGUgZmlsZQogICAgLy8gaW4gdGhlIG1pZGRsZSBvZiBhIG11bHRpLWJ5dGUgY2hhcmFjdGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb25Db21wbGV0ZSgpOyAvLyBEb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gV2UgZm91bmQgZW5vdWdoIGxpbmVzLgo=</text>
+        <text encoding="base64">CgpmdW5jdGlvbiByZWFkRmlsZShmaWxlRW50cnkpIHsKICBmaWxlRW50cnkuZmlsZShmdW5jdGlvbiAoZmlsZSkgewogICAgLy8gbGV0IHJlYWRlciA9IG5ldyBGaWxlUmVhZGVyKCk7CiAgICAvLyByZWFkZXIub25sb2FkZW5kID0gZnVuY3Rpb24oKSB7CiAgICAvLyAgICAgY29uc29sZS5sb2coIlN1Y2Nlc3NmdWwgZmlsZSByZWFkOiAiICsgdGhpcy5yZXN1bHQpOwogICAgLy8gfTsKICAgIC8vIHJlYWRlci5yZWFkQXNUZXh0KGZpbGUpOwogICAgcmVhZFNvbWVMaW5lcyhmaWxlLCAxMCwgZGF0YSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdyZWFkOiAnLCBkYXRhKTsKICAgIH0sIGRhdGEgPT4gewogICAgICBjb25zb2xlLmxvZygnYWxsIGRvbmU6ICcsIGRhdGEpOwogICAgfSk7CiAgfSwgb25FcnJvcik7Cn0KCgo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusUp</text>
