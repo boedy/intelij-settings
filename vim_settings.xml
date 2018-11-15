@@ -110,7 +110,6 @@
         <mark key="^" line="61" column="16" />
         <mark key="." line="61" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1541087155775" />
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/AsanaTracking.js" timestamp="1540983866105">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="34" />
@@ -672,6 +671,11 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/core/actions/player.js" timestamp="1542290211467">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/Source.php" timestamp="1537554703751">
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
@@ -689,12 +693,18 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" timestamp="1542277173674">
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" timestamp="1542288193596">
         <mark key="'" line="82" column="15" />
         <mark key="[" line="52" column="41" />
-        <mark key="]" line="52" column="46" />
-        <mark key="^" line="52" column="46" />
-        <mark key="." line="52" column="46" />
+        <mark key="]" line="52" column="44" />
+        <mark key="^" line="52" column="44" />
+        <mark key="." line="52" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/core/sagas/logging.js" timestamp="1542291466959">
+        <mark key="[" line="57" column="29" />
+        <mark key="]" line="58" column="25" />
+        <mark key="^" line="58" column="25" />
+        <mark key="." line="58" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/test.js" timestamp="1540475294197">
         <mark key="[" line="26" column="2" />
@@ -853,11 +863,11 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/logger.js" timestamp="1542286394340">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="1" />
-        <mark key="." line="56" column="1" />
-        <mark key="^" line="56" column="1" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/logger.js" timestamp="1542290930116">
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="34" />
+        <mark key="." line="48" column="34" />
+        <mark key="^" line="48" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/data/resolvers.js" timestamp="1541412876630">
         <mark key="[" line="53" column="54" />
@@ -1158,8 +1168,8 @@
       <jump line="94" column="15" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RvbmUnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>track</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1171,16 +1181,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text>track</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsc2UgdGhpcy5sb2coJ3RyYWNrJywgLi4uYXJncyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZmlsZUVudHJ5LmZpbGUoZmlsZSA9PiB7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RvbmUnKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsZXZlbCwgdHlwZSwgdmFsdWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1194,34 +1204,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaWRlbnRpdHkgPSBhcmdzWzBdOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2dnZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9nZ2VyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">d2luZG93LmZpbGVMb2dnZXIgPSBuZXcgRmlsZUxvZ2dlcigndGVzdDEudHh0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RvbmUnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2luZG93LmxvZ2dlciA9IAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaWRlbnRpdHkgPSBhcmdzWzBdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -1274,9 +1284,9 @@
         <entry>vsp</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
