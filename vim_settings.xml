@@ -422,6 +422,12 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="3" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/core/index.js" timestamp="1542292232326">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/tests/playback/src/client.jsx" timestamp="1539162408213">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="24" />
@@ -1168,8 +1174,8 @@
       <jump line="94" column="15" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>track</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1190,7 +1196,7 @@
         <text encoding="base64">ZmlsZUVudHJ5LmZpbGUoZmlsZSA9PiB7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsZXZlbCwgdHlwZSwgdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1204,31 +1210,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2dnZXIpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsZXZlbCwgdHlwZSwgdmFsdWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9nZ2VyKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2dnZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9nZ2VyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RvbmUnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaWRlbnRpdHkgPSBhcmdzWzBdOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RvbmUnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaWRlbnRpdHkgPSBhcmdzWzBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
