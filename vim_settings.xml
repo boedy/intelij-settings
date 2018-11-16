@@ -649,6 +649,7 @@
         <mark key="^" line="23" column="47" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/remotePlayerRepo.js" timestamp="1542375638476" />
       <file name="$USER_HOME$/Projects/test/dartboard/src/plots/Histogram.js" timestamp="1540301117831">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="25" />
@@ -874,11 +875,11 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/logger.js" timestamp="1542373454601">
-        <mark key="[" line="102" column="41" />
-        <mark key="]" line="102" column="50" />
-        <mark key="^" line="102" column="50" />
-        <mark key="." line="102" column="50" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/logger.js" timestamp="1542375127712">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="45" />
+        <mark key="^" line="72" column="42" />
+        <mark key="." line="4" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/data/resolvers.js" timestamp="1541412876630">
         <mark key="[" line="53" column="54" />
@@ -1179,8 +1180,8 @@
       <jump line="94" column="15" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBVTklYIHRpbWVzdGFtcAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1195,13 +1196,13 @@
         <text>message</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGxvZ01lc3NhZ2UgPSB7IGxvZ19sZXZlbDogbG9nTGV2ZWwsIG1lc3NhZ2UsIGNvbnRleHQgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBVTklYIHRpbWVzdGFtcAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1215,16 +1216,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2luZG93LmxvZ2dlciA9IGxvZ0hhbmRsZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2dzLmxlbmd0aCwgbG9ncyk7Cg==</text>
+        <text encoding="base64">d2luZG93LmxvZ2dlciA9IGxvZ0hhbmRsZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LkJ1Z2ZlbmRlci5zZXREZXZpY2VLZXkoJ0lEJywgYXJnc1swXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2dzLmxlbmd0aCwgbG9ncyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2luZG93LkJ1Z2ZlbmRlci5zZXREZXZpY2VLZXkoJ0lEJywgYXJnc1swXSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1233,30 +1234,29 @@
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9nTGV2ZWwgPSAnZGVidWcnOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMubG9nTGV2ZWwgPSAnZGVidWcnOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZXRMb2dMZXZlbChsZXZlbCkgewogICAgdGhpcy5sb2dMZXZlbCA9IGxldmVsOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb3dlcl9jYXNlX3RhYmxlX25hbWVzXD4=</entry>
         <entry encoding="base64">XDxwb2xhcm9pZFw+</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
@@ -1276,6 +1276,7 @@
         <entry encoding="base64">XDxqb2JcPg==</entry>
         <entry encoding="base64">XDxwb3BcPg==</entry>
         <entry encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist AceA</entry>
