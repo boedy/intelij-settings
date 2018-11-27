@@ -201,11 +201,11 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/config.xml" timestamp="1543326341663">
-        <mark key="[" line="103" column="87" />
-        <mark key="]" line="103" column="86" />
-        <mark key="." line="103" column="86" />
-        <mark key="^" line="103" column="86" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/config.xml" timestamp="1543328596100">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="35" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="29" column="35" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/docker-config/jobs/Dockerfile" timestamp="1537569651215">
         <mark key="[" line="40" column="19" />
@@ -912,6 +912,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="30" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/RemotePlayer.js" timestamp="1543328377274">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/.env.production" timestamp="1541071456317">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="46" />
@@ -972,7 +977,7 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="66" column="96" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542388485967">
+      <file name="/Dummy.txt" timestamp="1543327703244">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -1175,8 +1180,8 @@
       <jump line="94" column="15" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test1.txt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1188,7 +1193,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test1.txt</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -1197,7 +1202,7 @@
         <text encoding="base64">ICAgIGlzU3luY2luZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbG9ncyA9IGF3YWl0IHRoaXMuZmlsZUxvZ2dlci5nZXRMb2dFbnRyaWVzRnJvbUJlZ2lubmluZygpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1211,31 +1216,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBVTklYIHRpbWVzdGFtcAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbG9ncyA9IGF3YWl0IHRoaXMuZmlsZUxvZ2dlci5nZXRMb2dFbnRyaWVzRnJvbUJlZ2lubmluZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBVTklYIHRpbWVzdGFtcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2luZG93LmxvZ2dlciA9IGxvZ0hhbmRsZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2dzLmxlbmd0aCwgbG9ncyk7Cg==</text>
+        <text encoding="base64">d2luZG93LmxvZ2dlciA9IGxvZ0hhbmRsZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LkJ1Z2ZlbmRlci5zZXREZXZpY2VLZXkoJ0lEJywgYXJnc1swXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2dzLmxlbmd0aCwgbG9ncyk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2luZG93LkJ1Z2ZlbmRlci5zZXREZXZpY2VLZXkoJ0lEJywgYXJnc1swXSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9nTGV2ZWwgPSAnZGVidWcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
