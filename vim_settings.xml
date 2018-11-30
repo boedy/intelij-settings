@@ -184,6 +184,10 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/sagas/logging.js" timestamp="1543596651812">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="71" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/docker-compose.yml" timestamp="1541069679309">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -255,11 +259,11 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1543594107526">
-        <mark key="[" line="80" column="35" />
-        <mark key="]" line="85" column="3" />
-        <mark key="." line="85" column="3" />
-        <mark key="^" line="85" column="3" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1543597013001">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="80" column="4" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/EventPublisher.js" timestamp="1540299070826">
         <mark key="[" line="0" column="0" />
@@ -919,13 +923,6 @@
         <mark key="." line="65" column="16" />
         <mark key="^" line="65" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/FileLogger.js" timestamp="1542374300257">
-        <mark key="'" line="83" column="15" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="52" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="92" column="41" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/core/sagas/logging.js" timestamp="1542321338870">
         <mark key="[" line="91" column="30" />
         <mark key="]" line="91" column="33" />
@@ -1009,6 +1006,13 @@
         <mark key="]" line="50" column="0" />
         <mark key="^" line="11" column="38" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/webpack2.config.js" timestamp="1543597408440">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="104" column="17" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Application/UseCase/Track/Command/RemoveTrack.php" timestamp="1536855309061">
         <mark key="[" line="10" column="1" />
@@ -1105,12 +1109,11 @@
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/live-server.js" timestamp="1543584068772">
-        <mark key="'" line="48" column="24" />
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="35" />
-        <mark key="^" line="8" column="35" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/live-server.js" timestamp="1543596348794">
+        <mark key="[" line="51" column="6" />
+        <mark key="]" line="51" column="10" />
+        <mark key="." line="51" column="10" />
+        <mark key="^" line="51" column="10" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/src/MainApi.js" timestamp="1536873648307">
         <mark key="[" line="34" column="24" />
@@ -1120,7 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="24" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/services/AccountCreationDelegation/src/index.js" />
       <jump line="93" column="8" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" />
@@ -1220,10 +1222,11 @@
       <jump line="55" column="17" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/live-server.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/live-server.js" />
       <jump line="57" column="24" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/live-server.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/webpack2.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7cGVuZGluZyA/IDxpIGNsYXNzTmFtZT0iZmEgZmEtc3Bpbm5lciBmYS1zcGluIiBzdHlsZT17c3R5bGVzLnBlbmRpbmd9IC8+IDogJ0xPRyBJTid9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1235,16 +1238,23 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>IN</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBob3N0bmFtZSA9IHJlcXVpcmUoJ29zJykuaG9zdG5hbWUoKS50b0xvd2VyQ2FzZSgpOwo=</text>
+      <register name="0" type="4">
+        <text>config</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7cGVuZGluZyA/IDxpIGNsYXNzTmFtZT0iZmEgZmEtc3Bpbm5lciBmYS1zcGluIiBzdHlsZT17c3R5bGVzLnBlbmRpbmd9IC8+IDogJ0xPRyBJTid9Cg==</text>
+      <register name="1" type="4">
+        <text>{
+  host: '0.0.0.0',
+  proxy: {
+    '/cordova.js': { target: `http://${hostname}:8081/` },
+    '/cordova_plugins.js': { target: `http://${hostname}:8081/` },
+    '/plugins/*': { target: `http://${hostname}:8081/` },
+  }
+};</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1258,31 +1268,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoIV9fUFJPRFVDVElPTl9fKSB7CiAgICBwbHVnaW5zLnB1c2gobmV3IHdlYnBhY2suRGVmaW5lUGx1Z2luKHsgX19IT1NUTkFNRV9fOiBgJyR7aG9zdG5hbWV9J2AgfSkpOwogICAgYXBwRW50cnlQb2ludHMuZGV2TW9kZSA9ICcuL3NyYy9hcHAvZGV2TW9kZS5qcyc7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGRldlNlcnZlciwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZighUFJPRFVDVElPTil7CiAgICBjb25zdCBzZXJ2ZXJJcCA9IGF3YWl0IHNlcnZlci5nZXRJcCgpOwogIH0KICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoIV9fUFJPRFVDVElPTl9fKSB7CiAgICBwbHVnaW5zLnB1c2gobmV3IHdlYnBhY2suRGVmaW5lUGx1Z2luKHsgX19IT1NUTkFNRV9fOiBgJyR7aG9zdG5hbWV9J2AgfSkpOwogICAgYXBwRW50cnlQb2ludHMuZGV2TW9kZSA9ICcuL3NyYy9hcHAvZGV2TW9kZS5qcyc7CiAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGhvc3RuYW1lID0gYWRkOwo=</text>
+      <register name="5" type="4">
+        <text>: {
+      
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICcvRW5jcnlwdGVkQXVkaW8uanMnOiB7IHRhcmdldDogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9zcmMvZGVza3RvcC9zZXJ2aWNlcy8nIH0sCiAgICAnL2JhY2tncm91bmQuanBnJzogeyB0YXJnZXQ6ICdodHRwOi8vbG9jYWxob3N0OjgwODAvc3JjL2Fzc2V0cy8nIH0sCiAgICAnL2ZvbnRzLyoudHRmJzogeyB0YXJnZXQ6ICdodHRwOi8vbG9jYWxob3N0OjgwODAvc3JjL2Fzc2V0cy8nIH0sCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZG5zJykubG9va3VwKHJlcXVpcmUoJ29zJykuaG9zdG5hbWUoKSwgIChlcnIsIGFkZCwgZmFtKSA9PiB7CiAgaG9zdG5hbWUgPSBhZGQ7Cn0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhob3N0bmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IHRlc3Q6IC9cLmpzJC8sCiAgICAgICAgICBsb2FkZXI6ICdiYWJlbC1sb2FkZXInLAogICAgICAgICAgb3B0aW9uczogeyByb290TW9kZTogJ3Vwd2FyZCcgfSwKICAgICAgICAgIGV4Y2x1ZGU6IC9bXFwvXW5vZGVfbW9kdWxlc1tcXC9dLywKICAgICAgICB9LAogICAgICAgIHsgdGVzdDogL1wuKHBuZ3xzdmd8anBnfGdpZnxtcDMpJHxcLih0dGZ8ZW90fHN2Z3x3b2ZmKDIpPykoXD92PVswLTldXC5bMC05XVwuWzAtOV0pPyQvLAogICAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsCiAgICAgICAgICBvcHRpb25zOiB7IGxpbWl0OiA4MTkyIH0sCiAgICAgICAgfSwKICAgICAgICB7IHRlc3Q6IC9cLmNzcyQvLCB1c2U6IFsnc3R5bGUtbG9hZGVyJywgJ2Nzcy1sb2FkZXInXSB9LAogICAgICAgIC8vIHsgdGVzdDogL1wuKHBuZ3xzdmd8anBnfGdpZnxtcDMpJC8sIGxvYWRlcjogJ2ZpbGUtbG9hZGVyJyB9LAogICAgICAgIC8vIHsgdGVzdDogL1wuKHR0ZnxvdGZ8ZW90fHdvZmYoMik/KShcP3Y9WzAtOV1cLlswLTldXC5bMC05XSk/JC8sCiAgICAgICAgLy8gICBsb2FkZXI6ICd1cmwtbG9hZGVyJwogICAgICAgIC8vIH0sCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWRkcjogJythZGQpOwo=</text>
+      <register name="9" type="4">
+        <text>{
+      runtimeChunk: 'single',
+      splitChunks: {
+        cacheGroups: {
+          vendor: {
+            test: /[\\/]node_modules[\\/]/,
+            name: 'vendor',
+            chunks: 'all',
+          }
+        }
+      }
+    }</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
