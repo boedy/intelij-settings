@@ -256,11 +256,11 @@
       <file name="$USER_HOME$/Projects/services/asana-tracking/src/listener.js" timestamp="1541081775100">
         <mark key="[" line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1543581303238">
-        <mark key="[" line="66" column="56" />
-        <mark key="]" line="66" column="56" />
-        <mark key="^" line="64" column="57" />
-        <mark key="." line="66" column="56" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/webpack.config.js" timestamp="1543587521893">
+        <mark key="[" line="59" column="42" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/EventPublisher.js" timestamp="1540299070826">
         <mark key="[" line="0" column="0" />
@@ -1219,8 +1219,8 @@
       <jump line="57" column="24" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/live-server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1232,19 +1232,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>process.argv.indexOf('--hot') !== -1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zb2xlXD4=</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
         <text>!== -1</text>
       </register>
-      <register name="1" type="8">
-        <text>var
-var
-var
-var</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1258,40 +1255,43 @@ var</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gdmFyIHN0YXRpY19yb290ID0gcHJvY2Vzcy5hcmd2WzJdIHx8ICc8WU9VUl9QUk9KRUNUX0ZPTERFUj4vcGxhdGZvcm1zL2FuZHJvaWQvYXNzZXRzL3d3dyc7CnZhciBzdGF0aWNfcm9vdCA9IHByb2Nlc3MuYXJndlsyXSB8fCAnd3d3JzsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gc2VydmVyLmdldCgnLyovOm5hbWUnLCBzZXJ2ZUZpbGUpOwoKLy8gc2VydmVyLnVzZShleHByZXNzLnN0YXRpYyhzdGF0aWNfcm9vdCkpOwoK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICBjb25zb2xlLmxvZygnU2VudDonLCBmaWxlTmFtZSk7CiAgICB9</text>
+      <register name="4" type="8">
+        <text>var
+var
+var
+var</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">Ly8gdmFyIHN0YXRpY19yb290ID0gcHJvY2Vzcy5hcmd2WzJdIHx8ICc8WU9VUl9QUk9KRUNUX0ZPTERFUj4vcGxhdGZvcm1zL2FuZHJvaWQvYXNzZXRzL3d3dyc7CnZhciBzdGF0aWNfcm9vdCA9IHByb2Nlc3MuYXJndlsyXSB8fCAnd3d3JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyQWdlbnQpOwo=</text>
+        <text encoding="base64">Ly8gc2VydmVyLmdldCgnLyovOm5hbWUnLCBzZXJ2ZUZpbGUpOwoKLy8gc2VydmVyLnVzZShleHByZXNzLnN0YXRpYyhzdGF0aWNfcm9vdCkpOwoK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICBjb25zb2xlLmxvZygnU2VudDonLCBmaWxlTmFtZSk7CiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgcGF0aDsKICBjb25zdCB1c2VyQWdlbnQgPSByZXEuaGVhZGVyc1sndXNlci1hZ2VudCddOwogIGNvbnNvbGUubG9nKHVzZXJBZ2VudCk7CiAgaWYgKHVzZXJBZ2VudC5pbmRleE9mKCdpUGhvbmUnKSAhPT0gLTEpIHsKICAgIHBhdGggPSBpb3NXZWJEaXI7CiAgfSBlbHNlIGlmICh1c2VyQWdlbnQuaW5kZXhPZignQW5kcm9pZCcpICE9PSAtMSkgewogICAgcGF0aCA9IGFuZHJvaWRXZWJEaXI7CiAgfQogIGNvbnN0IG9wdGlvbnMgPSB7CiAgICByb290OiBfX2Rpcm5hbWUgKyBwYXRoLAogICAgZG90ZmlsZXM6ICdkZW55JywKICAgIGhlYWRlcnM6IHsKICAgICAgJ3gtdGltZXN0YW1wJzogRGF0ZS5ub3coKSwKICAgICAgJ3gtc2VudCc6IHRydWUKICAgIH0KICB9OwogIGNvbnN0IGZpbGVOYW1lID0gcmVxLnBhcmFtcy5uYW1lOwogIHJlcy5zZW5kRmlsZShmaWxlTmFtZSwgb3B0aW9ucywgZnVuY3Rpb24gKGVycikgewogICAgaWYgKGVycikgewogICAgICBuZXh0KGVycik7CiAgICB9IGVsc2UgewogICAgICBjb25zb2xlLmxvZygnU2VudDonLCBmaWxlTmFtZSk7CiAgICB9CiAgfSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBmaWxlTmFtZSA9ICdjb3Jkb3ZhLmpzJzsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyQWdlbnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
       <last-dir>-1</last-dir>
@@ -1299,7 +1299,6 @@ var</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDx0aGVuXD4=</entry>
         <entry encoding="base64">XDx0b2RvXD4=</entry>
@@ -1319,6 +1318,7 @@ var</text>
         <entry encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist AceA</entry>
