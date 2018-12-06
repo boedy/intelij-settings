@@ -76,12 +76,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" timestamp="1544114500672">
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" timestamp="1544116715450">
         <mark key="'" line="54" column="35" />
-        <mark key="[" line="74" column="21" />
-        <mark key="]" line="74" column="22" />
-        <mark key="^" line="74" column="21" />
-        <mark key="." line="74" column="22" />
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="78" />
+        <mark key="." line="20" column="32" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env.wercker" timestamp="1536228436377">
         <mark key="[" line="22" column="23" />
@@ -203,11 +203,12 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.js" timestamp="1544113494820">
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.js" timestamp="1544115245010">
         <mark key="'" line="1" column="28" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+        <mark key="[" line="70" column="18" />
+        <mark key="]" line="70" column="19" />
+        <mark key="." line="70" column="19" />
+        <mark key="^" line="70" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/tests/playback/src/client.jsx" timestamp="1539162408213">
         <mark key="[" line="6" column="23" />
@@ -358,11 +359,23 @@
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1544110622439" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/Mixpanel.js" timestamp="1544115947085">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/hooks/before_run.js" timestamp="1543599362660">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="8" />
         <mark key="^" line="26" column="40" />
         <mark key="." line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/MixpanelBackstage.js" timestamp="1544116487596">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/public/js/stripe.js" timestamp="1536228138927">
         <mark key="[" line="0" column="21" />
@@ -404,6 +417,12 @@
         <mark key="]" line="10" column="2" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/MIxpanelAtmosphere.js" timestamp="1544115812367">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/index.js" timestamp="1537959711251">
         <mark key="[" line="10" column="0" />
@@ -467,6 +486,12 @@
         <mark key="]" line="3" column="46" />
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/MixpanelAtmosphere.js" timestamp="1544116460672">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1537477369553">
         <mark key="[" line="28" column="0" />
@@ -1256,7 +1281,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>{</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1268,16 +1293,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>${discontinuedAt.getFullYear()}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgW2RldmljZXMsIGxvY2F0aW9uXSA9IGF3YWl0IFByb21pc2UuQWxsKFsKICAgICAgICBBdG1vc3BoZXJlQXBpLmZldGNoRGV2aWNlc09mTG9jYXRpb24ocGF5bG9hZC5sb2NhdGlvbklkKSwKICAgICAgICBBdG1vc3BoZXJlQXBpLmZldGNoTG9jYXRpb24ocGF5bG9hZC5sb2NhdGlvbklkKSwKICAgICAgXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVXBkYXRlCiAgICAgIGNvbnN0IFtkZXZpY2VzLCBsb2NhdGlvbl0gPSBhd2FpdCBQcm9taXNlLkFsbChbCiAgICAgICAgQXRtb3NwaGVyZUFwaS5mZXRjaERldmljZXNPZkxvY2F0aW9uKHBheWxvYWQubG9jYXRpb25JZCksCiAgICAgICAgQXRtb3NwaGVyZUFwaS5mZXRjaExvY2F0aW9uKHBheWxvYWQubG9jYXRpb25JZCksCiAgICAgIF0pOwogICAgICBjb25zdCBkZXZpY2VzID0gQXRtb3NwaGVyZUFwaS5mZXRjaERldmljZXNPZkxvY2F0aW9uKHBheWxvYWQubG9jYXRpb25JZCk7CiAgICAgIGRldmljZXMuZm9yZWFjaChkZXZpY2UgPT4gTWl4cGFuZWxBdG1vc3BoZXJlLmRpc2NvbnRpbnVlTG9jYXRpb24oZGV2aWNlKSk7CiAgICAgIGJyZWFrOwogICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1291,34 +1316,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbmFtZTogbG9jYXRpb24uZGlzcGxheU5hbWUsCiAgICAgICAgT3JnYW5pc2F0aW9uOiBsb2NhdGlvbi5vcmdhbmlzYXRpb24ubmFtZSwKICAgICAgICBBZGRyZXNzOiBhZGRyZXNzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVXBkYXRlIG1peHBhbmVsIG5hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlyc3RfbmFtZTogdXNlci5maXJzdE5hbWUsCiAgICAgICAgJGxhc3RfbmFtZTogdXNlci5sYXN0TmFtZSwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgW2RldmljZXMsIGxvY2F0aW9uXSA9IGF3YWl0IFByb21pc2UuQWxsKFsKICAgICAgICBBdG1vc3BoZXJlQXBpLmZldGNoTG9jYXRpb24ocGF5bG9hZC5sb2NhdGlvbklkKSwKICAgICAgXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRyZXNzICs9IGFkZHJlc3MubGVuZ3RoID8gJywgJyA6ICcnICsgbG9jYXRpb24uYWRkcmVzc0xpbmUxOwo=</text>
+        <text encoding="base64">ICAgICAgICBBdG1vc3BoZXJlQXBpLmZldGNoRGV2aWNlc09mTG9jYXRpb24ocGF5bG9hZC5sb2NhdGlvbklkKSwK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLCAke2xvY2F0aW9uLmFkZHJlc3NMaW5lMX1gOwo=</text>
+        <text encoding="base64">ICAgICAgICBNaXhwYW5lbEF0bW9zcGhlcmUudXBkYXRlTG9jYXRpb24oZGV2aWNlLCBsb2NhdGlvbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBdG1vc3BoZXJlQXBpLmZldGNoT3JnYW5pc2F0aW9uKHBheWxvYWQubG9jYXRpb25JZCkK</text>
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmZXRjaE9yZ2FuaXNhdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgLy8gU2V0IHNob3VsZCB0cmFjayB0byBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
@@ -1368,12 +1393,12 @@
         <entry encoding="base64">c2V0IHZpc3VhbGJlbGwgc2V0IG5vZXJyb3JiZWxscyA=</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>vsp</entry>
         <entry>action AceAction</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
