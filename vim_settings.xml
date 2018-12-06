@@ -76,12 +76,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" timestamp="1544112646303">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="45" column="5" />
-        <mark key="." line="45" column="5" />
-        <mark key="^" line="45" column="5" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" timestamp="1544114500672">
+        <mark key="'" line="54" column="35" />
+        <mark key="[" line="74" column="21" />
+        <mark key="]" line="74" column="22" />
+        <mark key="^" line="74" column="21" />
+        <mark key="." line="74" column="22" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env.wercker" timestamp="1536228436377">
         <mark key="[" line="22" column="23" />
@@ -203,12 +203,11 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.js" timestamp="1544112208326">
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.js" timestamp="1544113494820">
         <mark key="'" line="1" column="28" />
-        <mark key="[" line="67" column="23" />
-        <mark key="]" line="67" column="30" />
-        <mark key="." line="67" column="30" />
-        <mark key="^" line="67" column="30" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tests/playback/src/client.jsx" timestamp="1539162408213">
         <mark key="[" line="6" column="23" />
@@ -1154,7 +1153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" />
       <jump line="74" column="21" filename="$USER_HOME$/projects/services/AccountCreationDelegation/src/mailEventHandler.js" />
       <jump line="81" column="10" filename="$USER_HOME$/projects/services/AccountCreationDelegation/src/mailEventHandler.js" />
       <jump line="124" column="0" filename="$USER_HOME$/projects/services/AccountCreationDelegation/src/mailEventHandler.js" />
@@ -1254,10 +1252,11 @@
       <jump line="70" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/webpack2.config.js" />
       <jump line="1" column="28" filename="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
+      <jump line="54" column="35" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>a</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1269,16 +1268,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXNlciA9IGF3YWl0IEF0bW9zcGhlcmVBcGkuZmV0Y2hVc2VyKHBheWxvYWQudXNlcklkKTsK</text>
+      <register name="0" type="4">
+        <text>${discontinuedAt.getFullYear()}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXNlciA9IGF3YWl0IAogICAgICBjb25zdCB1c2VyID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1292,34 +1291,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAkbmFtZTogbG9jYXRpb24uZGlzcGxheU5hbWUsCiAgICAgICAgT3JnYW5pc2F0aW9uOiBsb2NhdGlvbi5vcmdhbmlzYXRpb24ubmFtZSwKICAgICAgICBBZGRyZXNzOiBhZGRyZXNzLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gU2V0IHNob3VsZCB0cmFjayB0byBmYWxzZQogICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAkZmlyc3RfbmFtZTogdXNlci5maXJzdE5hbWUsCiAgICAgICAgJGxhc3RfbmFtZTogdXNlci5sYXN0TmFtZSwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gU2V0IHNob3VsZCB0cmFjayB0byBmYWxzZQogICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzICs9IGFkZHJlc3MubGVuZ3RoID8gJywgJyA6ICcnICsgbG9jYXRpb24uYWRkcmVzc0xpbmUxOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLCAke2xvY2F0aW9uLmFkZHJlc3NMaW5lMX1gOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gVXBkYXRlCiAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICBBdG1vc3BoZXJlQXBpLmZldGNoT3JnYW5pc2F0aW9uKHBheWxvYWQubG9jYXRpb25JZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmZXRjaE9yZ2FuaXNhdGlvbiwK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -1371,10 +1370,10 @@
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>vsp</entry>
         <entry>w</entry>
-        <entry>action AceAction</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
