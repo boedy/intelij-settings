@@ -76,12 +76,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" timestamp="1544192735090">
-        <mark key="'" line="63" column="35" />
-        <mark key="[" line="40" column="7" />
-        <mark key="]" line="40" column="47" />
-        <mark key="." line="40" column="47" />
-        <mark key="^" line="40" column="47" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" timestamp="1544198996022">
+        <mark key="[" line="94" column="48" />
+        <mark key="]" line="94" column="77" />
+        <mark key="." line="94" column="77" />
+        <mark key="^" line="94" column="77" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env.wercker" timestamp="1536228436377">
         <mark key="[" line="22" column="23" />
@@ -160,6 +159,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="/logger.js" timestamp="1543332117309">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="41" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/serialnumber.js" timestamp="1538661961365">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -177,6 +180,10 @@
         <mark key="]" line="5" column="28" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/sagas/logging.js" timestamp="1543596651812">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="71" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/docker-compose.yml" timestamp="1541069679309">
         <mark key="[" line="7" column="0" />
@@ -368,6 +375,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/EventSubscriber.js" timestamp="1544198324354">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="41" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/public/js/stripe.js" timestamp="1536228138927">
         <mark key="[" line="0" column="21" />
@@ -1189,10 +1200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="$USER_HOME$/projects/services/AccountCreationDelegation/src/mailEventHandler.js" />
-      <jump line="117" column="6" filename="$USER_HOME$/projects/services/AccountCreationDelegation/src/index.js" />
-      <jump line="103" column="29" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api-new.js" />
-      <jump line="46" column="116" filename="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/LocationPlaylist.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/AuthenticationController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/backgroundAudio.js" />
       <jump line="170" column="9" filename="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/PlaylistController.php" />
@@ -1289,10 +1296,14 @@
       <jump line="54" column="35" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
       <jump line="20" column="1" filename="$USER_HOME$/Projects/services/mixpanel-service/src/state/location.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/state/location.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
+      <jump line="91" column="4" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Register Mixpanel instore</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3Vic2NyaWJlci5zdWJzY3JpYmUoeyB0b3BpYzogJ29yZ2FuaXNhdGlvbicgfSwgKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1304,16 +1315,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Register Mixpanel instore</text>
+        <text>{ }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyB1c2VySWQsIGxvY2F0aW9uSWQgfSA9IHBheWxvYWQ7Cg==</text>
+        <text encoding="base64">c3Vic2NyaWJlci5zdWJzY3JpYmUoeyB0b3BpYzogJ29yZ2FuaXNhdGlvbicgfSwgb3JnYW5pc2F0aW9uVG9waWNSb3V0ZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVnaXN0ZXIgbWl4cGFuZWwgaW5zdG9yZQo=</text>
+        <text encoding="base64">c3Vic2NyaWJlci5zdWJzY3JpYmUoeyB0b3BpYzogJ29yZ2FuaXNhdGlvbicgfSwgKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1326,39 +1337,32 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gVXBkYXRlIG1peHBhbmVsIG5hbWUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">YXN5bmMgZXZlbnQgPT4gewogIGNvbnN0IHsgZXZlbnROYW1lLCBwYXlsb2FkIH0gPSBldmVudC52YWx1ZTsKICBzd2l0Y2ggKGV2ZW50TmFtZSkgewogICAgLy8gQXNpZ24gdXNlciBkZXZpY2UgdG8gTG9jYXRpb24gaW4gTWl4cGFuZWwKICAgIGNhc2UgJ0RldmljZUFzc2lnbmVkVG9Mb2NhdGlvbic6IHsKICAgICAgY29uc3QgeyB1c2VySWQsIGxvY2F0aW9uSWQgfSA9IHBheWxvYWQ7CiAgICAgIGF3YWl0IHN0YXRlLmxvY2F0aW9uLmF0dGFjaFVzZXJUb0xvY2F0aW9uKHVzZXJJZCwgbG9jYXRpb25JZCk7CiAgICAgIGJyZWFrOwogICAgfQoKICAgIGNhc2UgJ1VzZXJSZW1vdmVkQXNDb25zdW1lcic6IHsKICAgICAgY29uc3QgeyB1c2VySWQsIGxvY2F0aW9uSWQgfSA9IHBheWxvYWQ7CiAgICAgIGF3YWl0IHN0YXRlLmxvY2F0aW9uLmRldGFjaFVzZXJUb0xvY2F0aW9uKHVzZXJJZCwgbG9jYXRpb25JZCk7CiAgICAgIGJyZWFrOwogICAgfQogIH0KfQ==</text>
       </register>
-      <register name="3" type="8">
-        <text>state
-state
-state
-state
-state
-state</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKEZST01fQkVHSU5OSU5HID09PSAnVFJVRScpIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgaWYgKEZST01fQkVHSU5OSU5HID09PSAnVFJVRScpIGJyZWFrOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>payload.
-payload.
-payload.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWYgKEZST01fQkVHSU5OSU5HID09PSAnVFJVRScpIGJyZWFrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gTm8gZnVydGhlciBhY3Rpb24gaWYgcmVwbGF5aW5nIGV2ZW50cyBmcm9tIGJlZ2lubmluZwogICAgICBpZiAoRlJPTV9CRUdJTk5JTkcgPT09ICdUUlVFJykgYnJlYWs7Cgo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIAogKiBAcGFyYW0gbG9jYXRpb25JZAogKi8K</text>
+        <text encoding="base64">ICAgICAgLy8gTm8gZnVydGhlciBhY3Rpb24gaWYgcmVwbGF5aW5nIGV2ZW50cyBmcm9tIGJlZ2lubmluZwogICAgICBpZiAoRlJPTV9CRUdJTk5JTkcgPT09ICdUUlVFJykgYnJlYWs7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGV2aWNlcyA9IGF3YWl0IEF0bW9zcGhlcmVBcGkuZmV0Y2hEZXZpY2VzT2ZMb2NhdGlvbigKICAgICAgICBwYXlsb2FkLmxvY2F0aW9uSWQKICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKEZST01fQkVHSU5OSU5HID09PSAnVFJVRScpIGJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
@@ -1405,7 +1409,6 @@ payload.</text>
         <entry>action SplitVertically</entry>
         <entry>action SplitHorizontally</entry>
         <entry>vs</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>set visualbell set noerrorbells</entry>
         <entry>set visualbell</entry>
         <entry encoding="base64">c2V0IHZpc3VhbGJlbGwgc2V0IG5vZXJyb3JiZWxscyA=</entry>
@@ -1417,6 +1420,7 @@ payload.</text>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
