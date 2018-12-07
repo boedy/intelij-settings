@@ -76,12 +76,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" timestamp="1544176141391">
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" timestamp="1544192735090">
         <mark key="'" line="63" column="35" />
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="6" />
+        <mark key="[" line="40" column="7" />
+        <mark key="]" line="40" column="47" />
+        <mark key="." line="40" column="47" />
+        <mark key="^" line="40" column="47" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env.wercker" timestamp="1536228436377">
         <mark key="[" line="22" column="23" />
@@ -1291,13 +1291,8 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/state/location.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>state
-state
-state
-state
-state
-state</text>
+      <register name="&quot;" type="4">
+        <text>Register Mixpanel instore</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1309,7 +1304,7 @@ state</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>State</text>
+        <text>Register Mixpanel instore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdFw+</text>
@@ -1317,13 +1312,8 @@ state</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgeyB1c2VySWQsIGxvY2F0aW9uSWQgfSA9IHBheWxvYWQ7Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text>state
-state
-state
-state
-state
-state</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy8gcmVnaXN0ZXIgbWl4cGFuZWwgaW5zdG9yZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1337,33 +1327,38 @@ state</text>
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gVXBkYXRlIG1peHBhbmVsIG5hbWUK</text>
+      </register>
+      <register name="3" type="8">
+        <text>state
+state
+state
+state
+state
+state</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Owo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>payload.
 payload.
 payload.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIAogKiBAcGFyYW0gbG9jYXRpb25JZAogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGV2aWNlcyA9IGF3YWl0IEF0bW9zcGhlcmVBcGkuZmV0Y2hEZXZpY2VzT2ZMb2NhdGlvbigKICAgICAgICBwYXlsb2FkLmxvY2F0aW9uSWQKICAgICAgKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIAogKiBAcGFyYW0gbG9jYXRpb25JZAogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGV2aWNlcyA9IGF3YWl0IEF0bW9zcGhlcmVBcGkuZmV0Y2hEZXZpY2VzT2ZMb2NhdGlvbigKICAgICAgICBwYXlsb2FkLmxvY2F0aW9uSWQKICAgICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
