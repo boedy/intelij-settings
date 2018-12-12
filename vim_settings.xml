@@ -76,11 +76,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" timestamp="1544198996022">
-        <mark key="[" line="94" column="48" />
-        <mark key="]" line="94" column="77" />
-        <mark key="." line="94" column="77" />
-        <mark key="^" line="94" column="77" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" timestamp="1544622200913">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="79" column="17" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env.wercker" timestamp="1536228436377">
         <mark key="[" line="22" column="23" />
@@ -445,6 +445,12 @@
         <mark key="." line="60" column="7" />
         <mark key="^" line="60" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/Dockerfile" timestamp="1544621563107">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/services/logger.js" timestamp="1544546039086">
         <mark key="[" line="47" column="6" />
         <mark key="]" line="47" column="7" />
@@ -468,9 +474,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/User/Device.php" timestamp="1544110417898">
-        <mark key="[" line="33" column="42" />
       </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/Sources/Mixpanel/users_per_week.js" timestamp="1538480411833">
         <mark key="[" line="30" column="19" />
@@ -526,13 +529,13 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/docker-compose.yml" timestamp="1544174215926">
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/docker-compose.yml" timestamp="1544621706674">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="15" />
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544201686174">
+      <file name="/Dummy.txt" timestamp="1544621078801">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
@@ -760,6 +763,12 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/docker-compose.override.yml" timestamp="1544622207859">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/data/schema.graphqls" timestamp="1540983019462">
         <mark key="[" line="156" column="27" />
         <mark key="]" line="156" column="27" />
@@ -964,11 +973,11 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/.env.production" timestamp="1544199912752">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/.env.production" timestamp="1544621106120">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/docker-compose.yml" timestamp="1536221751495">
         <mark key="[" line="42" column="0" />
@@ -976,7 +985,7 @@
         <mark key="^" line="23" column="47" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/.env" timestamp="1544111082811">
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/.env" timestamp="1544621205468">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
@@ -1296,8 +1305,8 @@
       <jump line="91" column="4" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkY3JlZGVudGlhbHNbJ2VtYWlsJ10gPT0gJ3Rlc3RAa29sbGVrdC5mbScpIFxMb2c6OmluZm8oJ1RyeSBsb2dnaW5nIGluIHdpdGggdGVzdCBhY2NvdW50IHdpdGggcGFzc3dvcmQ6Jy4kY3JlZGVudGlhbHNbJ3Bhc3N3b3JkJ10pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Setup</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1309,16 +1318,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Setup</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdFw+</text>
+        <text encoding="base64">XDxrZXltZXRyaWNzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkY3JlZGVudGlhbHNbJ2VtYWlsJ10gPT0gJ3Rlc3RAa29sbGVrdC5mbScpIFxMb2c6OmluZm8oJ1RyeSBsb2dnaW5nIGluIHdpdGggdGVzdCBhY2NvdW50IHdpdGggcGFzc3dvcmQ6Jy4kY3JlZGVudGlhbHNbJ3Bhc3N3b3JkJ10pOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnU2V0dXAnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIExvZzsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coRlJPTV9CRUdJTk5JTkcpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1332,49 +1341,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlcklkLCk7Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>ATMOSPHERE
-ATMOSPHERE</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbW1hbmQ6ICJwbTItcnVudGltZSBwcm9jZXNzLWRldi55bWwiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UkVTSU5fVE9LRU49JFJFU0lOX1RPS0VOCg==</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6ICJwbTItcnVudGltZSBwcm9jZXNzLWRldi55bWwiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3Vic2NyaWJlci5zdWJzY3JpYmUoeyB0b3BpYzogJ29yZ2FuaXNhdGlvbicgfSwgKTsK</text>
+        <text encoding="base64">ICAgIHBvcnRzOiAtICI0MDIzOjgwIgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YXN5bmMgZXZlbnQgPT4gewogIGNvbnN0IHsgZXZlbnROYW1lLCBwYXlsb2FkIH0gPSBldmVudC52YWx1ZTsKICBzd2l0Y2ggKGV2ZW50TmFtZSkgewogICAgLy8gQXNpZ24gdXNlciBkZXZpY2UgdG8gTG9jYXRpb24gaW4gTWl4cGFuZWwKICAgIGNhc2UgJ0RldmljZUFzc2lnbmVkVG9Mb2NhdGlvbic6IHsKICAgICAgY29uc3QgeyB1c2VySWQsIGxvY2F0aW9uSWQgfSA9IHBheWxvYWQ7CiAgICAgIGF3YWl0IHN0YXRlLmxvY2F0aW9uLmF0dGFjaFVzZXJUb0xvY2F0aW9uKHVzZXJJZCwgbG9jYXRpb25JZCk7CiAgICAgIGJyZWFrOwogICAgfQoKICAgIGNhc2UgJ1VzZXJSZW1vdmVkQXNDb25zdW1lcic6IHsKICAgICAgY29uc3QgeyB1c2VySWQsIGxvY2F0aW9uSWQgfSA9IHBheWxvYWQ7CiAgICAgIGF3YWl0IHN0YXRlLmxvY2F0aW9uLmRldGFjaFVzZXJUb0xvY2F0aW9uKHVzZXJJZCwgbG9jYXRpb25JZCk7CiAgICAgIGJyZWFrOwogICAgfQogIH0KfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBrZXltZXRyaWNzL3BtMjo4LWplc3NpZQo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKEZST01fQkVHSU5OSU5HID09PSAnVFJVRScpIGJyZWFrOwo=</text>
+        <text encoding="base64">SldUX1NFQ1JFVD0kSldUX1NFQ1JFVAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKEZST01fQkVHSU5OSU5HID09PSAnVFJVRScpIGJyZWFrOwo=</text>
+        <text encoding="base64">dXNlIExvZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKEZST01fQkVHSU5OSU5HID09PSAnVFJVRScpIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zdFw+</last-search>
+      <last-search encoding="base64">XDxrZXltZXRyaWNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxrZXltZXRyaWNzXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aGVuXD4=</entry>
         <entry encoding="base64">XDx0b2RvXD4=</entry>
         <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxBZGRDdXJhdG9yXD4=</entry>
@@ -1394,6 +1401,7 @@ ATMOSPHERE</text>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
+        <entry encoding="base64">XDxrZXltZXRyaWNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist AceA</entry>
@@ -1408,7 +1416,6 @@ ATMOSPHERE</text>
         <entry>set visualbell</entry>
         <entry encoding="base64">c2V0IHZpc3VhbGJlbGwgc2V0IG5vZXJyb3JiZWxscyA=</entry>
         <entry>sp</entry>
-        <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>vsp</entry>
         <entry>action AceAction</entry>
@@ -1416,6 +1423,7 @@ ATMOSPHERE</text>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
