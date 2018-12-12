@@ -195,12 +195,12 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.js" timestamp="1544629111258">
-        <mark key="'" line="1" column="28" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="41" column="1" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.js" timestamp="1544629735580">
+        <mark key="'" line="66" column="31" />
+        <mark key="[" line="66" column="84" />
+        <mark key="]" line="66" column="96" />
+        <mark key="." line="66" column="96" />
+        <mark key="^" line="66" column="96" />
       </file>
       <file name="$USER_HOME$/Projects/tests/playback/src/client.jsx" timestamp="1539162408213">
         <mark key="[" line="6" column="23" />
@@ -1195,7 +1195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/atmosphere/atmosphere-app/src/app/services/backgroundAudio.js" />
       <jump line="170" column="9" filename="$USER_HOME$/projects/atmosphere/api/app/Http/Controllers/PlaylistController.php" />
       <jump line="8350" column="0" filename="$USER_HOME$/projects/atmosphere/payments/public/css/app.css" />
       <jump line="4" column="1" filename="$USER_HOME$/projects/atmosphere/payments/public/css/stripe.css" />
@@ -1295,10 +1294,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
       <jump line="91" column="4" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
       <jump line="2" column="32" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
+      <jump line="66" column="31" filename="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>camelCaseKeys</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1315,8 +1315,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxrZXltZXRyaWNzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBhd2FpdCBsb2dpbigpOwo=</text>
+      <register name="0" type="4">
+        <text>camelCaseKeys</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
