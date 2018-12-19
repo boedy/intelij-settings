@@ -160,6 +160,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/rancher-compose.yml.wercker" timestamp="1545238246657">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/serialnumber.js" timestamp="1538661961365">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -189,7 +195,6 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/docker-config/php/Dockerfile" timestamp="1545165226384" />
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/.env.example" timestamp="1540993126046">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -345,7 +350,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1544110622439" />
       <file name="$USER_HOME$/Projects/services/mixpanel-service/src/Mixpanel.js" timestamp="1544115947085">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="9" />
@@ -531,7 +535,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544621078801">
+      <file name="/Dummy.txt" timestamp="1545238249087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
@@ -657,6 +661,7 @@
         <mark key="^" line="61" column="16" />
         <mark key="." line="61" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1545238090935" />
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/AsanaTracking.js" timestamp="1540983866105">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="34" />
@@ -675,7 +680,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/package.json" timestamp="1544546079302" />
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_build.sh" timestamp="1536406374285">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1298,8 +1302,8 @@
       <jump line="66" column="31" filename="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>camelCaseKeys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGF0YWJhc2U6CiAgICBob3N0bmFtZTogJERBVEFCQVNFX0hPU1QK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1320,7 +1324,7 @@
         <text>camelCaseKeys</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YWJhc2U6CiAgICBob3N0bmFtZTogJERBVEFCQVNFX0hPU1QK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1334,32 +1338,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAobG9naW5SZXF1ZXN0KSByZXR1cm4gbG9naW5SZXF1ZXN0Owo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBpZiAobG9naW5SZXF1ZXN0KSByZXR1cm4gbG9naW5SZXF1ZXN0Owo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTm8gdmFsaWQgdG9rZW4nKTsK</text>
+        <text encoding="base64">ICBpZiAobG9naW5SZXF1ZXN0KSByZXR1cm4gbG9naW5SZXF1ZXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTG9nZ2luZyBpbi4uJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTm8gdmFsaWQgdG9rZW4nKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTG9nZ2luZyBpbi4uJyk7Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>;
   return loginRequest</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBsb2dpbiwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnU2V0dXAnKTsK</text>
+        <text encoding="base64">ICBsb2dpbiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
