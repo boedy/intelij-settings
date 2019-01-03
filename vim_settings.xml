@@ -403,6 +403,12 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/brandchannel/src/bootstrap.js" timestamp="1546533320529">
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="32" />
+        <mark key="." line="62" column="32" />
+        <mark key="^" line="62" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/MainApi.js" timestamp="1536871945816">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -630,6 +636,12 @@
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="22" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/brandchannel/Dockerfile" timestamp="1546534108601">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/server.js" timestamp="1536872214199">
         <mark key="[" line="2" column="6" />
@@ -1304,7 +1316,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGF0YWJhc2U6CiAgICBob3N0bmFtZTogJERBVEFCQVNFX0hPU1QK</text>
+        <text encoding="base64">QUREIC5iYWJlbHJjIC9hcHAvCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1316,7 +1328,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXltZXRyaWNzXD4=</text>
@@ -1325,7 +1337,7 @@
         <text>camelCaseKeys</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGF0YWJhc2U6CiAgICBob3N0bmFtZTogJERBVEFCQVNFX0hPU1QK</text>
+        <text encoding="base64">QUREIC5iYWJlbHJjIC9hcHAvCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1342,32 +1354,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAobG9naW5SZXF1ZXN0KSByZXR1cm4gbG9naW5SZXF1ZXN0Owo=</text>
+        <text encoding="base64">QUREIHBhY2thZ2UuanNvbiAvYXBwLwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAobG9naW5SZXF1ZXN0KSByZXR1cm4gbG9naW5SZXF1ZXN0Owo=</text>
+        <text encoding="base64">UlVOIHJtIC1yZiBub2RlLW1vZHVsZXMvZnNldmVudHMKUlVOIG5wbSBpbnN0YWxsIC0tbm8tb3B0aW9uYWwgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTm8gdmFsaWQgdG9rZW4nKTsK</text>
+        <text encoding="base64">QUREIHBhY2thZ2UuanNvbiAvYXBwLwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTG9nZ2luZyBpbi4uJyk7Cg==</text>
+        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSBnaXQKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>;
-  return loginRequest</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2dpbiwK</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCBnaXQgLXkK</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1421,8 +1432,8 @@
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
