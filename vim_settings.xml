@@ -541,7 +541,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545238249087">
+      <file name="/Dummy.txt" timestamp="1546537639525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
@@ -1162,6 +1162,12 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="66" column="96" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/wercker.yml" timestamp="1546537634816">
+        <mark key="[" line="52" column="20" />
+        <mark key="]" line="52" column="20" />
+        <mark key="^" line="56" column="43" />
+        <mark key="." line="52" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/plots/BarChart.js" timestamp="1540371369777">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="47" />
@@ -1320,8 +1326,8 @@
       <jump line="66" column="31" filename="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
+      <register name="&quot;" type="4">
+        <text>logging-service</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1333,7 +1339,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>logging-service</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXltZXRyaWNzXD4=</text>
@@ -1342,7 +1348,7 @@
         <text>camelCaseKeys</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGluc3RhbGwgcGFja2FnZXMKICAgICAgICBjb2RlOiBhcHQtZ2V0IHVwZGF0ZSAmJiBhcHQtZ2V0IGluc3RhbGwgZ2l0IC15CiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBTY2hhZm9sZGluZwogICAgICAgIGNvZGU6IHwKICAgICAgICAgIG1rZGlyIC1wIC9kYXRhL3RyYWNrcyAvZGF0YS9pbWFnZXMgL2RhdGEvbm93cGxheWluZyAvYXBwL3NyYy8gL2FwcC9zcmMvZGVza3RvcC9zZXJ2aWNlcy8KICAgICAgICAgIG12IHNyYy9jb3JlIC9hcHAvc3JjL2NvcmUKICAgICAgICAgIG12IHNyYy9ub2RlIC9hcHAvc3JjL25vZGUKICAgICAgICAgIG12IHNyYy9icmFuZGNoYW5uZWwgL2FwcC9zcmMvYnJhbmRjaGFubmVsCiAgICAgICAgICBtdiBzcmMvZGVza3RvcC9zZXJ2aWNlcy9lbmNyeXB0aW9uLmpzIC9hcHAvc3JjL2Rlc2t0b3Avc2VydmljZXMvZW5jcnlwdGlvbi5qcwogICAgICAgICAgbXYgbm9kZV9tb2R1bGVzIC9hcHAvbm9kZV9tb2R1bGVzCiAgICAgICAgICBtdiAuYmFiZWxyYyAvYXBwLwogICAgLSBpbnRlcm5hbC9kb2NrZXItcHVzaDoKICAgICAgICB1c2VybmFtZTogJERPQ0tFUl9SRVBPX1VTRVJOQU1FCiAgICAgICAgcGFzc3dvcmQ6ICRET0NLRVJfUkVQT19QQVNTV09SRAogICAgICAgIGVudjogIlRaPUV1cm9wZS9BbXN0ZXJkYW0iCiAgICAgICAgZW1haWw6IGRldnNAa29sbGVrdC5mbQogICAgICAgIHJlcG9zaXRvcnk6IGtvbGxla3QvYnJhbmRjaGFubmVsLWFwcAogICAgICAgIHZvbHVtZXM6IC9kYXRhL25vd3BsYXlpbmcKICAgICAgICB3b3JraW5nLWRpcjogIi9hcHAiCiAgICAgICAgY21kOiBub2RlIHNyYy9icmFuZGNoYW5uZWwKICAgICAgICB0YWc6ICRXRVJDS0VSX0dJVF9DT01NSVQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1356,19 +1362,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QUREIG5vZGVfbW9kdWxlcyBwYWNrYWdlcy9ub2RlX21vZHVsZXMK</text>
+        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">QUREIG5vZGVfbW9kdWxlcyBwYWNrYWdlcy9ub2RlX21vZHVsZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09QWSBub2RlX21vZHVsZXMgcGFja2FnZXMvbm9kZV9tb2R1bGVzCg==</text>
+        <text encoding="base64">QUREIG5vZGVfbW9kdWxlcyBwYWNrYWdlcy9ub2RlX21vZHVsZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QUREIC4vbm9kZV9tb2R1bGVzIG5vZGVfbW9kdWxlcwo=</text>
+        <text encoding="base64">Q09QWSBub2RlX21vZHVsZXMgcGFja2FnZXMvbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QUREIC5iYWJlbHJjIC9hcHAvCg==</text>
+        <text encoding="base64">QUREIC4vbm9kZV9tb2R1bGVzIG5vZGVfbW9kdWxlcwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -1377,10 +1383,10 @@
         <text encoding="base64">QUREIC5iYWJlbHJjIC9hcHAvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUREIC5iYWJlbHJjIC9hcHAvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QUREIHBhY2thZ2UuanNvbiAvYXBwLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
