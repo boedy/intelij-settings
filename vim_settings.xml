@@ -243,11 +243,11 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" timestamp="1547216447990">
+      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" timestamp="1547219069997">
         <mark key="'" line="20" column="24" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="13" />
-        <mark key="." line="177" column="0" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="17" />
+        <mark key="." line="178" column="0" />
         <mark key="^" line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/.env.example" timestamp="1538732165446">
@@ -1378,8 +1378,8 @@
       <jump line="36" column="9" filename="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29tcHV0ZVJldmVudWUoKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1400,7 +1400,7 @@
         <text encoding="base64">ICBjb25zdCBjYWxlbmRhciA9IGhlbHBlcnMuZ2V0TW9udGhzT2JqKHsgdG90YWxEYXlzOiAwLCB0b3RhbEludm9pY2VzOiAwIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbnZvaQo=</text>
+        <text encoding="base64">Y29tcHV0ZVJldmVudWUoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1414,31 +1414,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29tcHV0ZU1ycigpOwo=</text>
+        <text encoding="base64">Y29tcHV0ZUJ1cm4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB3ZWVrT2JqLAo=</text>
+        <text encoding="base64">ICBpbnZvaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tcHV0ZU1ycigpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBjb25zdCBpbnZvaWNlX2RhdGUgPSBtb21lbnQoaW52b2ljZS5pbnZvaWNlX2RhdGUpLmZvcm1hdCgiWU1NIik7CiAgaWYgKCFjYWxlbmRhcltpbnZvaWNlX2RhdGVdKSByZXR1cm4gY2FsZW5kYXI7CiAgY2FsZW5kYXJbaW52b2ljZV9kYXRlXS50b3RhbERheXMgKz0gbW9tZW50KGludm9pY2UucGFpZF9hdCkuZGlmZigKICAgIG1vbWVudChpbnZvaWNlLmludm9pY2VfZGF0ZSksCiAgICAiZGF5cyIKICApOwogIGNhbGVuZGFyW2ludm9pY2VfZGF0ZV0udG90YWxJbnZvaWNlcysrOwogIHJldHVybiBjYWxlbmRhcjs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB3ZWVrT2JqLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaW52b2ljZV9kYXRlID0gbW9tZW50KHZhbC5pbnZvaWNlX2RhdGUpLmZvcm1hdCgiWU1NIik7CiAgICAgIGlmICghYWNjW2ludm9pY2VfZGF0ZV0pIHJldHVybiBhY2M7CiAgICAgIGFjY1tpbnZvaWNlX2RhdGVdLnRvdGFsRGF5cyArPSBtb21lbnQoKS5kaWZmKAogICAgICAgIG1vbWVudCh2YWwuaW52b2ljZV9kYXRlKSwKICAgICAgICAiZGF5cyIKICAgICAgKTsKICAgICAgYWNjW2ludm9pY2VfZGF0ZV0udG90YWxJbnZvaWNlcysrOwogICAgICByZXR1cm4gYWNjOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbWFwSW52b2ljZXNUb0NhbGVuZGFyID0gKGNhbGVuZGFyLCBpbnZvaWNlKSA9PiB7CiAgY29uc3QgaW52b2ljZV9kYXRlID0gbW9tZW50KGludm9pY2UuaW52b2ljZV9kYXRlKS5mb3JtYXQoIllNTSIpOwogIGlmICghY2FsZW5kYXJbaW52b2ljZV9kYXRlXSkgcmV0dXJuIGNhbGVuZGFyOwogIGNhbGVuZGFyW2ludm9pY2VfZGF0ZV0udG90YWxEYXlzICs9IG1vbWVudChpbnZvaWNlLnBhaWRfYXQpLmRpZmYoCiAgICBtb21lbnQoaW52b2ljZS5pbnZvaWNlX2RhdGUpLAogICAgImRheXMiCiAgKTsKICBjYWxlbmRhcltpbnZvaWNlX2RhdGVdLnRvdGFsSW52b2ljZXMrKzsKICByZXR1cm4gY2FsZW5kYXI7Cn07Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBjb25zdCBpbnZvaWNlX2RhdGUgPSBtb21lbnQoaW52b2ljZS5pbnZvaWNlX2RhdGUpLmZvcm1hdCgiWU1NIik7CiAgaWYgKCFjYWxlbmRhcltpbnZvaWNlX2RhdGVdKSByZXR1cm4gY2FsZW5kYXI7CiAgY2FsZW5kYXJbaW52b2ljZV9kYXRlXS50b3RhbERheXMgKz0gbW9tZW50KGludm9pY2UucGFpZF9hdCkuZGlmZigKICAgIG1vbWVudChpbnZvaWNlLmludm9pY2VfZGF0ZSksCiAgICAiZGF5cyIKICApOwogIGNhbGVuZGFyW2ludm9pY2VfZGF0ZV0udG90YWxJbnZvaWNlcysrOwogIHJldHVybiBjYWxlbmRhcjs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaGVscGVycy5nZXRNb250aHNPYmooeyB0b3RhbERheXM6IDAsIHRvdGFsSW52b2ljZXM6IDAgfSkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW52b2ljZV9kYXRlID0gbW9tZW50KHZhbC5pbnZvaWNlX2RhdGUpLmZvcm1hdCgiWU1NIik7CiAgICAgIGlmICghYWNjW2ludm9pY2VfZGF0ZV0pIHJldHVybiBhY2M7CiAgICAgIGFjY1tpbnZvaWNlX2RhdGVdLnRvdGFsRGF5cyArPSBtb21lbnQoKS5kaWZmKAogICAgICAgIG1vbWVudCh2YWwuaW52b2ljZV9kYXRlKSwKICAgICAgICAiZGF5cyIKICAgICAgKTsKICAgICAgYWNjW2ludm9pY2VfZGF0ZV0udG90YWxJbnZvaWNlcysrOwogICAgICByZXR1cm4gYWNjOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KGFjYywgdmFsKSA9PiB7CiAgICAgIGNvbnN0IGludm9pY2VfZGF0ZSA9IG1vbWVudCh2YWwuaW52b2ljZV9kYXRlKS5mb3JtYXQoIllNTSIpOwogICAgICBpZiAoIWFjY1tpbnZvaWNlX2RhdGVdKSByZXR1cm4gYWNjOwogICAgICBhY2NbaW52b2ljZV9kYXRlXS50b3RhbERheXMgKz0gbW9tZW50KHZhbC5wYWlkX2F0KS5kaWZmKAogICAgICAgIG1vbWVudCh2YWwuaW52b2ljZV9kYXRlKSwKICAgICAgICAiZGF5cyIKICAgICAgKTsKICAgICAgYWNjW2ludm9pY2VfZGF0ZV0udG90YWxJbnZvaWNlcysrOwogICAgICByZXR1cm4gYWNjOwogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgbWFwSW52b2ljZXNUb0NhbGVuZGFyID0gKGNhbGVuZGFyLCBpbnZvaWNlKSA9PiB7CiAgY29uc3QgaW52b2ljZV9kYXRlID0gbW9tZW50KGludm9pY2UuaW52b2ljZV9kYXRlKS5mb3JtYXQoIllNTSIpOwogIGlmICghY2FsZW5kYXJbaW52b2ljZV9kYXRlXSkgcmV0dXJuIGNhbGVuZGFyOwogIGNhbGVuZGFyW2ludm9pY2VfZGF0ZV0udG90YWxEYXlzICs9IG1vbWVudChpbnZvaWNlLnBhaWRfYXQpLmRpZmYoCiAgICBtb21lbnQoaW52b2ljZS5pbnZvaWNlX2RhdGUpLAogICAgImRheXMiCiAgKTsKICBjYWxlbmRhcltpbnZvaWNlX2RhdGVdLnRvdGFsSW52b2ljZXMrKzsKICByZXR1cm4gY2FsZW5kYXI7Cn07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
