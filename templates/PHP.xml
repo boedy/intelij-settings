@@ -9,6 +9,7 @@
   <template name="cb" value="/*&#10;|--------------------------------------------------------------------------&#10;| $COMMENT$&#10;|--------------------------------------------------------------------------&#10;*/" description="comment block" toReformat="false" toShortenFQNames="true">
     <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
