@@ -249,12 +249,12 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" timestamp="1547398530003">
+      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" timestamp="1547400323070">
         <mark key="'" line="20" column="24" />
-        <mark key="[" line="195" column="34" />
-        <mark key="]" line="195" column="35" />
-        <mark key="^" line="193" column="35" />
-        <mark key="." line="195" column="35" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="23" />
+        <mark key="^" line="200" column="0" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/.env.example" timestamp="1538732165446">
         <mark key="[" line="17" column="11" />
@@ -583,7 +583,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547396489096">
+      <file name="/Dummy.txt" timestamp="1547400345365">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
@@ -1389,8 +1389,8 @@
       <jump line="36" column="9" filename="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>company</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29tcHV0ZUFjdGl2ZUNsaWVudHMoKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1411,7 +1411,7 @@
         <text encoding="base64">ICAgIGNvbnN0IGluc2VydERhdGEgPSBbXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhjbGllbnRzKTsK</text>
+        <text encoding="base64">Y29tcHV0ZUFjdGl2ZUNsaWVudHMoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1424,32 +1424,38 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBpbnNlcnREYXRhID0gW1siYSIsIDEwLCAiYiIsIDIwXV07Cg==</text>
+      <register name="2" type="4">
+        <text>// computeMrr();
+// computeRevenue();
+// computeBurn();
+// computeInvoicePayment();
+// computeUserActivity();
+// computeCashFlow();
+// deals();</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBPYmplY3Qua2V5cyhjbGllbnRzKS5mb3JFYWNoKChjb2x1bW4sIGluZGV4KSA9PiB7CiAgfSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBpbnNlcnREYXRhLnB1c2goWwogIC8vICAgdmFsLAogIC8vICAgd2Vlay50b3RhbCwKICAvLyAgIHdlZWsubWF1LAogIC8vICAgd2Vlay53YXUsCiAgLy8gICBNYXRoLmZsb29yKHdlZWsuZGF1KSwKICAvLyAgIHdlZWsubW9udGgKICAvLyBdKTsKICAvLyBzaGVldHMuaW5zZXJ0KCJVU0VSUyFBMjpGIiwgaW5zZXJ0RGF0YSk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluc2VydERhdGEucHVzaChbY29sdW1uXS5jb25jYXQoY2xpZW50c1tjb2x1bW5dKSk7Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhjbGllbnRzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBpCg==</text>
+        <text encoding="base64">ICBjb25zdCBpbnNlcnREYXRhID0gW1siYSIsIDEwLCAiYiIsIDIwXV07Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBpbnNlcnREYXRhID0gW107Cg==</text>
+        <text encoding="base64">ICBPYmplY3Qua2V5cyhjbGllbnRzKS5mb3JFYWNoKChjb2x1bW4sIGluZGV4KSA9PiB7CiAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGllbnRzID0gICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0IAo=</text>
+        <text encoding="base64">ICAgIGluc2VydERhdGEucHVzaChbY29sdW1uXS5jb25jYXQoY2xpZW50c1tjb2x1bW5dKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
