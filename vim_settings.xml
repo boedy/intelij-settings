@@ -274,6 +274,12 @@
         <mark key="^" line="34" column="6" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/services/device-provisioning/kaff.js" timestamp="1547507468158">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1537614741828">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -679,11 +685,11 @@
         <mark key="^" line="161" column="43" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/EventSubscriber.js" timestamp="1547498484710">
-        <mark key="[" line="29" column="42" />
-        <mark key="]" line="29" column="44" />
-        <mark key="^" line="29" column="44" />
-        <mark key="." line="29" column="44" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/EventSubscriber.js" timestamp="1547507163568">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="12" column="60" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env" timestamp="1536592706935">
         <mark key="[" line="3" column="10" />
@@ -857,11 +863,11 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="47" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/listener.js" timestamp="1540471998609">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="11" column="38" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/listener.js" timestamp="1547506832611">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/storage/logs/laravel.log" timestamp="1536179872020">
         <mark key="[" line="0" column="0" />
@@ -1089,7 +1095,7 @@
         <mark key="." line="91" column="33" />
         <mark key="^" line="91" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/test.js" timestamp="1540475294197">
+      <file name="$USER_HOME$/Projects/services/device-provisioning/test.js" timestamp="1547507118583">
         <mark key="[" line="26" column="2" />
         <mark key="]" line="26" column="14" />
         <mark key="." line="26" column="14" />
@@ -1397,7 +1403,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>redis</text>
+        <text>fetchLatestOffsets</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1409,16 +1415,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>redis</text>
+        <text>fetchLatestOffsets</text>
       </register>
       <register name="/" type="4">
-        <text>from_data</text>
+        <text encoding="base64">XDxmdW5jdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGluc2VydERhdGEgPSBbXTsK</text>
+        <text encoding="base64">Y29uc3Qga2Fma2EgPSByZXF1aXJlKCdrYWZrYS1ub2RlJyk7CmNvbnN0IENvbnN1bWVyID0ga2Fma2EuQ29uc3VtZXI7Cgpjb25zdCBjbGllbnQgPSBuZXcga2Fma2EuS2Fma2FDbGllbnQoeyBrYWZrYUhvc3Q6IHByb2Nlc3MuZW52LktBRktBX0JST0tFUlMgfSk7Ci8vIGNvbnN0IG9mZnNldCA9IG5ldyBrYWZrYS5PZmZzZXQoY2xpZW50KTsKCmNvbnN0IGNvbm5lY3Rpb25PcHRpb25zID0gewogIGdyb3VwSWQ6ICdyZXNpbi1zZXJ2aWNlOScsCiAgYXV0b0NvbW1pdDogdHJ1ZSwKfTsKCmNvbnN0IGNvbnN1bWVyID0gbmV3IENvbnN1bWVyKGNsaWVudCwgW10sIGNvbm5lY3Rpb25PcHRpb25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tcHV0ZUFjdGl2ZUNsaWVudHMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1431,7 +1437,26 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="8">
+        <text>var
+var</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dmFyIHBhcnRpdGlvbiA9IDA7CnZhciB0b3BpYyA9ICd0JzsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBkYXRhCiAgLy8geyAndCc6IHsgJzAnOiBbOTk5XSB9IH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgY29uc3VtZXIgPSBuZXcgQ29uc3VtZXIoY2xpZW50LCBbXSwgY29ubmVjdGlvbk9wdGlvbnMpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29tcHV0ZUFjdGl2ZUNsaWVudHMoKTsK</text>
+      </register>
+      <register name="v" type="4">
+        <text>;</text>
+      </register>
+      <register name="7" type="4">
         <text>// computeMrr();
 // computeRevenue();
 // computeBurn();
@@ -1440,48 +1465,29 @@
 // computeCashFlow();
 // deals();</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvLyBpbnNlcnREYXRhLnB1c2goWwogIC8vICAgdmFsLAogIC8vICAgd2Vlay50b3RhbCwKICAvLyAgIHdlZWsubWF1LAogIC8vICAgd2Vlay53YXUsCiAgLy8gICBNYXRoLmZsb29yKHdlZWsuZGF1KSwKICAvLyAgIHdlZWsubW9udGgKICAvLyBdKTsKICAvLyBzaGVldHMuaW5zZXJ0KCJVU0VSUyFBMjpGIiwgaW5zZXJ0RGF0YSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhjbGllbnRzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBpbnNlcnREYXRhID0gW1siYSIsIDEwLCAiYiIsIDIwXV07Cg==</text>
-      </register>
-      <register name="v" type="4">
-        <text>;</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBPYmplY3Qua2V5cyhjbGllbnRzKS5mb3JFYWNoKChjb2x1bW4sIGluZGV4KSA9PiB7CiAgfSk7Cg==</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluc2VydERhdGEucHVzaChbY29sdW1uXS5jb25jYXQoY2xpZW50c1tjb2x1bW5dKSk7Cg==</text>
+        <text encoding="base64">ICAvLyBpbnNlcnREYXRhLnB1c2goWwogIC8vICAgdmFsLAogIC8vICAgd2Vlay50b3RhbCwKICAvLyAgIHdlZWsubWF1LAogIC8vICAgd2Vlay53YXUsCiAgLy8gICBNYXRoLmZsb29yKHdlZWsuZGF1KSwKICAvLyAgIHdlZWsubW9udGgKICAvLyBdKTsKICAvLyBzaGVldHMuaW5zZXJ0KCJVU0VSUyFBMjpGIiwgaW5zZXJ0RGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
-      <last-search>from_data</last-search>
+      <last-search encoding="base64">XDxmdW5jdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>from_data</last-pattern>
+      <last-pattern encoding="base64">XDxmdW5jdGlvblw+</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxBZGRDdXJhdG9yXD4=</entry>
-        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
         <entry encoding="base64">XDxQVUJTVUJfQlJPS0VSX0xJU1RcPg==</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDxhd2FpdFw+</entry>
@@ -1499,9 +1505,9 @@
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry encoding="base64">XDxrZXltZXRyaWNzXD4=</entry>
         <entry>from_data</entry>
+        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist AceA</entry>
         <entry encoding="base64">bm5vcmVtYXAgc3MgOmFjdGlvbiBBY2VBY3Rpb248Y3I+IA==</entry>
         <entry>action MoveLineDown</entry>
         <entry>action MoveLineUp</entry>
@@ -1521,6 +1527,7 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>e kafff.js</entry>
       </history-cmd>
       <history-expr />
       <history-input />
