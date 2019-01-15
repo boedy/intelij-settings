@@ -671,11 +671,10 @@
         <mark key="^" line="161" column="43" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/EventSubscriber.js" timestamp="1547552813410">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/EventSubscriber.js" timestamp="1547566582011">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env" timestamp="1536592706935">
         <mark key="[" line="3" column="10" />
@@ -840,11 +839,11 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="47" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/listener.js" timestamp="1547552777250">
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/listener.js" timestamp="1547566556837">
         <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="44" />
+        <mark key="]" line="5" column="65" />
         <mark key="." line="5" column="44" />
-        <mark key="^" line="5" column="64" />
+        <mark key="^" line="29" column="59" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/storage/logs/laravel.log" timestamp="1536179872020">
         <mark key="[" line="0" column="0" />
@@ -1376,8 +1375,8 @@
       <jump line="435" column="36" filename="$USER_HOME$/Projects/services/device-provisioning/node_modules/kafka-node/lib/kafkaClient.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>posibility</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjbGllbnRJZDogJ3Rlc3QnLAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1389,16 +1388,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>posibility</text>
+        <text>`resin-service-${os.hostname()}5`,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdmVyc2lvbnMgPSAkdGhpcy0+bW9uZXliaXJkLT5yZWN1cnJpbmdTYWxlc0ludm9pY2UoKS0+Z2V0VmVyc2lvbnMoJGlkcyk7CiAgICAgICAgJHJlc3VsdCA9IGFycmF5X3JlZHVjZSgkdmVyc2lvbnMsIGZ1bmN0aW9uKCRhY2MsICR2YWwpewogICAgICAgICAgICAkcmVjdXJyaW5nSW52b2ljZSA9IG5ldyBSZWN1cnJpbmdJbnZvaWNlKCk7CiAgICAgICAgICAgICRyZWN1cnJpbmdJbnZvaWNlLT5tb25leWJpcmRfaW52b2ljZV9pZCA9ICR2YWwtPmlkOwogICAgICAgICAgICAkcmVjdXJyaW5nSW52b2ljZS0+Y29tcGFueV9uYW1lID0gJHZhbC0+Y29udGFjdFsnY29tcGFueV9uYW1lJ107CiAgICAgICAgICAgICRhY2NbXSA9ICRyZWN1cnJpbmdJbnZvaWNlOwogICAgICAgICAgICByZXR1cm4gJGFjYzsKICAgICAgICB9LCBbXSk7CgogICAgICAgIHJldHVybiAkcmVzdWx0Owo=</text>
+      <register name="0" type="4">
+        <text>, fromBeginning: true</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICd3b3JrZmxvd19pZCcgPT4gJHdvcmtmbG93SWQsCiAgICAgICAgICAgICAgICAgICAgJ3N0YXRlJyAgICAgICA9PiAnbGF0ZScKICAgICAgICAgICAgICAgIF0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjbGllbnRJZDogJ3Rlc3QnLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1411,32 +1410,32 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JHRoaXMtPm1vbmV5YmlyZC0+c2FsZXNJbnZvaWNlKCktPmxpc3RWZXJzaW9ucygKICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAnd29ya2Zsb3dfaWQnID0+ICR3b3JrZmxvd0lkLAogICAgICAgICAgICAgICAgICAgICdzdGF0ZScgICAgICAgPT4gJ2xhdGUnCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzd2l0Y2ggKGV2ZW50TmFtZSkgewogICAgY2FzZSAnTG9jYXRpb25BZGRyZXNzVXBkYXRlZCc6CiAgICAgIGF3YWl0IGF0bW9zcGhlcmVBcGkubG9naW4oKTsKICAgICAgY29uc3QgbG9jYXRpb24gPSBhd2FpdCBhdG1vc3BoZXJlQXBpLmZldGNoTG9jYXRpb25EZXRhaWxzKAogICAgICAgIHBheWxvYWQubG9jYXRpb25JZAogICAgICApOwogICAgICByZXNpbi51cGRhdGVOYW1lQnlUYWcoCiAgICAgICAgJ2xvY2F0aW9uX2lkJywKICAgICAgICBwYXlsb2FkLmxvY2F0aW9uSWQsCiAgICAgICAgbG9jYXRpb24uZGlzcGxheU5hbWUKICAgICAgKTsKICAgICAgYnJlYWs7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIENoYXJnZUludm9pY2U6OmRpc3BhdGNoKCRpbnZvaWNlSWQsIHVuaXFpZCgnc3RyaXBlXycsIHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAvLyBJdCdzIHBvc3NpYmxlIHRvIHN0YXJ0IGZyb20gdGhlIGJlZ2lubmluZzoKICAvLyBhd2FpdCBjb25zdW1lci5zdWJzY3JpYmUoeyB0b3BpYzogJ3RvcGljLUMnLCBmcm9tQmVnaW5uaW5nOiB0cnVlIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaWRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoKICogSWYgY29uc3VtZXIgZ2V0IGBvZmZzZXRPdXRPZlJhbmdlYCBldmVudCwgZmV0Y2ggZGF0YSBmcm9tIHRoZSBzbWFsbGVzdChvbGRlc3QpIG9mZnNldAogKi8KLy8gY29uc3VtZXIub24oJ29mZnNldE91dE9mUmFuZ2UnLCBmdW5jdGlvbih0b3BpYykgewovLyAgIHRvcGljLm1heE51bSA9IDI7Ci8vICAgb2Zmc2V0LmZldGNoKFt0b3BpY10sIGZ1bmN0aW9uKGVyciwgb2Zmc2V0cykgewovLyAgICAgaWYgKGVycikgewovLyAgICAgICByZXR1cm4gY29uc29sZS5lcnJvcihlcnIpOwovLyAgICAgfQovLyAgICAgY29uc3QgbWluID0gTWF0aC5taW4ob2Zmc2V0c1t0b3BpYy50b3BpY11bdG9waWMucGFydGl0aW9uXSk7Ci8vICAgICBjb25zdW1lci5zZXRPZmZzZXQodG9waWMudG9waWMsIHRvcGljLnBhcnRpdGlvbiwgbWluKTsKLy8gICB9KTsKLy8gfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
