@@ -166,6 +166,10 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/services/device-provisioning/node_modules/kafka-node/types/index.d.ts" timestamp="1547510882381">
+        <mark key="[" line="277" column="23" />
+        <mark key="]" line="282" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/Playlist.js" timestamp="1541763615333">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -685,11 +689,11 @@
         <mark key="^" line="161" column="43" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/EventSubscriber.js" timestamp="1547507163568">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="12" column="60" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="26" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/EventSubscriber.js" timestamp="1547510914395">
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env" timestamp="1536592706935">
         <mark key="[" line="3" column="10" />
@@ -1402,8 +1406,8 @@
       <jump line="36" column="9" filename="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fetchLatestOffsets</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBvZmZzZXQ/OiBudW1iZXI7CiAgZW5jb2Rpbmc/OiBzdHJpbmc7CiAgYXV0b0NvbW1pdD86IGJvb2xlYW47Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1415,16 +1419,21 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fetchLatestOffsets</text>
+        <text>organisation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qga2Fma2EgPSByZXF1aXJlKCdrYWZrYS1ub2RlJyk7CmNvbnN0IENvbnN1bWVyID0ga2Fma2EuQ29uc3VtZXI7Cgpjb25zdCBjbGllbnQgPSBuZXcga2Fma2EuS2Fma2FDbGllbnQoeyBrYWZrYUhvc3Q6IHByb2Nlc3MuZW52LktBRktBX0JST0tFUlMgfSk7Ci8vIGNvbnN0IG9mZnNldCA9IG5ldyBrYWZrYS5PZmZzZXQoY2xpZW50KTsKCmNvbnN0IGNvbm5lY3Rpb25PcHRpb25zID0gewogIGdyb3VwSWQ6ICdyZXNpbi1zZXJ2aWNlOScsCiAgYXV0b0NvbW1pdDogdHJ1ZSwKfTsKCmNvbnN0IGNvbnN1bWVyID0gbmV3IENvbnN1bWVyKGNsaWVudCwgW10sIGNvbm5lY3Rpb25PcHRpb25zKTsK</text>
+      <register name="0" type="4">
+        <text>{
+  topic: string;
+  offset?: number;
+  encoding?: string;
+  autoCommit?: boolean;
+}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvZmZzZXQ/OiBudW1iZXI7CiAgZW5jb2Rpbmc/OiBzdHJpbmc7CiAgYXV0b0NvbW1pdD86IGJvb2xlYW47Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1437,42 +1446,36 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>var
-var</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gY29uc3VtZXIub24oJ21lc3NhZ2UnLCBldmVudCA9PiB7CiAgICAgIC8vICAgY29uc29sLmxvZyhldmVudCk7CiAgICAgIC8vICAgaWYgKGV2ZW50LnRvcGljID09PSAodG9waWMudG9waWMgfHwgdG9waWMpKSB7CiAgICAgIC8vICAgICB0cnkgewogICAgICAvLyAgICAgICBldmVudC52YWx1ZSA9IGNhbWVsQ2FzZUtleXMoSlNPTi5wYXJzZShldmVudC52YWx1ZSksIHtkZWVwOnRydWV9KTsKICAgICAgLy8gICAgICAgY2IoZXZlbnQpOwogICAgICAvLyAgICAgfSBjYXRjaCAoZSkge30KICAgICAgLy8gICB9CiAgICAgIC8vIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIHBhcnRpdGlvbiA9IDA7CnZhciB0b3BpYyA9ICd0JzsK</text>
+        <text encoding="base64">ICAvLyBhdXRvQ29tbWl0OiB0cnVlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBkYXRhCiAgLy8geyAndCc6IHsgJzAnOiBbOTk5XSB9IH0K</text>
+        <text encoding="base64">ICBpZiAoZXZlbnQudG9waWMgPT09ICh0b3BpYy50b3BpYyB8fCB0b3BpYykpIHsKICAgIHRyeSB7CiAgICAgIGV2ZW50LnZhbHVlID0gY2FtZWxDYXNlS2V5cyhKU09OLnBhcnNlKGV2ZW50LnZhbHVlKSwge2RlZXA6dHJ1ZX0pOwogICAgICBjYihldmVudCk7CiAgICB9IGNhdGNoIChlKSB7fQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3VtZXIgPSBuZXcgQ29uc3VtZXIoY2xpZW50LCBbXSwgY29ubmVjdGlvbk9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MuZW52LkZST01fQkVHSU5OSU5HID09PSAnVFJVRScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29tcHV0ZUFjdGl2ZUNsaWVudHMoKTsK</text>
+        <text encoding="base64">Y29uc3QgY2xpZW50ID0gbmV3IGthZmthLmMoeyBrYWZrYUhvc3Q6IHByb2Nlc3MuZW52LktBRktBX0JST0tFUlMgfSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="4">
-        <text>// computeMrr();
-// computeRevenue();
-// computeBurn();
-// computeInvoicePayment();
-// computeUserActivity();
-// computeCashFlow();
-// deals();</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3VtZXIuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyBpbnNlcnREYXRhLnB1c2goWwogIC8vICAgdmFsLAogIC8vICAgd2Vlay50b3RhbCwKICAvLyAgIHdlZWsubWF1LAogIC8vICAgd2Vlay53YXUsCiAgLy8gICBNYXRoLmZsb29yKHdlZWsuZGF1KSwKICAvLyAgIHdlZWsubW9udGgKICAvLyBdKTsKICAvLyBzaGVldHMuaW5zZXJ0KCJVU0VSUyFBMjpGIiwgaW5zZXJ0RGF0YSk7Cg==</text>
+      <register name="9" type="8">
+        <text>var
+var</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1520,7 +1523,6 @@ var</text>
         <entry encoding="base64">c2V0IHZpc3VhbGJlbGwgc2V0IG5vZXJyb3JiZWxscyA=</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
-        <entry>w</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
@@ -1528,6 +1530,7 @@ var</text>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>e kafff.js</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
