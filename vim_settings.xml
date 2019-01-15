@@ -671,10 +671,11 @@
         <mark key="^" line="161" column="43" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/device-provisioning/src/EventSubscriber.js" timestamp="1547566582011">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/EventSubscriber.js" timestamp="1547568556136">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="18" column="1" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env" timestamp="1536592706935">
         <mark key="[" line="3" column="10" />
@@ -1375,8 +1376,8 @@
       <jump line="435" column="36" filename="$USER_HOME$/Projects/services/device-provisioning/node_modules/kafka-node/lib/kafkaClient.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjbGllbnRJZDogJ3Rlc3QnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>wait</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1388,7 +1389,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`resin-service-${os.hostname()}5`,</text>
+        <text>wait</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvblw+</text>
@@ -1397,7 +1398,7 @@
         <text>, fromBeginning: true</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjbGllbnRJZDogJ3Rlc3QnLAo=</text>
+        <text encoding="base64">ICBhd2FpdCBjb25zdW1lci5zdWJzY3JpYmUodG9waWMpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1411,34 +1412,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBhd2FpdCBjb25zdW1lci5zdWJzY3JpYmUodG9waWMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICBhd2FpdCBjb25zdW1lci5zdWJzY3JpYmUodG9waWMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzd2l0Y2ggKGV2ZW50TmFtZSkgewogICAgY2FzZSAnTG9jYXRpb25BZGRyZXNzVXBkYXRlZCc6CiAgICAgIGF3YWl0IGF0bW9zcGhlcmVBcGkubG9naW4oKTsKICAgICAgY29uc3QgbG9jYXRpb24gPSBhd2FpdCBhdG1vc3BoZXJlQXBpLmZldGNoTG9jYXRpb25EZXRhaWxzKAogICAgICAgIHBheWxvYWQubG9jYXRpb25JZAogICAgICApOwogICAgICByZXNpbi51cGRhdGVOYW1lQnlUYWcoCiAgICAgICAgJ2xvY2F0aW9uX2lkJywKICAgICAgICBwYXlsb2FkLmxvY2F0aW9uSWQsCiAgICAgICAgbG9jYXRpb24uZGlzcGxheU5hbWUKICAgICAgKTsKICAgICAgYnJlYWs7CiAgfQo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnc3Vic2NyaWJlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGllbnRJZDogJ3Rlc3QnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBJdCdzIHBvc3NpYmxlIHRvIHN0YXJ0IGZyb20gdGhlIGJlZ2lubmluZzoKICAvLyBhd2FpdCBjb25zdW1lci5zdWJzY3JpYmUoeyB0b3BpYzogJ3RvcGljLUMnLCBmcm9tQmVnaW5uaW5nOiB0cnVlIH0pCg==</text>
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzd2l0Y2ggKGV2ZW50TmFtZSkgewogICAgY2FzZSAnTG9jYXRpb25BZGRyZXNzVXBkYXRlZCc6CiAgICAgIGF3YWl0IGF0bW9zcGhlcmVBcGkubG9naW4oKTsKICAgICAgY29uc3QgbG9jYXRpb24gPSBhd2FpdCBhdG1vc3BoZXJlQXBpLmZldGNoTG9jYXRpb25EZXRhaWxzKAogICAgICAgIHBheWxvYWQubG9jYXRpb25JZAogICAgICApOwogICAgICByZXNpbi51cGRhdGVOYW1lQnlUYWcoCiAgICAgICAgJ2xvY2F0aW9uX2lkJywKICAgICAgICBwYXlsb2FkLmxvY2F0aW9uSWQsCiAgICAgICAgbG9jYXRpb24uZGlzcGxheU5hbWUKICAgICAgKTsKICAgICAgYnJlYWs7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoKICogSWYgY29uc3VtZXIgZ2V0IGBvZmZzZXRPdXRPZlJhbmdlYCBldmVudCwgZmV0Y2ggZGF0YSBmcm9tIHRoZSBzbWFsbGVzdChvbGRlc3QpIG9mZnNldAogKi8KLy8gY29uc3VtZXIub24oJ29mZnNldE91dE9mUmFuZ2UnLCBmdW5jdGlvbih0b3BpYykgewovLyAgIHRvcGljLm1heE51bSA9IDI7Ci8vICAgb2Zmc2V0LmZldGNoKFt0b3BpY10sIGZ1bmN0aW9uKGVyciwgb2Zmc2V0cykgewovLyAgICAgaWYgKGVycikgewovLyAgICAgICByZXR1cm4gY29uc29sZS5lcnJvcihlcnIpOwovLyAgICAgfQovLyAgICAgY29uc3QgbWluID0gTWF0aC5taW4ob2Zmc2V0c1t0b3BpYy50b3BpY11bdG9waWMucGFydGl0aW9uXSk7Ci8vICAgICBjb25zdW1lci5zZXRPZmZzZXQodG9waWMudG9waWMsIHRvcGljLnBhcnRpdGlvbiwgbWluKTsKLy8gICB9KTsKLy8gfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>action TabShiftActions.MoveFocusDown</text>
       </register>
     </registers>
     <search>
@@ -1486,14 +1487,14 @@
         <entry encoding="base64">c2V0IHZpc3VhbGJlbGwgc2V0IG5vZXJyb3JiZWxscyA=</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
-        <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
-        <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>e kafff.js</entry>
         <entry>w</entry>
         <entry>vsp</entry>
+        <entry>sp</entry>
+        <entry>action TabShiftActions.MoveFocusDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
