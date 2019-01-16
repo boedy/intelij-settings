@@ -527,11 +527,12 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/deezer/deezer-api.js" timestamp="1547654726153">
-        <mark key="[" line="179" column="109" />
-        <mark key="]" line="305" column="37" />
-        <mark key="^" line="305" column="5" />
-        <mark key="." line="305" column="37" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/deezer/deezer-api.js" timestamp="1547657742074">
+        <mark key="'" line="107" column="21" />
+        <mark key="[" line="234" column="43" />
+        <mark key="]" line="256" column="0" />
+        <mark key="^" line="256" column="0" />
+        <mark key="." line="256" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Validator.php" timestamp="1537522123466">
         <mark key="[" line="13" column="30" />
@@ -1250,8 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="8" filename="$USER_HOME$/projects/atmosphere/api/app/Application.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" />
       <jump line="20" column="27" filename="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" />
       <jump line="139" column="0" filename="$USER_HOME$/projects/atmosphere/api/storage/logs/lumen.log" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/atmosphere/api/storage/logs/lumen.log" />
@@ -1350,10 +1349,12 @@
       <jump line="36" column="9" filename="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" />
       <jump line="435" column="36" filename="$USER_HOME$/Projects/services/device-provisioning/node_modules/kafka-node/lib/kafkaClient.js" />
       <jump line="33" column="28" filename="$USER_HOME$/Projects/services/device-provisioning/src/Old.js" />
+      <jump line="334" column="17" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/deezer/deezer-api.js" />
+      <jump line="106" column="21" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/deezer/deezer-api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>578768342</text>
+        <text>md5Origin, id, format, mediaVersion</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1365,16 +1366,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>578768342</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgeyBoZWFkZXJzLCBqYXIscGFyYW1zOiB7IGFwaV92ZXJzaW9uOiAnMS4wJywgYXBpX3Rva2VuOiB0b2tlbiwgaW5wdXQ6ICczJyB9IH0K</text>
+      <register name="0" type="4">
+        <text>md5Origin, id, format, mediaVersion</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwsIGZpbGVTdHJlYW0pOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1388,31 +1389,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEpams7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwsIGZpbGVTdHJlYW0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEucmVzdWx0cy5jaGVja0Zvcm1Mb2dpbik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEpams7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkaWUK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEucmVzdWx0cy5jaGVja0Zvcm1Mb2dpbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4K</text>
+        <text encoding="base64">ICBkaWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgpib3g6IG5vZGU6OApidWlsZDoKICBzdGVwczoKICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IERvIG5vdGhpbmcKICAgICAgICBjb2RlOiBlY2hvICJza2lwIHN0ZXBzIgpkZXBsb3k6CiAgYm94OiBrZXltZXRyaWNzL3BtMjo4LWplc3NpZQogIHN0ZXBzOgogICAgLSBucG0taW5zdGFsbDoKICAgICAgICBvcHRpb25zOiAtLW5vLW9wdGlvbmFsCiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBDb3B5IGZpbGVzCiAgICAgICAgY29kZTogfAogICAgICAgICAgbWtkaXIgLXAgL2FwcAogICAgICAgICAgY3AgLXIgLi8uIC9hcHAKICAgIC0gYXBwbmlmaWMvZXhwYW5kZW52QDAuMS4zOgogICAgICAgIGlucHV0X2ZpbGU6IC9hcHAvLmVudi5wcm9kdWN0aW9uCiAgICAgICAgb3V0cHV0X2ZpbGU6IC9hcHAvLmVudgogICAgLSBpbnRlcm5hbC9kb2NrZXItcHVzaDoKICAgICAgICB1c2VybmFtZTogJERPQ0tFUl9SRVBPX1VTRVJOQU1FCiAgICAgICAgcGFzc3dvcmQ6ICRET0NLRVJfUkVQT19QQVNTV09SRAogICAgICAgIGVtYWlsOiBpbmZvQGtvbGxla3QuZm0KICAgICAgICByZXBvc2l0b3J5OiBrb2xsZWt0L2FzYW5hLXRyYWNraW5nLXNlcnZpY2UKICAgICAgICBjbWQ6IHBtMi1ydW50aW1lIHByb2Nlc3MueW1sCiAgICAgICAgdm9sdW1lczogIi9hcHAiCiAgICAgICAgd29ya2luZy1kaXI6ICIvYXBwIgogICAgICAgIHRhZzogJFdFUkNLRVJfTUFJTl9QSVBFTElORV9TVEFSVEVECiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBJbnN0YWxsIGRlcGVuZGVuY2llcyBmb3IgcmFuY2hlciB1cGdyYWRlIHN0ZXAKICAgICAgICBjb2RlOiB8CiAgICAgICAgICBhcHQtZ2V0IHVwZGF0ZQogICAgICAgICAgYXB0LWdldCBpbnN0YWxsIC15IGN1cmwgdW56aXAKICAgIC0gYm9lZHkvcmFuY2hlci1pbnNlcnZpY2UtdXBncmFkZUAwLjMuMToKICAgICAgICBhY2Nlc3Nfa2V5OiAkUkFOQ0hFUl9BQ0NFU1NfS0VZCiAgICAgICAgc2VjcmV0X2tleTogJFJBTkNIRVJfU0VDUkVUX0tFWQogICAgICAgIHJhbmNoZXJfdXJsOiAkUkFOQ0hFUl9VUkwKICAgICAgICBodHRwczogZmFsc2UgIyBzaG91bGQgaHR0cHMgcHJvdG9jb2wgYmUgdXNlZD8KICAgICAgICB0YWc6ICRXRVJDS0VSX01BSU5fUElQRUxJTkVfU1RBUlRFRCAgIyBkb2NrZXIgdGFnIGZvciB0aGUgYGltYWdlOmAgc2VjdGlvbiBpbiBkb2NrZXItY29tcG9zZQogICAgICAgIHN0YWNrX25hbWU6IGFzYW5hLXRyYWNraW5nICMgUmFuY2hlciBzdGFjayBuYW1lCiAgICAgICAgZG9ja2VyX2ltYWdlOiBrb2xsZWt0L2FzYW5hLXRyYWNraW5nLXNlcnZpY2UKICAgICAgICB1c2VfdGFnOiB0cnVlCiAgICAgICAgdmVyYm9zZTogZmFsc2UKICAgICAgICBmb3JjZTogIGZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
