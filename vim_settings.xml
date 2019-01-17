@@ -684,6 +684,10 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/docker-config/nginx/default.conf" timestamp="1547748736761">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="29" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/tests/playback/webpack.config.babel.js" timestamp="1539162976093">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="26" />
@@ -947,12 +951,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" timestamp="1547747344629">
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" timestamp="1547748769128">
         <mark key="'" line="2466" column="4" />
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="41" column="19" />
-        <mark key="." line="41" column="19" />
-        <mark key="^" line="41" column="19" />
+        <mark key="[" line="108" column="26" />
+        <mark key="]" line="108" column="32" />
+        <mark key="^" line="108" column="32" />
+        <mark key="." line="108" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/plots/index.js" timestamp="1539186133819">
         <mark key="[" line="4" column="35" />
@@ -1500,7 +1504,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>regcred</text>
+        <text>#</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1512,13 +1516,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>regcred</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IGRlZmF1bHQK</text>
+      <register name="0" type="4">
+        <text>try_files $uri =404;
+        fastcgi_split_path_info ^(.+\.php)(/.+)$;
+    	fastcgi_pass php:9000;
+        fastcgi_index index.php;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        include fastcgi_params;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBuYW1lc3BhY2U6IGRlZmF1bHQK</text>
@@ -1608,7 +1617,6 @@
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>e kafff.js</entry>
-        <entry>w</entry>
         <entry>e Dockerfile</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>so</entry>
@@ -1617,6 +1625,7 @@
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>sp</entry>
+        <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
