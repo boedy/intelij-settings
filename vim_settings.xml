@@ -951,10 +951,10 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" timestamp="1547750483563">
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" timestamp="1547752305556">
         <mark key="'" line="2466" column="4" />
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="13" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="22" />
         <mark key="^" line="108" column="32" />
         <mark key="." line="25" column="13" />
       </file>
@@ -1510,7 +1510,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0eXBlOiBDbHVzdGVySVAK</text>
+        <text encoding="base64">ICAgICAgaW1hZ2VQdWxsU2VjcmV0czoKICAgICAgLSBuYW1lOiBkb2NrZXJodWIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1527,13 +1527,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>try_files $uri =404;
-        fastcgi_split_path_info ^(.+\.php)(/.+)$;
-    	fastcgi_pass php:9000;
-        fastcgi_index index.php;
-        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
-        include fastcgi_params;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaW1hZ2VQdWxsU2VjcmV0czoKICAgICAgLSBuYW1lOiBkb2NrZXJodWIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB0eXBlOiBDbHVzdGVySVAK</text>
