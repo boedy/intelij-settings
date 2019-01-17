@@ -407,11 +407,11 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/queue.yaml" timestamp="1547744261477">
-        <mark key="[" line="42" column="33" />
-        <mark key="]" line="42" column="33" />
-        <mark key="." line="42" column="33" />
-        <mark key="^" line="42" column="21" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/queue.yaml" timestamp="1547753530400">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/app.js" timestamp="1547495447092">
         <mark key="[" line="11" column="13" />
@@ -684,9 +684,9 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/docker-config/nginx/default.conf" timestamp="1547748736761">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="29" column="30" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/docker-config/nginx/default.conf" timestamp="1547753900497">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/tests/playback/webpack.config.babel.js" timestamp="1539162976093">
         <mark key="[" line="14" column="17" />
@@ -951,12 +951,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" timestamp="1547752305556">
-        <mark key="'" line="2466" column="4" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="22" />
-        <mark key="^" line="108" column="32" />
-        <mark key="." line="25" column="13" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" timestamp="1547754435166">
+        <mark key="'" line="2480" column="4" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="108" column="3" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/plots/index.js" timestamp="1539186133819">
         <mark key="[" line="4" column="35" />
@@ -1303,6 +1303,12 @@
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/config/queue.php" timestamp="1547753041268">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="28" />
+        <mark key="." line="46" column="28" />
+        <mark key="^" line="46" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/test.js" timestamp="1537733451123">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="44" />
@@ -1510,7 +1516,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2VQdWxsU2VjcmV0czoKICAgICAgLSBuYW1lOiBkb2NrZXJodWIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1522,16 +1528,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2VQdWxsU2VjcmV0czoKICAgICAgLSBuYW1lOiBkb2NrZXJodWIK</text>
+        <text encoding="base64">ICAgIGFjY2Vzc19sb2cgICAgICAgICAgICAgL3Zhci9sb2cvbmdpbngvYWNjZXNzLmxvZyBtYWluX2V4dDsKCWVycm9yX2xvZyAgICAgICAgICAgICAgL3Zhci9sb2cvbmdpbngvZXJyb3IubG9nIHdhcm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0eXBlOiBDbHVzdGVySVAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1545,31 +1551,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AKICAgIHRhcmdldFBvcnQ6IDMzMDYK</text>
+        <text encoding="base64">ICAgIGxvZ19mb3JtYXQgIG1haW5fZXh0ICAgJyRyZW1vdGVfYWRkciAtICRyZW1vdGVfdXNlciBbJHRpbWVfbG9jYWxdICIkcmVxdWVzdCIgJwogICAgJyRzdGF0dXMgJGJvZHlfYnl0ZXNfc2VudCAiJGh0dHBfcmVmZXJlciIgJwogICAgJyIkaHR0cF91c2VyX2FnZW50IiAiJGh0dHBfeF9mb3J3YXJkZWRfZm9yIiAnCiAgICAncnQ9JHJlcXVlc3RfdGltZSc7Cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IGRlZmF1bHQK</text>
+      <register name="3" type="8">
+        <text>instore-api/nginx/
+instore-api/nginx/</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9kYXRhICYmIGNob3duIGJlYW5zdGFsa2Q6YmVhbnN0YWxrZCAvZGF0YQo=</text>
+        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AKICAgIHRhcmdldFBvcnQ6IDYzNzkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Vk9MVU1FIFsiL2RhdGEiXQo=</text>
+        <text encoding="base64">ICB0eXBlOiBDbHVzdGVySVAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGFkZGdyb3VwIC1TIGJlYW5zdGFsa2QgJiYgYWRkdXNlciAtUyAtRyBiZWFuc3RhbGtkIGJlYW5zdGFsa2QKUlVOIGFwayBhZGQgLS1uby1jYWNoZSAnc3UtZXhlYz49MC4yJwoK</text>
+        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AKICAgIHRhcmdldFBvcnQ6IDMzMDYK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TUFJTlRBSU5FUiBUdW5hIEFyYXMgPGlsZXRpc2ltQHVyZXRnZWMuY29tPgo=</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6IGRlZmF1bHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">UlVOIG1rZGlyIC9kYXRhICYmIGNob3duIGJlYW5zdGFsa2Q6YmVhbnN0YWxrZCAvZGF0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IGFwaQo=</text>
+        <text encoding="base64">Vk9MVU1FIFsiL2RhdGEiXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
