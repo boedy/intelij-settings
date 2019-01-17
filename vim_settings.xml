@@ -213,6 +213,12 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="35" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/docker-config/php/Dockerfile" timestamp="1547741633241">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/.env.example" timestamp="1540993126046">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -268,6 +274,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="42" column="8" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/deployments.yaml" timestamp="1547741753897">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Organisation/Location/LocationPlaylistMixin.php" timestamp="1536854228306">
         <mark key="[" line="35" column="0" />
@@ -925,11 +935,11 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" timestamp="1547740362017">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="60" column="17" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" timestamp="1547741756683">
+        <mark key="'" line="2461" column="4" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="46" column="28" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/plots/index.js" timestamp="1539186133819">
         <mark key="[" line="4" column="35" />
@@ -1020,6 +1030,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/services/device-provisioning/src/Old.js" timestamp="1547574062787">
+        <mark key="'" line="33" column="28" />
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/AccountingService.php" timestamp="1547562990845">
         <mark key="[" line="154" column="28" />
@@ -1351,8 +1367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="0" filename="$USER_HOME$/projects/atmosphere/content-digger/src/deezer/deezer-api.js" />
-      <jump line="29" column="66" filename="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Delegations.js" />
       <jump line="86" column="22" filename="$USER_HOME$/Downloads/tesdsa/client/index.html" />
       <jump line="85" column="7" filename="$USER_HOME$/Downloads/tesdsa/client/index.html" />
       <jump line="290" column="0" filename="$USER_HOME$/Downloads/tesdsa/client/index.html" />
@@ -1451,10 +1465,12 @@
       <jump line="13" column="4" filename="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/EventPublisher.js" />
       <jump line="39" column="8" filename="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/EventPublisher.js" />
       <jump line="26" column="19" filename="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/EventPublisher.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
+      <jump line="2038" column="4" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWZmaW5pdHk6CiAgICAgICAgbm9kZUFmZmluaXR5OgogICAgICAgICAgcmVxdWlyZWREdXJpbmdTY2hlZHVsaW5nSWdub3JlZER1cmluZ0V4ZWN1dGlvbjoKICAgICAgICAgICAgbm9kZVNlbGVjdG9yVGVybXM6CiAgICAgICAgICAgIC0gbWF0Y2hFeHByZXNzaW9uczoKICAgICAgICAgICAgICAtIGtleTogcGhhc2UKICAgICAgICAgICAgICAgIG9wZXJhdG9yOiBOb3RJbgogICAgICAgICAgICAgICAgdmFsdWVzOgogICAgICAgICAgICAgICAgLSBtb25pdG9yaW5nCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1466,16 +1482,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>php</text>
+        <text>/etc/nginx/nginx.con</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>quay.io/kollekt/instore-php</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgYWZmaW5pdHk6CiAgICAgICAgbm9kZUFmZmluaXR5OgogICAgICAgICAgcmVxdWlyZWREdXJpbmdTY2hlZHVsaW5nSWdub3JlZER1cmluZ0V4ZWN1dGlvbjoKICAgICAgICAgICAgbm9kZVNlbGVjdG9yVGVybXM6CiAgICAgICAgICAgIC0gbWF0Y2hFeHByZXNzaW9uczoKICAgICAgICAgICAgICAtIGtleTogcGhhc2UKICAgICAgICAgICAgICAgIG9wZXJhdG9yOiBOb3RJbgogICAgICAgICAgICAgICAgdmFsdWVzOgogICAgICAgICAgICAgICAgLSBtb25pdG9yaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6IHdlYi1jb25maWcKICAgICAgICAgIG1vdW50UGF0aDogL3Vzci9sb2NhbC9ldGMvcGhwL3BocC5pbmkKICAgICAgICAgIHN1YlBhdGg6IHBocC5pbmkKICAgICAgICAtIG5hbWU6IHdlYi1jb25maWcKICAgICAgICAgIG1vdW50UGF0aDogL3Vzci9sb2NhbC9ldGMvcGhwLWZwbS5kL3d3dy5jb25mCiAgICAgICAgICBzdWJQYXRoOiB3d3cuY29uZgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1489,32 +1505,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIEltcG9ydGFudCEgQWZ0ZXIgdGhpcyBjb250YWluZXIgaGFzIHN0YXJ0ZWQsIHRoZSBQSFAgZmlsZXMKICAgICAgICAjIGluIG91ciBEb2NrZXIgaW1hZ2UgYXJlbid0IGluIHRoZSBzaGFyZWQgdm9sdW1lLiBXZSBuZWVkIHRvCiAgICAgICAgIyBnZXQgdGhlbSBpbnRvIHRoZSBzaGFyZWQgdm9sdW1lLiBJZiB3ZSB0cmllZCB0byB3cml0ZSBkaXJlY3RseQogICAgICAgICMgdG8gdGhpcyB2b2x1bWUgZnJvbSBvdXIgRG9ja2VyIGltYWdlIHRoZSBmaWxlcyB3b3VsZG4ndCBhcHBlYXIKICAgICAgICAjIGluIHRoZSBuZ2lueCBjb250YWluZXIuCiAgICAgICAgIwogICAgICAgICMgU28sIGFmdGVyIHRoZSBjb250YWluZXIgaGFzIHN0YXJ0ZWQsIGNvcHkgdGhlIFBIUCBmaWxlcyBmcm9tIHRoaXMKICAgICAgICAjIGNvbnRhaW5lcidzIGxvY2FsIGZpbGVzeXN0ZW0gKC9hcHAgLS0gYWRkZWQgdmlhIHRoZSBEb2NrZXIgaW1hZ2UpCiAgICAgICAgIyB0byB0aGUgc2hhcmVkIHZvbHVtZSwgd2hpY2ggaXMgbW91bnRlZCBhdCAvdmFyL3d3dy9odG1sLgogICAgICAgIGxpZmVjeWNsZToKICAgICAgICAgIHBvc3RTdGFydDoKICAgICAgICAgICAgZXhlYzoKICAgICAgICAgICAgICBjb21tYW5kOiBbIi9iaW4vc2giLCAiLWMiLCAiY3AgLXIgL2FwcC8uIC92YXIvd3d3L2h0bWwiXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyBPdXIgbmdpbnggY29udGFpbmVyLCB3aGljaCB1c2VzIHRoZSBjb25maWd1cmF0aW9uIGRlY2xhcmVkIGFib3ZlLAogICAgICAjIGFsb25nIHdpdGggdGhlIGZpbGVzIHNoYXJlZCB3aXRoIHRoZSBQSFAtRlBNIGFwcC4K</text>
+        <text encoding="base64">LS0tCmtpbmQ6IENvbmZpZ01hcAphcGlWZXJzaW9uOiB2MQptZXRhZGF0YToKICBuYW1lOiBwaHAtY29uZmlnCmRhdGE6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBpbWFnZTogcmVkaXM6My4yCiAgICAgICAgbmFtZTogcmVkaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIEltcG9ydGFudCEgQWZ0ZXIgdGhpcyBjb250YWluZXIgaGFzIHN0YXJ0ZWQsIHRoZSBQSFAgZmlsZXMKICAgICAgICAjIGluIG91ciBEb2NrZXIgaW1hZ2UgYXJlbid0IGluIHRoZSBzaGFyZWQgdm9sdW1lLiBXZSBuZWVkIHRvCiAgICAgICAgIyBnZXQgdGhlbSBpbnRvIHRoZSBzaGFyZWQgdm9sdW1lLiBJZiB3ZSB0cmllZCB0byB3cml0ZSBkaXJlY3RseQogICAgICAgICMgdG8gdGhpcyB2b2x1bWUgZnJvbSBvdXIgRG9ja2VyIGltYWdlIHRoZSBmaWxlcyB3b3VsZG4ndCBhcHBlYXIKICAgICAgICAjIGluIHRoZSBuZ2lueCBjb250YWluZXIuCiAgICAgICAgIwogICAgICAgICMgU28sIGFmdGVyIHRoZSBjb250YWluZXIgaGFzIHN0YXJ0ZWQsIGNvcHkgdGhlIFBIUCBmaWxlcyBmcm9tIHRoaXMKICAgICAgICAjIGNvbnRhaW5lcidzIGxvY2FsIGZpbGVzeXN0ZW0gKC9hcHAgLS0gYWRkZWQgdmlhIHRoZSBEb2NrZXIgaW1hZ2UpCiAgICAgICAgIyB0byB0aGUgc2hhcmVkIHZvbHVtZSwgd2hpY2ggaXMgbW91bnRlZCBhdCAvdmFyL3d3dy9odG1sLgogICAgICAgIGxpZmVjeWNsZToKICAgICAgICAgIHBvc3RTdGFydDoKICAgICAgICAgICAgZXhlYzoKICAgICAgICAgICAgICBjb21tYW5kOiBbIi9iaW4vc2giLCAiLWMiLCAiY3AgLXIgL2FwcC8uIC92YXIvd3d3L2h0bWwiXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBPdXIgbmdpbnggY29udGFpbmVyLCB3aGljaCB1c2VzIHRoZSBjb25maWd1cmF0aW9uIGRlY2xhcmVkIGFib3ZlLAogICAgICAjIGFsb25nIHdpdGggdGhlIGZpbGVzIHNoYXJlZCB3aXRoIHRoZSBQSFAtRlBNIGFwcC4K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLSBpbWFnZTogcmVkaXM6My4yCiAgICAgICAgbmFtZTogcmVkaXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>nginx
-nginx</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
@@ -1570,8 +1585,8 @@ nginx</text>
         <entry>q</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>vsp</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
