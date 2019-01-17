@@ -951,11 +951,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" timestamp="1547763426909">
-        <mark key="[" line="150" column="9" />
-        <mark key="]" line="151" column="3" />
-        <mark key="." line="151" column="3" />
-        <mark key="^" line="151" column="3" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" timestamp="1547764904783">
+        <mark key="'" line="2500" column="4" />
+        <mark key="[" line="150" column="32" />
+        <mark key="]" line="150" column="33" />
+        <mark key="^" line="54" column="12" />
+        <mark key="." line="150" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/plots/index.js" timestamp="1539186133819">
         <mark key="[" line="4" column="35" />
@@ -1412,8 +1413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="7" filename="$USER_HOME$/Downloads/tesdsa/client/index.html" />
-      <jump line="290" column="0" filename="$USER_HOME$/Downloads/tesdsa/client/index.html" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/src/DeviceProvisioner.js" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/src/AtmosphereApi.js" />
@@ -1512,10 +1511,12 @@
       <jump line="73" column="0" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
       <jump line="2038" column="4" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
       <jump line="59" column="23" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
+      <jump line="589" column="32" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
+      <jump line="2500" column="4" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgc2V0IHVwbG9hZCBzaXRlIGxpbWl0CiAgICBjbGllbnRfbWF4X2JvZHlfc2l6ZSAxMjVtOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1527,7 +1528,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
@@ -1536,7 +1537,7 @@
         <text encoding="base64">ICAgICMgc2V0IHVwbG9hZCBzaXRlIGxpbWl0CiAgICBjbGllbnRfbWF4X2JvZHlfc2l6ZSAxMjVtOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uOiB1bmtub3duLWdpdC1oYXNoCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1550,32 +1551,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIGtleTogdmVyc2lvbgogICAgICAgICAgICAgICAgb3BlcmF0b3I6IEluCiAgICAgICAgICAgICAgICB2YWx1ZXM6CiAgICAgICAgICAgICAgICAtIHVua25vd24tZ2l0LWhhc2gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ19mb3JtYXQgIG1haW5fZXh0ICAgJyRyZW1vdGVfYWRkciAtICRyZW1vdGVfdXNlciBbJHRpbWVfbG9jYWxdICIkcmVxdWVzdCIgJwogICAgJyRzdGF0dXMgJGJvZHlfYnl0ZXNfc2VudCAiJGh0dHBfcmVmZXJlciIgJwogICAgJyIkaHR0cF91c2VyX2FnZW50IiAiJGh0dHBfeF9mb3J3YXJkZWRfZm9yIiAnCiAgICAncnQ9JHJlcXVlc3RfdGltZSc7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>instore-api/nginx/
-instore-api/nginx/</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AKICAgIHRhcmdldFBvcnQ6IDYzNzkK</text>
+        <text encoding="base64">ICAgIGxvZ19mb3JtYXQgIG1haW5fZXh0ICAgJyRyZW1vdGVfYWRkciAtICRyZW1vdGVfdXNlciBbJHRpbWVfbG9jYWxdICIkcmVxdWVzdCIgJwogICAgJyRzdGF0dXMgJGJvZHlfYnl0ZXNfc2VudCAiJGh0dHBfcmVmZXJlciIgJwogICAgJyIkaHR0cF91c2VyX2FnZW50IiAiJGh0dHBfeF9mb3J3YXJkZWRfZm9yIiAnCiAgICAncnQ9JHJlcXVlc3RfdGltZSc7Cgo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB0eXBlOiBDbHVzdGVySVAK</text>
+      <register name="7" type="8">
+        <text>instore-api/nginx/
+instore-api/nginx/</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AKICAgIHRhcmdldFBvcnQ6IDMzMDYK</text>
+        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AKICAgIHRhcmdldFBvcnQ6IDYzNzkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IGRlZmF1bHQK</text>
+        <text encoding="base64">ICB0eXBlOiBDbHVzdGVySVAK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
