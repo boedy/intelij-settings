@@ -269,11 +269,11 @@
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/index.js" timestamp="1547727990722">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="42" column="8" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/index.js" timestamp="1547825403269">
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="27" />
+        <mark key="^" line="38" column="27" />
+        <mark key="." line="38" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/deployment/deployments.yaml" timestamp="1547741753897">
         <mark key="[" line="13" column="0" />
@@ -1328,6 +1328,13 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/scripts/kollekt/front/index.js" timestamp="1547826989551">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="158" column="14" />
+        <mark key="]" line="104" column="2" />
+        <mark key="." line="104" column="2" />
+        <mark key="^" line="104" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/node_modules/apollo-datasource-rest/src/RESTDataSource.ts" timestamp="1540991063526">
         <mark key="[" line="153" column="23" />
         <mark key="]" line="153" column="22" />
@@ -1414,7 +1421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/src/DeviceProvisioner.js" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/src/AtmosphereApi.js" />
       <jump line="99" column="2" filename="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" />
@@ -1514,10 +1520,11 @@
       <jump line="59" column="23" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
       <jump line="589" column="32" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
       <jump line="2500" column="4" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
+      <jump line="4" column="2" filename="$USER_HOME$/Projects/scripts/kollekt/front/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>999</text>
+        <text>j</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1529,64 +1536,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>999</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzXD4=</text>
+        <text encoding="base64">XDxjb25zdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgc2V0IHVwbG9hZCBzaXRlIGxpbWl0CiAgICBjbGllbnRfbWF4X2JvZHlfc2l6ZSAxMjVtOwo=</text>
+        <text encoding="base64">ICAgIGlmIChjLnRhZ3MuZmlsdGVyKHQgPT4gdC5uYW1lID09PSAnQWN0aXZhdGVkJykubGVuZ3RoKSB7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uOiB1bmtub3duLWdpdC1oYXNoCg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="36" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="74" code="0" mods="0" />
-        </keys>
+        <text>pjjjj$</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIGtleTogdmVyc2lvbgogICAgICAgICAgICAgICAgb3BlcmF0b3I6IEluCiAgICAgICAgICAgICAgICB2YWx1ZXM6CiAgICAgICAgICAgICAgICAtIHVua25vd24tZ2l0LWhhc2gK</text>
+        <text encoding="base64">ICAgIGMudGFncy5maWx0ZXIoIHQgPT4gY29uc29sZS5sb2codC5uYW1lKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXh0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XQo7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBbewogIGlkOiAnMDFlOTEwNTEtYmRiMi00YTYwLTkwMjMtNjhhZGY5NTMyMDdiJywKICB0bzogJ25vdWYudmljZW5jaW9Ac3BhY2Vzd29ya3MuY29tJywKICBsb2NhdGlvbklkOiAnJwp9XQogIFt7CiAgaWQ6ICc5M2VmOThlZi00MzcxLTRmMGQtODI4OC0zNDZmZTdiMGM1MDInLAogIHRvOiAncmVjZXB0aW9uLnRyaXBsZW9uZXNvbWVyc2V0QHNwYWNlc3dvcmtzLmNvbScsCiAgbG9jYXRpb25JZDogJycKfV0KICBbewogIGlkOiAnOGQxZTIzZDgtMzc1My00MGJjLWI2ZWQtZGNkYjFhYzIzNzUwJywKICB0bzogJ3JlY2VwdGlvbi5lYWxpbmdhdXJvcmFAc3BhY2Vzd29ya3MuY29tJywKICBsb2NhdGlvbklkOiAnJwp9XQogIFt7CiAgaWQ6ICdlNTM5MzE5NC1lZDIxLTQ5ZmYtOWQ0ZC1kMTAzOWViNWExNTInLAogIHRvOiAncmVjZXB0aW9uLm92ZXJ0aGVyaGluZUBzcGFjZXN3b3Jrcy5jb20nLAogIGxvY2F0aW9uSWQ6ICcnCn1dCiAgW3sKICBpZDogJ2EzYmE1YjgyLTMyYWUtNDQzYS1iOTY4LWQzYWQ3YzJlMTI4ZScsCiAgdG86ICdyZWNlcHRpb24uaGVhdGhyb3dAc3BhY2Vzd29ya3MuY29tJywKICBsb2NhdGlvbklkOiAnJwp9XQogIFt7CiAgaWQ6ICcwMWU5MTA1MS1iZGIyLTRhNjAtOTAyMy02OGFkZjk1MzIwN2InLAogIHRvOiAnbm91Zi52aWNlbmNpb0BzcGFjZXN3b3Jrcy5jb20nLAogIGxvY2F0aW9uSWQ6ICcnCn1dCiAgW3sKICBpZDogJzkzZWY5OGVmLTQzNzEtNGYwZC04Mjg4LTM0NmZlN2IwYzUwMicsCiAgdG86ICdyZWNlcHRpb24udHJpcGxlb25lc29tZXJzZXRAc3BhY2Vzd29ya3MuY29tJywKICBsb2NhdGlvbklkOiAnJwp9XQogIFt7CiAgaWQ6ICc4ZDFlMjNkOC0zNzUzLTQwYmMtYjZlZC1kY2RiMWFjMjM3NTAnLAogIHRvOiAncmVjZXB0aW9uLmVhbGluZ2F1cm9yYUBzcGFjZXN3b3Jrcy5jb20nLAogIGxvY2F0aW9uSWQ6ICcnCn1dCiAgW3sKICBpZDogJ2U1MzkzMTk0LWVkMjEtNDlmZi05ZDRkLWQxMDM5ZWI1YTE1MicsCiAgdG86ICdyZWNlcHRpb24ub3ZlcnRoZXJoaW5lQHNwYWNlc3dvcmtzLmNvbScsCiAgbG9jYXRpb25JZDogJycKfV0KICBbewogIGlkOiAnYTNiYTViODItMzJhZS00NDNhLWI5NjgtZDNhZDdjMmUxMjhlJywKICB0bzogJ3JlY2VwdGlvbi5oZWF0aHJvd0BzcGFjZXN3b3Jrcy5jb20nLAogIGxvY2F0aW9uSWQ6ICcnCn1dCiAgW3sKICBpZDogJzAxZTkxMDUxLWJkYjItNGE2MC05MDIzLTY4YWRmOTUzMjA3YicsCiAgdG86ICdub3VmLnZpY2VuY2lvQHNwYWNlc3dvcmtzLmNvbScsCiAgbG9jYXRpb25JZDogJycKfV0KICBbewogIGlkOiAnOTNlZjk4ZWYtNDM3MS00ZjBkLTgyODgtMzQ2ZmU3YjBjNTAyJywKICB0bzogJ3JlY2VwdGlvbi50cmlwbGVvbmVzb21lcnNldEBzcGFjZXN3b3Jrcy5jb20nLAogIGxvY2F0aW9uSWQ6ICcnCn1dCiAgW3sKICBpZDogJzhkMWUyM2Q4LTM3NTMtNDBiYy1iNmVkLWRjZGIxYWMyMzc1MCcsCiAgdG86ICdyZWNlcHRpb24uZWFsaW5nYXVyb3JhQHNwYWNlc3dvcmtzLmNvbScsCiAgbG9jYXRpb25JZDogJycKfV0KICBbewogIGlkOiAnZTUzOTMxOTQtZWQyMS00OWZmLTlkNGQtZDEwMzllYjVhMTUyJywKICB0bzogJ3JlY2VwdGlvbi5vdmVydGhlcmhpbmVAc3BhY2Vzd29ya3MuY29tJywKICBsb2NhdGlvbklkOiAnJwp9XQogIFt7CiAgaWQ6ICdhM2JhNWI4Mi0zMmFlLTQ0M2EtYjk2OC1kM2FkN2MyZTEyOGUnLAogIHRvOiAncmVjZXB0aW9uLmhlYXRocm93QHNwYWNlc3dvcmtzLmNvbScsCiAgbG9jYXRpb25JZDogJycKfV0KICBbewogIGlkOiAnMDFlOTEwNTEtYmRiMi00YTYwLTkwMjMtNjhhZGY5NTMyMDdiJywKICB0bzogJ25vdWYudmljZW5jaW9Ac3BhY2Vzd29ya3MuY29tJywKICBsb2NhdGlvbklkOiAnJwp9XQogIFt7CiAgaWQ6ICc5M2VmOThlZi00MzcxLTRmMGQtODI4OC0zNDZmZTdiMGM1MDInLAogIHRvOiAncmVjZXB0aW9uLnRyaXBsZW9uZXNvbWVyc2V0QHNwYWNlc3dvcmtzLmNvbScsCiAgbG9jYXRpb25JZDogJycKfV0KICBbewogIGlkOiAnOGQxZTIzZDgtMzc1My00MGJjLWI2ZWQtZGNkYjFhYzIzNzUwJywKICB0bzogJ3JlY2VwdGlvbi5lYWxpbmdhdXJvcmFAc3BhY2Vzd29ya3MuY29tJywKICBsb2NhdGlvbklkOiAnJwp9XQogIFt7CiAgaWQ6ICdlNTM5MzE5NC1lZDIxLTQ5ZmYtOWQ0ZC1kMTAzOWViNWExNTInLAogIHRvOiAncmVjZXB0aW9uLm92ZXJ0aGVyaGluZUBzcGFjZXN3b3Jrcy5jb20nLAogIGxvY2F0aW9uSWQ6ICcnCn1dCiAgW3sKICBpZDogJ2EzYmE1YjgyLTMyYWUtNDQzYS1iOTY4LWQzYWQ3YzJlMTI4ZScsCiAgdG86ICdyZWNlcHRpb24uaGVhdGhyb3dAc3BhY2Vzd29ya3MuY29tJywKICBsb2NhdGlvbklkOiAnJwp9XQogIFt7CiAgaWQ6ICcwMWU5MTA1MS1iZGIyLTRhNjAtOTAyMy02OGFkZjk1MzIwN2InLAogIHRvOiAnbm91Zi52aWNlbmNpb0BzcGFjZXN3b3Jrcy5jb20nLAogIGxvY2F0aW9uSWQ6ICcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ19mb3JtYXQgIG1haW5fZXh0ICAgJyRyZW1vdGVfYWRkciAtICRyZW1vdGVfdXNlciBbJHRpbWVfbG9jYWxdICIkcmVxdWVzdCIgJwogICAgJyRzdGF0dXMgJGJvZHlfYnl0ZXNfc2VudCAiJGh0dHBfcmVmZXJlciIgJwogICAgJyIkaHR0cF91c2VyX2FnZW50IiAiJGh0dHBfeF9mb3J3YXJkZWRfZm9yIiAnCiAgICAncnQ9JHJlcXVlc3RfdGltZSc7Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlkID0gdXVpZCgpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="8">
-        <text>instore-api/nginx/
-instore-api/nginx/</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhLmRhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AKICAgIHRhcmdldFBvcnQ6IDYzNzkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0eXBlOiBDbHVzdGVySVAK</text>
+        <text encoding="base64">ICAvLyAudGhlbihhc3luYyAoKSA9PiB7CiAgLy8gICBmb3IobGV0IGkgPSAwOyBpIDwgY29udmVyc2F0aW9uSWRzLmxlbmd0aDsgaSsrKXsKICAvLyAgICAgYXdhaXQgZ2V0TGlua3MoY29udmVyc2F0aW9uSWRzW2ldKTsKICAvLyAgIH0KICAvLyB9KTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzXD4=</last-search>
+      <last-search encoding="base64">XDxjb25zdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdFw+</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
       <last-dir>-1</last-dir>
@@ -1611,9 +1609,9 @@ instore-api/nginx/</text>
         <entry encoding="base64">XDxrZXltZXRyaWNzXD4=</entry>
         <entry>from_data</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
-        <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry encoding="base64">XDxzaWduYWxUcmFwc1w+</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
+        <entry encoding="base64">XDxjb25zdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
