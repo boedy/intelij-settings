@@ -884,11 +884,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/test_listen.js" timestamp="1547830443975">
-        <mark key="[" line="6" column="79" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/test_listen.js" timestamp="1547832179634">
+        <mark key="[" line="134" column="2" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/server.js" timestamp="1541087470153">
         <mark key="[" line="41" column="9" />
@@ -1227,7 +1227,7 @@
         <mark key="." line="5" column="54" />
         <mark key="^" line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/AccountDelegationLinkGenerated.js" timestamp="1547828858833" />
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/AccountDelegationLinkGenerated.js" timestamp="1547831576014" />
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1543591383008">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
@@ -1525,7 +1525,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBkZWxlZ2F0aW9uUmVxdWVzdHMgPSAoYXdhaXQgc3RvcmUuZ2V0KCdkZWxlZ2F0aW9uUmVxdWVzdHMnKSkgfHwge307Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnROYW1lKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1537,7 +1537,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">ID0gbG9jYXRpb25JZCk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdFw+</text>
@@ -1546,38 +1546,38 @@
         <text encoding="base64">ICAgIGNhc2UgJ0FjY291bnREZWxlZ2F0aW9uQ29tcGxldGVkJzoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBkZWxlZ2F0aW9uUmVxdWVzdHMgPSAoYXdhaXQgc3RvcmUuZ2V0KCdkZWxlZ2F0aW9uUmVxdWVzdHMnKSkgfHwge307Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnROYW1lKTsK</text>
       </register>
       <register name="q" type="4">
         <text>pjjjj$</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBpZiAoIWV2ZW50TmFtZSkgcmV0dXJuOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBkZWxlZ2F0aW9uUmVxdWVzdHMgPSAoYXdhaXQgc3RvcmUuZ2V0KCdkZWxlZ2F0aW9uUmVxdWVzdHMnKSkgfHwge307Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>{
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB7CiAgfQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhc2UgJ0xvY2F0aW9uRGlzY29udGludWVkJzp7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZwo=</text>
+        <text encoding="base64">ICB7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRlbGVnYXRpb25SZXF1ZXN0c1tsb2NhdGlvbklkXSA9PT0gdW5kZWZpbmVkKSBicmVhazsKICAgICAgY29uc3QgY29udmVyc2F0aW9uSWQgPSBkZWxlZ2F0aW9uUmVxdWVzdHNbbG9jYXRpb25JZF0udXJsCiAgICAgICAgLnNwbGl0KCcvJykKICAgICAgICAucG9wKCk7CiAgICAgIGRlbGV0ZSBkZWxlZ2F0aW9uUmVxdWVzdHNbbG9jYXRpb25JZF07CiAgICAgIGF3YWl0IHN0b3JlLnNldCgnZGVsZWdhdGlvblJlcXVlc3RzJywgZGVsZWdhdGlvblJlcXVlc3RzKTsKICAgICAgYXdhaXQgdG8oCiAgICAgICAgUHJvbWlzZS5hbGwoWwogICAgICAgICAgRnJvbnQucmVtb3ZlVGFnKGNvbnZlcnNhdGlvbklkLCAnUmVtaW5kaW5nJyksCiAgICAgICAgICBGcm9udC5hZGRDb21wbGV0ZWRUYWcoY29udmVyc2F0aW9uSWQpLAogICAgICAgIF0pCiAgICAgICk7CiAgICAgIGJyZWFrOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgJ0xvY2F0aW9uRGlzY29udGludWVkJzp7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRlbGVnYXRpb25SZXF1ZXN0c1tsb2NhdGlvbklkXSA9PT0gdW5kZWZpbmVkKSBicmVhazsKICAgICAgYXdhaXQgc3RvcmUuZGVsZXRlKGRlbGVnYXRpb25JZCk7CiAgICAgIGNvbnN0IGNvbnZlcnNhdGlvbklkcyA9IGF3YWl0IEZyb250LmdldEV4cGlyZWREZWxlZ2F0aW9uRW1haWxzKAogICAgICAgIGRlbGVnYXRpb25JZAogICAgICApOwogICAgICBmb3IgKGNvbnN0IGNvbnZlcnNhdGlvbklkIG9mIGNvbnZlcnNhdGlvbklkcykgewogICAgICAgIGF3YWl0IHRvKAogICAgICAgICAgUHJvbWlzZS5hbGwoWwogICAgICAgICAgICBGcm9udC5yZW1vdmVUYWcoY29udmVyc2F0aW9uSWQsICdSZW1pbmRpbmcnKSwKICAgICAgICAgICAgRnJvbnQuYWRkRXhwaXJlZFRhZyhjb252ZXJzYXRpb25JZCksCiAgICAgICAgICBdKQogICAgICAgICk7CiAgICAgIH0KICAgICAgYXdhaXQgRnJvbnQuY2xlYXJFeHBpcmVkRGVsZWdhdGlvbkVtYWlscyhkZWxlZ2F0aW9uSWQpOwogICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIGxvZwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
