@@ -65,6 +65,7 @@
         <mark key="." line="28" column="5" />
         <mark key="^" line="28" column="5" />
       </file>
+      <file name="/sync.js" timestamp="1547995334710" />
       <file name="$USER_HOME$/Projects/services/device-provisioning/process.yml" timestamp="1538665140586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="14" />
@@ -187,6 +188,11 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/services/asana-tracking/deployment/services.yaml" timestamp="1547991909880">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/Dockerfile" timestamp="1538665090563">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="28" />
@@ -299,9 +305,9 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/services/asana-tracking/src/listener.js" timestamp="1547661423896">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="52" />
+      <file name="$USER_HOME$/Projects/services/asana-tracking/src/listener.js" timestamp="1547992066175">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/deployment/mysql-service.yaml" timestamp="1547737522861">
         <mark key="[" line="0" column="0" />
@@ -349,11 +355,11 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/services/asana-tracking/src/LocationLifeCycle.js" timestamp="1541081577325">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="166" column="3" />
+      <file name="$USER_HOME$/Projects/services/asana-tracking/src/LocationLifeCycle.js" timestamp="1548005753000">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="41" column="3" />
+        <mark key="." line="37" column="23" />
+        <mark key="^" line="37" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/logger.js" timestamp="1538575911849">
         <mark key="[" line="16" column="59" />
@@ -396,6 +402,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/services/asana-tracking/sync.js" timestamp="1548014957578">
+        <mark key="'" line="18" column="47" />
+        <mark key="[" line="57" column="42" />
+        <mark key="]" line="57" column="45" />
+        <mark key="." line="57" column="45" />
+        <mark key="^" line="57" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/app.js" timestamp="1547495447092">
         <mark key="[" line="11" column="13" />
@@ -1415,15 +1428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/src/AtmosphereApi.js" />
-      <jump line="99" column="2" filename="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/src/AtmosphereApi.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/src/AtmosphereApi.js" />
-      <jump line="72" column="1" filename="$USER_HOME$/Projects/services/device-provisioning/src/AtmosphereApi.js" />
-      <jump line="144" column="18" filename="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" />
-      <jump line="21" column="26" filename="$USER_HOME$/Projects/services/device-provisioning/src/app.js" />
-      <jump line="141" column="44" filename="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" />
       <jump line="3447" column="32" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
       <jump line="4004" column="1" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
@@ -1515,10 +1519,19 @@
       <jump line="2500" column="4" filename="$USER_HOME$/Projects/atmosphere/api/deployment/webapp.yaml" />
       <jump line="4" column="2" filename="$USER_HOME$/Projects/scripts/kollekt/front/index.js" />
       <jump line="223" column="15" filename="$USER_HOME$/Projects/scripts/kollekt/front/export.json" />
+      <jump line="96" column="36" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
+      <jump line="76" column="50" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
+      <jump line="74" column="21" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
+      <jump line="113" column="30" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
+      <jump line="58" column="6" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
+      <jump line="79" column="8" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
+      <jump line="88" column="13" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
+      <jump line="18" column="47" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Dominos</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1530,55 +1543,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Dominos</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdFw+</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlkID0gcmVxLnF1ZXJ5LmlkOwogICAgYWNjb3VudERlbGVnYXRpb24uaWQgPSBpZDsKCiAgICBhd2FpdCBzdG9yZS5zZXQoaWQsIGFjY291bnREZWxlZ2F0aW9uLCA3ICogMjQgKiBob3Vycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgYXNhbmFTZXJ2aWNlKCkucG9zdCgnL3Rhc2tzJywgewogICAgICAgIGJvZHk6IHsKICAgICAgICAgIHRhc2tJZDogdGFzay5pZCwKICAgICAgICAgIGxvY2F0aW9uSWQ6IGxvY2F0aW9uLmlkCiAgICAgICAgfQogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgLy8gU3BhY2VzCiAgLy8gY29uc3QgYXNhbmFUYXNrcyA9IGF3YWl0IGdldFRhc2tzRm9yU2VjdGlvbig0NjIxODU1MzIyMDAwMjApOwogIC8vIGNvbnN0IGxvY2F0aW9ucyA9IGF3YWl0IGdldExvY2F0aW9uc0Zvck9yZ2FuaXNhdGlvbignbWplNGVtNDE2Jyk7CiAgLy8gY29uc3QgY2xpZW50ID0gJ1NwYWNlcyc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgMTU0MTQzNTYyNywK</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgMTU0MDQ4MjcwNywK</text>
+        <text encoding="base64">ICBjb25zdCB0YXNrID0gYXdhaXQgY2xpZW50LnRhc2tzLmNyZWF0ZSh7CiAgICBuYW1lOiAndGVzdCcsCiAgICBwcm9qZWN0czogWzQ2MjE4NTUzMjIwMDAxNV0sCiAgICBtZW1iZXJzaGlwczogW3sKICAgICAgc2VjdGlvbiwKICAgICAgcHJvamVjdDogNDYyMTg1NTMyMjAwMDE1CiAgICB9XQogIH0pLmNhdGNoKGUgPT4gY29uc29sZS5sb2coZS52YWx1ZSkpOwogIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgMTUzOTg3NTQ3NCwK</text>
+        <text encoding="base64">ICAgICAgICBtZW1iZXJzaGlwczogW3sgc2VjdGlvbjogeyBpZDogc2VjdGlvbiB9IH1dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgMTUzOTg2OTg4MQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgMTUzOTg3NTQ3NCwKICAgIF0sCg==</text>
+        <text encoding="base64">ICBwcm9tcHQucXVlc3Rpb25Bc3luYygnV2hhdHMgeW91ciBuYW1lPycpLnRoZW4oYW5zd2VycyA9PiB7CiAgICBjb25zb2xlLmxvZyhgSGkgJHthbnN3ZXJzfSFgKQogIH0pOwogIHJldHVybjsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgMTUzOTg2OTg4MQo=</text>
+        <text encoding="base64">CiAgbG9jYXRpb25zID0gYXdhaXQgbWF0Y2hUYXNrVG9Mb2NhdGlvbihzZWN0aW9uLCBsb2NhdGlvbnMuZmlsdGVyKHRydWUpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkYXRhLmZvckVhY2goZSA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zdFw+</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdFw+</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute>Playlist</last-substitute>
       <last-dir>-1</last-dir>
@@ -1597,7 +1610,6 @@
         <entry encoding="base64">XDxqb2JcPg==</entry>
         <entry encoding="base64">XDxwb3BcPg==</entry>
         <entry encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxrZXltZXRyaWNzXD4=</entry>
@@ -1606,6 +1618,7 @@
         <entry encoding="base64">XDxzaWduYWxUcmFwc1w+</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
