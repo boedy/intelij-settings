@@ -352,11 +352,11 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/deployment/deployments.yaml" timestamp="1548243331494">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="23" column="37" />
+      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/deployment/deployments.yaml" timestamp="1548250272478">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="27" column="49" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/Payments.php" timestamp="1535708265500">
         <mark key="[" line="18" column="8" />
@@ -394,11 +394,11 @@
         <mark key="^" line="16" column="67" />
         <mark key="." line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/Dockerfile" timestamp="1548249197976">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="27" />
+      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/Dockerfile" timestamp="1548249390357">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="48" />
+        <mark key="^" line="28" column="48" />
+        <mark key="." line="28" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/tests/playback/package.json" timestamp="1539162693802">
         <mark key="[" line="6" column="57" />
@@ -435,13 +435,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/services/asana-tracking/sync.js" timestamp="1548020367280">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="140" column="22" />
-        <mark key="]" line="140" column="22" />
-        <mark key="." line="140" column="22" />
-        <mark key="^" line="140" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger/docker-compose.wercker.yml" timestamp="1548163655521">
         <mark key="[" line="10" column="0" />
@@ -700,10 +693,10 @@
         <mark key="^" line="58" column="17" />
         <mark key="." line="58" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/deployment/config.yaml" timestamp="1548243885036">
-        <mark key="[" line="221" column="21" />
-        <mark key="]" line="221" column="41" />
-        <mark key="." line="221" column="41" />
+      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/deployment/config.yaml" timestamp="1548250268349">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="3" column="24" />
         <mark key="^" line="221" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/containers/SelectOutputDeviceModalContainer.js" timestamp="1543332846153">
@@ -1276,6 +1269,7 @@
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/start.sh" timestamp="1548250254981" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/routes.php" timestamp="1547750317837">
         <mark key="[" line="20" column="36" />
         <mark key="]" line="20" column="28" />
@@ -1595,7 +1589,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0.1.3</text>
+        <text>master.xml</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1607,46 +1601,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0.1.3</text>
+        <text>master.xml</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>${AUTH_PLUG_VERSION}</text>
+        <text>mosquitto.conf</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBzaGFyZWQtbG9nLWRpcmVjdG9yeQogICAgICAgIGhvc3RQYXRoOgogICAgICAgICAgcGF0aDogL3Zhci9sb2dzL21vc3F1aXQK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIG12IC9tb3NxdWl0dG8tYXV0aC1wbHVnLW1hc3Rlci9hdXRoLXBsdWcuc28gL3Vzci9sb2NhbC9saWIvCg==</text>
+        <text encoding="base64">ICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiBzaGFyZWQtbG9nLWRpcmVjdG9yeQogICAgICAgICAgbW91bnRQYXRoOiAvYXBwL2xvZ3MvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmaW5kIC4gLXR5cGUgZiB8IGdyZXAgTWFrZWZpbGUgfCB4YXJncyBncmVwIC1yIC0tIC0tc3RyaXAtcHJvZ3JhbSB8IGF3ayB7J3ByaW50ICQxJ30gfCBjdXQgLWQgOiAtZiAxIHwgeGFyZ3Mgc2VkIC1pICdzLy0tc3RyaXAtcHJvZ3JhbT1cJHtDUk9TU19DT01QSUxFfVwke1NUUklQfS8vZycgJiYgXAogIHNlZCAtaSAncy9zZXQgLWU7IGZvciBkIGluICR7RE9DRElSU307IGRvICQoTUFLRSkgLUMgJCR7ZH0gaW5zdGFsbDsgZG9uZS8vZycgTWFrZWZpbGUgJiYgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">bWtkaXIgLXAgc3JjICYmIFwKICBjZCBzcmMgJiYgXA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lOiBtb3NxdWl0dG8tY29uZmlnLXZvbHVtZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2QgLyAmJiBcCnJtIC1yZiBzcmMgJiYgXApybSAtcmYgL3RtcC8qIC92YXIvdG1wLyogL3Zhci9jYWNoZS9hcGsvKgo=</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgLSBuYW1lOiBzaGFyZWQtbG9nLWRpcmVjdG9yeQogICAgICAgIGhvc3RQYXRoOgogICAgICAgICAgcGF0aDogL3Zhci9sb2dzL21vc3F1aXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBrIGFkZCAtLXVwZGF0ZSBidWlsZC1iYXNlIGdpdCBvcGVuc3NsLWRldiBjLWFyZXMtZGV2IHV0aWwtbGludXgtZGV2IGxpYndlYnNvY2tldHMtZGV2ICYmIFwK</text>
+        <text encoding="base64">ICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiBzaGFyZWQtbG9nLWRpcmVjdG9yeQogICAgICAgICAgbW91bnRQYXRoOiAvYXBwL2xvZ3MvCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VkIC1pLmJhayBzL1dJVEhfV0VCU09DS0VUUzo9bm8vV0lUSF9XRUJTT0NLRVRTOj15ZXMvZyBjb25maWcubWsgJiYgXApzZWQgLWkuYmFrIHMvV0lUSF9ET0NTOj15ZXMvV0lUSF9ET0NTOj1uby9nIGNvbmZpZy5tayAmJiBcCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">UlVOIG12IC9tb3NxdWl0dG8tYXV0aC1wbHVnLW1hc3Rlci9hdXRoLXBsdWcuc28gL3Vzci9sb2NhbC9saWIvCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRkdXNlciAtcyAvYmluL2ZhbHNlIC1EIC1IIG1vc3F1aXR0byAmJiBcCg==</text>
+        <text encoding="base64">ICBmaW5kIC4gLXR5cGUgZiB8IGdyZXAgTWFrZWZpbGUgfCB4YXJncyBncmVwIC1yIC0tIC0tc3RyaXAtcHJvZ3JhbSB8IGF3ayB7J3ByaW50ICQxJ30gfCBjdXQgLWQgOiAtZiAxIHwgeGFyZ3Mgc2VkIC1pICdzLy0tc3RyaXAtcHJvZ3JhbT1cJHtDUk9TU19DT01QSUxFfVwke1NUUklQfS8vZycgJiYgXAogIHNlZCAtaSAncy9zZXQgLWU7IGZvciBkIGluICR7RE9DRElSU307IGRvICQoTUFLRSkgLUMgJCR7ZH0gaW5zdGFsbDsgZG9uZS8vZycgTWFrZWZpbGUgJiYgXAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
