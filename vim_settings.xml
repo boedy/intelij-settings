@@ -65,7 +65,6 @@
         <mark key="." line="28" column="5" />
         <mark key="^" line="28" column="5" />
       </file>
-      <file name="/sync.js" timestamp="1547995334710" />
       <file name="$USER_HOME$/Projects/services/device-provisioning/process.yml" timestamp="1538665140586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="14" />
@@ -199,11 +198,6 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/services/asana-tracking/deployment/services.yaml" timestamp="1547991909880">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/Dockerfile" timestamp="1538665090563">
         <mark key="[" line="5" column="28" />
@@ -357,6 +351,12 @@
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/deployment/deployments.yaml" timestamp="1548243331494">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Http/Controllers/Payments.php" timestamp="1535708265500">
         <mark key="[" line="18" column="8" />
@@ -694,6 +694,12 @@
         <mark key="^" line="58" column="17" />
         <mark key="." line="58" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/deployment/config.yaml" timestamp="1548243885036">
+        <mark key="[" line="221" column="21" />
+        <mark key="]" line="221" column="41" />
+        <mark key="." line="221" column="41" />
+        <mark key="^" line="221" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/containers/SelectOutputDeviceModalContainer.js" timestamp="1543332846153">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="22" />
@@ -721,6 +727,12 @@
       <file name="$USER_HOME$/Projects/atmosphere/api/docker-config/nginx/default.conf" timestamp="1547763403409">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/deployment/deployment.yaml" timestamp="1548243214539">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/tests/playback/webpack.config.babel.js" timestamp="1539162976093">
         <mark key="[" line="14" column="17" />
@@ -810,6 +822,7 @@
         <mark key="^" line="61" column="16" />
         <mark key="." line="61" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1548242291942" />
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/AsanaTracking.js" timestamp="1540983866105">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="34" />
@@ -1575,7 +1588,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'sYFMb9FJ525o1GIX7gC'</text>
+        <text>API_DOMAIN</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1587,46 +1600,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'sYFMb9FJ525o1GIX7gC'</text>
+        <text>API_DOMAIN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWN1cml0eUNvbnRleHQ6CiAgICAgICAgICBjYXBhYmlsaXRpZXM6CiAgICAgICAgICAgIGFkZDoKICAgICAgICAgICAgLSBORVRfQURNSU4K</text>
+      <register name="0" type="4">
+        <text>/mqtt/verify</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWN1cml0eUNvbnRleHQ6CiAgICAgICAgICBjYXBhYmlsaXRpZXM6CiAgICAgICAgICAgIGFkZDoKICAgICAgICAgICAgLSBORVRfQURNSU4K</text>
+        <text encoding="base64">ICAgIDxpY2VjYXN0Pgo=</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaXZpbGVnZWQ6IHRydWUK</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzOgogICAgICAgIC0gdGFpbAogICAgICAgIC0gLWYKICAgICAgICAtIC9kZXYvbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZXM6IHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWN1cml0eUNvbnRleHQ6CiAgICAgICAgICBjYXBhYmlsaXRpZXM6CiAgICAgICAgICAgIGFkZDoKICAgICAgICAgICAgLSBORVRfQURNSU4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gYXBwbmlmaWMvZXhwYW5kZW52QDAuMS4zOgogICAgICAgIGlucHV0X2ZpbGU6IERvY2tlcmZpbGUKICAgICAgICBvdXRwdXRfZmlsZTogRG9ja2VyZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHByaXZpbGVnZWQ6IHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gaW50ZXJuYWwvZG9ja2VyLWJ1aWxkOgo=</text>
+        <text encoding="base64">ICAgICAgICBhcmdzOgogICAgICAgIC0gdGFpbAogICAgICAgIC0gLWYKICAgICAgICAtIC9kZXYvbnVsbAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gaW50ZXJuYWwvZG9ja2VyLWJ1aWxkOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIC0gYXBwbmlmaWMvZXhwYW5kZW52QDAuMS4zOgogICAgICAgIGlucHV0X2ZpbGU6IERvY2tlcmZpbGUKICAgICAgICBvdXRwdXRfZmlsZTogRG9ja2VyZmlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzZXQgaW1hZ2UgZGVwbG95bWVudHMvY29udGVudC1kaWdnZXIKICAgICAgICAgICB3ZWJhcHA9a29sbGVrdC9jb250ZW50LWRpZ2dlcjokV0VSQ0tFUl9HSVRfQ09NTUlUCg==</text>
+        <text encoding="base64">ICAgIC0gaW50ZXJuYWwvZG9ja2VyLWJ1aWxkOgo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
