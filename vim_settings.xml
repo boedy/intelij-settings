@@ -394,6 +394,12 @@
         <mark key="^" line="16" column="67" />
         <mark key="." line="16" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/Dockerfile" timestamp="1548249197976">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/tests/playback/package.json" timestamp="1539162693802">
         <mark key="[" line="6" column="57" />
         <mark key="]" line="7" column="36" />
@@ -728,6 +734,7 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/kollekt/mqtt-server/Dockerfile-backup" timestamp="1548247139407" />
       <file name="$USER_HOME$/Projects/kollekt/mqtt-server/deployment/deployment.yaml" timestamp="1548243214539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -1588,7 +1595,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>API_DOMAIN</text>
+        <text>0.1.3</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1600,49 +1607,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>API_DOMAIN</text>
+        <text>0.1.3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>/mqtt/verify</text>
+        <text>${AUTH_PLUG_VERSION}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpY2VjYXN0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IAo=</text>
+        <text encoding="base64">UlVOIG12IC9tb3NxdWl0dG8tYXV0aC1wbHVnLW1hc3Rlci9hdXRoLXBsdWcuc28gL3Vzci9sb2NhbC9saWIvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXM6IHt9Cg==</text>
+        <text encoding="base64">ICBmaW5kIC4gLXR5cGUgZiB8IGdyZXAgTWFrZWZpbGUgfCB4YXJncyBncmVwIC1yIC0tIC0tc3RyaXAtcHJvZ3JhbSB8IGF3ayB7J3ByaW50ICQxJ30gfCBjdXQgLWQgOiAtZiAxIHwgeGFyZ3Mgc2VkIC1pICdzLy0tc3RyaXAtcHJvZ3JhbT1cJHtDUk9TU19DT01QSUxFfVwke1NUUklQfS8vZycgJiYgXAogIHNlZCAtaSAncy9zZXQgLWU7IGZvciBkIGluICR7RE9DRElSU307IGRvICQoTUFLRSkgLUMgJCR7ZH0gaW5zdGFsbDsgZG9uZS8vZycgTWFrZWZpbGUgJiYgXAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWN1cml0eUNvbnRleHQ6CiAgICAgICAgICBjYXBhYmlsaXRpZXM6CiAgICAgICAgICAgIGFkZDoKICAgICAgICAgICAgLSBORVRfQURNSU4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">bWtkaXIgLXAgc3JjICYmIFwKICBjZCBzcmMgJiYgXA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaXZpbGVnZWQ6IHRydWUK</text>
+        <text encoding="base64">Y2QgLyAmJiBcCnJtIC1yZiBzcmMgJiYgXApybSAtcmYgL3RtcC8qIC92YXIvdG1wLyogL3Zhci9jYWNoZS9hcGsvKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzOgogICAgICAgIC0gdGFpbAogICAgICAgIC0gLWYKICAgICAgICAtIC9kZXYvbnVsbAo=</text>
+        <text encoding="base64">YXBrIGFkZCAtLXVwZGF0ZSBidWlsZC1iYXNlIGdpdCBvcGVuc3NsLWRldiBjLWFyZXMtZGV2IHV0aWwtbGludXgtZGV2IGxpYndlYnNvY2tldHMtZGV2ICYmIFwK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VkIC1pLmJhayBzL1dJVEhfV0VCU09DS0VUUzo9bm8vV0lUSF9XRUJTT0NLRVRTOj15ZXMvZyBjb25maWcubWsgJiYgXApzZWQgLWkuYmFrIHMvV0lUSF9ET0NTOj15ZXMvV0lUSF9ET0NTOj1uby9nIGNvbmZpZy5tayAmJiBcCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gYXBwbmlmaWMvZXhwYW5kZW52QDAuMS4zOgogICAgICAgIGlucHV0X2ZpbGU6IERvY2tlcmZpbGUKICAgICAgICBvdXRwdXRfZmlsZTogRG9ja2VyZmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gaW50ZXJuYWwvZG9ja2VyLWJ1aWxkOgo=</text>
+        <text encoding="base64">YWRkdXNlciAtcyAvYmluL2ZhbHNlIC1EIC1IIG1vc3F1aXR0byAmJiBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1693,11 +1700,11 @@
         <entry>so</entry>
         <entry>q</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
-        <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>sp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
