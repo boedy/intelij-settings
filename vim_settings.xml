@@ -5,6 +5,12 @@
       <mark key="M" line="21" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/index.js" timestamp="1548265221771">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/dataSources/InstoreApi.js" timestamp="1540551146692">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="27" />
@@ -267,12 +273,6 @@
         <mark key="]" line="17" column="19" />
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/index.js" timestamp="1547838541197">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="41" column="58" />
-        <mark key="^" line="38" column="27" />
-        <mark key="." line="38" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger/deployment/deployments.yaml" timestamp="1548195756761">
         <mark key="[" line="44" column="12" />
@@ -649,7 +649,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548197576401">
+      <file name="/Dummy.txt" timestamp="1548265258613">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -1571,8 +1571,8 @@
       <jump line="44" column="4" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/google-play/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>await</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgRXZlbnRQdWJsaXNoZXIgPSByZXF1aXJlKCcuL0V2ZW50UHVibGlzaGVyJyk7CmNvbnN0IHB1Ymxpc2hlciA9IG5ldyBFdmVudFB1Ymxpc2hlcigpOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgcHVibGlzaDogcHVibGlzaGVyLnB1Ymxpc2gsCn07Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1590,40 +1590,40 @@
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU5WIExEX0xJQlJBUllfUEFUSCAvdXNyL2xvY2FsL2xpYgo=</text>
+        <text encoding="base64">Y29uc3QgRXZlbnRQdWJsaXNoZXIgPSByZXF1aXJlKCcuL0V2ZW50UHVibGlzaGVyJyk7CmNvbnN0IHB1Ymxpc2hlciA9IG5ldyBFdmVudFB1Ymxpc2hlcigpOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgcHVibGlzaDogcHVibGlzaGVyLnB1Ymxpc2gsCn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cnVuIGFwayB1cGdyYWRlIG11c2wK</text>
+        <text encoding="base64">ICBCaWxsaW5nRGV0YWlsc1JlZ2lzdGVyZWQ6IHJlcXVpcmUoJy4vQmlsbGluZ0RldGFpbHNSZWdpc3RlcmVkJyksCiAgQWNjb3VudERlbGVnYXRpb25MaW5rR2VuZXJhdGVkOiByZXF1aXJlKCcuL0FjY291bnREZWxlZ2F0aW9uTGlua0dlbmVyYXRlZCcpLAogIEFjY291bnREZWxlZ2F0aW9uQ29tcGxldGVkOiByZXF1aXJlKCcuL0FjY291bnREZWxlZ2F0aW9uQ29tcGxldGVkJyksCiAgQWNjb3VudERlbGVnYXRpb25MaW5rRXhwaXJlZDogcmVxdWlyZSgnLi9BY2NvdW50RGVsZWdhdGlvbkxpbmtFeHBpcmVkJyksCg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cnVuIGFwayB1cGdyYWRlIG11c2wK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIGxzIC9tb3NxdWl0dG8K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">UlVOIGxzIC9tb3NxdWl0dG8K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBFTlYgTERfTElCUkFSWV9QQVRIIC91c3IvbG9jYWwvbGliCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYXQgY29uZmkK</text>
+        <text encoding="base64">ICBFTlYgTERfTElCUkFSWV9QQVRIIC91c3IvbG9jYWwvbGliCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAvYnVpbGQK</text>
+        <text encoding="base64">ICBjYXQgY29uZmkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAvYnVpbGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IGxkZCAvdXNyL2xvY2FsL3NiaW4vbW9zcXVpdHRvIHwgZ3JlcCAiPT4gLyIgfCBhd2sgJ3twcmludCAkM30nIHwgeGFyZ3MgLUkgJ3t9JyBjcCAtdiAne30nIC9kZXAvCg==</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
