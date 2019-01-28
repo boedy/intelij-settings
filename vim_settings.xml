@@ -210,6 +210,12 @@
         <mark key="^" line="1" column="73" />
         <mark key="." line="1" column="73" />
       </file>
+      <file name="$USER_HOME$/Projects/kollekt/reporting/moneybird-api.js" timestamp="1548673403030">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="61" column="1" />
+        <mark key="^" line="61" column="1" />
+        <mark key="." line="61" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/kollekt/mqtt-server/deployment/star-kllkt-com-tls.yaml" timestamp="1548253756368">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="23" />
@@ -491,6 +497,11 @@
         <mark key="]" line="22" column="23" />
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/test/spaces-invoices/index.js" timestamp="1548673947205">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="124" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/resin.js" timestamp="1540490001789">
         <mark key="[" line="119" column="56" />
@@ -1071,6 +1082,12 @@
         <mark key="." line="88" column="0" />
       </file>
       <file name="/Dockerfile" timestamp="1548262643837" />
+      <file name="$USER_HOME$/Projects/kollekt/reporting/.env" timestamp="1548674020705">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="80" />
+        <mark key="^" line="0" column="80" />
+        <mark key="." line="0" column="80" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/content-digger/src/atmosphere/api.js" timestamp="1537734157612">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -1331,6 +1348,13 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/kollekt/reporting/index.js" timestamp="1548674883746">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="9" />
+        <mark key="." line="37" column="9" />
+        <mark key="^" line="37" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" timestamp="1537562867707">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -1512,8 +1536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3619" column="2" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
-      <jump line="797" column="19" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
       <jump line="38" column="41" filename="$USER_HOME$/Projects/services/device-provisioning/test.js" />
       <jump line="17" column="103" filename="$USER_HOME$/Projects/test/spaces-invoices/index.js" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/test/dartboard/src/play-song.js" />
@@ -1612,10 +1634,12 @@
       <jump line="97" column="17" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/google-play/index.js" />
       <jump line="44" column="4" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/google-play/index.js" />
       <jump line="113" column="10" filename="$USER_HOME$/Projects/atmosphere/payments/deployment/webapp.yaml" />
+      <jump line="106" column="0" filename="$USER_HOME$/Projects/test/spaces-invoices/index.js" />
+      <jump line="0" column="4" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://internal.tunes.kollekt.fm:4367</text>
+        <text>e</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1627,46 +1651,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://internal.tunes.kollekt.fm:4367</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVybCA9IHN0cl9yZXBsYWNlKCdodHRwczovL3R1bmVzLmFtczMuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbScsICdodHRwOi8vaW50ZXJuYWwudHVuZXMua29sbGVrdC5mbTo0MzY3JywgJHVybCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgZmV0Y2hJbnZvaWNlcyA9ICgpID0+IHsKICByZXR1cm4gY2xpZW50LmdldCgnc2FsZXNfaW52b2ljZXMvc3luY2hyb25pemF0aW9uJywge2ZpbHRlcjogJ3N0YXRlOmRyYWZ0J30pLnRoZW4ocmVzID0+IHsKICAgIGNvbnN0IGJhdGNoID0gW107CiAgICBjb25zdCBmaW5hbCA9IFtdOwogICAgY29uc3QgaWRzID0gWy4uLm5ldyBTZXQocmVzLm1hcCgoZSkgPT4gZS5pZCkpXTsKICAgIGNvbnN0IGxlbiA9IGlkcy5sZW5ndGg7CgogICAgLy8gYmF0Y2gucHVzaChpZHMuc3BsaWNlKDksIDEpKTsKICAgIGZvciAobGV0IGkgPSAwOyBpIDwgbGVuOyBpICs9IDEwMCkgewogICAgICBiYXRjaC5wdXNoKGlkcy5zcGxpY2UoMCwgMTAwKSk7CiAgICB9CgogICAgcmV0dXJuIGJhdGNoLnJlZHVjZSgocHJvbWlzZSwgdmFsKSA9PiB7CiAgICAgIHJldHVybiBwcm9taXNlLnRoZW4oKGkpID0+IHsKICAgICAgICByZXR1cm4gY2xpZW50LnBvc3QoJ3NhbGVzX2ludm9pY2VzL3N5bmNocm9uaXphdGlvbicsIHsgJ2lkcyc6IHZhbCB9KS50aGVuKHJlcyA9PiBpLmNvbmNhdChyZXMpKTsKICAgICAgfSk7CiAgICB9LCBQcm9taXNlLnJlc29sdmUoZmluYWwpKTsKICB9KQp9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR1cmw7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnZvaWNlcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gYXBwbmlmaWMvZXhwYW5kZW52QDAuMS4zOgogICAgICAgIGlucHV0X2ZpbGU6IGRlcGxveWVtZW50L2RhdGFiYXNlLnlhbWwKICAgICAgICBvdXRwdXRfZmlsZTogLmVudgo=</text>
+        <text encoding="base64">ICAgIGkuY29udGFjdC5jb3VudHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IFNldCB2ZXJzaW9uIGxhYmVsCiAgICAgICAgY29kZTogc2VkIC1pICdzL3Vua25vd24tZ2l0LWhhc2gvJyIkV0VSQ0tFUl9HSVRfQ09NTUlUIicvZycgZGVwbG95bWVudC93ZWJhcHAueWFtbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmV0Y2hJbnZvaWNlcygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR1cmw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gYXBwbmlmaWMvZXhwYW5kZW52QDAuMS4zOgogICAgICAgIGlucHV0X2ZpbGU6IGRlcGxveWVtZW50L2RhdGFiYXNlLnlhbWwKICAgICAgICBvdXRwdXRfZmlsZTogLmVudgo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IFNldCB2ZXJzaW9uIGxhYmVsCiAgICAgICAgY29kZTogc2VkIC1pICdzL3Vua25vd24tZ2l0LWhhc2gvJyIkV0VSQ0tFUl9HSVRfQ09NTUlUIicvZycgZGVwbG95bWVudC93ZWJhcHAueWFtbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IG1haW4tYXBpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
