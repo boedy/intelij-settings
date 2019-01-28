@@ -234,7 +234,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/services/asana-tracking/scripts/sync.js" timestamp="1548675550208">
+      <file name="$USER_HOME$/Projects/services/asana-tracking/scripts/sync.js" timestamp="1548681003461">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="46" column="1" />
         <mark key="^" line="4" column="2" />
@@ -1348,12 +1348,12 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/reporting/index.js" timestamp="1548676088147">
+      <file name="$USER_HOME$/Projects/kollekt/reporting/index.js" timestamp="1548684727234">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="23" />
-        <mark key="." line="45" column="23" />
-        <mark key="^" line="45" column="23" />
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="29" />
+        <mark key="." line="54" column="29" />
+        <mark key="^" line="54" column="29" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" timestamp="1537562867707">
         <mark key="[" line="50" column="0" />
@@ -1534,7 +1534,7 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/reporting/atmosphere.js" timestamp="1548675636920">
+      <file name="$USER_HOME$/Projects/kollekt/reporting/atmosphere.js" timestamp="1548684175968">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="1" />
         <mark key="^" line="20" column="1" />
@@ -1644,8 +1644,8 @@
       <jump line="0" column="4" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbnZvaWNlcyA9PiAK</text>
+      <register name="&quot;" type="4">
+        <text>100</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1657,46 +1657,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>location</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0TG9jYXRpb25zRm9yT3JnYW5pc2F0aW9uID0gYXN5bmMgb3JnYW5pc2F0aW9uSWQgPT4gewogIGNvbnN0IGxvY2F0aW9ucyA9IGF3YWl0IGJhc2VSZXF1ZXN0KCkuZ2V0KGAvb3JnYW5pc2F0aW9ucy8ke29yZ2FuaXNhdGlvbklkfS9sb2NhdGlvbnNgKTsKICByZXR1cm4gbG9jYXRpb25zOwp9Owo=</text>
+      <register name="0" type="4">
+        <text>replace(/[^0-9a-z ]/gi, '')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbnZvaWNlcyA9PiAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2NhdGlvbnMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFkZHJlc3MgPSBmaW5kTG9uZ2VzdFdvcmQobC5hZGRyZXNzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnZvaWNlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGkuY29udGFjdC5jb3VudHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgYWNjW2QuZGVzY3JpcHRpb25dID0gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgbG9jYXRpb25zW2ldOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmV0Y2hJbnZvaWNlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR1cmw7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gYXBwbmlmaWMvZXhwYW5kZW52QDAuMS4zOgogICAgICAgIGlucHV0X2ZpbGU6IGRlcGxveWVtZW50L2RhdGFiYXNlLnlhbWwKICAgICAgICBvdXRwdXRfZmlsZTogLmVudgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZGRyZXNzTGlzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
