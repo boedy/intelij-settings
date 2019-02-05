@@ -1283,11 +1283,11 @@
         <mark key="." line="65" column="16" />
         <mark key="^" line="65" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/reporting/cli.js" timestamp="1549380877895">
-        <mark key="[" line="50" column="37" />
-        <mark key="]" line="50" column="37" />
-        <mark key="." line="50" column="37" />
-        <mark key="^" line="50" column="37" />
+      <file name="$USER_HOME$/Projects/kollekt/reporting/cli.js" timestamp="1549383789778">
+        <mark key="[" line="53" column="62" />
+        <mark key="]" line="53" column="72" />
+        <mark key="." line="53" column="72" />
+        <mark key="^" line="53" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/core/sagas/logging.js" timestamp="1542321338870">
         <mark key="[" line="91" column="30" />
@@ -1704,7 +1704,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Q${quarter}</text>
+        <text>year</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1716,13 +1716,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Q${quarter}</text>
+        <text>year</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="4">
-        <text>${year}-${quarter}</text>
+        <text>quarter === 4 ? year + 1 : year</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
