@@ -1283,11 +1283,11 @@
         <mark key="." line="65" column="16" />
         <mark key="^" line="65" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/reporting/cli.js" timestamp="1549377513554">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="16" />
-        <mark key="^" line="31" column="16" />
-        <mark key="." line="31" column="16" />
+      <file name="$USER_HOME$/Projects/kollekt/reporting/cli.js" timestamp="1549380877895">
+        <mark key="[" line="50" column="37" />
+        <mark key="]" line="50" column="37" />
+        <mark key="." line="50" column="37" />
+        <mark key="^" line="50" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/core/sagas/logging.js" timestamp="1542321338870">
         <mark key="[" line="91" column="30" />
@@ -1703,8 +1703,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/kollekt/reporting/src/api/mixpanel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2Vycy5yZWR1Y2UoKGFjYywgdSkgPT4gewogICAgaWYgKCFhY2MuaGFzT3duUHJvcGVydHkodS51c2VySWQpKSB7CiAgICAgIGFjY1t1LnVzZXJJZF0gPSB1OwogICAgICByZXR1cm4gYWNjOwogICAgfQogICAgaWYoYWNjW3UudXNlcklkXS5tb250aCA+IHUubW9udGgpewogICAgICBhY2NbdS51c2VySWRdID0gdTsKICAgIH0KICAgIHJldHVybiBhY2M7CiAgfSwge30pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Q${quarter}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1716,46 +1716,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>else</text>
+        <text>Q${quarter}</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYWNjW3UudXNlcklkXSA9IHU7Cg==</text>
+      <register name="0" type="4">
+        <text>${year}-${quarter}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2Vycy5yZWR1Y2UoKGFjYywgdSkgPT4gewogICAgaWYgKCFhY2MuaGFzT3duUHJvcGVydHkodS51c2VySWQpKSB7CiAgICAgIGFjY1t1LnVzZXJJZF0gPSB1OwogICAgICByZXR1cm4gYWNjOwogICAgfQogICAgaWYoYWNjW3UudXNlcklkXS5tb250aCA+IHUubW9udGgpewogICAgICBhY2NbdS51c2VySWRdID0gdTsKICAgIH0KICAgIHJldHVybiBhY2M7CiAgfSwge30pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbmRQZXJpb2QuZm9ybWF0KCJZWVlZLU1NLUREIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZihhY2MpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIyMDE4LTEyLTMxIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmx1c2goKTsK</text>
+        <text encoding="base64">ICB1c2Vycy5yZWR1Y2UoKGFjYywgdSkgPT4gewogICAgaWYgKCFhY2MuaGFzT3duUHJvcGVydHkodS51c2VySWQpKSB7CiAgICAgIGFjY1t1LnVzZXJJZF0gPSB1OwogICAgICByZXR1cm4gYWNjOwogICAgfQogICAgaWYoYWNjW3UudXNlcklkXS5tb250aCA+IHUubW9udGgpewogICAgICBhY2NbdS51c2VySWRdID0gdTsKICAgIH0KICAgIHJldHVybiBhY2M7CiAgfSwge30pOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7IGlkOiAidXNlcklkIiwgdGl0bGU6ICJBY2NvdW50SWQiIH0sCg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXNlcklkLAo=</text>
+        <text encoding="base64">ICBpZihhY2MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICIyMDE4LTEyLTMxIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
