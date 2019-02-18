@@ -160,11 +160,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" timestamp="1550503416318">
-        <mark key="[" line="46" column="84" />
-        <mark key="]" line="46" column="85" />
-        <mark key="." line="46" column="85" />
-        <mark key="^" line="46" column="87" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" timestamp="1550507472439">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="54" column="19" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/Mixpanel.js" timestamp="1536871526906">
         <mark key="[" line="0" column="0" />
@@ -365,6 +364,10 @@
         <mark key="]" line="52" column="35" />
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/tests/Domain/Notification/NotificationServiceTest.php" timestamp="1550508325901">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="38" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/.env" timestamp="1541068670567">
         <mark key="[" line="1" column="48" />
@@ -593,10 +596,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1550502260370">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1550509039215">
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/services/mixpanel-service/Dockerfile" timestamp="1544621563107">
         <mark key="[" line="5" column="14" />
@@ -700,7 +704,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550502374593">
+      <file name="/Dummy.txt" timestamp="1550507916070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -1342,6 +1346,12 @@
         <mark key="." line="42" column="65" />
         <mark key="^" line="42" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/AgreementBuilder.php" timestamp="1550507605075">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="32" column="27" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/wercker.yml" timestamp="1538604859060">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="23" />
@@ -1372,6 +1382,9 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/tests/Domain/Curation/AgreementTest.php" timestamp="1550507994073">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/Notifications.js" timestamp="1540982521995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -1400,6 +1413,11 @@
         <mark key="]" line="67" column="25" />
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/tests/Domain/Playlist/Planning/WeekPlanningTest.php" timestamp="1550508349055">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/docker-compose.override.yml" timestamp="1541084981189">
         <mark key="[" line="5" column="14" />
@@ -1492,6 +1510,11 @@
         <mark key="]" line="24" column="41" />
         <mark key="." line="24" column="41" />
         <mark key="^" line="24" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/tests/Domain/Curation/CuratorContractTest.php" timestamp="1550509218377">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/kollekt/reporting/src/api/atmosphere.js" timestamp="1549321698904">
         <mark key="[" line="55" column="38" />
@@ -1716,8 +1739,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/kollekt/reporting/src/api/mixpanel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1729,16 +1752,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">JGNvbnRyYWN0LT5nZXRBZ3JlZW1lbnRzKCktPmNvdW50KCk=</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxJZAogICAgICogQE9STVxHZW5lcmF0ZWRWYWx1ZSgpCiAgICAgKiBAT1JNXENvbHVtbih0eXBlPSJpbnRlZ2VyIikKICAgICAqLwogICAgcHJpdmF0ZSAkaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3VyYXRvciA9IFxNb2NrZXJ5Ojptb2NrKCdBcHBcRG9tYWluXFVzZXJcUGVyc29uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
@@ -1750,28 +1773,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaWQ7CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRJZCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5pZDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxNYXBwaW5nIGFzIE9STTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaWQ7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxEb21haW5cRXZlbnRcRXZlbnRHZW5lcmF0b3I7CnVzZSBNeUNMYWJzXEFDTFxNb2RlbFxFbnRpdHlSZXNvdXJjZTsKCmNsYXNzIEFnZ3JlZ2F0ZVJvb3QgaW1wbGVtZW50cyBFbnRpdHlSZXNvdXJjZQp7CiAgICB1c2UgRXZlbnRHZW5lcmF0b3I7CgoKCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SWQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aWQ7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxJZAogICAgICogQE9STVxHZW5lcmF0ZWRWYWx1ZSgpCiAgICAgKiBAT1JNXENvbHVtbih0eXBlPSJpbnRlZ2VyIikKICAgICAqLwogICAgcHJvdGVjdGVkICRpZDsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3VyYXRvciA9ICR0aGlzLT5hY3RvcjsKCiAgICAgICAgJG1vY2sgPSBcTW9ja2VyeTo6bW9jaygnQXBwXERvbWFpblxVc2VyXERldmljZScpOwogICAgICAgICRtb2NrLT5zaG91bGRSZWNlaXZlKCdnZXRJZCcpLT5hbmRSZXR1cm4oMiktPmdldE1vY2soKTsKICAgICAgICAkdGhpcy0+dXNlcnNbXSA9ICRtb2NrOwoKICAgICAgICAkbW9jayA9IFxNb2NrZXJ5Ojptb2NrKCdBcHBcRG9tYWluXFVzZXJcUGVyc29uJyk7CiAgICAgICAgJG1vY2stPnNob3VsZFJlY2VpdmUoJ2dldElkJyktPmFuZFJldHVybigzKS0+Z2V0TW9jaygpOwogICAgICAgICR0aGlzLT51c2Vyc1tdID0gJG1vY2s7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
     <search>
@@ -1821,12 +1844,12 @@
         <entry>so</entry>
         <entry>q</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
-        <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>sp</entry>
         <entry>w</entry>
         <entry>action AceAction</entry>
+        <entry>vsp</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
