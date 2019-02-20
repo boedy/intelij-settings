@@ -176,6 +176,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" timestamp="1550670083683">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="57" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Event/NewCuratorContractDrafted.php" timestamp="1550654691637">
         <mark key="[" line="46" column="27" />
         <mark key="]" line="46" column="25" />
@@ -647,13 +654,6 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1550608742862">
-        <mark key="'" line="114" column="45" />
-        <mark key="[" line="25" column="79" />
-        <mark key="]" line="25" column="85" />
-        <mark key="^" line="25" column="85" />
-        <mark key="." line="25" column="85" />
-      </file>
       <file name="$USER_HOME$/Projects/services/mixpanel-service/Dockerfile" timestamp="1544621563107">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="28" />
@@ -713,6 +713,12 @@
         <mark key="." line="29" column="27" />
         <mark key="^" line="23" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/ValueObject/Repeats.php" timestamp="1550670059907">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/docker-compose.yml" timestamp="1537477369553">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -761,7 +767,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550663641238">
+      <file name="/Dummy.txt" timestamp="1550670008472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -1478,6 +1484,13 @@
         <mark key="." line="19" column="60" />
         <mark key="^" line="19" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/kollekt/reporting/src/api/mixpanel.js" timestamp="1549374234587">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="6" />
+        <mark key="]" line="67" column="25" />
+        <mark key="." line="67" column="25" />
+        <mark key="^" line="67" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/tests/Domain/Playlist/Planning/WeekPlanningTest.php" timestamp="1550508349055">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1826,8 +1839,8 @@
       <jump line="134" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1839,13 +1852,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Z2V0UGxheWxpc3RJZHMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9ImludGVnZXIiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1854,31 +1867,31 @@
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Z2V0Q29tbWlzc29uKCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1vbnRobHkgPSAxOwogICAgY29uc3QgcXVhcnRseSA9IDM7CiAgICBjb25zdCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmVlLCAkdGhpcy0+Y29tbWlzc29uKTsK</text>
+        <text encoding="base64">ICAgICAqIENhc2NhZGUgbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Z2V0UGxheWxpc3RJZHMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Z2V0Q29tbWlzc29uKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Y3VyYXRvcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmVlLCAkdGhpcy0+Y29tbWlzc29uKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3VyYXRvcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Z2V0UGxheWxpc3RJZHMoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Y3VyYXRvcklkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
