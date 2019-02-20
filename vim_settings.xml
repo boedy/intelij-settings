@@ -171,12 +171,12 @@
         <mark key="." line="10" column="81" />
         <mark key="^" line="10" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" timestamp="1550685561680">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="19" column="75" />
-        <mark key="." line="19" column="75" />
-        <mark key="^" line="19" column="75" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" timestamp="1550686529111">
+        <mark key="'" line="152" column="0" />
+        <mark key="[" line="93" column="8" />
+        <mark key="]" line="93" column="35" />
+        <mark key="." line="93" column="35" />
+        <mark key="^" line="93" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Event/NewCuratorContractDrafted.php" timestamp="1550676361627">
         <mark key="[" line="51" column="5" />
@@ -641,8 +641,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1550685257928">
-        <mark key="'" line="120" column="45" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1550686632401">
+        <mark key="'" line="121" column="45" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="142" column="31" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/services/mixpanel-service/Dockerfile" timestamp="1544621563107">
         <mark key="[" line="5" column="14" />
@@ -752,7 +756,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550682536909">
+      <file name="/Dummy.txt" timestamp="1550686803141">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -796,6 +800,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Curation/Query/ViewCuratorContract.php" timestamp="1550686831217">
+        <mark key="." line="24" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/containers/SelectOutputDeviceModalContainer.js" timestamp="1543332846153">
         <mark key="[" line="9" column="22" />
@@ -1498,6 +1505,13 @@
         <mark key="." line="19" column="60" />
         <mark key="^" line="19" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/kollekt/reporting/src/api/mixpanel.js" timestamp="1549374234587">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="6" />
+        <mark key="]" line="67" column="25" />
+        <mark key="." line="67" column="25" />
+        <mark key="^" line="67" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/docker-compose.override.yml" timestamp="1541084981189">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="15" />
@@ -1669,7 +1683,7 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Curation/Command/CreateCuratorContract.php" timestamp="1550672808693">
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Curation/Command/CreateCuratorContract.php" timestamp="1550686485619">
         <mark key="[" line="35" column="58" />
         <mark key="]" line="37" column="33" />
         <mark key="." line="37" column="33" />
@@ -1833,8 +1847,8 @@
       <jump line="134" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>OneToMany</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1855,37 +1869,37 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdldERheU9mWWVhcigkdGhpcy0+b2JqZWN0WydkYXlPZldlZWsnXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdGhpcy0+YWdyZWVtZW50cyBhcyAkYWdyZWVtZW50KXsKICAgICAgICAgICAgZGQoJGFncmVlbWVudCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWdyZWVtZW50cyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWdyZWVtZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdGhpcy0+YWdyZWVtZW50cyBhcyAkYWdyZWVtZW50KXsKICAgICAgICAgICAgZGQoJGFncmVlbWVudCk7CiAgICAgICAgfQogICAgICAgIGRkKDEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWdyZWVtZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdGhpcy0+YWdyZWVtZW50cyBhcyAkYWdyZWVtZW50KXsKICAgICAgICAgICAgZGQoJGFncmVlbWVudCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWdyZWVtZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWdyZWVtZW50cyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlWyduZXh0RGVhZExpbmUnXSA9ICRjb250cmFjdC0+Z2V0TmV4dERlYWRMaW5lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWdyZWVtZW50cyk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAnbmV4dERlYWRsaW5lJyA9PiAkY29udHJhY3QtPmdldE5leHREZWFkTGluZSgpLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWdyZWVtZW50cyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWdyZWVtZW50cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlWyduZXh0RGVhZExpbmUnXSA9ICRjb250cmFjdC0+Z2V0TmV4dERlYWRMaW5lKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
