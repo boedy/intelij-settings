@@ -259,6 +259,12 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/CuratorContractCreationListener.php" timestamp="1550653455720">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/.env.example" timestamp="1540993126046">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -733,7 +739,9 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550609732336" />
+      <file name="/Dummy.txt" timestamp="1550653204053">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1558,6 +1566,10 @@
         <mark key="." line="56" column="14" />
         <mark key="^" line="56" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/LocationAddressListener.php" timestamp="1550653293718">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="31" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/node_modules/apollo-datasource-rest/src/RESTDataSource.ts" timestamp="1540991063526">
         <mark key="[" line="153" column="23" />
         <mark key="]" line="153" column="22" />
@@ -1781,8 +1793,8 @@
       <jump line="134" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Invalid Playlist ids</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1794,46 +1806,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Invalid Playlist ids</text>
+        <text>acl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JGV2ZW50c1sxXS0+Z2V0RHJvcHBlZFBsYXlsaXN0cygp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBEb2N0cmluZVVzZXJSb2xlc1F1ZXJ5CiAgICAgKi8KICAgIHByaXZhdGUgJHVzZXJSb2xlUXVlcnk7CgogICAgLyoqCiAgICAgKiBAdmFyIExvY2F0aW9uUmVwb3NpdG9yeQogICAgICovCiAgICBwcml2YXRlICRsb2NhdGlvblJlcG9zaXRvcnk7CgogICAgLyoqCiAgICAgKiBAdmFyIEhhc2hpZHNNYW5hZ2VyCiAgICAgKi8KICAgIHByaXZhdGUgJGhhc2hlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBMb2NhdGlvblJlcG9zaXRvcnkKICAgICAqLwogICAgcHJpdmF0ZSAkbG9jYXRpb25SZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaGFuZGxlKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCdJbnZhbGlkIFBsYXlsaXN0IGlkcycpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcGxheWxpc3RzID0gJHRoaXMtPnBsYXlsaXN0UmVwb3NpdG9yeS0+Z2V0KCRyZXF1ZXN0LT5nZXRQbGF5bGlzdElkcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCdJbnZhbGlkIFBsYXlsaXN0IGlkcycpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjb3VudCgkcGxheWxpc3RzKSAhPT0gY291bnQoJHJlcXVlc3QtPmdldFBsYXlsaXN0SWRzKCkpKXsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
