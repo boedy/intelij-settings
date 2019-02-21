@@ -95,6 +95,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/getatmosphere.com/wp-content/themes/atmosphere/style.css" timestamp="1550756944147">
+        <mark key="[" line="741" column="13" />
+        <mark key="]" line="741" column="17" />
+        <mark key="." line="741" column="17" />
+        <mark key="^" line="741" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env.wercker" timestamp="1536228436377">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="25" />
@@ -768,7 +774,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550701768935">
+      <file name="/Dummy.txt" timestamp="1550757091097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -1866,8 +1872,8 @@
       <jump line="134" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>none</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1879,7 +1885,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mysql</text>
+        <text>none</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1894,31 +1900,31 @@
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgYm9yZGVyOiAwOwogIHBhZGRpbmc6IDAhaW1wb3J0YW50OwogIGJvcmRlcjogMCFpbXBvcnRhbnQ7CiAgbGVmdDogNTAlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLTUwJSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogMTAwdncgIWltcG9ydGFudDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYXJnaW46IDQwcHggMCA0MHB4IC01MHZ3ICFpbXBvcnRhbnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAndGVzdGluZycgPT4gWwogICAgICAgICAgICAnZHJpdmVyJyA9PiAnc3FsaXRlJywKICAgICAgICAgICAgJ2RhdGFiYXNlJyA9PiAnOm1lbW9yeTonLAogICAgICAgIF0sCgogICAgICAgICdzcWxpdGUnID0+IFsKICAgICAgICAgICAgJ2RyaXZlcicgICA9PiAnc3FsaXRlJywKICAgICAgICAgICAgJ2RhdGFiYXNlJyA9PiBlbnYoJ0RCX0RBVEFCQVNFJywgYmFzZV9wYXRoKCdkYXRhYmFzZS9kYXRhYmFzZS5zcWxpdGUnKSksCiAgICAgICAgICAgICdwcmVmaXgnICAgPT4gZW52KCdEQl9QUkVGSVgnLCAnJyksCiAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAvKiB3aWR0aDogMTAwdnchaW1wb3J0YW50OyAqLwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKiBtYXJnaW46IDQwcHggMCA0MHB4IC01MHZ3IWltcG9ydGFudDsgKi8KICBiYWNrZ3JvdW5kOiBncmV5Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAncGdzcWwnID0+IFsKICAgICAgICAgICAgJ2RyaXZlcicgICA9PiAncGdzcWwnLAogICAgICAgICAgICAnaG9zdCcgICAgID0+IGVudignREJfSE9TVCcsICdsb2NhbGhvc3QnKSwKICAgICAgICAgICAgJ3BvcnQnICAgICA9PiBlbnYoJ0RCX1BPUlQnLCA1NDMyKSwKICAgICAgICAgICAgJ2RhdGFiYXNlJyA9PiBlbnYoJ0RCX0RBVEFCQVNFJywgJ2ZvcmdlJyksCiAgICAgICAgICAgICd1c2VybmFtZScgPT4gZW52KCdEQl9VU0VSTkFNRScsICdmb3JnZScpLAogICAgICAgICAgICAncGFzc3dvcmQnID0+IGVudignREJfUEFTU1dPUkQnLCAnJyksCiAgICAgICAgICAgICdjaGFyc2V0JyAgPT4gZW52KCdEQl9DSEFSU0VUJywgJ3V0ZjgnKSwKICAgICAgICAgICAgJ3ByZWZpeCcgICA9PiBlbnYoJ0RCX1BSRUZJWCcsICcnKSwKICAgICAgICAgICAgJ3NjaGVtYScgICA9PiBlbnYoJ0RCX1NDSEVNQScsICdwdWJsaWMnKSwKICAgICAgICBdLAoKICAgICAgICAnc3Fsc3J2JyA9PiBbCiAgICAgICAgICAgICdkcml2ZXInICAgPT4gJ3NxbHNydicsCiAgICAgICAgICAgICdob3N0JyAgICAgPT4gZW52KCdEQl9IT1NUJywgJ2xvY2FsaG9zdCcpLAogICAgICAgICAgICAnZGF0YWJhc2UnID0+IGVudignREJfREFUQUJBU0UnLCAnZm9yZ2UnKSwKICAgICAgICAgICAgJ3VzZXJuYW1lJyA9PiBlbnYoJ0RCX1VTRVJOQU1FJywgJ2ZvcmdlJyksCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gZW52KCdEQl9QQVNTV09SRCcsICcnKSwKICAgICAgICAgICAgJ2NoYXJzZXQnICA9PiBlbnYoJ0RCX0NIQVJTRVQnLCAndXRmOCcpLAogICAgICAgICAgICAncHJlZml4JyAgID0+IGVudignREJfUFJFRklYJywgJycpLAogICAgICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
