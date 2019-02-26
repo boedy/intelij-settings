@@ -113,11 +113,11 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1551201695769">
-        <mark key="[" line="49" column="45" />
-        <mark key="]" line="49" column="62" />
-        <mark key="." line="49" column="62" />
-        <mark key="^" line="49" column="62" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1551203305596">
+        <mark key="[" line="52" column="48" />
+        <mark key="]" line="53" column="16" />
+        <mark key="^" line="53" column="16" />
+        <mark key="." line="53" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/Store.js" timestamp="1547730918309">
         <mark key="[" line="5" column="74" />
@@ -794,11 +794,8 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Event/DoctrineEventStore.php" timestamp="1551201236691">
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-        <mark key="^" line="37" column="25" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Event/DoctrineEventStore.php" timestamp="1551203442157">
+        <mark key="[" line="35" column="5" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/SilenceDetection.php" timestamp="1537442474154">
         <mark key="[" line="6" column="6" />
@@ -1261,6 +1258,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="37" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/User/User.php" timestamp="1551203437310" />
       <file name="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" timestamp="1547396416353">
         <mark key="[" line="109" column="2" />
         <mark key="]" line="109" column="9" />
@@ -1944,8 +1942,8 @@
       <jump line="73" column="130" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/deezer/deezer-api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EventPublisher</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDEpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1957,7 +1955,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EventPublisher</text>
+        <text>publish</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1966,37 +1964,37 @@
         <text encoding="base64">ICAgICAgICAgICAgJGVtaXR0ZXItPmFkZExpc3RlbmVyKCcqJywgZnVuY3Rpb24gKCRldmVudCkgewogICAgICAgICAgICAgICAgJGV2ZW50UHVibGlzaGVyID0gJHRoaXMtPmFwcFtFdmVudFB1Ymxpc2hlcjo6Y2xhc3NdOwogICAgICAgICAgICAgICAgaWYgKGVudignUFVCU1VCX0JST0tFUl9MSVNUJywgZmFsc2UpICYmICRldmVudFB1Ymxpc2hlci0+aXNTdWJzY3JpYmVkVG8oJGV2ZW50KSkgewogICAgICAgICAgICAgICAgICAgICRldmVudFB1Ymxpc2hlci0+cHVibGlzaCgKICAgICAgICAgICAgICAgICAgICAgICAgJGV2ZW50CiAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNlcmlhbGl6ZXIgPSBTZXJpYWxpemVyQnVpbGRlcjo6Y3JlYXRlKCktPmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDEpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gc2VyaWFsaXplcigpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgcHJpdmF0ZSAkc2VyaWFsaXplcjsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGVtaXR0ZXItPmFkZExpc3RlbmVyKCcqJywgZnVuY3Rpb24gKCRldmVudCkgewogICAgICAgICAgICB9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRldmVudFN0b3JlID0gJHRoaXMtPmFwcFtEb2N0cmluZUV2ZW50U3RvcmU6OmNsYXNzXTsKICAgICAgICAgICAgICAgIGlmICgkZXZlbnRTdG9yZS0+aXNTdWJzY3JpYmVkVG8oJGV2ZW50KSkgewogICAgICAgICAgICAgICAgICAgICRldmVudFN0b3JlLT5wdWJsaXNoKAogICAgICAgICAgICAgICAgICAgICAgICAkZXZlbnQKICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYXBwZW5kKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNlcmlhbGl6ZXIgPSBTZXJpYWxpemVyQnVpbGRlcjo6Y3JlYXRlKCktPmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gc2VyaWFsaXplcigpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">OwoKCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhY2thZ2UgQXBwXEFwcGxpY2F0aW9uXEV2ZW50Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgcHJpdmF0ZSAkc2VyaWFsaXplcjsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
