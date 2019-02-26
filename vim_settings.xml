@@ -477,6 +477,12 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Playlist/PlaylistItem.php" timestamp="1551179501184">
+        <mark key="[" line="65" column="108" />
+        <mark key="]" line="67" column="22" />
+        <mark key="." line="67" column="22" />
+        <mark key="^" line="67" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/Source.php" timestamp="1537554703751">
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
@@ -772,7 +778,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551116220687">
+      <file name="/Dummy.txt" timestamp="1551179462546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -846,6 +852,12 @@
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Playlist/Event/TrackAddedToPlaylist.php" timestamp="1551179693170">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/wercker.yml" timestamp="1548329328522">
         <mark key="[" line="39" column="40" />
@@ -1207,6 +1219,12 @@
         <mark key="]" line="109" column="9" />
         <mark key="." line="109" column="9" />
         <mark key="^" line="109" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Playlist/Playlist.php" timestamp="1551179532448">
+        <mark key="[" line="61" column="15" />
+        <mark key="]" line="61" column="15" />
+        <mark key="^" line="61" column="38" />
+        <mark key="." line="61" column="15" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/tests/Infrastructure/Track/Source/Mp3ValidateTest.php" timestamp="1537522260432">
         <mark key="[" line="40" column="13" />
@@ -1847,7 +1865,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'Y-m-d'</text>
+        <text>r</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1859,46 +1877,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'Y-m-d'</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHRoaXMtPnJlcGVhdHNJbk1vbnRocw==</text>
+        <text>Playlist $playlist, $track, $user</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNhbGN1bGF0ZU5leHREZWFkTGluZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QWdncmVnYXRlUm9vdElkZW50aWZpZXJOYW1lKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29udGV4dCgpIG1ldGhvZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0aXZlQWdyZWVtZW50ID0gJHRoaXMtPmdldEFjdGl2ZUFncmVlbWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmFpc2UobmV3IEV2ZW50XFRyYWNrQWRkZWRUb1BsYXlsaXN0KCR0cmFjay0+Z2V0SWQoKSwgJHBsYXlsaXN0LT5nZXRJZCgpLCAkdXNlci0+Z2V0SWQoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVHJhY2tBZGRlZFRvUGxheWxpc3QgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gbWl4ZWQgJGdldElkCiAgICAgKiBAcGFyYW0gbWl4ZWQgJGdldElkMQogICAgICogQHBhcmFtIG1peGVkICRnZXRJZDIKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRnZXRJZCwgJGdldElkMSwgJGdldElkMikgeyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW0tPm5vCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
