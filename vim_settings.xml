@@ -151,11 +151,11 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="38" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/CuratorAgreementListener.php" timestamp="1550675277034">
-        <mark key="[" line="62" column="73" />
-        <mark key="]" line="63" column="7" />
-        <mark key="^" line="63" column="7" />
-        <mark key="." line="63" column="7" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/CuratorAgreementListener.php" timestamp="1551272742168">
+        <mark key="[" line="79" column="58" />
+        <mark key="]" line="79" column="66" />
+        <mark key="." line="79" column="66" />
+        <mark key="^" line="79" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Projection/CuratorContractViewProjection.php" timestamp="1551268966462">
         <mark key="[" line="36" column="33" />
@@ -827,7 +827,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551269058860">
+      <file name="/Dummy.txt" timestamp="1551272113876">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -1292,7 +1292,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/User/User.php" timestamp="1551203437310" />
       <file name="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" timestamp="1547396416353">
         <mark key="[" line="109" column="2" />
         <mark key="]" line="109" column="9" />
@@ -2000,8 +1999,8 @@
       <jump line="73" column="130" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/deezer/deezer-api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVddKSwgbmV3IENsYXNzUmVzb3VyY2UoTmV3VHJhY2tBZGRlZE5vdGlmaWNhdGlvbjo6Y2xhc3MpKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2013,7 +2012,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getId</text>
+        <text>new Curator($curator, $playlist)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2022,40 +2021,40 @@
         <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9ImludGVnZXIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkYWNsLT5hbGxvdygkdGhpcywgbmV3IEFjdGlvbnMoW0FjdGlvbnM6OlZJRVddKSwgbmV3IENsYXNzUmVzb3VyY2UoTmV3VHJhY2tBZGRlZE5vdGlmaWNhdGlvbjo6Y2xhc3MpKTsK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUGxheWxpc3RJZFJlZmVyZW5jZSBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSBBZ3JlZW1lbnQgJGFncmVlbWVudAogICAgICogQHBhcmFtIGludCAkcGxheWxpZElkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChBZ3JlZW1lbnQgJGFncmVlbWVudCwgaW50ICRwbGF5bGlkSWQpCiAgICB7CiAgICAgICAgJHRoaXMtPmFncmVlbWVudCA9ICRhZ3JlZW1lbnQ7CiAgICAgICAgJHRoaXMtPnBsYXlsaWRJZCA9ICRwbGF5bGlkSWQ7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGxheWxpc3RzVG9BbGxvd0FjY2Vzcyk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGxheWxpc3RJZHMgPSAkcGxheWxpc3RJZHM7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUGxheWxpc3RJZFJlZmVyZW5jZSBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSBBZ3JlZW1lbnQgJGFncmVlbWVudAogICAgICogQHBhcmFtIGludCAkcGxheWxpZElkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChBZ3JlZW1lbnQgJGFncmVlbWVudCwgaW50ICRwbGF5bGlkSWQpCiAgICB7CiAgICAgICAgJHRoaXMtPmFncmVlbWVudCA9ICRhZ3JlZW1lbnQ7CiAgICAgICAgJHRoaXMtPnBsYXlsaWRJZCA9ICRwbGF5bGlkSWQ7CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9ImFycmF5IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGxheWxpc3RJZHMgPSAkcGxheWxpc3RJZHM7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9ImFycmF5IikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RtdCA9ICR0aGlzLT5nZXRDb25uZWN0aW9uKCktPnVwZGF0ZSgKICAgICAgICAgICAgJ1NFTEVDVCAqIEZST00gcGxheWxpc3QnCiAgICAgICAgKTsKCgogICAgICAgIGRkKCRzdG10LT5mZXRjaEFsbCgpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -2104,13 +2103,13 @@
         <entry>so</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>action AceAction</entry>
         <entry>vsp</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
