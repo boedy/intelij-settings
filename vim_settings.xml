@@ -89,11 +89,11 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/CuratorQuotaListener.php" timestamp="1551367795760">
-        <mark key="[" line="43" column="46" />
-        <mark key="]" line="43" column="46" />
-        <mark key="." line="43" column="46" />
-        <mark key="^" line="43" column="16" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/CuratorQuotaListener.php" timestamp="1551369783223">
+        <mark key="[" line="38" column="57" />
+        <mark key="]" line="39" column="65" />
+        <mark key="." line="39" column="65" />
+        <mark key="^" line="39" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/index.js" timestamp="1547838248846">
         <mark key="[" line="0" column="0" />
@@ -699,12 +699,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1551363704057">
-        <mark key="'" line="208" column="0" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="." line="245" column="0" />
-        <mark key="^" line="239" column="34" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1551369837164">
+        <mark key="'" line="194" column="0" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="140" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/services/mixpanel-service/Dockerfile" timestamp="1544621563107">
         <mark key="[" line="5" column="14" />
@@ -1622,6 +1622,13 @@
         <mark key="." line="19" column="60" />
         <mark key="^" line="19" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/kollekt/reporting/src/api/mixpanel.js" timestamp="1549374234587">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="6" />
+        <mark key="]" line="67" column="25" />
+        <mark key="." line="67" column="25" />
+        <mark key="^" line="67" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/ResourceGraph/CascadingResourceGraphTraverser.php" timestamp="1551276302750">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1968,8 +1975,8 @@
       <jump line="208" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1981,7 +1988,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>quota</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1990,25 +1997,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRxdW90YS0+aW5jcmVtZW50Q3VycmVudFRvdGFsKCRjb250cmFjdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjYWxjdWxhdGVUYXJnZXRRdW90YVVwVG8oRGF0ZVRpbWUgJGRhdGUpCiAgICB7CiAgICAgICAgJGFncmVlbWVudHMgPSAkdGhpcy0+Z2V0QWdyZWVtZW50c0JlZm9yZURhdGUoJGRhdGUpOwogICAgICAgIC8qKiBAdmFyIEFncmVlbWVudCAkYWN0aXZlQWdyZWVtZW50ICovCiAgICAgICAgJGFjdGl2ZUFncmVlbWVudCA9ICRhZ3JlZW1lbnRzLT5yZW1vdmUoMCk7CgogICAgICAgICRxdW90YSA9IDA7CiAgICAgICAgZm9yZWFjaCAoJGFncmVlbWVudHMgYXMgJGFncmVlbWVudCl7CiAgICAgICAgICAgICRtb250aHNCZXR3ZWVuQWdyZWVtZW50cyA9ICRhY3RpdmVBZ3JlZW1lbnQtPmdldFN0YXJ0RGF0ZSgpLT5kaWZmKCRhZ3JlZW1lbnQtPmdldFN0YXJ0RGF0ZSgpKTsKICAgICAgICAgICAgJHN0YXJ0T2ZQZXJpb2QgPSAkYWdyZWVtZW50LT5nZXRTdGFydERhdGUoKTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGdlbmVyYXRlUXVvdGEoRGF0ZVRpbWUgJGRhdGUpCiAgICB7CiAgICAgICAgJGFncmVlbWVudCA9ICR0aGlzLT5maW5kQWdyZWVtZW50Rm9yRGF0ZSgkZGF0ZSk7CgogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRxdW90YSA9ICR0aGlzLT5xdW90YVJlcG9zaXRvcnktPmdldFF1b3RhRm9yQ29udHJhY3QoJGNvbnRyYWN0KTsKICAgICAgICAgICAgICAgICRxdW90YS0+cmVmbGVjdExhdGVzdCgkY29udHJhY3QpOwogICAgICAgICAgICAgICAgJHF1b3RhLT5pbmNyZW1lbnRDdXJyZW50VG90YWwoJGNvbnRyYWN0KTsKCi8vICAgICAgICAgICAgICAgICRxdW90YSA9IFF1b3RhOjpGcm9tQ29udHJhY3QoJGNvbnRyYWN0KTsKLy8gICAgICAgICAgICAgICAgJHF1b3RhLT5pbmNyZW1lbnRDdXJyZW50VG90YWwoKTsKCiAgICAgICAgICAgICAgICAkdGhpcy0+cXVvdGFSZXBvc2l0b3J5LT5zYXZlKCRxdW90YSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGNvbnRyYWN0cy0+aXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0UXVvdGEoKQogICAgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cXVvdGFSZXBvc2l0b3J5LT5nZXRRdW90YUZvckRhdGUobmV3IERhdGVUaW1lKCkpOwogICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgJGNvbnRyYWN0ID0gbmV3IEN1cmF0b3JDb250cmFjdCgpOwogICAgICAgICAgICAvKioKICAgICAgICAgICAgICogQHZhciAkcXVvdGEgUXVvdGEKICAgICAgICAgICAgICovCiAgICAgICAgICAgICRxdW90YSA9ICRjb250cmFjdC0+Z2VuZXJhdGVRdW90YXMoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -2017,10 +2024,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1b3RhID0gJHRoaXMtPnF1b3RhUmVwb3NpdG9yeS0+Z2V0UXVvdGFGb3JDb250cmFjdCgkY29udHJhY3QpOwogICAgICAgICAgICAkcXVvdGEtPnVwZGF0ZVRhcmdldEJhc2VkT25Db250cmFjdCgkY29udHJhY3QpOwogICAgICAgICAgICAkcXVvdGEtPmRlZHVjdFRhcmdldCgpOwoKICAgICAgICAgICAgJHRoaXMtPnF1b3RhUmVwb3NpdG9yeS0+c2F2ZSgkcXVvdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGNvbnRyYWN0cy0+aXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
