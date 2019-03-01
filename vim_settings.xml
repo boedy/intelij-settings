@@ -252,6 +252,9 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/docker-config/jobs/start.sh" timestamp="1551439086222">
+        <mark key="[" line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/serialnumber.js" timestamp="1538661961365">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -389,6 +392,12 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/cron.sh" timestamp="1551439909919">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="6" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/kaff.js" timestamp="1547507468158">
         <mark key="[" line="18" column="7" />
@@ -601,6 +610,11 @@
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/docker-config/jobs/Dockerfile" timestamp="1551439526978">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/public/js/stripe.js" timestamp="1536228138927">
         <mark key="[" line="0" column="21" />
@@ -1262,6 +1276,12 @@
         <mark key="." line="21" column="23" />
         <mark key="^" line="21" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/docker-config/jobs/supervisord.conf" timestamp="1551439810962">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/docker-compose.yml" timestamp="1538576012306">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="54" />
@@ -1292,11 +1312,11 @@
         <mark key="." line="4" column="39" />
         <mark key="^" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/docker-compose.override.yml" timestamp="1538731623546">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="27" column="25" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/docker-compose.override.yml" timestamp="1551439568182">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/node_modules/apollo-datasource-rest/dist/RESTDataSource.js" timestamp="1540991836625">
         <mark key="[" line="138" column="38" />
@@ -2056,7 +2076,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>worker</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2068,46 +2088,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>worker</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>NewAgreementMadeWithCurator</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgICAtIC4vZG9ja2VyLWNvbmZpZy9waHAvcGhwLmluaTovdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3VyYXRvcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>workers
+workers</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBRdW90YVJlcG9zaXRvcnkKICAgICAqLwogICAgcHJpdmF0ZSAkcXVvdGFSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBjdXJhdG9yX2NvbnRyYWN0IEFERCB0b3RhbF90cmFja3NfY3VyYXRlZCBJTlQgTk9UIE5VTEwnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3VyYXRvcklkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9ImludGVnZXIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBRdW90YVJlcG9zaXRvcnkKICAgICAqLwogICAgcHJpdmF0ZSAkcXVvdGFSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBjdXJhdG9yX2NvbnRyYWN0IEFERCB0b3RhbF90cmFja3NfY3VyYXRlZCBJTlQgTk9UIE5VTEwnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
