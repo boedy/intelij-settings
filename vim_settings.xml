@@ -95,7 +95,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/CuratorQuotaListener.php" timestamp="1551392779300">
-        <mark key="[" line="37" column="101" />
+        <mark key="[" line="36" column="101" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/index.js" timestamp="1547838248846">
         <mark key="[" line="0" column="0" />
@@ -161,11 +161,11 @@
         <mark key="." line="79" column="66" />
         <mark key="^" line="79" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Projection/CuratorContractViewProjection.php" timestamp="1551393314341">
-        <mark key="[" line="35" column="82" />
-        <mark key="]" line="35" column="82" />
-        <mark key="." line="35" column="82" />
-        <mark key="^" line="35" column="81" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Projection/CuratorContractViewProjection.php" timestamp="1551443435694">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="34" column="81" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/routes/web.php" timestamp="1536592264678">
         <mark key="[" line="16" column="52" />
@@ -393,11 +393,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/cron.sh" timestamp="1551439909919">
+      <file name="$USER_HOME$/Projects/atmosphere/api/cron.sh" timestamp="1551442540373">
         <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="6" column="9" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/kaff.js" timestamp="1547507468158">
         <mark key="[" line="18" column="7" />
@@ -851,7 +851,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551392034864">
+      <file name="/Dummy.txt" timestamp="1551443263717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -1005,6 +1005,12 @@
         <mark key="]" line="14" column="44" />
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Curation/Command/CalculateCuratorQuotas.php" timestamp="1551443362630">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/.env" timestamp="1536592706935">
         <mark key="[" line="3" column="10" />
@@ -2075,8 +2081,8 @@
       <jump line="54" column="35" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Curation/DoctrineCuratorContractQuery.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>worker</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2097,23 +2103,23 @@
         <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgICAtIC4vZG9ja2VyLWNvbmZpZy9waHAvcGhwLmluaTovdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBDYWxjdWxhdGUgY3VycmVudCBRdW90YQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>workers
 workers</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3VyYXRvcklkKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -2122,16 +2128,16 @@ workers</text>
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3VyYXRvcklkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBRdW90YVJlcG9zaXRvcnkKICAgICAqLwogICAgcHJpdmF0ZSAkcXVvdGFSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBjdXJhdG9yX2NvbnRyYWN0IEFERCB0b3RhbF90cmFja3NfY3VyYXRlZCBJTlQgTk9UIE5VTEwnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -2180,13 +2186,13 @@ workers</text>
         <entry>so</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>vsp</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action AceAction</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
