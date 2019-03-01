@@ -193,6 +193,13 @@
         <mark key="." line="10" column="81" />
         <mark key="^" line="10" column="81" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" timestamp="1551268938097">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="146" column="10" />
+        <mark key="]" line="141" column="6" />
+        <mark key="." line="141" column="6" />
+        <mark key="^" line="141" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Event/NewCuratorContractDrafted.php" timestamp="1550676361627">
         <mark key="[" line="51" column="5" />
         <mark key="]" line="52" column="23" />
@@ -716,9 +723,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1551449264307">
-        <mark key="'" line="200" column="0" />
-        <mark key="[" line="106" column="46" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1551452046430">
+        <mark key="'" line="202" column="0" />
+        <mark key="[" line="224" column="43" />
+        <mark key="]" line="224" column="44" />
+        <mark key="^" line="228" column="47" />
+        <mark key="." line="224" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/services/mixpanel-service/Dockerfile" timestamp="1544621563107">
         <mark key="[" line="5" column="14" />
@@ -848,12 +858,6 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Doctrine/DoctrineDomainEventInterceptor.php" timestamp="1551449361807">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="20" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/Sources/Mixpanel/skips_vs_age.js" timestamp="1538486311984">
         <mark key="[" line="13" column="0" />
@@ -1300,10 +1304,8 @@
         <mark key="." line="138" column="47" />
         <mark key="^" line="138" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Projection/Sql/CuratorContractViewProjection.php" timestamp="1551448888159">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Projection/Sql/CuratorContractViewProjection.php" timestamp="1551451184140">
+        <mark key="[" line="64" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/Organisations.js" timestamp="1540914878380">
         <mark key="[" line="0" column="0" />
@@ -1352,6 +1354,13 @@
         <mark key="]" line="88" column="0" />
         <mark key="^" line="22" column="82" />
         <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Curation/DoctrineCuratorContractQuery.php" timestamp="1551371277814">
+        <mark key="'" line="54" column="35" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="37" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/kollekt/reporting/.env" timestamp="1549311563170">
         <mark key="[" line="2" column="0" />
@@ -1763,11 +1772,11 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/TotalQuota.php" timestamp="1551374011090">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
-        <mark key="^" line="31" column="27" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/TotalQuota.php" timestamp="1551452371344">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/index.js" timestamp="1536872121136">
         <mark key="[" line="5" column="23" />
@@ -2016,8 +2025,8 @@
       <jump line="54" column="35" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Curation/DoctrineCuratorContractQuery.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZW50aXR5KTsK</text>
+      <register name="&quot;" type="4">
+        <text>contini</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2029,31 +2038,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmVudGl0aWVz</text>
+        <text>contini</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgyKToK</text>
+      <register name="0" type="4">
+        <text encoding="base64">LT5nZXRTdGFydERhdGUoKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZW50aXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWN0aXZlQWdyZWVtZW50KTsK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZW50aXRpZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWdyZWVtZW50c1swXS0+Z2V0U3RhcnREYXRlKCkpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgyKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">LT5maWx0ZXIoCiAgICAgICAgICAgIGZ1bmN0aW9uIChBZ3JlZW1lbnQgJGFncmVlbWVudCkgdXNlICgkdXBUb0RhdGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiAkYWdyZWVtZW50LT5nZXRTdGFydERhdGUoKSA8PSAkdXBUb0RhdGU7CiAgICAgICAgICAgIH0KICAgICAgICApOw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">LT5maWx0ZXIoCiAgICAgICAgICAgIGZ1bmN0aW9uIChBZ3JlZW1lbnQgJGFncmVlbWVudCkgdXNlICgkdXBUb0RhdGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiAkYWdyZWVtZW50LT5nZXRTdGFydERhdGUoKSA8PSAkdXBUb0RhdGU7CiAgICAgICAgICAgIH0KICAgICAgICApOw==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -2062,13 +2071,13 @@
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZGVjb2RlSWQoJGNvbnRyYWN0SWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTRVQgY3VycmVudF9xdW90YT0oU0VMRUNUIHRvdGFsVHJhY2tzQ3VyYXRlZCBGUk9NIGN1cmF0b3JfY29udHJhY3QgV0hFUkUgaWQgPSA6Y29udHJhY3RfaWQpIC0gOmRlZHVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRhZ3JlZW1lbnRzWzBdLT5nZXRTdGFydERhdGUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
