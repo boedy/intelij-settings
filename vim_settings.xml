@@ -908,11 +908,11 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Playlist/Event/TrackAddedToPlaylist.php" timestamp="1551277805634">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="10" column="94" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Playlist/Event/TrackAddedToPlaylist.php" timestamp="1551779159423">
+        <mark key="[" line="10" column="80" />
+        <mark key="]" line="10" column="79" />
+        <mark key="^" line="10" column="79" />
+        <mark key="." line="10" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/wercker.yml" timestamp="1548329328522">
         <mark key="[" line="39" column="40" />
@@ -1289,11 +1289,11 @@
         <mark key="." line="138" column="47" />
         <mark key="^" line="138" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Projection/Sql/CuratorContractViewProjection.php" timestamp="1551776686607">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="89" column="86" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Projection/Sql/CuratorContractViewProjection.php" timestamp="1551778864059">
+        <mark key="[" line="92" column="73" />
+        <mark key="]" line="92" column="73" />
+        <mark key="." line="92" column="73" />
+        <mark key="^" line="92" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/models/Organisations.js" timestamp="1540914878380">
         <mark key="[" line="0" column="0" />
@@ -2028,8 +2028,8 @@
       <jump line="24" column="4" filename="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/AbstractPresenter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2ZlZScgICAgICAgICAgICAgICA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAncmVwZWF0c19pbl9tb250aHMnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdjb21taXNzaW9uJyAgICAgICAgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3BsYXlsaXN0X2lkcycgICAgICA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAncXVvdGEnICAgICAgICAgICAgID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdzdGFydF9tb250aCcgICAgICAgPT4gJ3JlcXVpcmVkfGRhdGVfZm9ybWF0OlktbScsCg==</text>
+      <register name="&quot;" type="4">
+        <text>, StorableEvent</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2041,7 +2041,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>monthlyOn</text>
+        <text>, StorableEvent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9tYXBcPg==</text>
