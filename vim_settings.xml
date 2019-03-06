@@ -222,6 +222,11 @@
         <mark key="^" line="40" column="18" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Event/AgreementRemoved.php" timestamp="1551812435996">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/App.js" timestamp="1539680735484">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
@@ -721,12 +726,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1551804693573">
-        <mark key="'" line="179" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="100" column="58" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1551812429412">
+        <mark key="'" line="184" column="0" />
+        <mark key="[" line="105" column="79" />
+        <mark key="]" line="105" column="79" />
+        <mark key="." line="105" column="79" />
+        <mark key="^" line="105" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/services/mixpanel-service/Dockerfile" timestamp="1544621563107">
         <mark key="[" line="5" column="14" />
@@ -839,7 +844,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551791874313">
+      <file name="/Dummy.txt" timestamp="1551812385482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/atmosphere-app/hooks/before_run.sh" timestamp="1536406433150">
@@ -2070,7 +2075,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5yZW1vdmVBZ3JlZW1lbnRGb3JEYXRlKCkK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQWdyZWVtZW50UmVtb3ZlZCBjb25zdHJ1Y3Rvci4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgeyB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2082,7 +2087,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>foundAgreement</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9tYXBcPg==</text>
@@ -2091,37 +2096,37 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFncmVlbWVudHMtPnJlbW92ZUVsZW1lbnQoJGZvdW5kQWdyZWVtZW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5yZW1vdmVBZ3JlZW1lbnRGb3JEYXRlKCkK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQWdyZWVtZW50UmVtb3ZlZCBjb25zdHJ1Y3Rvci4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgeyB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkYWdyZWVtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5yZW1vdmVBZ3JlZW1lbnRGb3JEYXRlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkYWdyZWVtZW50Owo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAoKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
