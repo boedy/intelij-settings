@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="21" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" protocol="file" />
     </globalmarks>
@@ -1713,6 +1713,12 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/CuratorAgreementMadeListener.php" timestamp="1552907346750">
+        <mark key="[" line="75" column="16" />
+        <mark key="]" line="75" column="17" />
+        <mark key="." line="75" column="17" />
+        <mark key="^" line="75" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger/.env.production" timestamp="1548195790465">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="3" column="25" />
@@ -2190,8 +2196,8 @@
       <jump line="46" column="33" filename="$USER_HOME$/Projects/atmosphere/api/resources/views/DeviceCredentialsEmail.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2203,7 +2209,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -2218,33 +2224,33 @@
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnVzZXJSb2xlU2VydmljZS0+bWFrZUN1cmF0b3IoJGN1cmF0b3IsICRwbGF5bGlzdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRSZWNlaXZlcigpCiAgICB7CgogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGZvcmVhY2ggKCRwbGF5bGlzdHNUb1Jldm9rZUFjY2VzcyBhcyAkcGxheWxpc3QpIHsKLy8gICAgICAgICAgICAkdGhpcy0+YWNjZXNzQ29udHJvbFNlcnZpY2UtPnJldm9rZVVzZXJGcm9tUmVzb3VyY2UoJGN1cmF0b3IsICRwbGF5bGlzdCk7Ci8vICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>'
-'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkcGxheWxpc3RzVG9SZXZva2VBY2Nlc3MgPSAkdGhpcy0+cGxheWxpc3RSZXBvc2l0b3J5LT5nZXQoJGV2ZW50LT5nZXREcm9wcGVkUGxheWxpc3RzKCkpOwo=</text>
       </register>
-      <register name="5" type="8">
-        <text>mailData[
-mailData[</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWFpbERhdGEgPSBbCiAgICAgICAgICAgICdyZWNlaXZlcicgPT4gJHJlY2VpdmVyLT5nZXRGaXJzdE5hbWUoKSwKICAgICAgICAgICAgJ2N0YScgPT4gJGN0YSwKICAgICAgICAgICAgJ3RyYWNrQ291bnQnID0+IDAsCiAgICAgICAgICAgICdwbGF5bGlzdHMnID0+IFtdCiAgICAgICAgXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPm1haWxEYXRhOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRSZWNlaXZlcigpCiAgICB7CgogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJG1haWxEYXRhID0gW107Cg==</text>
+      <register name="8" type="8">
+        <text>'
+'</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGRhdGE7Cg==</text>
+      <register name="9" type="8">
+        <text>mailData[
+mailData[</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
