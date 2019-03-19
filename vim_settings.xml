@@ -196,6 +196,12 @@
         <mark key="." line="52" column="23" />
         <mark key="^" line="52" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" timestamp="1552990957394">
+        <mark key="[" line="105" column="81" />
+        <mark key="]" line="102" column="78" />
+        <mark key="^" line="107" column="7" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Event/EventStore.php" timestamp="1551200730725">
         <mark key="[" line="9" column="46" />
         <mark key="]" line="9" column="46" />
@@ -747,12 +753,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1551983375541">
-        <mark key="'" line="173" column="24" />
-        <mark key="[" line="169" column="44" />
-        <mark key="]" line="169" column="52" />
-        <mark key="." line="169" column="52" />
-        <mark key="^" line="169" column="52" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1552990786896">
+        <mark key="'" line="177" column="24" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+        <mark key="^" line="188" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/services/mixpanel-service/Dockerfile" timestamp="1544621563107">
         <mark key="[" line="5" column="14" />
@@ -2139,8 +2145,8 @@
       <jump line="46" column="33" filename="$USER_HOME$/Projects/atmosphere/api/resources/views/DeviceCredentialsEmail.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|min:0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkY29tbWlzc2lvbkNoYW5nZWQgPSAkdGhpcy0+Y29tbWlzc2lvbiAhPSAkYWdyZWVtZW50LT5nZXRDb21taXNzaW9uKCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2152,7 +2158,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>|min:0</text>
+        <text>period</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -2161,40 +2167,40 @@
         <text encoding="base64">ICAgICAgICAkZGF0ZSA9IFxEYXRlVGltZTo6Y3JlYXRlRnJvbUZvcm1hdCgnbS1ZJywgJzA0LTIwMTknKTsKICAgICAgICAkc2Vjb25kQWdyZWVtZW50ID0gbmV3IEFncmVlbWVudCgxMDAsIDMsICRkYXRlLCAxMDAwMCwgMCwgWzMsNCw1XSwgJycpOwogICAgICAgICRjb250cmFjdC0+YWRkQWdyZWVtZW50KCRzZWNvbmRBZ3JlZW1lbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29tbWlzc2lvbkNoYW5nZWQgPSAkdGhpcy0+Y29tbWlzc2lvbiAhPSAkYWdyZWVtZW50LT5nZXRDb21taXNzaW9uKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkbW9udGhzQmV0d2VlbkFncmVlbWVudHMgLiAiXG4iOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gaXNOZXdBZ3JlZW1lbnQoQWdyZWVtZW50ICRhZ3JlZW1lbnQpCiAgICB7CiAgICAgICAgJGZlZUNoYW5nZWQgPSAkdGhpcy0+Y29tCiAgICAgICAgaWYoKQogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBpc05ld0FncmVlbWVudCgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZSA9IFxEYXRlVGltZTo6Y3JlYXRlRnJvbUZvcm1hdCgnbS1ZJywgJzAzLTIwMTknKTsKICAgICAgICAkdGhpcmRBZ3JlZW1lbnQgPSBuZXcgQWdyZWVtZW50KDUwLCAxLCAkZGF0ZSwgMTAwMDAsIDAsIFszLDQsNV0sICcnKTsKICAgICAgICAkY29udHJhY3QtPmFkZEFncmVlbWVudCgkdGhpcmRBZ3JlZW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAkbW9udGhzQmV0d2VlbkFncmVlbWVudHMgLiAiXG4iOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnVzZXJSb2xlU2VydmljZS0+bWFrZUN1cmF0b3IoJGN1cmF0b3IsICRwbGF5bGlzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvcmVhY2ggKCRwbGF5bGlzdHNUb1Jldm9rZUFjY2VzcyBhcyAkcGxheWxpc3QpIHsKLy8gICAgICAgICAgICAkdGhpcy0+YWNjZXNzQ29udHJvbFNlcnZpY2UtPnJldm9rZVVzZXJGcm9tUmVzb3VyY2UoJGN1cmF0b3IsICRwbGF5bGlzdCk7Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -2247,9 +2253,9 @@
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action AceAction</entry>
-        <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
