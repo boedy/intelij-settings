@@ -1837,11 +1837,11 @@
         <mark key="^" line="16" column="52" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/dapp-returns.io/DootronAutomation.js" timestamp="1553162613410">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="7" />
+      <file name="$USER_HOME$/Projects/personal/dapp-returns.io/DootronAutomation.js" timestamp="1553206449885">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="33" column="60" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/config/database.php" timestamp="1550699398697">
         <mark key="[" line="28" column="39" />
@@ -2019,8 +2019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
-      <jump line="54" column="35" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
       <jump line="20" column="1" filename="$USER_HOME$/Projects/services/mixpanel-service/src/state/location.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/state/location.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.js" />
@@ -2119,10 +2117,12 @@
       <jump line="46" column="33" filename="$USER_HOME$/Projects/atmosphere/api/resources/views/DeviceCredentialsEmail.twig" />
       <jump line="23" column="24" filename="$USER_HOME$/Projects/personal/dapp-returns.io/dapps/dootron.js" />
       <jump line="3" column="33" filename="$USER_HOME$/Projects/services/AccountCreationDelegation/src/index.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/Projects/personal/dapp-returns.io/DootronAutomation.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/Projects/personal/dapp-returns.io/DootronAutomation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>delegation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2143,37 +2143,37 @@
         <text encoding="base64">ICBjb25zdCBkZWxlZ2F0aW9ucyA9IGF3YWl0IERlbGVnYXRpb25zLmZldGNoKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBheWxvYWQgPSBhd2FpdCBqc29uKHJlcSk7Cg==</text>
+        <text encoding="base64">bGV0IGludGVydmFsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWxldGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY2FuY2VsRGVsZWdhdGlvbiA9IGFzeW5jIGxvY2F0aW9uSWQgPT4gewo=</text>
+        <text encoding="base64">bGV0IGludGVydmFsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYW5jZWxEZWxlZ2F0aW9uLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBheWxvYWQgPSBhd2FpdCBqc29uKHJlcSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWxldGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY2FuY2VsRGVsZWdhdGlvbiA9IGFzeW5jIGxvY2F0aW9uSWQgPT4gewp9Owo=</text>
+        <text encoding="base64">Y29uc3QgY2FuY2VsRGVsZWdhdGlvbiA9IGFzeW5jIGxvY2F0aW9uSWQgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBkZWxlZ2F0aW9uUmVxdWVzdCA9IGF3YWl0IGRlbGVnYXRpb25zLmRlbDsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusUp</text>
