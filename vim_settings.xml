@@ -438,6 +438,13 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/resources/views/DeviceCredentialsEmail.twig" timestamp="1552503937603">
+        <mark key="'" line="46" column="33" />
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="35" />
+        <mark key="^" line="34" column="39" />
+        <mark key="." line="34" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/EventSubscriber.js" timestamp="1547728359152">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="42" column="0" />
@@ -559,11 +566,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/Order.js" timestamp="1553465683928">
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="26" column="17" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/Order.js" timestamp="1553466920823">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/test.js" timestamp="1547722060868">
         <mark key="[" line="5" column="45" />
@@ -673,12 +680,12 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageMonitor.js" timestamp="1553443648952">
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageMonitor.js" timestamp="1553467270423">
         <mark key="'" line="31" column="64" />
-        <mark key="[" line="19" column="55" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="30" />
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="30" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Jobs/RemoveTrack.php" timestamp="1536856703058">
         <mark key="[" line="34" column="0" />
@@ -890,6 +897,13 @@
         <mark key="]" line="109" column="9" />
         <mark key="." line="109" column="9" />
         <mark key="^" line="109" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Curation/DoctrineCuratorContractQuery.php" timestamp="1551705319645">
+        <mark key="'" line="112" column="35" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Email/TextVersions/NewCommentsEmailText.php" timestamp="1552560409772">
         <mark key="[" line="28" column="21" />
@@ -2265,8 +2279,8 @@
       <jump line="86" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/kiwidex.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcmRlcik7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2284,40 +2298,40 @@
         <text encoding="base64">XDxleGNoYW5nZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL29yZGVyIGlzIHdpbGwgYmUgZmlsbGVkIGRpcmVjdGx5IGJ5IGV4Y2hhbmdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdTbWFsbCBhcmJpdHJhZ2UgJywgcHJpY2VBLnRva2VuLCAnOiAnLCBvcmRlci5wcmljZURpZmYoKSwgJyB8ICcsIHByaWNlQS5leGNoYW5nZSwgJyAtICcsIHByaWNlQi5leGNoYW5nZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIDEwID0+IDExICgxMS0xMCkgLyAxMAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcmRlcik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJpY2VCLnNlbGxQcmljZSA8IHByaWNlQi5idXlQcmljZSkgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBvcmRlclNpemUgPSBNYXRoLm1pbihwcmljZUEuc2VsbEFtb3VudCwgcHJpY2VCLmJ1eUFtb3VudCk7CgogICAgICAgIGNvbnN0IG9yZGVyID0gbmV3IE9yZGVyKHByaWNlQS50b2tlbiwgb3JkZXJTaXplKTsKICAgICAgICBvcmRlci5idXkocHJpY2VBLmV4Y2hhbmdlLCBwcmljZUEuc2VsbFByaWNlKTsKICAgICAgICBvcmRlci5zZWxsKHByaWNlQi5leGNoYW5nZSwgcHJpY2VCLmJ1eVByaWNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJpY2VBLnNlbGxQcmljZSA8IHByaWNlQS5idXlQcmljZSkgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcmRlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YS5kYXRhLmJpZHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcmljZUIuYW1vdW50ICwgcHJpY2VBLmFtb3VudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcmljZUIsIHByaWNlQSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YS5kYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBvcmRlclNpemUgPSBNYXRoLm1pbihwcmljZUEuc2VsbEFtb3VudCwgcHJpY2VCLmJ1eUFtb3VudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
