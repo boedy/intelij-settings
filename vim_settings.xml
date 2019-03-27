@@ -456,6 +456,12 @@
         <mark key="^" line="9" column="58" />
         <mark key="." line="9" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/DTO/UserInfoDTO.php" timestamp="1553695763843">
+        <mark key="[" line="44" column="74" />
+        <mark key="]" line="44" column="74" />
+        <mark key="." line="44" column="74" />
+        <mark key="^" line="44" column="74" />
+      </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/src/events/EventPublisher.js" timestamp="1548263990361">
         <mark key="[" line="34" column="2" />
         <mark key="]" line="34" column="7" />
@@ -793,6 +799,12 @@
         <mark key="." line="47" column="7" />
         <mark key="^" line="47" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/User/Command/UpdatePersonalInformation.php" timestamp="1553695545449">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-graphql/data/resolvers.js" timestamp="1541412876630">
         <mark key="[" line="53" column="54" />
         <mark key="]" line="53" column="70" />
@@ -937,6 +949,9 @@
         <mark key="]" line="38" column="33" />
         <mark key="^" line="38" column="33" />
         <mark key="." line="38" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553694814404">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/tesdsa/server/Sources/Mixpanel/skips_vs_age.js" timestamp="1538486311984">
         <mark key="[" line="13" column="0" />
@@ -1778,6 +1793,10 @@
         <mark key="." line="75" column="17" />
         <mark key="^" line="75" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Playlist/Command/UpdatePlaylist.php" timestamp="1553695192698">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="36" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger/.env.production" timestamp="1548195790465">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="3" column="25" />
@@ -1825,6 +1844,13 @@
         <mark key="]" line="9" column="23" />
         <mark key="^" line="31" column="40" />
         <mark key="." line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/User/Person.php" timestamp="1553695933858">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="46" />
+        <mark key="^" line="39" column="46" />
+        <mark key="." line="39" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/routes.php" timestamp="1552501689433">
         <mark key="[" line="22" column="66" />
@@ -2154,7 +2180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/kollekt/team-dashboard/moneybird/index.js" />
       <jump line="237" column="2" filename="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" />
       <jump line="91" column="28" filename="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" />
@@ -2254,10 +2279,11 @@
       <jump line="86" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/kiwidex.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageMonitor.js" />
       <jump line="37" column="17" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/trxMarket.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Domain/User/Person.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0cnhNYXJrZXQsCg==</text>
+      <register name="&quot;" type="4">
+        <text>imageRepository = $imageRepository;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2269,46 +2295,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>imageRepository = $imageRepository;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNoYW5nZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZURpZmZlcmVuY2UgPSAkc3RhcnRNb250aC0+ZGlmZigkbm93KTsKICAgICAgICAkbW9udGhzUGFzdCA9ICRkYXRlRGlmZmVyZW5jZS0+eSAqIDEyICsgJGRhdGVEaWZmZXJlbmNlLT5tOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQE9STVxDb2x1bW4odHlwZT0ic3RyaW5nIikKICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0cnhNYXJrZXQsCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBJbWFnZVJlcG9zaXRvcnkKICAgICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0cm9uVHJhZGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGltYWdlU2VydmljZSA9IG5ldyBJbWFnZUFwcGxpY2F0aW9uU2VydmljZSgkaW1hZ2VSZXBvc2l0b3J5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZURpZmZlcmVuY2UgPSAkc3RhcnREYXRlLT5kaWZmKCR0b2RheSk7CiAgICAgICAgJG1vbnRoc1Bhc3QgPSAkZGF0ZURpZmZlcmVuY2UtPnkgKiAxMiArICRkYXRlRGlmZmVyZW5jZS0+bTsKICAgICAgICAkbW9kaWZ5ID0gZmxvb3IoJG1vbnRoc1Bhc3QgLyAkYWN0aXZlQWdyZWVtZW50LT5nZXRSZXBlYXRzSW5Nb250aHMoKSkgKiAkYWN0aXZlQWdyZWVtZW50LT5nZXRSZXBlYXRzSW5Nb250aHMoKTsKICAgICAgICAkc3RhcnREYXRlLT5tb2RpZnkoJysnLiAkbW9kaWZ5IC4nIG1vbnRocycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnREYXRlID0gJGFjdGl2ZUFncmVlbWVudC0+Z2V0U3RhcnREYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBsYXlsaXN0LT5jaGFuZ2VJbWFnZSgkZmlsZVBhdGgpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkYWN0aXZlQWdyZWVtZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnREYXRlID0gJGFjdGl2ZUFncmVlbWVudC0+Z2V0U3RhcnREYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigkcGVyc29uLT5nZXRJTSkK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
