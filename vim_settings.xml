@@ -423,11 +423,11 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/values.yaml" timestamp="1553705782760">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/values.yaml" timestamp="1553763642186">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/kaff.js" timestamp="1547507468158">
         <mark key="[" line="18" column="7" />
@@ -2308,8 +2308,8 @@
       <jump line="66" column="0" filename="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/templates/webapp.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAge3stIHdpdGggLlZhbHVlcy5ub2RlU2VsZWN0b3IgfX0KICAgICAgbm9kZVNlbGVjdG9yOgogICAgICAgIHt7LSB0b1lhbWwgLiB8IG5pbmRlbnQgOCB9fQogICAgICB7ey0gZW5kIH19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2321,7 +2321,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>affinity</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNoYW5nZVw+</text>
@@ -2330,40 +2330,40 @@
         <text encoding="base64">ICAgICAge3stIHdpdGggLlZhbHVlcy5ub2RlU2VsZWN0b3IgfX0KICAgICAgbm9kZVNlbGVjdG9yOgogICAgICAgIHt7LSB0b1lhbWwgLiB8IG5pbmRlbnQgOCB9fQogICAgICB7ey0gZW5kIH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3stIHdpdGggLlZhbHVlcy5ub2RlU2VsZWN0b3IgfX0KICAgICAgbm9kZVNlbGVjdG9yOgogICAgICAgICAgICB7ey0gdG9ZYW1sIC4gfCBuaW5kZW50IDggfX0KICAgICAgICAgICAge3stIGVuZCB9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IG1haW4tYXBpCg==</text>
+        <text encoding="base64">IyBEZWZhdWx0IHZhbHVlcyBmb3IgaW5zdG9yZS1hcGkuCiMgVGhpcyBpcyBhIFlBTUwtZm9ybWF0dGVkIGZpbGUuCiMgRGVjbGFyZSB2YXJpYWJsZXMgdG8gYmUgcGFzc2VkIGludG8geW91ciB0ZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IG1haW4tYXBpCg==</text>
+        <text encoding="base64">ICBkb2tzLmRpZ2l0YWxvY2Vhbi5jb20vbm9kZS1wb29sLWlkOiAzYzBlYTVkOC01NWE2LTQ3MjUtOGQ1OC0xMjliZWI5YTZlZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IG1haW4tYXBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3stIHdpdGggLlZhbHVlcy5ub2RlU2VsZWN0b3IgfX0KICAgICAgbm9kZVNlbGVjdG9yOgogICAgICAgICAgICB7ey0gdG9ZYW1sIC4gfCBuaW5kZW50IDggfX0KICAgICAgICAgICAge3stIGVuZCB9fQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBuYW1lc3BhY2U6IG1haW4tYXBpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBpVmVyc2lvbjogdjEKa2luZDogU2VydmljZQptZXRhZGF0YToKICBuYW1lOiB7eyBpbmNsdWRlICJpbnN0b3JlLWFwaS5mdWxsbmFtZSIgLiB9fQogIGxhYmVsczoKICAgIGFwcC5rdWJlcm5ldGVzLmlvL25hbWU6IHt7IGluY2x1ZGUgImluc3RvcmUtYXBpLm5hbWUiIC4gfX0KICAgIGhlbG0uc2gvY2hhcnQ6IHt7IGluY2x1ZGUgImluc3RvcmUtYXBpLmNoYXJ0IiAuIH19CiAgICBhcHAua3ViZXJuZXRlcy5pby9pbnN0YW5jZToge3sgLlJlbGVhc2UuTmFtZSB9fQogICAgYXBwLmt1YmVybmV0ZXMuaW8vbWFuYWdlZC1ieToge3sgLlJlbGVhc2UuU2VydmljZSB9fQpzcGVjOgogIHR5cGU6IHt7IC5WYWx1ZXMuc2VydmljZS50eXBlIH19CiAgcG9ydHM6CiAgICAtIHBvcnQ6IHt7IC5WYWx1ZXMuc2VydmljZS5wb3J0IH19CiAgICAgIHRhcmdldFBvcnQ6IGh0dHAKICAgICAgcHJvdG9jb2w6IFRDUAogICAgICBuYW1lOiBodHRwCiAgc2VsZWN0b3I6CiAgICBhcHAua3ViZXJuZXRlcy5pby9uYW1lOiB7eyBpbmNsdWRlICJpbnN0b3JlLWFwaS5uYW1lIiAuIH19CiAgICBhcHAua3ViZXJuZXRlcy5pby9pbnN0YW5jZToge3sgLlJlbGVhc2UuTmFtZSB9fQoK</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6IG1haW4tYXBpCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmFwaVZlcnNpb246IHYxCmtpbmQ6IFNlcnZpY2UKbWV0YWRhdGE6CiAgbmFtZTogcGhwLW5naW54CiAgbmFtZXNwYWNlOiB7eyAuVmFsdWVzLm5hbWVzcGFjZX19CnNwZWM6CiAgcG9ydHM6CiAgICAtIHBvcnQ6IDgwCiAgICAgIHByb3RvY29sOiBUQ1AKICAgICAgdGFyZ2V0UG9ydDogODAKICBzZWxlY3RvcjoKICAgIGFwcDogcGhwLW5naW54CiAgdHlwZTogQ2x1c3RlcklQCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">LS0tCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICBuYW1lc3BhY2U6IG1haW4tYXBpCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBuYW1lc3BhY2U6IG1haW4tYXBpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">YXBpVmVyc2lvbjogdjEKa2luZDogU2VydmljZQptZXRhZGF0YToKICBuYW1lOiB7eyBpbmNsdWRlICJpbnN0b3JlLWFwaS5mdWxsbmFtZSIgLiB9fQogIGxhYmVsczoKICAgIGFwcC5rdWJlcm5ldGVzLmlvL25hbWU6IHt7IGluY2x1ZGUgImluc3RvcmUtYXBpLm5hbWUiIC4gfX0KICAgIGhlbG0uc2gvY2hhcnQ6IHt7IGluY2x1ZGUgImluc3RvcmUtYXBpLmNoYXJ0IiAuIH19CiAgICBhcHAua3ViZXJuZXRlcy5pby9pbnN0YW5jZToge3sgLlJlbGVhc2UuTmFtZSB9fQogICAgYXBwLmt1YmVybmV0ZXMuaW8vbWFuYWdlZC1ieToge3sgLlJlbGVhc2UuU2VydmljZSB9fQpzcGVjOgogIHR5cGU6IHt7IC5WYWx1ZXMuc2VydmljZS50eXBlIH19CiAgcG9ydHM6CiAgICAtIHBvcnQ6IHt7IC5WYWx1ZXMuc2VydmljZS5wb3J0IH19CiAgICAgIHRhcmdldFBvcnQ6IGh0dHAKICAgICAgcHJvdG9jb2w6IFRDUAogICAgICBuYW1lOiBodHRwCiAgc2VsZWN0b3I6CiAgICBhcHAua3ViZXJuZXRlcy5pby9uYW1lOiB7eyBpbmNsdWRlICJpbnN0b3JlLWFwaS5uYW1lIiAuIH19CiAgICBhcHAua3ViZXJuZXRlcy5pby9pbnN0YW5jZToge3sgLlJlbGVhc2UuTmFtZSB9fQoK</text>
+      </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>w production.yml</text>
       </register>
     </registers>
     <search>
@@ -2399,7 +2399,6 @@
         <entry encoding="base64">XDxleGNoYW5nZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
         <entry>action SplitVertically</entry>
         <entry>action SplitHorizontally</entry>
         <entry>vs</entry>
@@ -2419,6 +2418,7 @@
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>w production.yml</entry>
       </history-cmd>
       <history-expr />
       <history-input />
