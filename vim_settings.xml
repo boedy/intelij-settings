@@ -436,12 +436,12 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/values.yaml" timestamp="1553792147618">
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/values.yaml" timestamp="1553857151305">
         <mark key="'" line="18" column="3" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="45" column="12" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/kaff.js" timestamp="1547507468158">
         <mark key="[" line="18" column="7" />
@@ -1960,11 +1960,11 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/templates/queue.yaml" timestamp="1553706220041">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="33" column="15" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="33" column="5" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/templates/queue.yaml" timestamp="1553857135265">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="27" column="5" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" timestamp="1537562867707">
         <mark key="[" line="50" column="0" />
@@ -2354,8 +2354,8 @@
       <jump line="22" column="3" filename="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/values.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>main-api</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2367,7 +2367,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dex</text>
+        <text>main-api</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNoYW5nZVw+</text>
@@ -2376,34 +2376,34 @@
         <text encoding="base64">ICBzaXplOiAnNUdpJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEpOwo=</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6IG1haW4tYXBpCg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjjjjP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJ0ZldGNoIGZhaWxlZCcsIGV4Y2hhbmdlTmFtZSk7Cg==</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6IG1haW4tYXBpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbWFnZToKICAgIHJlcG9zaXRvcnk6IG5naW54CiAgICB0YWc6IDEuOQogICAgcHVsbFBvbGljeTogSWZOb3RQcmVzZW50Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwLmRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbWFnZToKICAgIHJlcG9zaXRvcnk6IG5naW54CiAgICB0YWc6IDEuOQogICAgcHVsbFBvbGljeTogSWZOb3RQcmVzZW50Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJ0ZldGNoIGZhaWxlZCcsIGV4Y2hhbmdlTmFtZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdG9yYWdlU2VjcmV0OiB5aWpIYTJJNStFZ3dqTkNscU5TbCtFbE1RRnNXaU93aGdSb2IvVkVZCg==</text>
+        <text encoding="base64">ICBpbWFnZToKICAgIHJlcG9zaXRvcnk6IG5naW54CiAgICB0YWc6IDEuOQogICAgcHVsbFBvbGljeTogSWZOb3RQcmVzZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdG9yYWdlS2V5OiBBS0lBSkVHVDZKSlVRSTRIMzRJQQo=</text>
+        <text encoding="base64">ICBpbWFnZToKICAgIHJlcG9zaXRvcnk6IG5naW54CiAgICB0YWc6IDEuOQogICAgcHVsbFBvbGljeTogSWZOb3RQcmVzZW50Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdG9yYWdlU2VjcmV0OiB5aWpIYTJJNStFZ3dqTkNscU5TbCtFbE1RRnNXaU93aGdSb2IvVkVZCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYXNzd29yZDogaXhKakRCMndNZmJ4cWhNQ1RQODhUU203eTlsCiAgbm90aWZ5OiB0cnVlCiAgcHVzaGJ1bGxldEtleTogby41ZllkbWZ4eHdkTUo4bHA3a1Y5OEVqbXlyQ1ltY09QVwo=</text>
+        <text encoding="base64">ICBzdG9yYWdlS2V5OiBBS0lBSkVHVDZKSlVRSTRIMzRJQQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
