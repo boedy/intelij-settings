@@ -269,10 +269,11 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageTransactionProcessor.ts" timestamp="1554029499942">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageTransactionProcessor.ts" timestamp="1554032148018">
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="77" />
+        <mark key="." line="9" column="77" />
+        <mark key="^" line="9" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/Dockerfile" timestamp="1547744577572">
         <mark key="[" line="0" column="17" />
@@ -972,11 +973,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageTransaction.ts" timestamp="1554029310099">
-        <mark key="[" line="40" column="132" />
-        <mark key="]" line="40" column="136" />
-        <mark key="." line="40" column="136" />
-        <mark key="^" line="40" column="136" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageTransaction.ts" timestamp="1554032003266">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/prices.js" timestamp="1553360135860">
         <mark key="[" line="9" column="5" />
@@ -2583,8 +2584,8 @@
       <jump line="68" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageMonitor.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>buyOrder</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2596,16 +2597,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>buyOrder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAgdGhpcy5zZWxsT3JkZXIuc2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBidXlPcmRlci5leGNoYW5nZS5idXkodHJhbnNhY3Rpb24udG9rZW4sIGJ1eU9yZGVyLmFtb3VudCwgYnV5T3JkZXIucHJpY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbi5idXlPcmRlci5leGNoYW5nZS5idXkoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2627,32 +2628,34 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0cmFuc2FjdGlvbi4K</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>private
+private
+private</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IHN0cmluZzsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0cmFuc2FjdGlvbi4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWUoKTogc3RyaW5nIHsKICAgICAgICByZXR1cm4gZXhjaGFuZ2VOYW1lOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZmVlID0gMC4wMDI7Cg==</text>
+        <text encoding="base64">ICAgIG5hbWU6IHN0cmluZzsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUoKTogc3RyaW5nIHsKICAgICAgICByZXR1cm4gZXhjaGFuZ2VOYW1lOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
