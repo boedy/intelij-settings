@@ -650,11 +650,11 @@
         <mark key="." line="105" column="39" />
         <mark key="^" line="105" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/crypto/iostbid/scrape.ts" timestamp="1554153751028">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="18" column="6" />
-        <mark key="^" line="15" column="31" />
-        <mark key="." line="8" column="31" />
+      <file name="$USER_HOME$/Projects/personal/crypto/iostbid/scrape.ts" timestamp="1554190459130">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Jobs/HandleMoneybirdWebhook.php" timestamp="1536412113228">
         <mark key="[" line="57" column="61" />
@@ -2624,8 +2624,8 @@
       <jump line="6" column="15" filename="$USER_HOME$/Projects/personal/crypto/iostbid/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZnJvbU5vdwo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2637,16 +2637,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>days</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcnNbZC5mcm9tXSA9IHVzZXJzW2QuZnJvbV0gPyB1c2Vyc1tkLmZyb21dICsgMSA6IDE7Cg==</text>
+      <register name="0" type="4">
+        <text>Math.ceil(response.total/500)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZnJvbU5vdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2669,31 +2669,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGoK</text>
+        <text encoding="base64">Y29uc3Qgc2NyYXBQYWdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF5awo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZnJvbU5vdwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF5awo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYmlkcwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
