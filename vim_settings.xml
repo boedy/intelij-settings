@@ -655,7 +655,7 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554301429702">
+      <file name="/Dummy.txt" timestamp="1554306182378">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/bootstrap/app.php" timestamp="1551225412716">
@@ -1120,9 +1120,9 @@
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/.env.production" timestamp="1554302743349">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="28" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/.env.production" timestamp="1554306165796">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="34" />
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="27" />
       </file>
@@ -1270,11 +1270,11 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/deployment/mixpanel-service/values.yaml" timestamp="1554298508106">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="13" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/deployment/mixpanel-service/values.yaml" timestamp="1554305902650">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/insert.js" timestamp="1547841329092">
         <mark key="[" line="37" column="39" />
@@ -1558,11 +1558,11 @@
         <mark key="." line="59" column="24" />
         <mark key="^" line="59" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/deployment/mixpanel-service/production.yml" timestamp="1554304937713">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/deployment/mixpanel-service/production.yml" timestamp="1554305890503">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="2" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger/deployment/deployments.yaml" timestamp="1548195756761">
         <mark key="[" line="44" column="12" />
@@ -2001,10 +2001,10 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/wercker.yml" timestamp="1554286100993">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="19" column="41" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/wercker.yml" timestamp="1554306171640">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="11" />
         <mark key="^" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/devMode.js" timestamp="1543590343338">
@@ -2169,10 +2169,11 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/deployment/mixpanel-service/templates/deployment.yaml" timestamp="1554297029356">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/deployment/mixpanel-service/templates/deployment.yaml" timestamp="1554305737077">
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/kollekt/reporting/.env" timestamp="1549311563170">
         <mark key="[" line="2" column="0" />
@@ -2688,7 +2689,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>$WERCKER_DEPLOY_TARGET</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2700,16 +2701,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>$WERCKER_DEPLOY_TARGET</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1hZ2U6CiAgcmVwb3NpdG9yeToga29sbGVrdC9taXhwYW5lbC1zZXJ2aWNlCiAgdGFnOiBzdGFnaW5nCiAgcHVsbFBvbGljeTogYWx3YXlzCg==</text>
+      <register name="0" type="4">
+        <text>$WERCKER_DEPLOYTARGET_NAME</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmdzKTsK</text>
+        <text encoding="base64">ZG9rczoKICBkaWdpdGFsb2NlYW46CiAgICBjb20vbm9kZS1wb29sLWlkPToK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2732,31 +2733,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBvcHRzID0geyB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmdzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0cmFuc2FjdGlvbklkID0gYXdhaXQgdGhpcy53YWxsZXQudHJpZ2dlckNvbnRyYWN0KHRoaXMuY29udHJhY3RBZGRyZXNzLCAnYXBwcm92ZScsIGFyZ3MsIG9wdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBvcHRzID0geyB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbFZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0cmFuc2FjdGlvbklkID0gYXdhaXQgdGhpcy53YWxsZXQudHJpZ2dlckNvbnRyYWN0KHRoaXMuY29udHJhY3RBZGRyZXNzLCAnYXBwcm92ZScsIGFyZ3MsIG9wdHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbFZhbHVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpdmVuZXNzUHJvYmU6CiAgICAgICAgICAgIGh0dHBHZXQ6CiAgICAgICAgICAgICAgcGF0aDogLwogICAgICAgICAgICAgIHBvcnQ6IGh0dHAKICAgICAgICAgIHJlYWRpbmVzc1Byb2JlOgogICAgICAgICAgICBodHRwR2V0OgogICAgICAgICAgICAgIHBhdGg6IC8KICAgICAgICAgICAgICBwb3J0OiBodHRwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBkYXkgPSBkaXNjb250aW51ZWRBdC5nZXRVVENEYXkoKTsKICAvLyBjb25zdCBtb250aCA9IGRpc2NvbnRpbnVlZEF0LmdldFVUQ01vbnRoKCk7CiAgLy8gY29uc3QgeWVhciA9IGRpc2NvbnRpbnVlZEF0LmdldEZ1bGxZZWFyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxpdmVuZXNzUHJvYmU6CiAgICAgICAgICAgIGh0dHBHZXQ6CiAgICAgICAgICAgICAgcGF0aDogLwogICAgICAgICAgICAgIHBvcnQ6IGh0dHAKICAgICAgICAgIHJlYWRpbmVzc1Byb2JlOgogICAgICAgICAgICBodHRwR2V0OgogICAgICAgICAgICAgIHBhdGg6IC8KICAgICAgICAgICAgICBwb3J0OiBodHRwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBkYXkgPSBkaXNjb250aW51ZWRBdC5nZXRVVENEYXkoKTsKICAvLyBjb25zdCBtb250aCA9IGRpc2NvbnRpbnVlZEF0LmdldFVUQ01vbnRoKCk7CiAgLy8gY29uc3QgeWVhciA9IGRpc2NvbnRpbnVlZEF0LmdldEZ1bGxZZWFyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiByZWRpczozLjIKICAgIHZvbHVtZXM6CiAgICAgIC0gbWl4cGFuZWwtcmVkaXMtc3RhdGU6L2RhdGEKICAgIGxhYmVsczoKICAgICAgaW8ucmFuY2hlci5zY2hlZHVsZXIuYWZmaW5pdHk6aG9zdF9sYWJlbDogc2VydmljZXM9dHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
