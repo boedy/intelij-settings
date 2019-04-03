@@ -296,11 +296,11 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageTransactionProcessor.ts" timestamp="1554280958622">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="33" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageTransactionProcessor.ts" timestamp="1554287478215">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
         <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="33" />
+        <mark key="." line="22" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/Dockerfile" timestamp="1547744577572">
         <mark key="[" line="0" column="17" />
@@ -577,11 +577,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/TronTrade.ts" timestamp="1554242615296">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="159" column="5" />
-        <mark key="^" line="25" column="39" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/TronTrade.ts" timestamp="1554287602011">
+        <mark key="[" line="81" column="26" />
+        <mark key="]" line="81" column="23" />
+        <mark key="^" line="81" column="23" />
+        <mark key="." line="81" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/PaymentsController.php" timestamp="1547562795876">
         <mark key="[" line="78" column="0" />
@@ -867,6 +867,12 @@
         <mark key="]" line="22" column="27" />
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/tokens.json" timestamp="1554287377963">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="49" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges.ts" timestamp="1554143795852">
         <mark key="[" line="17" column="45" />
@@ -1576,11 +1582,11 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/test/tronTradeTest.ts" timestamp="1554241164075">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="9" column="8" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/test/tronTradeTest.ts" timestamp="1554287986172">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="15" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/services/asana-tracking/wercker.yml" timestamp="1547729612855">
         <mark key="[" line="0" column="0" />
@@ -2669,8 +2675,8 @@
       <jump line="43" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/scripts/ImportUsers.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpdmVuZXNzUHJvYmU6CiAgICAgICAgICAgIGh0dHBHZXQ6CiAgICAgICAgICAgICAgcGF0aDogLwogICAgICAgICAgICAgIHBvcnQ6IGh0dHAKICAgICAgICAgIHJlYWRpbmVzc1Byb2JlOgogICAgICAgICAgICBodHRwR2V0OgogICAgICAgICAgICAgIHBhdGg6IC8KICAgICAgICAgICAgICBwb3J0OiBodHRwCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2682,16 +2688,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>asana-tracking-service</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmFja3N0YWdlTWl4cGFuZWwuYWRkUm9sZSh1c2Vyc1tpXS5pZCwgJ29yZ2FuaXNhdGlvbk1hbmFnZXJGb3InLCBhdXRoLnJlc291cmNlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtYXhPcmRlclNpemUgPSAxMTsKICAgICAgICBpZiAoYnV5T3JkZXIuc2l6ZSgpID4gbWF4T3JkZXJTaXplKSB7CiAgICAgICAgICAgIG9yZGVyQW1vdW50ID0gTWF0aC5jZWlsKHBhcnNlRmxvYXQoKG1heE9yZGVyU2l6ZSAvIGJ1eU9yZGVyLnByaWNlKS50b0ZpeGVkKDQpKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpdmVuZXNzUHJvYmU6CiAgICAgICAgICAgIGh0dHBHZXQ6CiAgICAgICAgICAgICAgcGF0aDogLwogICAgICAgICAgICAgIHBvcnQ6IGh0dHAKICAgICAgICAgIHJlYWRpbmVzc1Byb2JlOgogICAgICAgICAgICBodHRwR2V0OgogICAgICAgICAgICAgIHBhdGg6IC8KICAgICAgICAgICAgICBwb3J0OiBodHRwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2714,31 +2720,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBkYXkgPSBkaXNjb250aW51ZWRBdC5nZXRVVENEYXkoKTsKICAvLyBjb25zdCBtb250aCA9IGRpc2NvbnRpbnVlZEF0LmdldFVUQ01vbnRoKCk7CiAgLy8gY29uc3QgeWVhciA9IGRpc2NvbnRpbnVlZEF0LmdldEZ1bGxZZWFyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxpdmVuZXNzUHJvYmU6CiAgICAgICAgICAgIGh0dHBHZXQ6CiAgICAgICAgICAgICAgcGF0aDogLwogICAgICAgICAgICAgIHBvcnQ6IGh0dHAKICAgICAgICAgIHJlYWRpbmVzc1Byb2JlOgogICAgICAgICAgICBodHRwR2V0OgogICAgICAgICAgICAgIHBhdGg6IC8KICAgICAgICAgICAgICBwb3J0OiBodHRwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBkYXkgPSBkaXNjb250aW51ZWRBdC5nZXRVVENEYXkoKTsKICAvLyBjb25zdCBtb250aCA9IGRpc2NvbnRpbnVlZEF0LmdldFVUQ01vbnRoKCk7CiAgLy8gY29uc3QgeWVhciA9IGRpc2NvbnRpbnVlZEF0LmdldEZ1bGxZZWFyKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiByZWRpczozLjIKICAgIHZvbHVtZXM6CiAgICAgIC0gbWl4cGFuZWwtcmVkaXMtc3RhdGU6L2RhdGEKICAgIGxhYmVsczoKICAgICAgaW8ucmFuY2hlci5zY2hlZHVsZXIuYWZmaW5pdHk6aG9zdF9sYWJlbDogc2VydmljZXM9dHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRlIGZyb20gJy4vc3RhdGUnOwo=</text>
+        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiByZWRpczozLjIKICAgIHZvbHVtZXM6CiAgICAgIC0gbWl4cGFuZWwtcmVkaXMtc3RhdGU6L2RhdGEKICAgIGxhYmVsczoKICAgICAgaW8ucmFuY2hlci5zY2hlZHVsZXIuYWZmaW5pdHk6aG9zdF9sYWJlbDogc2VydmljZXM9dHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgc3RhdGUubG9jYXRpb24uYXR0YWNoVXNlclRvTG9jYXRpb24odXNlcklkLCBsb2NhdGlvbklkKTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRlIGZyb20gJy4vc3RhdGUnOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgc3RhdGUubG9jYXRpb24uZGV0YWNoVXNlclRvTG9jYXRpb24odXNlcklkLCBsb2NhdGlvbklkKTsK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgc3RhdGUubG9jYXRpb24uYXR0YWNoVXNlclRvTG9jYXRpb24odXNlcklkLCBsb2NhdGlvbklkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZWRpcyI6ICJeMi44LjAiLAo=</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgc3RhdGUubG9jYXRpb24uZGV0YWNoVXNlclRvTG9jYXRpb24odXNlcklkLCBsb2NhdGlvbklkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tra2tra2tra2tra2tra2tra2tra2tra2trawo=</text>
+        <text encoding="base64">ICAgICJyZWRpcyI6ICJeMi44LjAiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
