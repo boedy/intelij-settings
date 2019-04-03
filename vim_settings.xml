@@ -655,7 +655,7 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554306182378">
+      <file name="/Dummy.txt" timestamp="1554307252735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/bootstrap/app.php" timestamp="1551225412716">
@@ -2001,11 +2001,12 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/wercker.yml" timestamp="1554306171640">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="37" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="19" column="41" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/wercker.yml" timestamp="1554307235664">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/src/app/devMode.js" timestamp="1543590343338">
         <mark key="[" line="5" column="3" />
@@ -2586,8 +2587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="50" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
-      <jump line="74" column="21" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
       <jump line="113" column="30" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
       <jump line="58" column="6" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
       <jump line="81" column="0" filename="$USER_HOME$/Projects/services/asana-tracking/sync.js" />
@@ -2686,10 +2685,12 @@
       <jump line="161" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/tokens.json" />
       <jump line="11" column="45" filename="$USER_HOME$/Projects/services/mixpanel-service/src/scripts/ImportUsers.ts" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/src/scripts/ImportUsers.ts" />
+      <jump line="27" column="50" filename="$USER_HOME$/Projects/services/mixpanel-service/wercker.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/services/mixpanel-service/wercker.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$WERCKER_DEPLOY_TARGET</text>
+        <text>l</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2701,7 +2702,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$WERCKER_DEPLOY_TARGET</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
