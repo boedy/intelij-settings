@@ -172,7 +172,7 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="107" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/Model/Role.php" timestamp="1554383868120" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/Model/Role.php" timestamp="1554385884747" />
       <file name="$USER_HOME$/Projects/test/dartboard/src/App.js" timestamp="1539680735484">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
@@ -658,7 +658,7 @@
         <mark key="." line="14" column="39" />
         <mark key="^" line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/User/DoctrineUserRolesQuery.php" timestamp="1554383869711" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/User/DoctrineUserRolesQuery.php" timestamp="1554385303129" />
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Jobs/HandleMoneybirdWebhook.php" timestamp="1536412113228">
         <mark key="[" line="57" column="61" />
         <mark key="]" line="58" column="17" />
@@ -689,6 +689,7 @@
         <mark key="^" line="31" column="38" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/config/doctrine.php" timestamp="1554385438590" />
       <file name="$USER_HOME$/Projects/services/mixpanel-service/test.ts" timestamp="1554211645326">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="19" />
@@ -839,6 +840,7 @@
         <mark key="^" line="32" column="23" />
         <mark key="." line="32" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/autoload.php" timestamp="1554385697219" />
       <file name="$USER_HOME$/Projects/services/mixpanel-service/.prettierrc" timestamp="1544108583659">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2595,6 +2597,13 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/RuntimeReflectionService.php" timestamp="1554386010682">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="8" />
+        <mark key="^" line="39" column="23" />
+        <mark key="." line="39" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/public/index.php" timestamp="1554385902111" />
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" timestamp="1537621901780">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="25" />
@@ -2717,8 +2726,8 @@
       <jump line="96" column="60" filename="$USER_HOME$/Projects/services/mixpanel-service/src/listener.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmFpc2UobmV3IEV2ZW50XFByb2ZpbGVQaWN0dXJlQ2hhbmdlZCgkdGhpcywgJGZpbGVQYXRoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>print_r</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2730,13 +2739,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>role</text>
+        <text>print_r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gbWFrZVJlcXVlc3QodXNlcklkLCAncmVtb3ZlJywgeyBbcm9sZV06IHJlc291cnNlSWQgfSk7Cg==</text>
+        <text encoding="base64">JGFwcCA9IHJlcXVpcmUgX19ESVJfXy4nLy4uL2Jvb3RzdHJhcC9hcHAucGhwJzsKCi8qCnwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQp8IFJ1biBUaGUgQXBwbGljYXRpb24KfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwKfCBPbmNlIHdlIGhhdmUgdGhlIGFwcGxpY2F0aW9uLCB3ZSBjYW4gaGFuZGxlIHRoZSBpbmNvbWluZyByZXF1ZXN0CnwgdGhyb3VnaCB0aGUga2VybmVsLCBhbmQgc2VuZCB0aGUgYXNzb2NpYXRlZCByZXNwb25zZSBiYWNrIHRvCnwgdGhlIGNsaWVudCdzIGJyb3dzZXIgYWxsb3dpbmcgdGhlbSB0byBlbmpveSB0aGUgY3JlYXRpdmUKfCBhbmQgd29uZGVyZnVsIGFwcGxpY2F0aW9uIHdlIGhhdmUgcHJlcGFyZWQgZm9yIHRoZW0uCnwKKi8KCiRhcHAtPnJ1bigpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+cmFpc2UobmV3IEV2ZW50XFByb2ZpbGVQaWN0dXJlQ2hhbmdlZCgkdGhpcywgJGZpbGVQYXRoKSk7Cg==</text>
