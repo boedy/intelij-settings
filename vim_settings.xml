@@ -411,11 +411,11 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/test/proxyTest.ts" timestamp="1554656580907">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="75" />
-        <mark key="^" line="5" column="47" />
-        <mark key="." line="5" column="47" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/test/proxyTest.ts" timestamp="1554675473888">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/Source.php" timestamp="1537554703751">
         <mark key="[" line="185" column="0" />
@@ -2020,10 +2020,11 @@
         <mark key="." line="69" column="26" />
         <mark key="^" line="69" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/adapters/HttpPrroxy.ts" timestamp="1554671109729">
-        <mark key="[" line="4" column="106" />
-        <mark key="]" line="4" column="106" />
-        <mark key="." line="4" column="106" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/adapters/HttpPrroxy.ts" timestamp="1554675652661">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="14" />
+        <mark key="." line="38" column="14" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Controllers/Controller.php" timestamp="1550667728708">
         <mark key="[" line="103" column="16" />
@@ -2714,7 +2715,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;country_id&quot;:153,</text>
+        <text>8080</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2726,7 +2727,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;country_id&quot;:153,</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
@@ -2734,8 +2735,8 @@
       <register name="0" type="4">
         <text>connector.get(proxyListUrl)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29scwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ci5yZXF1ZXN0KCdodHRwczovL2FwaS5pcGlmeS5vcmcnLCBmdW5jdGlvbiAoZXJyLCByZXMsIGJvZHkpIHsKICAgICAgICBjb25zb2xlLmxvZyhlcnIsIHJlcywgYm9keSk7CiAgICAgICAgaWYgKCFlcnIgJiYgcmVzLnN0YXR1c0NvZGUgPT0gMjAwKSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCJZb3VyIHB1YmxpYyAodGhyb3VnaCBUb3IpIElQIGlzOiAiICsgYm9keSk7CiAgICAgICAgfQogICAgfSk=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2758,28 +2759,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHIucmVxdWVzdCgnaHR0cHM6Ly9hcGkuaXBpZnkub3JnJywgZnVuY3Rpb24gKGVyciwgcmVzLCBib2R5KSB7CiAgICBpZiAoIWVyciAmJiByZXMuc3RhdHVzQ29kZSA9PSAyMDApIHsKICAgICAgICBjb25zb2xlLmxvZygiWW91ciBwdWJsaWMgKHRocm91Z2ggVG9yKSBJUCBpczogIiArIGJvZHkpOwogICAgfQp9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RvY29scwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3h5TGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwcm94eUxpc3Qucm90YXRlKDEpWzBdOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3h5TGlzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc2h1ZmZsZSA9IChhKSA9PiB7CiAgICBmb3IgKGxldCBpID0gYS5sZW5ndGggLSAxOyBpID4gMDsgaS0tKSB7CiAgICAgICAgY29uc3QgaiA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIChpICsgMSkpOwogICAgICAgIFthW2ldLCBhW2pdXSA9IFthW2pdLCBhW2ldXTsKICAgIH0KICAgIHJldHVybiBhOwp9Owo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBwcm94eUxpc3Qucm90YXRlKDEpWzBdOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
