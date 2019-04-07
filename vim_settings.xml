@@ -333,12 +333,12 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/kiwidex.ts" timestamp="1554564665550">
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/kiwidex.ts" timestamp="1554634448528">
         <mark key="'" line="44" column="46" />
-        <mark key="[" line="101" column="93" />
-        <mark key="]" line="102" column="7" />
-        <mark key="." line="102" column="7" />
-        <mark key="^" line="102" column="7" />
+        <mark key="[" line="143" column="53" />
+        <mark key="]" line="143" column="53" />
+        <mark key="." line="143" column="53" />
+        <mark key="^" line="142" column="52" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Invoice.php" timestamp="1536754327966">
         <mark key="[" line="80" column="0" />
@@ -2675,8 +2675,8 @@
       <jump line="66" column="21" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/NewDex.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLmRhdGEpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.toFixed(4);</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2688,7 +2688,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ceil</text>
+        <text>.toFixed(4);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
