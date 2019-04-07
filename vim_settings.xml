@@ -212,11 +212,11 @@
         <mark key="^" line="61" column="1" />
         <mark key="." line="61" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/NewDex.ts" timestamp="1554639780496">
-        <mark key="[" line="74" column="32" />
-        <mark key="]" line="74" column="45" />
-        <mark key="^" line="74" column="45" />
-        <mark key="." line="74" column="45" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/NewDex.ts" timestamp="1554650303495">
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="64" column="57" />
+        <mark key="." line="64" column="57" />
+        <mark key="^" line="64" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/tokens/TokenAnte.ts" timestamp="1554025212647">
         <mark key="[" line="9" column="16" />
@@ -380,6 +380,12 @@
         <mark key="]" line="54" column="43" />
         <mark key="^" line="54" column="43" />
         <mark key="." line="54" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/adapters/WebsocketSubscriber.ts" timestamp="1554649865700">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/logger.js" timestamp="1538575911849">
         <mark key="[" line="16" column="59" />
@@ -2675,7 +2681,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.then(console.log);</text>
+        <text>tokens[symbolId]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2687,16 +2693,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.then(console.log);</text>
+        <text>wss://ws.newdex.io/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi5vbm1lc3NhZ2UgPSBlID0+IHsKICAgICAgICAgICAgICAgIGNvbnN0IGRhdGEgPSBKU09OLnBhcnNlKGUuZGF0YSk7CiAgICAgICAgICAgICAgICBpZiAoZGF0YS5jaGFubmVsICE9PSBjaGFubmVsKSByZXR1cm47CiAgICAgICAgICAgICAgICB0b2tlbnMgPSBkYXRhLmRhdGEucmVkdWNlKChhY2MsIHZhbCkgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHN5bWJvbFBhcnRzID0gdmFsLnN5bWJvbC5zcGxpdCgnLScpOwogICAgICAgICAgICAgICAgICAgIGlmIChzeW1ib2xQYXJ0c1syXSAhPT0gJ2VvcycpIHJldHVybiBhY2M7CiAgICAgICAgICAgICAgICAgICAgYWNjW3N5bWJvbFBhcnRzWzFdLnRvTG93ZXJDYXNlKCldID0gYCR7dmFsLnN5bWJvbH06JHt2YWwucHJlY2lzaW9uLnByaWNlfWA7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGFjYzsKICAgICAgICAgICAgICAgIH0sIHt9KTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNoYWxrLnllbGxvdyh0aGlzLm5hbWUpLCAndHJhZGVzJywgT2JqZWN0LmtleXModG9rZW5zKS5qb2luKCcsICcpKTsKICAgICAgICAgICAgICAgIHRoaXMudW5zdWJzY3JpYmUoY2hhbm5lbCk7CiAgICAgICAgICAgICAgICByZXNvbHZlKCkKICAgICAgICAgICAgfTsK</text>
+      <register name="0" type="4">
+        <text>tokens[symbolId]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEV4Y2hhbmdlUHJpY2UodG9rZW4sIHRoaXMsIGJ1eVswXSwgYnV5WzFdLCBzZWxsWzBdLCBzZWxsWzFdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2719,16 +2725,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjaGFsay55ZWxsb3codGhpcy5uYW1lKSwgJ3RyYWRlcycsIE9iamVjdC5rZXlzKHRva2Vucykuam9pbignLCAnKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN1YnNjcmlwdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoICE9PSB1bmRlZmluZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNvbHZlKHByaWNlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGFjYzsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -2737,13 +2743,13 @@
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCAgPSBkYXRhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
