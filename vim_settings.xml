@@ -411,11 +411,11 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/test/proxyTest.ts" timestamp="1554743211258">
-        <mark key="[" line="29" column="84" />
-        <mark key="]" line="30" column="32" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="32" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/test/proxyTest.ts" timestamp="1554744531043">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="29" column="32" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Domain/Track/Source/Source.php" timestamp="1537554703751">
         <mark key="[" line="185" column="0" />
@@ -1650,11 +1650,11 @@
         <mark key="^" line="68" column="19" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/test/dexEosTest.ts" timestamp="1554666990279">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/test/dexEosTest.ts" timestamp="1554745452069">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/PlaylistItemCountQuery.php" timestamp="1539356313137">
         <mark key="[" line="52" column="0" />
@@ -1865,11 +1865,11 @@
         <mark key="." line="99" column="34" />
         <mark key="^" line="99" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/adapters/HttpProxySubscriber.ts" timestamp="1554707043839">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="32" column="24" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/adapters/HttpProxySubscriber.ts" timestamp="1554745606506">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="26" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/personal/tron-arbitrage/tsconfig.json" timestamp="1554132694898">
         <mark key="[" line="6" column="0" />
@@ -2494,12 +2494,12 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/DexEos.ts" timestamp="1554679746470">
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/DexEos.ts" timestamp="1554745311593">
         <mark key="'" line="17" column="8" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="39" column="23" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="73" column="15" />
+        <mark key="]" line="73" column="32" />
+        <mark key="^" line="73" column="32" />
+        <mark key="." line="73" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/services/asana-tracking/deployment/Dockerfile" timestamp="1547650615092">
         <mark key="[" line="6" column="34" />
@@ -2720,7 +2720,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>port</text>
+        <text>request</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2732,7 +2732,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>port</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
@@ -2741,7 +2741,7 @@
         <text encoding="base64">ICAgICAgICBwcmludF9yKCd3aXRoZHJhdycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZvdW5kQWdyZWVtZW50LT5nZXRTdGFydERhdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlcXVlc3QocGFyYW1zLCBjYWxsYmFjayk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2764,31 +2764,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbmV3QWdyZWVtZW50LT5nZXRTdGFydERhdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQge21ldGhvZCwgdXJsLCBvcHRpb25zfSA9IHBhcmFtczsKICAgICAgICBjb25zdCBwcm94eSA9IGF3YWl0IGh0dHBQcm94eS5nZXRQcm94eSgpOwogICAgICAgIGlmKCFvcHRpb25zKSBvcHRpb25zID0ge307CiAgICAgICAgaWYocHJveHkpewogICAgICAgICAgICBvcHRpb25zLnByb3h5ID0gcHJveHk7CiAgICAgICAgfQoKICAgICAgICB0cnl7CiAgICAgICAgICAgIGNhbGxiYWNrKCBhd2FpdCB0aGlzLmh0dHBDb25uZWN0b3JbbWV0aG9kXSh1cmwsIG9wdGlvbnMpKTsKICAgICAgICAgICAgdGhpcy5zdWJzY3JpcHRpb25zW3BhcmFtcy51cmxdID0gc2V0VGltZW91dCggKCkgPT4geyB0aGlzLnJlcXVlc3QocGFyYW1zLCBjYWxsYmFjaykgfSwgNTAwMCk7CiAgICAgICAgfWNhdGNoIChlKSB7CiAgICAgICAgICAgIHRoaXMucmVxdWVzdChwYXJhbXMsIGNhbGxiYWNrKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN1YnNjcmlwdGlvbnNbcGFyYW1zLnVybF0gPSBzZXRJbnRlcnZhbCggKCkgPT4gewogICAgICAgIH0sIDUwMDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZXF1ZXN0KHBhcmFtcywgY2FsbGJhY2spCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCgkYWdyZWVtZW50cykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZXhjaGFuZ2UgPSBuZXcgKCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIE1peHBhbmVsOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihlbnYoJ01JWFBBTkVMX1RPS0VOJywgbnVsbCkpewogICAgICAgICAgICAkbXAgPSBNaXhwYW5lbDo6Z2V0SW5zdGFuY2UoZW52KCdNSVhQQU5FTF9UT0tFTicsIG51bGwpKTsKICAgICAgICAgICAgJG1wLT5wZW9wbGUtPmRlbGV0ZVVzZXIoYXBwKEhhc2hpZHNNYW5hZ2VyOjpjbGFzcyktPmVuY29kZSgkdXNlci0+Z2V0SWQoKSkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZvdW5kQWdyZWVtZW50LT5nZXRTdGFydERhdGUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
