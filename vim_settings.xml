@@ -1215,11 +1215,6 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/User/Command/RegisterUser.php" timestamp="1554737608219">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/AgreementBuilder.php" timestamp="1551719641380">
         <mark key="[" line="59" column="37" />
         <mark key="]" line="59" column="37" />
@@ -1816,11 +1811,6 @@
         <mark key="]" line="5" column="31" />
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1554740849141">
-        <mark key="[" line="111" column="20" />
-        <mark key="]" line="111" column="20" />
-        <mark key="." line="111" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/User/Command/UpdatePersonalInformation.php" timestamp="1553866021574">
         <mark key="[" line="60" column="33" />
@@ -2518,11 +2508,11 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/TotalQuota.php" timestamp="1554740578209">
-        <mark key="[" line="42" column="34" />
-        <mark key="]" line="54" column="8" />
-        <mark key="." line="54" column="8" />
-        <mark key="^" line="54" column="8" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/TotalQuota.php" timestamp="1554808698583">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/uptime-spreadsheet/index.js" timestamp="1536872121136">
         <mark key="[" line="5" column="23" />
@@ -2730,8 +2720,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/build/src/node/exchanges/adapters/HttpProxySubscriber.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnVwZGF0ZUludGVydmFsKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGFjdGl2ZUFncmVlbWVudC0+Z2V0U3RhcnREYXRlKCk=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2743,7 +2733,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text encoding="base64">JGFjdGl2ZUFncmVlbWVudC0+Z2V0U3RhcnREYXRlKCk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
@@ -2752,7 +2742,7 @@
         <text>https://httpbin.org/get?show_env</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnVwZGF0ZUludGVydmFsKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRhY3RpdmVBZ3JlZW1lbnQtPmdldFN0YXJ0RGF0ZSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2775,32 +2765,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnVwZGF0ZUludGVydmFsKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRhY3RpdmVBZ3JlZW1lbnQtPmdldFF1b3RhKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnVwZGF0ZUludGVydmFsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLnN0YXR1c0NvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnVwZGF0ZUludGVydmFsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXIgcmVxdWVzdCA9IHJlcXVpcmUoJ3JlcXVlc3QnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbmV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLnN0YXR1c0NvZGUpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcCA9IGNvbm5lY3Rvci5nZXQoJ2h0dHBzOi8vaHR0cGJpbi5vcmcvZ2V0P3Nob3dfZW52Jywge3Byb3h5LCB0aW1lb3V0OiAyMDAwfSkudGhlbihkID0+IGNvbnNvbGUubG9nKGQuZGF0YSk7KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXIgcmVxdWVzdCA9IHJlcXVpcmUoJ3JlcXVlc3QnKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>s
-        this.httpConnector</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbmV3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcCA9IGNvbm5lY3Rvci5nZXQoJ2h0dHBzOi8vaHR0cGJpbi5vcmcvZ2V0P3Nob3dfZW52Jywge3Byb3h5LCB0aW1lb3V0OiAyMDAwfSkudGhlbihkID0+IGNvbnNvbGUubG9nKGQuZGF0YSk7KTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
