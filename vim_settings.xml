@@ -677,7 +677,7 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554900546773">
+      <file name="/Dummy.txt" timestamp="1554903006522">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/crypto/iostbid/scrape.ts" timestamp="1554190459130">
@@ -739,6 +739,9 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/doctrine/doctrine-bundle/DependencyInjection/DoctrineExtension.php" timestamp="1554901858182">
+        <mark key="[" line="365" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/kollekt/mqtt-server/deployment/deployment.yaml" timestamp="1548243214539">
         <mark key="[" line="0" column="0" />
@@ -927,11 +930,11 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Providers/AppServiceProvider.php" timestamp="1554394366759">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="96" />
-        <mark key="^" line="26" column="40" />
-        <mark key="." line="26" column="40" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Providers/AppServiceProvider.php" timestamp="1554903459741">
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="62" column="18" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/plots/Table.js" timestamp="1539787239194">
         <mark key="[" line="9" column="6" />
@@ -1301,6 +1304,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="29" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/Doctrine/ACLSetup.php" timestamp="1554902781143" />
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3Split.php" timestamp="1537562867707">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -2295,6 +2299,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Repositories/DoctrinePlaylistRepository.php" timestamp="1554902623826">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/services/mixpanel-service/src/State.js" timestamp="1544176046074">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2791,13 +2800,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>register</text>
+        <text>entityManager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiByZWdpc3RlcigpCg==</text>
+        <text encoding="base64">JGFwcC0+Y29uZmlndXJlKCdhcHAnKTsKJGFwcC0+Y29uZmlndXJlKCdhcGknKTsKJGFwcC0+Y29uZmlndXJlKCdjb3JzJyk7CiRhcHAtPmNvbmZpZ3VyZSgnbWlncmF0aW9ucycpOwokYXBwLT5jb25maWd1cmUoJ3R3aWdicmlkZ2UnKTsKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JGFwcC0+cmVnaXN0ZXIoJ0FwcFxQcm92aWRlcnNcQWNjZXNzQ29udHJvbFNlcnZpY2VQcm92aWRlcicpOwo=</text>
@@ -2823,31 +2832,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYWNsLT5yZWcK</text>
+        <text encoding="base64">JGFwcC0+Y29uZmlndXJlKCdkYXRhYmFzZScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGFwcC0+cmVnaXN0ZXIoJ0FwcFxQcm92aWRlcnNcQWNjZXNzQ29udHJvbFNlcnZpY2VQcm92aWRlcicpOwo=</text>
+        <text encoding="base64">JGFwcC0+Y29uZmlndXJlKCdkb2N0cmluZScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFzaGVyID0gYXBwKEhhc2hpZHNNYW5hZ2VyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">JGFwcC0+cmVnaXN0ZXIoJ0xhcmF2ZWxEb2N0cmluZVxPUk1cRG9jdHJpbmVTZXJ2aWNlUHJvdmlkZXInKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aWQgPSAkaGFzaGVyLT5lbmNvZGUoJGlkKTsK</text>
+        <text encoding="base64">JGFwcC0+cmVnaXN0ZXIoQXBwXFByb3ZpZGVyc1xBcHBTZXJ2aWNlUHJvdmlkZXI6OmNsYXNzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFzaGVyID0gYXBwKEhhc2hpZHNNYW5hZ2VyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdhcGkuZXhjZXB0aW9uJywgJ0FwcFxFeGNlcHRpb25zXEhhbmRsZXInKTsKCiAgICAgICAgJHRoaXMtPmFwcC0+cmVnaXN0ZXIoTHVtZW5TZXJ2aWNlUHJvdmlkZXI6OmNsYXNzKTsKCiAgICAgICAgLy9IYWNrIHRvIGZpeCBzaW5nbGUgdGFibGUgaW5oZXJpdGFuY2UgZm9yIHVzZXIKICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXFVzZXJcVXNlcicsIGZ1bmN0aW9uKCl7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0pOwoKICAgICAgICAvL3RvZG8gdGVtcCBmaXgKICAgICAgICAkdGhpcy0+YXBwLT5zaW5nbGV0b24oJ0lsbHVtaW5hdGVcQ29udHJhY3RzXFJvdXRpbmdcUmVzcG9uc2VGYWN0b3J5JywgZnVuY3Rpb24gKCRhcHApCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRmFjdG9yeSgkYXBwWydJbGx1bWluYXRlXENvbnRyYWN0c1xWaWV3XEZhY3RvcnknXSwgJGFwcFsnSWxsdW1pbmF0ZVxSb3V0aW5nXFJlZGlyZWN0b3InXSk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkc2VyaWFsaXplciA9IFNlcmlhbGl6ZXJCdWlsZGVyOjpjcmVhdGUoKS0+YnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXEFjY2Vzc0NvbnRyb2xTZXJ2aWNlJywgJ0FwcFxJbmZyYXN0cnVjdHVyZVxBdXRoXE15Q0xhYnNBY2Nlc3NDb250cm9sU2VydmljZScpOwogICAgICAgICR0aGlzLT5hcHAtPmJpbmQoJ0FwcFxEb21haW5cVXNlclxOYW1lR2VuZXJhdG9yJywgJ0FwcFxJbmZyYXN0cnVjdHVyZVxVc2VyXEFsbGl0ZXJhdGlvbk5hbWVHZW5lcmF0b3InKTsKICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXFVzZXJcVXNlclJvbGVTZXJ2aWNlJywgJ0FwcFxJbmZyYXN0cnVjdHVyZVxVc2VyXE15Q0xhYnNVc2VyUm9sZVNlcnZpY2UnKTsKICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXFN0b3JhZ2VcU3RvcmFnZUZhY3RvcnknLCAnQXBwXEluZnJhc3RydWN0dXJlXEZpbGVTdG9yYWdlXEJhc2VTdG9yYWdlRmFjdG9yeScpOwogICAgICAgICR0aGlzLT5hcHAtPmJpbmQoJ0FwcFxBcHBsaWNhdGlvblxNYWlsZXInLCAnQXBwXEluZnJhc3RydWN0dXJlXEVtYWlsXE1haWxndW5NYWlsZXInKTsKCiAgICAgICAgLy9yZWdpc3RlciBhcHAgc2VydmljZXMKICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcQXBwbGljYXRpb25cRXZlbnRcRXZlbnRSZXBvc2l0b3J5JywgJ0FwcFxJbmZyYXN0cnVjdHVyZVxSZXBvc2l0b3JpZXNcRG9jdHJpbmVFdmVudFJlcG9zaXRvcnknKTsKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YXBwKFNlcmlhbGl6ZXI6OmNsYXNzKTsKICAgICAgICAkc2VyaWFsaXplciA9IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL1JlZ2lzdGVyIHJlcG9zaXRvcmllcwogICAgICAgICR0aGlzLT5hcHAtPmJpbmQoJ0FwcFxEb21haW5cVXNlclxVc2VyUmVwb3NpdG9yeScsICdBcHBcSW5mcmFzdHJ1Y3R1cmVcUmVwb3NpdG9yaWVzXERvY3RyaW5lVXNlclJlcG9zaXRvcnknKTsKICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXFBsYXlsaXN0XFBsYXlsaXN0UmVwb3NpdG9yeScsICdBcHBcSW5mcmFzdHJ1Y3R1cmVcUmVwb3NpdG9yaWVzXERvY3RyaW5lUGxheWxpc3RSZXBvc2l0b3J5Jyk7CiAgICAgICAgJHRoaXMtPmFwcC0+YmluZCgnQXBwXERvbWFpblxQbGF5bGlzdFxQbGF5bGlzdEl0ZW1SZXBvc2l0b3J5JywgJ0FwcFxJbmZyYXN0cnVjdHVyZVxSZXBvc2l0b3JpZXNcRG9jdHJpbmVQbGF5bGlzdEl0ZW1SZXBvc2l0b3J5Jyk7CiAgICAgICAgJHRoaXMtPmFwcC0+YmluZCgnQXBwXERvbWFpblxUcmFja1xUcmFja1JlcG9zaXRvcnknLCAnQXBwXEluZnJhc3RydWN0dXJlXFJlcG9zaXRvcmllc1xEb2N0cmluZVRyYWNrUmVwb3NpdG9yeScpOwogICAgICAgICR0aGlzLT5hcHAtPmJpbmQoJ0FwcFxEb21haW5cVHJhY2tcU291cmNlXFNvdXJjZVJlcG9zaXRvcnknLCAnQXBwXEluZnJhc3RydWN0dXJlXFJlcG9zaXRvcmllc1xEb2N0cmluZVNvdXJjZVJlcG9zaXRvcnknKTsKICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXENvbW1lbnRcQ29tbWVudFJlcG9zaXRvcnknLCAnQXBwXEluZnJhc3RydWN0dXJlXFJlcG9zaXRvcmllc1xEb2N0cmluZUNvbW1lbnRSZXBvc2l0b3J5Jyk7CiAgICAgICAgJHRoaXMtPmFwcC0+YmluZCgnQXBwXERvbWFpblxOb3RpZmljYXRpb25cTm90aWZpY2F0aW9uUmVwb3NpdG9yeScsICdBcHBcSW5mcmFzdHJ1Y3R1cmVcUmVwb3NpdG9yaWVzXERvY3RyaW5lTm90aWZpY2F0aW9uUmVwb3NpdG9yeScpOwogICAgICAgICR0aGlzLT5hcHAtPmJpbmQoJ0FwcFxEb21haW5cT3JnYW5pc2F0aW9uXE9yZ2FuaXNhdGlvblJlcG9zaXRvcnknLCAnQXBwXEluZnJhc3RydWN0dXJlXFJlcG9zaXRvcmllc1xEb2N0cmluZU9yZ2FuaXNhdGlvblJlcG9zaXRvcnknKTsKICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXEludml0YXRpb25cSW52aXRhdGlvblJlcG9zaXRvcnknLCAnQXBwXEluZnJhc3RydWN0dXJlXFJlcG9zaXRvcmllc1xEb2N0cmluZUludml0YXRpb25SZXBvc2l0b3J5Jyk7CiAgICAgICAgJHRoaXMtPmFwcC0+YmluZCgnQXBwXERvbWFpblxPcmdhbmlzYXRpb25cTG9jYXRpb25cTG9jYXRpb25SZXBvc2l0b3J5JywgJ0FwcFxJbmZyYXN0cnVjdHVyZVxSZXBvc2l0b3JpZXNcRG9jdHJpbmVMb2NhdGlvblJlcG9zaXRvcnknKTsKICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXE9yZ2FuaXNhdGlvblxMb2NhdGlvblxMb2NhdGlvblBsYXlsaXN0UmVwb3NpdG9yeScsICdBcHBcSW5mcmFzdHJ1Y3R1cmVcUmVwb3NpdG9yaWVzXERvY3RyaW5lTG9jYXRpb25QbGF5bGlzdFJlcG9zaXRvcnknKTsKICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXFBsYXlsaXN0XFBsYW5uaW5nXFdlZWtQbGFubmluZ1JlcG9zaXRvcnknLCAnQXBwXEluZnJhc3RydWN0dXJlXFJlcG9zaXRvcmllc1xEb2N0cmluZVdlZWtQbGFubmluZ1JlcG9zaXRvcnknKTsKICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXEN1cmF0aW9uXEN1cmF0b3JDb250cmFjdFJlcG9zaXRvcnknLCAnQXBwXEluZnJhc3RydWN0dXJlXFJlcG9zaXRvcmllc1xEb2N0cmluZUN1cmF0b3JDb250cmFjdFJlcG9zaXRvcnknKTsKCiAgICAgICAgJHRoaXMtPmFwcC0+YmluZCgnQXBwXERvbWFpblxJbWFnZVJlcG9zaXRvcnknLCBmdW5jdGlvbigpewogICAgICAgICAgICByZXR1cm4gbmV3IFMzSW1hZ2VSZXBvc2l0b3J5KGVudignUzNfQlVDS0VUJywgJ2J1Y2tldCcpLCBlbnYoJ1MzX0VORFBPSU5UJywgJ2h0dHA6Ly9zMzo0NTY5LycpKTsKICAgICAgICB9KTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc2VyaWFsaXplciA9IGFwcCgnSk1TXFNlcmlhbGl6ZXJcU2VyaWFsaXplcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwLT5iaW5kKCdBcHBcRG9tYWluXEFjY2Vzc0NvbnRyb2xTZXJ2aWNlJywgJ0FwcFxJbmZyYXN0cnVjdHVyZVxBdXRoXE15Q0xhYnNBY2Nlc3NDb250cm9sU2VydmljZScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
