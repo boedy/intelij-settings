@@ -8,20 +8,16 @@
       <file name="/a.dummy" timestamp="1554211477420">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1554907094176">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1554974746979">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="55" />
+        <mark key="." line="44" column="55" />
+        <mark key="^" line="44" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Agreement.php" timestamp="1554825790167">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="49" />
         <mark key="." line="87" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/NewDex.ts" timestamp="1554846221410">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/ArbitrageTransactionProcessor.ts" timestamp="1554914601224">
         <mark key="[" line="10" column="71" />
@@ -101,6 +97,7 @@
         <mark key="." line="34" column="71" />
         <mark key="^" line="34" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/vinkla/hashids/src/HashidsServiceProvider.php" timestamp="1554889027800" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Providers/AppServiceProvider.php" timestamp="1554903459741">
         <mark key="[" line="62" column="5" />
         <mark key="]" line="19" column="0" />
@@ -115,11 +112,6 @@
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/ViewModels/CurationActivity.php" timestamp="1554884969638">
         <mark key="[" line="6" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/User/Command/RegisterUser.php" timestamp="1554737608219">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Curation/Query/ViewCurationActivity.php" timestamp="1554884623160">
         <mark key="[" line="16" column="40" />
@@ -172,6 +164,7 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/email.css" timestamp="1554976405366" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" timestamp="1554912029787">
         <mark key="[" line="97" column="66" />
         <mark key="]" line="123" column="4" />
@@ -208,6 +201,7 @@
         <mark key="^" line="103" column="24" />
         <mark key="." line="33" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/util.js" timestamp="1554654758542" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Curation/Query/ViewAllCuratorContracts.php" timestamp="1554883369414">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="19" column="5" />
@@ -359,8 +353,8 @@
       <jump line="48" column="32" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Curation/SqlCurationActivityQuery.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc2VyaWFsaXplciA9IFNlcmlhbGl6ZXJCdWlsZGVyOjpjcmVhdGUoKS0+YnVpbGQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>AgreementMade</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -372,7 +366,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 'dice'</text>
+        <text>AgreementMade</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
