@@ -690,7 +690,9 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555342947448" />
+      <file name="/Dummy.txt" timestamp="1555501407020">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/bootstrap/app.php" timestamp="1554990738001">
         <mark key="[" line="99" column="20" />
         <mark key="]" line="99" column="28" />
@@ -1177,6 +1179,7 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
+      <file name="/DoctrineTrackSearchQuery.php" timestamp="1555501388599" />
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1537570730148">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="63" column="13" />
@@ -1899,11 +1902,11 @@
         <mark key="." line="62" column="32" />
         <mark key="^" line="62" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Sql/Track/SqlTrackSearchQuery.php" timestamp="1555091406338">
-        <mark key="[" line="79" column="41" />
-        <mark key="]" line="79" column="54" />
-        <mark key="." line="79" column="54" />
-        <mark key="^" line="79" column="54" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Sql/Track/SqlTrackSearchQuery.php" timestamp="1555501371271">
+        <mark key="[" line="59" column="42" />
+        <mark key="]" line="59" column="41" />
+        <mark key="." line="59" column="41" />
+        <mark key="^" line="59" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/services/mixpanel-service/src/MIxpanelAtmosphere.js" timestamp="1544115812367">
         <mark key="[" line="0" column="11" />
@@ -2842,8 +2845,8 @@
       <jump line="37" column="36" filename="$USER_HOME$/Projects/atmosphere/api/app/ViewModels/TrackSearchView.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVtaXR0ZXItPmFkZExpc3RlbmVyKEN1cmF0b3JDb250cmFjdERyYWZ0ZWQ6OmNsYXNzLCAkdGhpcy0+YXBwW0N1cmF0b3JBZ3JlZW1lbnRNYWRlTGlzdGVuZXI6OmNsYXNzXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>userId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2855,16 +2858,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5bGlzdElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZpcnN0Um93WydpZCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5UGFyYW1zWyd1c2VySWQnXSA9ICR1c2VySWQ7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVtaXR0ZXItPmFkZExpc3RlbmVyKEN1cmF0b3JDb250cmFjdERyYWZ0ZWQ6OmNsYXNzLCAkdGhpcy0+YXBwW0N1cmF0b3JBZ3JlZW1lbnRNYWRlTGlzdGVuZXI6OmNsYXNzXSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnYXJ0aXN0JyA9PiAnJScgLiAkYXJ0aXN0IC4gJyUnLAogICAgICAgICAgICAndGl0bGUnICA9PiAnJScgLiAkdGl0bGUgLiAnJScsCiAgICAgICAgXQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2887,31 +2890,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGVtaXR0ZXItPmFkZExpc3RlbmVyKEN1cmF0b3JDb250cmFjdERyYWZ0ZWQ6OmNsYXNzLCAkdGhpcy0+YXBwW0N1cmF0b3JBZ3JlZW1lbnRNYWRlTGlzdGVuZXI6OmNsYXNzXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRleGlzdGluZ0FncmVlbWVudAogICAgICogQHBhcmFtICR1cGRhdGVkQWdyZWVtZW50CiAgICAgKi8KICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjaGFuZ2VBZ3JlZW1lbnQoJGV4aXN0aW5nQWdyZWVtZW50LCAkdXBkYXRlZEFncmVlbWVudCkKICAgIHsKICAgICAgICAvL1RPRE86IFJhaXNlIEFncmVlbWVudCBjaGFuZ2VkIC8gdXBkYXRlZCBldmVudAogICAgICAgICR0aGlzLT5hZ3JlZW1lbnRzLT5yZW1vdmVFbGVtZW50KCRleGlzdGluZ0FncmVlbWVudCk7CiAgICAgICAgJHRoaXMtPmFncmVlbWVudHMtPmFkZCgkdXBkYXRlZEFncmVlbWVudCk7CiAgICAgICAgJHRoaXMtPnRvdWNoVGltZXN0YW1wcygpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoTmFtZSgkcmVxdWVzdC0+Z2V0TmFtZSgpKQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRleGlzdGluZ0FncmVlbWVudAogICAgICogQHBhcmFtICR1cGRhdGVkQWdyZWVtZW50CiAgICAgKi8KICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjaGFuZ2VBZ3JlZW1lbnQoJGV4aXN0aW5nQWdyZWVtZW50LCAkdXBkYXRlZEFncmVlbWVudCkKICAgIHsKICAgICAgICAvL1RPRE86IFJhaXNlIEFncmVlbWVudCBjaGFuZ2VkIC8gdXBkYXRlZCBldmVudAogICAgICAgICR0aGlzLT5hZ3JlZW1lbnRzLT5yZW1vdmVFbGVtZW50KCRleGlzdGluZ0FncmVlbWVudCk7CiAgICAgICAgJHRoaXMtPmFncmVlbWVudHMtPmFkZCgkdXBkYXRlZEFncmVlbWVudCk7CiAgICAgICAgJHRoaXMtPnRvdWNoVGltZXN0YW1wcygpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoTmFtZSgkcmVxdWVzdC0+Z2V0TmFtZSgpKQo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ25hbWUnICAgICAgICAgICAgICA9PiAncmVxdWlyZWQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
