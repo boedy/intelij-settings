@@ -183,6 +183,12 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/mixpanel/MixpanelAtmosphere.tsx" timestamp="1555665272288">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="21" column="5" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Query/Curation/SingleCuratorContractView.php" timestamp="1551114215888">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="25" />
@@ -2649,6 +2655,12 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="15" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/scripts/SetLocationId.ts" timestamp="1555665328907">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="40" />
+        <mark key="^" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/Dockerfile" timestamp="1547729181200">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="34" />
@@ -2801,8 +2813,8 @@
       <jump line="37" column="36" filename="$USER_HOME$/Projects/atmosphere/api/app/ViewModels/TrackSearchView.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>location.id,</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2814,16 +2826,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>location.id,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5bGlzdElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBTZXJpYWxpemVyXFR5cGUoImludCIpCiAgICAgKi8K</text>
+        <text encoding="base64">ICBtaXhwYW5lbC5wZW9wbGUuc2V0KHVzZXIuaWQsIHsKICAgICRuYW1lOiBsb2NhdGlvbi5kaXNwbGF5TmFtZSwKICAgIE9yZ2FuaXNhdGlvbjogbG9jYXRpb24ub3JnYW5pc2F0aW9uLm5hbWUsCiAgICBMb2NhdGlvbklkOiBsb2NhdGlvbi5pZCwKICAgIEFkZHJlc3M6IGFkZHJlc3MsCiAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBBZGRyZXNzOiBhZGRyZXNzLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2846,19 +2858,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBTZXJpYWxpemVyXFR5cGUoImludCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBPcmdhbmlzYXRpb246IGxvY2F0aW9uLm9yZ2FuaXNhdGlvbi5uYW1lLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1haWxlci0+c2VuZCgkdGhpcy0+ZW1haWxBZHJlc3MsICR0aGlzLT5nZXRTdWJqZWN0KCksICR0aGlzLT5nZXRCb2R5Rm9yUmVnaXN0ZXJlZFVzZXIoJHVzZXIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkbmFtZTogbG9jYXRpb24uZGlzcGxheU5hbWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1haWxlci0+c2VuZCgkdGhpcy0+ZW1haWxBZHJlc3MsICR0aGlzLT5nZXRTdWJqZWN0KCksICR0aGlzLT5nZXRCb2R5Rm9yVW5rb3duVXNlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWl4cGFuZWwudXBkYXRlTG9jYXRpb24oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFpbGVyLT5zZW5kKCRyZWNlaXZlci0+Z2V0RW1haWwoKSwgJGVtYWlsU3ViamVjdCwgJGNvbnRlbnQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IE1peHBhbmVsIGZyb20gJy4uL21peHBhbmVsL01peHBhbmVsQXRtb3NwaGVyZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaHRtbCA9IHZpZXcoJ01haWxOZXdDb21tZW50cycsICRtYWlsRGF0YS0+Z2V0RGF0YSgpKS0+cmVuZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSBpZiAocm9sZS50eXBlID09PSAnbG9jYXRpb25tYW5hZ2VyJykgewogICAgICAgIHJvbGUuYXV0aG9yaXphdGlvbnMuZm9yRWFjaChhdXRoID0+IHsKICAgICAgICAgIGlmIChhdXRoLnJlc291cmNlVHlwZSA9PT0gJ0xvY2F0aW9uJykgewogICAgICAgICAgICBjb25zb2xlLmxvZyhyb2xlLnR5cGUsIGF1dGgucmVzb3VyY2VUeXBlLCBhdXRoLnJlc291cmNlSWQpOwogICAgICAgICAgICBCYWNrc3RhZ2VNaXhwYW5lbC5hZGRSb2xlKHVzZXJzW2ldLmlkLCAnTG9jYXRpb24gbWFuYWdlciBmb3InLCBhdXRoLnJlc291cmNlSWQpOwogICAgICAgICAgfQogICAgICAgIH0pOwogICAgICB9IGVsc2UgaWYgKHJvbGUudHlwZSA9PT0gJ2N1cmF0b3InKSB7CiAgICAgICAgcm9sZS5hdXRob3JpemF0aW9ucy5mb3JFYWNoKGF1dGggPT4gewogICAgICAgICAgaWYgKGF1dGgucmVzb3VyY2VUeXBlID09PSAnUGxheWxpc3QnKSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHJvbGUudHlwZSwgYXV0aC5yZXNvdXJjZVR5cGUsIGF1dGgucmVzb3VyY2VJZCk7CiAgICAgICAgICAgIEJhY2tzdGFnZU1peHBhbmVsLmFkZFJvbGUodXNlcnNbaV0uaWQsICdDdXJhdGVzJywgYXV0aC5yZXNvdXJjZUlkKTsKICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -2867,10 +2879,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFpbGVyLT5zZW5kKCRlbWFpbCwgJGVtYWlsU3ViamVjdCwgJGNvbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBTZXJpYWxpemVyXFR5cGUoImludCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1haWxlci0+c2VuZCgkdGhpcy0+ZW1haWxBZHJlc3MsICR0aGlzLT5nZXRTdWJqZWN0KCksICR0aGlzLT5nZXRCb2R5Rm9yUmVnaXN0ZXJlZFVzZXIoJHVzZXIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
