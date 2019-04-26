@@ -425,11 +425,11 @@
         <mark key="." line="22" column="64" />
         <mark key="^" line="22" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/index.js" timestamp="1556273568789">
-        <mark key="[" line="54" column="22" />
-        <mark key="]" line="54" column="23" />
-        <mark key="." line="54" column="23" />
-        <mark key="^" line="58" column="26" />
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/index.js" timestamp="1556285017266">
+        <mark key="[" line="55" column="22" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="59" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/personal/tron-arbitrage/test/proxyTest.ts" timestamp="1554803019115">
         <mark key="[" line="38" column="32" />
@@ -1400,6 +1400,10 @@
         <mark key="^" line="16" column="52" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/test/untitled/fingerprint.js" timestamp="1556282562856">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/chrome/background.html" timestamp="1553378779923">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -1524,6 +1528,12 @@
         <mark key="]" line="31" column="42" />
         <mark key="^" line="30" column="62" />
         <mark key="." line="30" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/fingerprint.js" timestamp="1556286010842">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/deployment/statefulsets.yaml" timestamp="1547738473037">
         <mark key="[" line="10" column="14" />
@@ -2748,7 +2758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="38" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
       <jump line="4" column="72" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
       <jump line="14" column="36" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
@@ -2848,10 +2857,11 @@
       <jump line="48" column="32" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Curation/SqlCurationActivityQuery.php" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Curation/Query/ViewCuratorContract.php" />
       <jump line="37" column="36" filename="$USER_HOME$/Projects/atmosphere/api/app/ViewModels/TrackSearchView.php" />
+      <jump line="6" column="20" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/fingerprint.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2863,16 +2873,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hit</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5bGlzdElkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvY2F0aW9ucyA9IGF3YWl0IGZldGNoTG9jYXRpb25zKG9yZ2FuaXNhdGlvbklkKTsKICAgIGNvbnNvbGUubG9nKGxvY2F0aW9ucy5sZW5ndGgpOwo=</text>
+      <register name="0" type="4">
+        <text>data.data[i].track.sources[0].size</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKGhpdCA9PSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2895,31 +2905,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKGhpdCA9PSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZXRTZWFyY2hbMF1bMF0gPiAuNSA/IHNldFNlYXJjaFswXVsxXSA6ICdOb3RoaW5nIGZvdW5kJzsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlzcmM6IGtrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IHNldC5nZXQocSlbMF07Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNvbHZlKG51bGwpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGEuZ2V0KCJtaWNhZWwgYXNpYWsiKTsK</text>
+        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
