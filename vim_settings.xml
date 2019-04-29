@@ -696,7 +696,7 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556196009989">
+      <file name="/Dummy.txt" timestamp="1556535796973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1536,11 +1536,11 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/addHash.js" timestamp="1556534043553">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="17" />
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/addHash.js" timestamp="1556536234963">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/deployment/statefulsets.yaml" timestamp="1547738473037">
         <mark key="[" line="10" column="14" />
@@ -2867,8 +2867,8 @@
       <jump line="6" column="20" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/fingerprint.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXTsK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2880,16 +2880,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5bGlzdElkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dmFyIHdyaXRlU3RyZWFtID0gZnMuY3JlYXRlV3JpdGVTdHJlYW0oIm91dHB1dC5jc3YiKTsK</text>
+      <register name="0" type="4">
+        <text>writer({
+//   header: false,
+//   columns: {
+//     'id': 'id',
+//     'track_id': 'track_id',
+//     'size': 'size',
+//     'bitrate': 'bitrate',
+//     'created_at': 'created_at',
+//     'updated_at': 'updated_at',
+//     'normalized_volume': 'normalized_volume',
+//     'track_title': 'track_title'
+//   }
+// })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2912,31 +2924,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZWNvcmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY3JlYXRlQ3N2V3JpdGVyID0gcmVxdWlyZSgnY3N2LXdyaXRlcicpLmNyZWF0ZU9iamVjdENzdldyaXRlcjsKY29uc3QgY3N2V3JpdGVyID0gY3JlYXRlQ3N2V3JpdGVyKHsKICBwYXRoOiAnb3V0LmNzdicsCiAgaGVhZGVyOiBbCiAgICB7aWQ6ICdpZCcsIHRpdGxlOiAnaWQnfSwKICAgIHtpZDogJ3N1cm5hbWUnLCB0aXRsZTogJ1N1cm5hbWUnfSwKICAgIHtpZDogJ2FnZScsIHRpdGxlOiAnQWdlJ30sCiAgICB7aWQ6ICdnZW5kZXInLCB0aXRsZTogJ0dlbmRlcid9LAogIF0KfSk7Cg==</text>
+        <text encoding="base64">ICB9LCA1MDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHllYXI6ICdiaXJ0aFllYXInLAogICAgcGhvbmU6ICdwaG9uZScK</text>
+        <text encoding="base64">ICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHllYXI6ICdiaXJ0aFllYXInLAogICAgcGhvbmU6ICdwaG9uZScK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNvcmQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZmlsZSA9IHJlcXVpcmUoJy4vY29udmVydGNzdicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coaGFzaElkcy5lbmNvZGUoMSkpOwpjb25zdCBwYXJzZXIgPSBjc3YucGFyc2Uoe2RlbGltaXRlcjogJywnfSk7Ci8vIHBhcnNlci5vbigncmVhZGFibGUnLCAoKSA9PiB7Ci8vICAgbGV0IHJlY29yZDsKLy8gICB3aGlsZSAocmVjb3JkID0gcGFyc2VyLnJlYWQoKSkgewovLyAgICAgY29uc29sZS5sb2cocmVjb3JkKTsKLy8gICAgIC8vIG91dHB1dC5wdXNoKHJlY29yZCkKLy8gICAgIHN0cmluZ2lmeS53cml0ZShyZWNvcmQpOwovLyAgICAgcmV0dXJuIHJlY29yZDsKLy8gICB9Ci8vIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIHBhcnNlID0gcmVxdWlyZSgnLi4nKTsK</text>
+        <text encoding="base64">Y29uc3QgdHJhbnNmb3JtID0gcmVxdWlyZSgnc3RyZWFtLXRyYW5zZm9ybScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIHBhcnNlciA9IHBhcnNlKHtkZWxpbWl0ZXI6ICc7J30sIGZ1bmN0aW9uKGVyciwgZGF0YSl7CiAgY29uc29sZS5sb2coZGF0YSk7Cn0pOwo=</text>
+        <text encoding="base64">Y29uc3Qgd3JpdGVyID0gd3JpdGVyKHsKICBoZWFkZXI6IGZhbHNlLAogIGNvbHVtbnM6IHsKICAgICdpZCc6ICdpZCcsCiAgICAndHJhY2tfaWQnOiAndHJhY2tfaWQnLAogICAgJ3NpemUnOiAnc2l6ZScsCiAgICAnYml0cmF0ZSc6ICdiaXRyYXRlJywKICAgICdjcmVhdGVkX2F0JzogJ2NyZWF0ZWRfYXQnLAogICAgJ3VwZGF0ZWRfYXQnOiAndXBkYXRlZF9hdCcsCiAgICAnbm9ybWFsaXplZF92b2x1bWUnOiAnbm9ybWFsaXplZF92b2x1bWUnLAogICAgJ3RyYWNrX3RpdGxlJzogJ3RyYWNrX3RpdGxlJwogIH0KfSkK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
