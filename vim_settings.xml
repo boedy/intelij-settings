@@ -180,6 +180,10 @@
         <mark key="^" line="21" column="47" />
         <mark key="." line="21" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse2.js" timestamp="1556556394434">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="77" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/App.js" timestamp="1539680735484">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
@@ -1535,12 +1539,12 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" timestamp="1556552980346">
-        <mark key="'" line="81" column="10" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="71" column="18" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" timestamp="1556556988556">
+        <mark key="'" line="65" column="17" />
+        <mark key="[" line="65" column="30" />
+        <mark key="]" line="65" column="54" />
+        <mark key="." line="65" column="54" />
+        <mark key="^" line="65" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/addHash.js" timestamp="1556543999656">
         <mark key="[" line="5" column="0" />
@@ -2771,7 +2775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
       <jump line="202" column="0" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/Common/CountrySelect.js" />
       <jump line="68" column="0" filename="$USER_HOME$/Projects/kollekt/reporting/src/api/mixpanel.js" />
@@ -2871,10 +2874,11 @@
       <jump line="6" column="20" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/fingerprint.js" />
       <jump line="73" column="14" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" />
       <jump line="79" column="10" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" />
+      <jump line="59" column="17" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbGxiYWNrKG51bGwsIG51bGwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>hit[1];</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2886,16 +2890,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'first.csv'</text>
+        <text>hit[1];</text>
       </register>
       <register name="/" type="4">
         <text>writeStream</text>
       </register>
-      <register name="0" type="4">
-        <text>__dirname + '/query_result.csv'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0cmFjay5tZXRhZGF0YSA9IGhpdFsxXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbGxiYWNrKG51bGwsIG51bGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2918,31 +2922,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5zYXZlRGF0YWJhc2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoaXRXcml0ZXIud3JpdGUocmVjb3JkKTsK</text>
+        <text encoding="base64">ICAvLyByZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAvLyBjb25zdCBqc29uQXJyYXkgPSBhd2FpdCBjc3YoKS5mcm9tRmlsZShjc3ZGaWxlUGF0aCk7CiAgLy8gY29uc3QgdHJhY2tzID0gZGIuYWRkQ29sbGVjdGlvbigndHJhY2tzJyk7CiAgLy8gdHJhY2tzLmluc2VydChqc29uQXJyYXkpCiAgLy8gZGIuc2F2ZURhdGFiYXNlKCk7CiAgLy8gcmV0dXJuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhpdCA9IGF3YWl0IHNlYXJjaE9uRGVlemVyKHRpdGxlKTsKICAgIGNvbnNvbGUubG9nKGhpdFswXSwgJyB8ICcsIHRpdGxlKTsKICAgIGlmKGhpdFsxXSl7CiAgICAgIHJlY29yZFs0XSA9IEpTT04uc3RyaW5naWZ5KGhpdFsxXSk7CiAgICAgIGhpdFdyaXRlci53cml0ZShyZWNvcmQpOwogICAgfQo=</text>
+        <text encoding="base64">dG1wb3J0Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaGl0V3JpdGVyLnBpcGUoZnMuY3JlYXRlV3JpdGVTdHJlYW0oJ291dC5jc3YnLCB7ZmxhZ3M6ICdhJ30pKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
