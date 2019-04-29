@@ -1535,11 +1535,12 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" timestamp="1556550841836">
-        <mark key="[" line="45" column="18" />
-        <mark key="]" line="45" column="28" />
-        <mark key="^" line="45" column="28" />
-        <mark key="." line="45" column="28" />
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" timestamp="1556552980346">
+        <mark key="'" line="81" column="10" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="71" column="18" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/addHash.js" timestamp="1556543999656">
         <mark key="[" line="5" column="0" />
@@ -2770,8 +2771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="72" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
-      <jump line="14" column="36" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
       <jump line="202" column="0" filename="$USER_HOME$/Projects/kollekt/reporting/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/Common/CountrySelect.js" />
@@ -2870,10 +2869,12 @@
       <jump line="29" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Curation/Query/ViewCuratorContract.php" />
       <jump line="37" column="36" filename="$USER_HOME$/Projects/atmosphere/api/app/ViewModels/TrackSearchView.php" />
       <jump line="6" column="20" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/fingerprint.js" />
+      <jump line="73" column="14" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" />
+      <jump line="79" column="10" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIC8vIGNhbGxiYWNrKG51bGwsIG51bGwpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2885,16 +2886,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>items</text>
+        <text>'first.csv'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF5bGlzdElkXD4=</text>
+        <text>writeStream</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FsbGJhY2sobnVsbCwgcmVjb3JkLmpvaW4oJywnKSArICdcbicpOwo=</text>
+      <register name="0" type="4">
+        <text>__dirname + '/query_result.csv'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIC8vIGNhbGxiYWNrKG51bGwsIG51bGwpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2917,48 +2918,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhxLCBnZXRBcnRpc3RUaXRsZShxKSk7CiAgLy8gbGV0IFsgYXJ0aXN0LCB0aXRsZSBdID0gZ2V0QXJ0aXN0VGl0bGUocSwgewogIC8vICAgZGVmYXVsdEFydGlzdDogJycsCiAgLy8gICBkZWZhdWx0VGl0bGU6ICcnCiAgLy8gfSk7CiAgLy8gcmV0dXJuIGAke2FydGlzdH0gLSAke3RpdGxlfWA7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2FsbGJhY2sobnVsbCwgcmVjb3JkLmpvaW4oJywnKSArICdcbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBoaXRXcml0ZXIud3JpdGUocmVjb3JkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrKG51bGwsIHJlY29yZC5qb2luKCcsJykgKyAnXG4nKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhpdCA9IGF3YWl0IHNlYXJjaE9uRGVlemVyKHRpdGxlKTsKICAgIGNvbnNvbGUubG9nKGhpdFswXSwgJyB8ICcsIHRpdGxlKTsKICAgIGlmKGhpdFsxXSl7CiAgICAgIHJlY29yZFs0XSA9IEpTT04uc3RyaW5naWZ5KGhpdFsxXSk7CiAgICAgIGhpdFdyaXRlci53cml0ZShyZWNvcmQpOwogICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlY29yZFs0XSA9IGhpdFsxXTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGF3YWl0IG5ldyBQcm9taXNlKChyLCBqKSA9PiBzZXRUaW1lb3V0KHIsIDEwMDApKTsK</text>
+        <text encoding="base64">ICAgICAgaGl0V3JpdGVyLnBpcGUoZnMuY3JlYXRlV3JpdGVTdHJlYW0oJ291dC5jc3YnLCB7ZmxhZ3M6ICdhJ30pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGF5bGlzdElkXD4=</last-search>
+      <last-search>writeStream</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF5bGlzdElkXD4=</last-pattern>
+      <last-pattern>writeStream</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxkb2N1bWVudFw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqb2JcPg==</entry>
         <entry encoding="base64">XDxwb3BcPg==</entry>
         <entry encoding="base64">XDxwbGF5c1Blck1vbnRoXD4=</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
@@ -2978,6 +2978,7 @@
         <entry encoding="base64">XDxleGNoYW5nZVw+</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDxwbGF5bGlzdElkXD4=</entry>
+        <entry>writeStream</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
