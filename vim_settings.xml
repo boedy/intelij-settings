@@ -1536,11 +1536,11 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/addHash.js" timestamp="1556531289469">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/addHash.js" timestamp="1556534043553">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/deployment/statefulsets.yaml" timestamp="1547738473037">
         <mark key="[" line="10" column="14" />
@@ -2867,8 +2867,8 @@
       <jump line="6" column="20" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/fingerprint.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>csvParse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBbXTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2880,16 +2880,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>csvParse</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5bGlzdElkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>'adjfhljhas342597vsfkahfiudhogaid'</text>
+      <register name="0" type="2">
+        <text encoding="base64">dmFyIHdyaXRlU3RyZWFtID0gZnMuY3JlYXRlV3JpdGVTdHJlYW0oIm91dHB1dC5jc3YiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnMK</text>
+        <text encoding="base64">ICAgIHJldHVybiBbXTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2912,19 +2912,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaGFzaElkcy5zYWx0ID0gJ2FkamZobGpoYXMzNDI1OTd2c2ZrYWhmaXVkaG9nYWlkJzsKaGFzaElkcy5taW5MZW5ndGggPSA5Owo=</text>
+        <text encoding="base64">Y29uc3QgY3JlYXRlQ3N2V3JpdGVyID0gcmVxdWlyZSgnY3N2LXdyaXRlcicpLmNyZWF0ZU9iamVjdENzdldyaXRlcjsKY29uc3QgY3N2V3JpdGVyID0gY3JlYXRlQ3N2V3JpdGVyKHsKICBwYXRoOiAnb3V0LmNzdicsCiAgaGVhZGVyOiBbCiAgICB7aWQ6ICdpZCcsIHRpdGxlOiAnaWQnfSwKICAgIHtpZDogJ3N1cm5hbWUnLCB0aXRsZTogJ1N1cm5hbWUnfSwKICAgIHtpZDogJ2FnZScsIHRpdGxlOiAnQWdlJ30sCiAgICB7aWQ6ICdnZW5kZXInLCB0aXRsZTogJ0dlbmRlcid9LAogIF0KfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgIHllYXI6ICdiaXJ0aFllYXInLAogICAgcGhvbmU6ICdwaG9uZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
+        <text encoding="base64">ICAgIHllYXI6ICdiaXJ0aFllYXInLAogICAgcGhvbmU6ICdwaG9uZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZmlsZSA9IHJlcXVpcmUoJy4vY29udmVydGNzdicpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -2933,10 +2933,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">dmFyIHBhcnNlID0gcmVxdWlyZSgnLi4nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlzcmM6IGtrCg==</text>
+        <text encoding="base64">dmFyIHBhcnNlciA9IHBhcnNlKHtkZWxpbWl0ZXI6ICc7J30sIGZ1bmN0aW9uKGVyciwgZGF0YSl7CiAgY29uc29sZS5sb2coZGF0YSk7Cn0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
