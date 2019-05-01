@@ -725,11 +725,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/obfuscation.js" timestamp="1555342935391">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/obfuscation.js" timestamp="1556713925225">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/test.js" timestamp="1547722060868">
         <mark key="[" line="5" column="45" />
@@ -1181,11 +1181,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/test.js" timestamp="1555089336513">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="16" column="1" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/test.js" timestamp="1556715862549">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
         <mark key="^" line="16" column="1" />
-        <mark key="." line="16" column="1" />
+        <mark key="." line="15" column="17" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1537570730148">
         <mark key="[" line="61" column="0" />
@@ -1789,12 +1789,7 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/google-play/index.js" timestamp="1555341833604">
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="75" column="40" />
-        <mark key="^" line="75" column="40" />
-        <mark key="." line="75" column="40" />
-      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/google-play/index.js" timestamp="1556715513238" />
       <file name="$USER_HOME$/Projects/atmosphere/content-digger/deployment/services.yaml" timestamp="1548177291546">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="19" />
@@ -2881,7 +2876,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEFtc3RlcmRhbSwgTmV0aGVybGFuZHMgSGVyZW5ncmFjaHQgMTc4LCAxMDE2IEJS</text>
+        <text>|</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2893,7 +2888,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEFtc3RlcmRhbSwgTmV0aGVybGFuZHMgSGVyZW5ncmFjaHQgMTc4LCAxMDE2IEJS</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>writeStream</text>
@@ -2902,7 +2897,7 @@
         <text>Chat with us!</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9rbGV0cy5jb20va29sbGVrdGZtIiB0YXJnZXQ9Il9ibGFuayI+Q2hhdCB3aXRoIHVzITwvYT4K</text>
+        <text encoding="base64">Z29vZ2xlLnNlYXJjaCgnZGFmdCBwdW5rIC0gYXJvdW5kIHRoZSB3b3JsZCcpLnRoZW4oY29uc29sZS5sb2cpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2925,31 +2920,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXF1ZXN0Q291bnQrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9rbGV0cy5jb20va29sbGVrdGZtIiB0YXJnZXQ9Il9ibGFuayI+Q2hhdCB3aXRoIHVzITwvYT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1ZXN0Q291bnQrKzsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYWNyT3B0aW9ucyA9IHsKICAvLyByZXF1aXJlZAogIC8vIGFjY2Vzc19rZXk6ICcyNWM3YzJkYzc5ZWIyZGVlNzc4NmI3YzcyMTdkZDllMScsCiAgLy8gYWNjZXNzX3NlY3JldDogJ25OVUMyWWFMRWdBeVFnZXN0ZUFDUEJ1RlNPMk1KaERFSXM3WlA0dlQnLAogIC8vIGFjY2Vzc19rZXk6ICdmYzI3Njc3MWVkNzBjZjJhMGViMmM2YWQ1NjM0MDNkYycsCiAgLy8gYWNjZXNzX3NlY3JldDogJ1ZKNXpZU1hScklOM1JNbTBhak9ocWNoYTVhc0czdWltYWx6d1Y1a1EnLAogIGFjY2Vzc19rZXk6ICdhODI3ZDE3ZWFiODViYWI3MTA3NTRhMDA0NWEyMjBkZicsCiAgYWNjZXNzX3NlY3JldDogJ1FpdWdsZWhmTVE5RVVJeElpWTZmNG44bkRjN2FhV0ZDb2c1SEZCc2gnLAogIHJlcXVybDogJ2lkZW50aWZ5LWV1LXdlc3QtMS5hY3JjbG91ZC5jb20nLAogIGh0dHBfbWV0aG9kOiAnUE9TVCcsCiAgaHR0cF91cmk6ICcvdjEvaWRlbnRpZnknLAogIGRhdGFfdHlwZTogJ2F1ZGlvJywKfTsKCmNvbnN0IGFjciA9IG5ldyBBQ1JDbG91ZChhY3JPcHRpb25zKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgKGFzeW5jICgpID0+IHsK</text>
+        <text encoding="base64">Y29uc3QgYWNyT3B0aW9ucyA9IHsKICAvLyByZXF1aXJlZAogIC8vIGFjY2Vzc19rZXk6ICcyNWM3YzJkYzc5ZWIyZGVlNzc4NmI3YzcyMTdkZDllMScsCiAgLy8gYWNjZXNzX3NlY3JldDogJ25OVUMyWWFMRWdBeVFnZXN0ZUFDUEJ1RlNPMk1KaERFSXM3WlA0dlQnLAogIC8vIGFjY2Vzc19rZXk6ICdmYzI3Njc3MWVkNzBjZjJhMGViMmM2YWQ1NjM0MDNkYycsCiAgLy8gYWNjZXNzX3NlY3JldDogJ1ZKNXpZU1hScklOM1JNbTBhak9ocWNoYTVhc0czdWltYWx6d1Y1a1EnLAogIGFjY2Vzc19rZXk6ICdhODI3ZDE3ZWFiODViYWI3MTA3NTRhMDA0NWEyMjBkZicsCiAgYWNjZXNzX3NlY3JldDogJ1FpdWdsZWhmTVE5RVVJeElpWTZmNG44bkRjN2FhV0ZDb2c1SEZCc2gnLAogIHJlcXVybDogJ2lkZW50aWZ5LWV1LXdlc3QtMS5hY3JjbG91ZC5jb20nLAogIGh0dHBfbWV0aG9kOiAnUE9TVCcsCiAgaHR0cF91cmk6ICcvdjEvaWRlbnRpZnknLAogIGRhdGFfdHlwZTogJ2F1ZGlvJywKfTsKCmNvbnN0IGFjciA9IG5ldyBBQ1JDbG91ZChhY3JPcHRpb25zKTsKCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBsaW1pdGVyID0gbmV3IEJvdHRsZW5lY2soeyBtaW5UaW1lOiA1MCB9KTsK</text>
+        <text encoding="base64">ICAgICAgKGFzeW5jICgpID0+IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgID0gYXdhaXQgZmluZ2VyUHJpbnRlci5pZGVudGlmeShmaWxlVXJsLmRhdGEudXJsLCBzb3VyY2Uuc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBsaW1pdGVyID0gbmV3IEJvdHRsZW5lY2soeyBtaW5UaW1lOiA1MCB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgYXhpb3MuZ2V0KGAvdHJhY2tzLyR7dHJhY2sudHJhY2tfaWR9YCk7CiAgICBjb25zdCBzb3VyY2UgPSByZXNwb25zZS5kYXRhWzBdLnNvdXJjZXNbMF07CiAgICBjb25zdCBmaWxlVXJsID0gYXdhaXQgYXhpb3MuZ2V0KHNvdXJjZS51cmwgKyAnP3JlZGlyZWN0PWZhbHNlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgID0gYXdhaXQgZmluZ2VyUHJpbnRlci5pZGVudGlmeShmaWxlVXJsLmRhdGEudXJsLCBzb3VyY2Uuc2l6ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
