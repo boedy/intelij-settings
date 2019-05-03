@@ -817,11 +817,11 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Track.php" timestamp="1556889387392">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="^" line="114" column="21" />
-        <mark key="." line="117" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Track.php" timestamp="1556890546688">
+        <mark key="[" line="83" column="30" />
+        <mark key="]" line="84" column="7" />
+        <mark key="." line="84" column="7" />
+        <mark key="^" line="84" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/EventSubscriber.js" timestamp="1547576850617">
         <mark key="[" line="14" column="44" />
@@ -2896,7 +2896,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gJGFydGlzdAogICAgICogQHBhcmFtICR0aXRsZQogICAgICogQHBhcmFtICRhbGJ1bQogICAgICogQHBhcmFtICRyZWxlYXNlWWVhcgogICAgICogQHBhcmFtICRpc3JjCiAgICAgKi8K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2908,7 +2908,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>init</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2917,7 +2917,7 @@
         <text>getArtist</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gJGFydGlzdAogICAgICogQHBhcmFtICR0aXRsZQogICAgICogQHBhcmFtICRhbGJ1bQogICAgICogQHBhcmFtICRyZWxlYXNlWWVhcgogICAgICogQHBhcmFtICRpc3JjCiAgICAgKi8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2940,10 +2940,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRhcnRpc3QKICAgICAqIEBwYXJhbSAkdGl0bGUKICAgICAqIEBwYXJhbSAkYWxidW0KICAgICAqIEBwYXJhbSAkcmVsZWFzZVllYXIKICAgICAqIEBwYXJhbSAkaXNyYwogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGZyb21NZXRhZGF0YSgkYXJ0aXN0LCAkdGl0bGUsICRhbGJ1bSA9IG51bGwsICRyZWxlYXNlWWVhciA9IG51bGwsICRpc3JjID0gbnVsbCkKICAgIHsKICAgICAgICAkc3RhdGljICA9IG5ldyBzdGF0aWModGl0bGUpOwogICAgICAgICR0aGlzLT5hcnRpc3QgPSAkYXJ0aXN0OwogICAgICAgICR0aGlzLT50aXRsZSA9ICR0aXRsZTsKICAgICAgICAkdGhpcy0+YWxidW0gPSAkYWxidW07CiAgICAgICAgJHRoaXMtPnllYXIgPSAkcmVsZWFzZVllYXI7CiAgICAgICAgJHRoaXMtPmlzcmMgPSAkaXNyYzsKICAgICAgICByZXR1cm4gc3RhdGljOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRBbGJ1bSgkYWxidW0pCiAgICB7CiAgICAgICAgJHRoaXMtPmFsYnVtID0gJGFsYnVtOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAqIFRyYWNrIGNvbnN0cnVjdG9ycwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2952,7 +2952,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRBbGJ1bSgkYWxidW0pCiAgICB7CiAgICAgICAgJHRoaXMtPmFsYnVtID0gJGFsYnVtOwogICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -2964,7 +2964,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJ0aXN0ID0gJGFydGlzdCA/PyAkdHJhY2stPmdldEFydGlzdCgpOwogICAgICAgICR0aXRsZSA9ICR0aXRsZSA/PyAkdHJhY2stPmdldFRpdGxlKCk7CiAgICAgICAgJGFsYnVtID0gJGFsYnVtID8/ICR0cmFjay0+Z2V0QWxidW0oKTsKICAgICAgICAkeWVhciA9ICR5ZWFyID8/ICR0cmFjay0+Z2V0WWVhcigpOwogICAgICAgICRpc3JjID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
