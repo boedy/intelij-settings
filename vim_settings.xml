@@ -692,9 +692,9 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/deezer/deezer-api.js" timestamp="1555088390371">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="42" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/deezer/deezer-api.js" timestamp="1556982742165">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="38" />
         <mark key="^" line="19" column="41" />
         <mark key="." line="19" column="42" />
       </file>
@@ -1067,7 +1067,7 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/package.json" timestamp="1555088036547">
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/package.json" timestamp="1556982544281">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="20" column="66" />
         <mark key="." line="20" column="66" />
@@ -1576,12 +1576,9 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="69" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" timestamp="1556878525300">
-        <mark key="e" line="144" column="25" />
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" timestamp="1556984177544">
         <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="44" />
-        <mark key="." line="116" column="66" />
-        <mark key="^" line="116" column="47" />
+        <mark key="]" line="121" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/addHash.js" timestamp="1556543999656">
         <mark key="[" line="5" column="0" />
@@ -2188,6 +2185,7 @@
         <mark key="^" line="61" column="16" />
         <mark key="." line="61" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1556983451074" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/SendNewCommentsNotificationEmail.php" timestamp="1555597661301">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="79" />
@@ -2674,6 +2672,12 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/deezer-isrc.js" timestamp="1556984284001">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="32" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/payments.blade.php" timestamp="1536228662531">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="18" column="71" />
@@ -2935,7 +2939,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgc3BvdGlmeUFwaS5zZWFyY2hUcmFja3MoKS50aGVuKAogICAgICAgICAgZGF0YSA9PiB7CiAgICAgICAgICAgICBpZihkYXRhLmJvZHkudHJhY2tzLnRvdGFsKXsKICAgICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGRhdGEuYm9keS50cmFja3MuaXRlbXNbMF07CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtyZXN1bHQuYXJ0aXN0c1swXS5uYW1lfSAtICR7cmVzdWx0Lm5hbWV9IC0gJHtyZXN1bHQuYWxidW0ubmFtZX0iYCk7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgJHt0cmFjay5hcnRpc3QubmFtZX0gLSAke3RyYWNrLnRpdGxlfSAtICR7dHJhY2suYWxidW0udGl0bGV9ImApOwogICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIGVyciA9PiB7IGNvbnNvbGUuZXJyb3IoZXJyKTsgfQogICAgICApOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmZXRjaGluZyB0cmFjaycpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2947,16 +2951,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`artist:&quot;${track.artist.name}&quot; track:&quot;${track.title}&quot; album:&quot;${track.album.title}&quot;`</text>
+        <text>fingerprint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB0cmFja3MgPSBkYi5nZXRDb2xsZWN0aW9uKCd0cmFja3MnKTsKICBjb25zdCByZXN1bHRzID0gdHJhY2tzLndoZXJlKChvYmopID0+IHsKICAgIHJldHVybiBvYmoubWV0YWRhdGEgIT09ICcnOwogIH0pOwogIGZvciAobGV0IGkgPSAwOyBpIDwgcmVzdWx0cy5sZW5ndGg7IGkrKykgewogICAgY29uc3QgdHJhY2sgPSByZXN1bHRzW2ldLm1ldGFkYXRhOwogICAgaWYoISB0cmFjaykgY29udGludWU7CiAgICBhd2FpdCBzcG90aWZ5QXBpLnNlYXJjaFRyYWNrcyhgYXJ0aXN0OiIke3RyYWNrLmFydGlzdC5uYW1lfSIgdHJhY2s6IiR7dHJhY2sudGl0bGV9IiBhbGJ1bToiJHt0cmFjay5hbGJ1bS50aXRsZX0iYCkudGhlbigKICAgICAgZGF0YSA9PiB7CiAgICAgICAgaWYoZGF0YS5ib2R5LnRyYWNrcy50b3RhbCl7CiAgICAgICAgICBjb25zdCByZXN1bHQgPSBkYXRhLmJvZHkudHJhY2tzLml0ZW1zWzBdOwogICAgICAgICAgY29uc29sZS5sb2coYCR7cmVzdWx0LmFydGlzdHNbMF0ubmFtZX0gLSAke3Jlc3VsdC5uYW1lfSAtICR7cmVzdWx0LmFsYnVtLm5hbWV9ImApOwogICAgICAgICAgY29uc29sZS5sb2coYCR7dHJhY2suYXJ0aXN0Lm5hbWV9IC0gJHt0cmFjay50aXRsZX0gLSAke3RyYWNrLmFsYnVtLnRpdGxlfSJgKTsKICAgICAgICB9CiAgICAgIH0sCiAgICAgIGVyciA9PiB7IGNvbnNvbGUuZXJyb3IoZXJyKTsgfQogICAgKTsKICAgIC8vIHJldHVybjsKICB9Cg==</text>
+        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IHJlc3VsdHMubGVuZ3RoOyBpKyspIHsKICAgIChhc3luYyAoKSA9PiB7CiAgICAgIHRyeSB7CiAgICAgICAgY29uc3QgdHJhY2sgPSByZXN1bHRzW2ldOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgc3BvdGlmeUFwaS5zZWFyY2hUcmFja3MoKS50aGVuKAogICAgICAgICAgZGF0YSA9PiB7CiAgICAgICAgICAgICBpZihkYXRhLmJvZHkudHJhY2tzLnRvdGFsKXsKICAgICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGRhdGEuYm9keS50cmFja3MuaXRlbXNbMF07CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtyZXN1bHQuYXJ0aXN0c1swXS5uYW1lfSAtICR7cmVzdWx0Lm5hbWV9IC0gJHtyZXN1bHQuYWxidW0ubmFtZX0iYCk7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgJHt0cmFjay5hcnRpc3QubmFtZX0gLSAke3RyYWNrLnRpdGxlfSAtICR7dHJhY2suYWxidW0udGl0bGV9ImApOwogICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIGVyciA9PiB7IGNvbnNvbGUuZXJyb3IoZXJyKTsgfQogICAgICApOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmZXRjaGluZyB0cmFjaycpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2979,31 +2983,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3RyaW5nIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHRzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZGIgPSBuZXcgbG9raSgnZGF0YWJhc2UuanNvbicsIHsKICAgYXV0b2xvYWQ6IHRydWUsCiAgIGF1dG9sb2FkQ2FsbGJhY2s6IHJ1biwKICAgYXV0b3NhdmU6IHRydWUsCiAgIGF1dG9zYXZlSW50ZXJ2YWw6IDQwMDAKfSk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0cmFja0luZm8gPSBjbGllbnQuZ2V0VHJhY2soKTsKICBjb25zb2xlLmxvZyh0cmFja0luZm8pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZGJJbml0ID0gKCkgPT4gewogICBsZXQgZW50cmllcyA9IGRiLmdldENvbGxlY3Rpb24oJ3RyYWNrcycpOwogICBydW4oKTsKfTsK</text>
+        <text encoding="base64">ICAgIChhc3luYyAoKSA9PiB7CiAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gc2hvd01pc3NlcygpOwogIC8vIHJldHVybiBzaG93UmVzdWx0KCk7CiAgLy8gcmV0dXJuIG1hdGNoTWV0YWRhdGEoKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZGJJbml0ID0gKCkgPT4gewogICBsZXQgZW50cmllcyA9IGRiLmdldENvbGxlY3Rpb24oJ3RyYWNrcycpOwogICBydW4oKTsKfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cnVuKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgLy8ga2ljayBvZmYgYW55IHByb2dyYW0gbG9naWMgb3Igc3RhcnQgbGlzdGVuaW5nIHRvIGV4dGVybmFsIGV2ZW50cwo=</text>
+        <text encoding="base64">ICBjb25zdCBjbGllbnQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
