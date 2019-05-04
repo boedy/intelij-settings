@@ -716,7 +716,7 @@
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556969073922">
+      <file name="/Dummy.txt" timestamp="1556972405834">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/bootstrap/app.php" timestamp="1554990738001">
@@ -827,11 +827,11 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Track.php" timestamp="1556967916428">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-        <mark key="^" line="143" column="60" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Track.php" timestamp="1556972561640">
+        <mark key="[" line="79" column="43" />
+        <mark key="]" line="79" column="59" />
+        <mark key="^" line="79" column="59" />
+        <mark key="." line="79" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/services/device-provisioning/src/EventSubscriber.js" timestamp="1547576850617">
         <mark key="[" line="14" column="44" />
@@ -2788,6 +2788,12 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Event/TrackAdded.php" timestamp="1556972516672">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="45" column="3" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/api/app/Http/routes.php" timestamp="1537621901780">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="25" />
@@ -2955,34 +2961,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RyaW5nID0gJyc7CiAgICAgICAgaWYoJGFydGlzdCl7CiAgICAgICAgICAgICRzdHJpbmcgLj0gJGFydGlzdCAuICcgLSAnOwogICAgICAgIH0KICAgICAgIHJldHVybiAkc3RyaW5nIC4gJHRpdGxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJ0aXN0ID0gJHRoaXMtPm9iamVjdFsnYXJ0aXN0J107CiAgICAgICAgJHRpdGxlID0gJHRoaXMtPm9iamVjdFsndGl0bGUnXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkX1NFUlZFUlsnYXBpX3ZlcnNpb24nXTsK</text>
+        <text encoding="base64">JHRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGUK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVHJhY2tBZGRlZCBjb25zdHJ1Y3Rvci4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgeyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGV0ZXJtaW5lVGl0bGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QWdncmVnYXRlUm9vdElkZW50aWZpZXJOYW1lKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29udGV4dCgpIG1ldGhvZC4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -3034,10 +3040,10 @@
         <entry>vso</entry>
         <entry>sp</entry>
         <entry encoding="base64">dnNwIA==</entry>
-        <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
