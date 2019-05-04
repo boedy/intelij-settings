@@ -1157,9 +1157,9 @@
         <mark key="." line="54" column="82" />
         <mark key="^" line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/spotify.js" timestamp="1556973587644">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="24" column="3" />
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/spotify.js" timestamp="1556981096408">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="52" column="3" />
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
@@ -2728,11 +2728,11 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/music-metadata/index.ts" timestamp="1556978757197">
-        <mark key="[" line="5" column="69" />
-        <mark key="]" line="5" column="72" />
-        <mark key="^" line="5" column="72" />
-        <mark key="." line="5" column="72" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/music-metadata/index.ts" timestamp="1556981228205">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/plots/BarChart.js" timestamp="1540371369777">
         <mark key="[" line="13" column="47" />
@@ -2934,8 +2934,8 @@
       <jump line="59" column="17" filename="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>track</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYXdhaXQgc3BvdGlmeUFwaS5zZWFyY2hUcmFja3MoKS50aGVuKAogICAgICAgICAgZGF0YSA9PiB7CiAgICAgICAgICAgICBpZihkYXRhLmJvZHkudHJhY2tzLnRvdGFsKXsKICAgICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGRhdGEuYm9keS50cmFja3MuaXRlbXNbMF07CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtyZXN1bHQuYXJ0aXN0c1swXS5uYW1lfSAtICR7cmVzdWx0Lm5hbWV9IC0gJHtyZXN1bHQuYWxidW0ubmFtZX0iYCk7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgJHt0cmFjay5hcnRpc3QubmFtZX0gLSAke3RyYWNrLnRpdGxlfSAtICR7dHJhY2suYWxidW0udGl0bGV9ImApOwogICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIGVyciA9PiB7IGNvbnNvbGUuZXJyb3IoZXJyKTsgfQogICAgICApOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2947,16 +2947,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>track</text>
+        <text>`artist:&quot;${track.artist.name}&quot; track:&quot;${track.title}&quot; album:&quot;${track.album.title}&quot;`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gY3JlZGVudGlhbHMgYXJlIG9wdGlvbmFsCmNvbnN0IHNwb3RpZnlBcGkgPSBuZXcgU3BvdGlmeVdlYkFwaSh7CiAgY2xpZW50SWQ6ICdhYThhYTg3MWRlNjU0ODE4YmYzMWQzMTliYTNhNjAzZScsCiAgY2xpZW50U2VjcmV0OiAnZGQ0Y2E2ODgxMzkwNGViY2FjNDZiOWU3MzExMzUyZTcnLAogIHJlZGlyZWN0VXJpOiAnaHR0cDovL2xvY2FsaG9zdDo4ODg4L2NhbGxiYWNrJwp9KTsK</text>
+        <text encoding="base64">ICBjb25zdCB0cmFja3MgPSBkYi5nZXRDb2xsZWN0aW9uKCd0cmFja3MnKTsKICBjb25zdCByZXN1bHRzID0gdHJhY2tzLndoZXJlKChvYmopID0+IHsKICAgIHJldHVybiBvYmoubWV0YWRhdGEgIT09ICcnOwogIH0pOwogIGZvciAobGV0IGkgPSAwOyBpIDwgcmVzdWx0cy5sZW5ndGg7IGkrKykgewogICAgY29uc3QgdHJhY2sgPSByZXN1bHRzW2ldLm1ldGFkYXRhOwogICAgaWYoISB0cmFjaykgY29udGludWU7CiAgICBhd2FpdCBzcG90aWZ5QXBpLnNlYXJjaFRyYWNrcyhgYXJ0aXN0OiIke3RyYWNrLmFydGlzdC5uYW1lfSIgdHJhY2s6IiR7dHJhY2sudGl0bGV9IiBhbGJ1bToiJHt0cmFjay5hbGJ1bS50aXRsZX0iYCkudGhlbigKICAgICAgZGF0YSA9PiB7CiAgICAgICAgaWYoZGF0YS5ib2R5LnRyYWNrcy50b3RhbCl7CiAgICAgICAgICBjb25zdCByZXN1bHQgPSBkYXRhLmJvZHkudHJhY2tzLml0ZW1zWzBdOwogICAgICAgICAgY29uc29sZS5sb2coYCR7cmVzdWx0LmFydGlzdHNbMF0ubmFtZX0gLSAke3Jlc3VsdC5uYW1lfSAtICR7cmVzdWx0LmFsYnVtLm5hbWV9ImApOwogICAgICAgICAgY29uc29sZS5sb2coYCR7dHJhY2suYXJ0aXN0Lm5hbWV9IC0gJHt0cmFjay50aXRsZX0gLSAke3RyYWNrLmFsYnVtLnRpdGxlfSJgKTsKICAgICAgICB9CiAgICAgIH0sCiAgICAgIGVyciA9PiB7IGNvbnNvbGUuZXJyb3IoZXJyKTsgfQogICAgKTsKICAgIC8vIHJldHVybjsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgc3BvdGlmeUFwaS5zZWFyY2hUcmFja3MoKS50aGVuKAogICAgICAgICAgZGF0YSA9PiB7CiAgICAgICAgICAgICBpZihkYXRhLmJvZHkudHJhY2tzLnRvdGFsKXsKICAgICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGRhdGEuYm9keS50cmFja3MuaXRlbXNbMF07CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtyZXN1bHQuYXJ0aXN0c1swXS5uYW1lfSAtICR7cmVzdWx0Lm5hbWV9IC0gJHtyZXN1bHQuYWxidW0ubmFtZX0iYCk7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgJHt0cmFjay5hcnRpc3QubmFtZX0gLSAke3RyYWNrLnRpdGxlfSAtICR7dHJhY2suYWxidW0udGl0bGV9ImApOwogICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIGVyciA9PiB7IGNvbnNvbGUuZXJyb3IoZXJyKTsgfQogICAgICApOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2979,31 +2979,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc3RyaW5nIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">Y29uc3QgZGIgPSBuZXcgbG9raSgnZGF0YWJhc2UuanNvbicsIHsKICAgYXV0b2xvYWQ6IHRydWUsCiAgIGF1dG9sb2FkQ2FsbGJhY2s6IHJ1biwKICAgYXV0b3NhdmU6IHRydWUsCiAgIGF1dG9zYXZlSW50ZXJ2YWw6IDQwMDAKfSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhLmJvZHkpOwogICAgICAgIC8vICAgICAudGhlbigKICAgICAgICAvLyAgICAgZGF0YSA9PiB7CiAgICAgICAgLy8gICAgICAgICBpZiAoZGF0YS5ib2R5LnRyYWNrcy50b3RhbCkgewogICAgICAgIC8vICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGRhdGEuYm9keS50cmFja3MuaXRlbXNbMF07CiAgICAgICAgLy8gICAgICAgICAgICAgY29uc29sZS5sb2coYCR7cmVzdWx0LmFydGlzdHNbMF0ubmFtZX0gLSAke3Jlc3VsdC5uYW1lfSAtICR7cmVzdWx0LmFsYnVtLm5hbWV9ImApOwogICAgICAgIC8vICAgICAgICAgICAgIGNvbnNvbGUubG9nKGAke3RyYWNrLmFydGlzdC5uYW1lfSAtICR7dHJhY2sudGl0bGV9IC0gJHt0cmFjay5hbGJ1bS50aXRsZX0iYCk7CiAgICAgICAgLy8gICAgICAgICB9CiAgICAgICAgLy8gICAgIH0sCiAgICAgICAgLy8gICAgIGVyciA9PiB7CiAgICAgICAgLy8gICAgICAgICBjb25zb2xlLmVycm9yKGVycik7CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLyApOwo=</text>
+        <text encoding="base64">Y29uc3QgZGJJbml0ID0gKCkgPT4gewogICBsZXQgZW50cmllcyA9IGRiLmdldENvbGxlY3Rpb24oJ3RyYWNrcycpOwogICBydW4oKTsKfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y29uc3QgZGJJbml0ID0gKCkgPT4gewogICBsZXQgZW50cmllcyA9IGRiLmdldENvbGxlY3Rpb24oJ3RyYWNrcycpOwogICBydW4oKTsKfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmNsaWVudC5jbGllbnRDcmVkZW50aWFsc0dyYW50KTsK</text>
+        <text encoding="base64">cnVuKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFNwb3RpZnkgZnJvbSAnc3JjL1Nwb3RpZnknOwo=</text>
+        <text encoding="base64">ICAgLy8ga2ljayBvZmYgYW55IHByb2dyYW0gbG9naWMgb3Igc3RhcnQgbGlzdGVuaW5nIHRvIGV4dGVybmFsIGV2ZW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
