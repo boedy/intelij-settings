@@ -353,6 +353,10 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/login.js" timestamp="1557093851521">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/app/Invoice.php" timestamp="1536754327966">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -1585,11 +1589,21 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="69" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/parse.js" timestamp="1556989720618">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/addHash.js" timestamp="1556543999656">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="23" column="39" />
         <mark key="^" line="23" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/updateApi.js" timestamp="1557095618536">
+        <mark key="[" line="33" column="64" />
+        <mark key="]" line="33" column="65" />
+        <mark key="." line="33" column="65" />
+        <mark key="^" line="33" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/deployment/statefulsets.yaml" timestamp="1547738473037">
         <mark key="[" line="10" column="14" />
@@ -2738,12 +2752,12 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/deezer-isrc.js" timestamp="1557089880887">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="48" />
-        <mark key="^" line="39" column="47" />
-        <mark key="." line="23" column="48" />
+      <file name="$USER_HOME$/Projects/atmosphere/other/isrc-match/deezer-isrc.js" timestamp="1557094752432">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="30" />
+        <mark key="^" line="24" column="37" />
+        <mark key="." line="22" column="21" />
       </file>
       <file name="$USER_HOME$/projects/atmosphere/payments/resources/views/payments.blade.php" timestamp="1536228662531">
         <mark key="[" line="18" column="62" />
@@ -3005,8 +3019,8 @@
       <jump line="62" column="0" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/contentProviders/tidal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gLnRoZW4oKHBhdGgpID0+IHsK</text>
+      <register name="&quot;" type="4">
+        <text>const</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3018,16 +3032,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nginx</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi4vbG9nZ2VyJyk7Cg==</text>
+        <text encoding="base64">ICBheGlvcy5kZWZhdWx0cy5oZWFkZXJzLmNvbW1vblsnQXV0aG9yaXphdGlvbiddID0gYEJlYXJlciAke3Rva2VufWA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gLnRoZW4oKHBhdGgpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3050,31 +3064,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAudGhlbigocGF0aCkgPT4gewovLyBkZWV6ZXIuZG93bmxvYWQoJzU3ODc2ODM0MicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0b2tlbiA9IGF3YWl0IGxvZ2luKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgZmZtcGVnCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyKys7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGlkYWwuc2VhcmNoKCdkYWZ0IHB1bmsnLCAnYmFkJykudGhlbihjb25zb2xlLmxvZykK</text>
+        <text encoding="base64">ICAgICAgICBsb2dkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvd25sb2FkRmlsZVBhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyKysK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtcDNQYXRoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLnVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVzb2x2ZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0cmFjay50cmFja19pZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
