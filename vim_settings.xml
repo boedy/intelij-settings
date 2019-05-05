@@ -1669,6 +1669,12 @@
         <mark key="^" line="44" column="24" />
         <mark key="." line="44" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/preview.js" timestamp="1557069401029">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/tests/Integration/UserControllerTest.php" timestamp="1554970192108">
         <mark key="[" line="64" column="33" />
         <mark key="]" line="83" column="8" />
@@ -2137,12 +2143,12 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/contentProviders/tidal.js" timestamp="1557068201688">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="83" column="71" />
-        <mark key="]" line="83" column="72" />
-        <mark key="." line="83" column="72" />
-        <mark key="^" line="88" column="65" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/contentProviders/tidal.js" timestamp="1557069421332">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="107" column="12" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/projects/services/AccountCreationDelegation/src/DelegationConversation.js" timestamp="1537958212972">
         <mark key="[" line="7" column="9" />
@@ -2965,8 +2971,8 @@
       <jump line="62" column="0" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/contentProviders/tidal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2978,16 +2984,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>google</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>.then(console.log)</text>
+        <text>else if(url.indexOf('google') == 0){
+    const id = url.split('|').pop();
+    return google.preview(id);
+  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7CiAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3010,31 +3019,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8gLmZpbHRlcih0ID0+IHQuYXJ0aXN0cy5tYXAoYSA9PiBhLm5hbWUpLmluY2x1ZGVzKGFydGlzdCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBDb3VsZCBhbHNvIGJlICdMT1NTTEVTUycgYnV0IHRoaXMgb25seSBzdXBwb3J0ZWQgb24gcHJlbWl1bSBzdWJzY3JpcHRpb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc2VhcmNoID0gKGFydGlzdCwgdGl0bGUpID0+IHsKICAgIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+CiAgICAgIHBtLnNlYXJjaChwaHJhc2UsIDE1LCBmdW5jdGlvbiAoZXJyLCBkYXRhKSB7IC8vIG1heCA1IHJlc3VsdHMKICAgICAgICBjb25zdCBlbnRyaWVzID0gZGF0YS5lbnRyaWVzIHx8IFtdOwogICAgICAgIHJlc29sdmUodHJhY2tzKTsKICAgICAgfSwgZnVuY3Rpb24gKG1lc3NhZ2UsIGJvZHksIGVyciwgaHR0cFJlc3BvbnNlKSB7CiAgICAgICAgY29uc29sZS5sb2cobWVzc2FnZSk7CiAgICAgIH0pOwp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0cmFja3MgPSBlbnRyaWVzLm1hcChmdW5jdGlvbiAodmFsKSB7CiAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICBpZDogJ2dvb2dsZXwnICsgdmFsLnRyYWNrLnN0b3JlSWQsCiAgICAgICAgICAgIGFydGlzdDogdmFsLnRyYWNrLmFydGlzdCwKICAgICAgICAgICAgdHJhY2s6IHZhbC50cmFjay50aXRsZSwKICAgICAgICAgICAgcHJldmlldzogYGdvb2dsZXwke3ZhbC50cmFjay5zdG9yZUlkfWAsCiAgICAgICAgICAgIGR1cmF0aW9uOiBNYXRoLnJvdW5kKHZhbC50cmFjay5kdXJhdGlvbk1pbGxpcyAvIDEwMDApCiAgICAgICAgICB9OwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Y29uc3QgY292ZXJBcnRVcmwgPSBpZCA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsKICAgICAgICByZXNvbHZlKHRyYWNrcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7CiAgICAgIHJldHVybjsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0cmFja3MgPSBlbnRyaWVzLm1hcChmdW5jdGlvbiAodmFsKSB7CiAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICBpZDogJ2dvb2dsZXwnICsgdmFsLnRyYWNrLnN0b3JlSWQsCiAgICAgICAgICAgIGFydGlzdDogdmFsLnRyYWNrLmFydGlzdCwKICAgICAgICAgICAgdHJhY2s6IHZhbC50cmFjay50aXRsZSwKICAgICAgICAgICAgcHJldmlldzogYGdvb2dsZXwke3ZhbC50cmFjay5zdG9yZUlkfWAsCiAgICAgICAgICAgIGR1cmF0aW9uOiBNYXRoLnJvdW5kKHZhbC50cmFjay5kdXJhdGlvbk1pbGxpcyAvIDEwMDApCiAgICAgICAgICB9OwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gaW5pdCgpLnRoZW4oKCkgPT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2VhcmNoID0gKGFydGlzdCwgdGl0bGUpID0+IHsKICAgIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+CiAgICAgIHBtLnNlYXJjaChwaHJhc2UsIDE1LCBmdW5jdGlvbiAoZXJyLCBkYXRhKSB7IC8vIG1heCA1IHJlc3VsdHMKICAgICAgICBjb25zdCBlbnRyaWVzID0gZGF0YS5lbnRyaWVzIHx8IFtdOwogICAgICAgIHJlc29sdmUodHJhY2tzKTsKICAgICAgfSwgZnVuY3Rpb24gKG1lc3NhZ2UsIGJvZHksIGVyciwgaHR0cFJlc3BvbnNlKSB7CiAgICAgICAgY29uc29sZS5sb2cobWVzc2FnZSk7CiAgICAgIH0pOwp9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
