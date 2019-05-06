@@ -203,11 +203,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/Track/TrackPresenter.php" timestamp="1556968901099">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="58" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/Track/TrackPresenter.php" timestamp="1557137169058">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/rancher-compose.yml.wercker" timestamp="1545238246657">
         <mark key="[" line="0" column="0" />
@@ -1048,6 +1048,12 @@
         <mark key="]" line="13" column="17" />
         <mark key="^" line="14" column="31" />
         <mark key="." line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/AbstractPresenter.php" timestamp="1557137238283">
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="56" column="33" />
+        <mark key="." line="56" column="33" />
+        <mark key="^" line="56" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/services/AccountCreationDelegation/deployment/statefulsets.yaml" timestamp="1547733003074">
         <mark key="[" line="17" column="0" />
@@ -3020,7 +3026,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text encoding="base64">MCA9IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3032,16 +3038,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text encoding="base64">MCA9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBheGlvcy5kZWZhdWx0cy5oZWFkZXJzLmNvbW1vblsnQXV0aG9yaXphdGlvbiddID0gYEJlYXJlciAke3Rva2VufWA7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">KGludClhcHAoJ3JlcXVlc3QnKS0+aGVhZGVyKCdhcGktdmVyc2lvbicsICcwJyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBpVmVyc2lvbiA9IDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3064,31 +3070,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0b2tlbiA9IGF3YWl0IGxvZ2luKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChhcHAoJ3JlcXVlc3QnKS0+aGVhZGVyKCdhcGktdmVyc2lvbicsIChuZXcgXERhdGVUaW1lKS0+Z2V0VGltZXN0YW1wKCkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGVyKys7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dkZAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGVyKysK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0b2tlbiA9IGF3YWl0IGxvZ2luKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyKys7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0cmFjay50cmFja19pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
