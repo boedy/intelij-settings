@@ -35,7 +35,6 @@
         <mark key="." line="19" column="63" />
         <mark key="^" line="19" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1557861232893" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/ViewModels/TrackSearchView.php" timestamp="1557822053255">
         <mark key="[" line="44" column="9" />
         <mark key="]" line="45" column="7" />
@@ -47,6 +46,12 @@
         <mark key="]" line="57" column="18" />
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/TrackScores.ts" timestamp="1558016116711">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/core/src/actions/player.js" timestamp="1557583159109">
         <mark key="[" line="58" column="0" />
@@ -131,11 +136,11 @@
         <mark key="." line="63" column="21" />
         <mark key="^" line="63" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" timestamp="1558012801600">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" timestamp="1558015976184">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="26" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Player.ts" timestamp="1557941764313">
         <mark key="[" line="4" column="12" />
@@ -283,8 +288,8 @@
       <jump line="2" column="38" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/ItemWindow.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLml0ZW1XaW5kb3cgPSBbMSwgMiwgM107Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -296,16 +301,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldEJ5SWQoaWQpIHsKICAgIGNvbnN0IGRiID0gYXdhaXQgZGF0YWJhc2UuZ2V0SW5zdGFuY2UoKTsKICAgIGNvbnN0IHBsYXllcnMgPSBkYi5nZXRDb2xsZWN0aW9uKCdwbGF5ZXJzJyk7CiAgICByZXR1cm4gbmV3IFBsYXllcihwbGF5ZXJzLmdldChpZCkpOwp9Cg==</text>
+        <text encoding="base64">ICAgIHBlbmFsaXplVHJhY2sodHJhY2tJZDogc3RyaW5nKTogdm9pZCB7CgogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLml0ZW1XaW5kb3cgPSBbMSwgMiwgM107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -328,31 +333,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFBsYXllckpTT04gewogICAgaXRlbVdpbmRvdzogb2JqZWN0Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtcy5mb3JFYWNoKGl0ZW0gPT4gewogICAgICAgICAgICBjb25zdCB0cmFja0lkID0gaXRlbS50cmFjay5pZDsKICAgICAgICAgICAgaWYgKCF0aGlzLnRyYWNrU2NvcmVzLmluY2x1ZGVzVHJhY2sodHJhY2tJZCl7CiAgICAgICAgICAgICAgICB0aGlzLnRyYWNrU2NvcmVzLmFkZFNjb3JlKHRyYWNrSWQpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaXRlbXM7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlkKCkgewogICAgICAgIHJldHVybiB0aGlzLl9pZDsKICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9pZCA9IGlkOwo=</text>
+        <text encoding="base64">ICAgIHBlCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnJvbUpTT04oanNvbjogUGxheWVySlNPTiB8IHN0cmluZyk6IHZvaWQgewogICAgICAgIGlmICh0eXBlb2YganNvbiA9PT0gJ3N0cmluZycpIHsKICAgICAgICAgICAgcmV0dXJuIEpTT04ucGFyc2UoanNvbiwgKGtleTogc3RyaW5nLCB2YWx1ZTogYW55KTogYW55ID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiBrZXkgPT09ICIiID8gUGxheWVyLmZyb21KU09OKHZhbHVlKSA6IHZhbHVlOwogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICAgICAgbGV0IHVzZXIgPSBPYmplY3QuY3JlYXRlKFBsYXllci5wcm90b3R5cGUpOwogICAgICAgIHJldHVybiBPYmplY3QuYXNzaWduKHVzZXIsIGpzb24sIHsKICAgICAgICAgICAgY3JlYXRlZDogbmV3IERhdGUoanNvbi5jcmVhdGVkKSwKICAgICAgICB9KTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50cmFja1Njb3Jlcy5hZGRTY29yZSh0cmFja0lkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusDown</text>
