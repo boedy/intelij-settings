@@ -150,6 +150,12 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/lib/util.ts" timestamp="1559032247343">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/JwtToken.ts" timestamp="1558086591222">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="46" />
@@ -265,11 +271,12 @@
         <mark key="^" line="82" column="94" />
         <mark key="." line="82" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1559031280129">
-        <mark key="j" line="42" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1559032887531">
+        <mark key="j" line="37" column="0" />
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="9" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/tsconfig.json" timestamp="1557922577482">
         <mark key="[" line="8" column="10" />
@@ -434,8 +441,8 @@
       <jump line="19" column="20" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -447,16 +454,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[];</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQWRkcyBhIGxhcmdlIHBlbmFsdHkgd2hlbiBhIHNvbmdzIGlzIHNraXBwZWQKICAgICAqIEBwYXJhbSB0cmFja0lkCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIGxvY2suYXF1aXJlKHBsYXllcklkLCBhc3luYyAoKSA9PiB7CiAgICAgICAgY29uc3QgcGxheWVyID0gYXdhaXQgcGxheWVyUmVwby5nZXRCeUlkKHBsYXllcklkKTsKICAgICAgICBwbGF5ZXIuaGFuZGxlUGxheSh0cmFja0lkKTsKICAgICAgICBhd2FpdCBwbGF5ZXJSZXBvLnNhdmUocGxheWVyKTsKICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwbGF5ZXIgPSBhd2FpdCBwbGF5ZXJSZXBvLmdldEJ5SWQocGxheWVySWQpOwogICAgICAgIHBsYXllci5oYW5kbGVQbGF5KHRyYWNrSWQpOwogICAgICAgIGF3YWl0IHBsYXllclJlcG8uc2F2ZShwbGF5ZXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -479,31 +486,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBsYXllciA9IGF3YWl0IHBsYXllclJlcG8uZ2V0QnlJZChwbGF5ZXJJZCk7CiAgICBwbGF5ZXIuaGFuZGxlU2tpcCh0cmFja0lkKTsKICAgIGF3YWl0IHBsYXllclJlcG8uc2F2ZShwbGF5ZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vZnJlZSBsb2NrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoKSB7CiAgICBhd2FpdCBuZXh0VHJhY2tQcm9taXNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzb25nKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBsYXllciA9IGF3YWl0IHBsYXllclJlcG8uZ2V0QnlJZChwbGF5ZXJJZCk7CiAgICBwbGF5ZXIuaGFuZGxlUGxheSh0cmFja0lkKTsKICAgIGF3YWl0IHBsYXllclJlcG8uc2F2ZShwbGF5ZXIpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0cmFja0lkCg==</text>
+        <text encoding="base64">ICAgIGxvY2suYXF1aXJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aW5uaW5nUG9pbnRzID0gbG9zaW5nUG9pbnRzIC8gKGl0ZW1zLmxlbmd0aCAtIDEpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsb3NpbmdQb2ludHMgPSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
