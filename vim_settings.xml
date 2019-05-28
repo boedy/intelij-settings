@@ -55,10 +55,11 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/TrackScores.ts" timestamp="1558704083369">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/TrackScores.ts" timestamp="1559054182188">
+        <mark key="[" line="100" column="26" />
+        <mark key="]" line="100" column="32" />
+        <mark key="." line="100" column="32" />
+        <mark key="^" line="100" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/test.ts" timestamp="1558084464222">
         <mark key="[" line="0" column="0" />
@@ -283,12 +284,12 @@
         <mark key="." line="40" column="13" />
         <mark key="^" line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1559034879099">
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1559053395483">
         <mark key="j" line="37" column="0" />
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="38" />
-        <mark key="^" line="6" column="38" />
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="10" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/vendor/stripe/stripe-php/lib/ApiOperations/Update.php" timestamp="1559052061725">
         <mark key="[" line="23" column="86" />
@@ -344,7 +345,8 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" timestamp="1558693191422">
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" timestamp="1559053462510">
+        <mark key="'" line="37" column="4" />
         <mark key="[" line="35" column="25" />
         <mark key="]" line="35" column="25" />
         <mark key="^" line="40" column="36" />
@@ -356,14 +358,8 @@
         <mark key="^" line="84" column="23" />
         <mark key="." line="84" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/events/listener.ts" timestamp="1558687114187">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/ACL.php" />
       <jump line="86" column="12" filename="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/ACL.php" />
       <jump line="26" column="68" filename="$USER_HOME$/Projects/atmosphere/api/app/Listeners/CuratorQuotaListener.php" />
       <jump line="208" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" />
@@ -463,10 +459,11 @@
       <jump line="87" column="92" filename="$USER_HOME$/Projects/personal/github/cordova/cordova-plugin-webserver/README.md" />
       <jump line="2" column="38" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/ItemWindow.ts" />
       <jump line="19" column="20" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" />
+      <jump line="37" column="4" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>track</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -478,16 +475,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>track</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>'src_1Ef5G1JRD3VB0kU3fHVM9DbG'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBzb25nID0gdGhpcy5nZXRTb25nKHRyYWNrSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzb25nID0gdGhpcy5zY29yZXNbdHJhY2tJZF07Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -510,31 +507,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGN1c3RvbWVyLT5zb3VyY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGN1c3RvbWVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzb25nID0gdGhpcy5zY29yZXNbdHJhY2tJZF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHNvdXJjZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGN1c3RvbWVyLT5zb3VyY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21lcjo6dXBkYXRlU291cmNlKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGN1c3RvbWVyOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHNvdXJjZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VzdG9tZXIgPSBDdXN0b21lcjo6cmV0cmlldmUoJGJpbGxpbmdBZGRyZXNzLT5zdHJpcGVfY3VzdG9tZXJfaWQpOwogICAgICAgICRjdXN0b21lci0+c291cmNlID0gJHBheW1lbnRTb3VyY2UtPmdldFNvdXJjZUlkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21lcjo6dXBkYXRlU291cmNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
