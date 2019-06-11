@@ -29,13 +29,18 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.tsx" timestamp="1560273151443">
+        <mark key="[" line="82" column="53" />
+        <mark key="]" line="82" column="58" />
+        <mark key="." line="82" column="58" />
+        <mark key="^" line="82" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mobile/plugins/cordova-fabric-plugin/hooks/lib/android-helper.js" timestamp="1557585020505">
         <mark key="[" line="19" column="21" />
         <mark key="]" line="19" column="63" />
         <mark key="." line="19" column="63" />
         <mark key="^" line="19" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1558959898586" />
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/importTest.ts" timestamp="1559732886204">
         <mark key="'" line="131" column="0" />
         <mark key="[" line="5" column="0" />
@@ -287,7 +292,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559563926903">
+      <file name="/Dummy.txt" timestamp="1560273253723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
@@ -358,6 +363,10 @@
         <mark key="]" line="2" column="58" />
         <mark key="^" line="8" column="11" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/EventSubscriber.tsx" timestamp="1560272669348">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" timestamp="1559732867748">
         <mark key="'" line="43" column="4" />
@@ -476,8 +485,8 @@
       <jump line="131" column="0" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/importTest.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtUcmFja1Njb3Jlc30gZnJvbSAiLi9Nb2RlbHMvVHJhY2tTY29yZXMiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>deive</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -489,16 +498,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[trackId].plays</text>
+        <text>deive</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdyZWZsZWN0LW1ldGFkYXRhJzsK</text>
+        <text encoding="base64">aW1wb3J0IGNhbWVsQ2FzZUtleXMgZnJvbSAnY2FtZWxjYXNlLWtleXMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtUcmFja1Njb3Jlc30gZnJvbSAiLi9Nb2RlbHMvVHJhY2tTY29yZXMiOwo=</text>
+        <text encoding="base64">Y29uc3QgZXZlbnQgPSBKU09OLnBhcnNlKCd7ImV2ZW50TmFtZSI6IkxvY2F0aW9uTmFtZUNoYW5nZWQiLCJldmVudFRpbWVzdGFtcCI6MTU2MDI3MDIwMCwicGF5bG9hZCI6eyJsb2NhdGlvbl9pZCI6ImU5NDFlMms0NyIsIm5hbWUiOiIyMDE4LTAwNTk5In0sImNvbnRleHQiOiJvcmdhbmlzYXRpb24ifScpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -521,31 +530,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGxldCBqID0gMDsgaiA8IGRhdGEudHJhY2tzW3RyYWNrSWRdLnBsYXlzOyBqKyspIHsKICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3BsYXknLCB0cmFja0lkKTsKICAgICAgICAgICAgcGxheWVyLmhhbmRsZVBsYXkodHJhY2tJZCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygncGxheScsIHRyYWNrSWQpOwo=</text>
+        <text encoding="base64">eyJldmVudE5hbWUiOiJMb2NhdGlvbkFkZHJlc3NVcGRhdGVkIiwiZXZlbnRUaW1lc3RhbXAiOjE1NjAyNzAyMDEsInBheWxvYWQiOnsibG9jYXRpb25faWQiOiJlOTQxZTJrNDciLCJhZGRyZXNzIjp7ImFkZHJlc3NfbGluZTEiOiJTY2hvb2YgMjM0ICIsImFkZHJlc3NfbGluZTIiOiIiLCJwb3N0YWxfY29kZSI6IjMzNDEgRUIiLCJjaXR5IjoiSGVuZHJpay1JZG8tQW1iYWNodCIsImNvdW50cnkiOiJOTCJ9fSwiY29udGV4dCI6Im9yZ2FuaXNhdGlvbiJ9CnsiZXZlbnROYW1lIjoiTG9jYXRpb25BZGRyZXNzVXBkYXRlZCIsImV2ZW50VGltZXN0YW1wIjoxNTYwMjcwMjc1LCJwYXlsb2FkIjp7ImxvY2F0aW9uX2lkIjoiZTk0MWUyazQ3IiwiYWRkcmVzcyI6eyJhZGRyZXNzX2xpbmUxIjoiU2Nob29mIDIzNCIsImFkZHJlc3NfbGluZTIiOiIiLCJwb3N0YWxfY29kZSI6IjMzNDEgRUIiLCJjaXR5IjoiSGVuZHJpay1JZG8tQW1iYWNodCIsImNvdW50cnkiOiJOTCJ9fSwiY29udGV4dCI6Im9yZ2FuaXNhdGlvbiJ9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBza2lwcyA9IGRhdGEudHJhY2tzW3RyYWNrSWRdLnNraXBzOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtUcmFja1Njb3Jlc30gZnJvbSAiLi9Nb2RlbHMvVHJhY2tTY29yZXMiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYXllciA9IFBsYXllci5pbml0V2l0aFRyYWNrU2NvcmVzKCkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGxldCBqID0gMDsgaiA8IGRhdGEudHJhY2tzW3RyYWNrSWRdLnBsYXlzOyBqKyspIHsKICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3BsYXknLCB0cmFja0lkKTsKICAgICAgICAgICAgcGxheWVyLmhhbmRsZVBsYXkodHJhY2tJZCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygncGxheScsIHRyYWNrSWQpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleXNkZDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBza2lwcyA9IGRhdGEudHJhY2tzW3RyYWNrSWRdLnNraXBzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleXMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBsYXllciA9IFBsYXllci5pbml0V2l0aFRyYWNrU2NvcmVzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3BsYXknKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
