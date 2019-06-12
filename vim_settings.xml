@@ -262,12 +262,7 @@
         <mark key="." line="8" column="80" />
         <mark key="^" line="8" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.tsx" timestamp="1560328213472">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="29" column="10" />
-        <mark key="^" line="26" column="37" />
-        <mark key="." line="26" column="37" />
-      </file>
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/listener.tsx" timestamp="1560329011404" />
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/events/EventSubscriber.ts" timestamp="1558686570391">
         <mark key="[" line="43" column="33" />
         <mark key="]" line="43" column="33" />
@@ -370,9 +365,11 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/EventSubscriber.tsx" timestamp="1560327068136">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="0" column="43" />
+      <file name="$USER_HOME$/Projects/services/mixpanel-service/src/EventSubscriber.tsx" timestamp="1560329655463">
+        <mark key="[" line="47" column="20" />
+        <mark key="]" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+        <mark key="^" line="48" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" timestamp="1559732867748">
         <mark key="'" line="43" column="4" />
@@ -492,7 +489,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgW2VyciwgW2RldmljZXMsIGxvY2F0aW9uXV0gPSBhd2FpdCB0byhQcm9taXNlLmFsbChbCiAgICAgICAgQXRtb3NwaGVyZUFwaS5mZXRjaERldmljZXNPZkxvY2F0aW9uKGxvY2F0aW9uSWQpLAogICAgICAgIEF0bW9zcGhlcmVBcGkuZmV0Y2hMb2NhdGlvbihsb2NhdGlvbklkKSwKICAgICAgXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IDsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -504,7 +501,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>deive</text>
+        <text>subscriptionCallback(message)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -513,7 +510,7 @@
         <text encoding="base64">ICAgICAgY29uc3QgW2VyciwgW2RldmljZXMsIGxvY2F0aW9uXV0gPSBhd2FpdCB0byhQcm9taXNlLmFsbChbCiAgICAgICAgQXRtb3NwaGVyZUFwaS5mZXRjaERldmljZXNPZkxvY2F0aW9uKGxvY2F0aW9uSWQpLAogICAgICAgIEF0bW9zcGhlcmVBcGkuZmV0Y2hMb2NhdGlvbihsb2NhdGlvbklkKSwKICAgICAgXSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZXZlbnQgPSBKU09OLnBhcnNlKCd7ImV2ZW50TmFtZSI6IkxvY2F0aW9uTmFtZUNoYW5nZWQiLCJldmVudFRpbWVzdGFtcCI6MTU2MDI3MDIwMCwicGF5bG9hZCI6eyJsb2NhdGlvbl9pZCI6ImU5NDFlMms0NyIsIm5hbWUiOiIyMDE4LTAwNTk5In0sImNvbnRleHQiOiJvcmdhbmlzYXRpb24ifScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -536,31 +533,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyJldmVudE5hbWUiOiJMb2NhdGlvbkFkZHJlc3NVcGRhdGVkIiwiZXZlbnRUaW1lc3RhbXAiOjE1NjAyNzAyMDEsInBheWxvYWQiOnsibG9jYXRpb25faWQiOiJlOTQxZTJrNDciLCJhZGRyZXNzIjp7ImFkZHJlc3NfbGluZTEiOiJTY2hvb2YgMjM0ICIsImFkZHJlc3NfbGluZTIiOiIiLCJwb3N0YWxfY29kZSI6IjMzNDEgRUIiLCJjaXR5IjoiSGVuZHJpay1JZG8tQW1iYWNodCIsImNvdW50cnkiOiJOTCJ9fSwiY29udGV4dCI6Im9yZ2FuaXNhdGlvbiJ9CnsiZXZlbnROYW1lIjoiTG9jYXRpb25BZGRyZXNzVXBkYXRlZCIsImV2ZW50VGltZXN0YW1wIjoxNTYwMjcwMjc1LCJwYXlsb2FkIjp7ImxvY2F0aW9uX2lkIjoiZTk0MWUyazQ3IiwiYWRkcmVzcyI6eyJhZGRyZXNzX2xpbmUxIjoiU2Nob29mIDIzNCIsImFkZHJlc3NfbGluZTIiOiIiLCJwb3N0YWxfY29kZSI6IjMzNDEgRUIiLCJjaXR5IjoiSGVuZHJpay1JZG8tQW1iYWNodCIsImNvdW50cnkiOiJOTCJ9fSwiY29udGV4dCI6Im9yZ2FuaXNhdGlvbiJ9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtUcmFja1Njb3Jlc30gZnJvbSAiLi9Nb2RlbHMvVHJhY2tTY29yZXMiOwo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBzdWJzY3JpcHRpb25DYWxsYmFjayhtZXNzYWdlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGxldCBqID0gMDsgaiA8IGRhdGEudHJhY2tzW3RyYWNrSWRdLnBsYXlzOyBqKyspIHsKICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3BsYXknLCB0cmFja0lkKTsKICAgICAgICAgICAgcGxheWVyLmhhbmRsZVBsYXkodHJhY2tJZCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygncGxheScsIHRyYWNrSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBza2lwcyA9IGRhdGEudHJhY2tzW3RyYWNrSWRdLnNraXBzOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBsb2NhdGlvbklkIH0gPSBwYXlsb2FkOwogICAgICBjb25zdCBbZGV2aWNlcywgbG9jYXRpb25dID0gYXdhaXQgUHJvbWlzZS5hbGwoWwogICAgICAgIEF0bW9zcGhlcmVBcGkuZmV0Y2hEZXZpY2VzT2ZMb2NhdGlvbihsb2NhdGlvbklkKSwKICAgICAgICBBdG1vc3BoZXJlQXBpLmZldGNoTG9jYXRpb24obG9jYXRpb25JZCksCiAgICAgIF0pOwoKICAgICAgZGV2aWNlcy5mb3JFYWNoKGRldmljZSA9PgogICAgICAgIE1peHBhbmVsQXRtb3NwaGVyZS51cGRhdGVMb2NhdGlvbihkZXZpY2UsIGxvY2F0aW9uKSwKICAgICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYXllciA9IFBsYXllci5pbml0V2l0aFRyYWNrU2NvcmVzKCkK</text>
+        <text encoding="base64">Y29uc3QgZXZlbnQgPSBKU09OLnBhcnNlKCd7ImV2ZW50TmFtZSI6IkxvY2F0aW9uTmFtZUNoYW5nZWQiLCJldmVudFRpbWVzdGFtcCI6MTU2MDI3MDIwMCwicGF5bG9hZCI6eyJsb2NhdGlvbl9pZCI6ImU5NDFlMms0NyIsIm5hbWUiOiIyMDE4LTAwNTk5In0sImNvbnRleHQiOiJvcmdhbmlzYXRpb24ifScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
