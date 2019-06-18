@@ -11,9 +11,6 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1558538138449">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/dist/importTest.js" timestamp="1559124947976">
         <mark key="'" line="92" column="4" />
       </file>
@@ -109,9 +106,6 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/vendor/stripe/stripe-php/lib/ApiOperations/Request.php" timestamp="1559051497299">
-        <mark key="[" line="54" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/tests/index.ts" timestamp="1559033759812">
         <mark key="[" line="5" column="0" />
@@ -238,6 +232,12 @@
         <mark key="]" line="27" column="64" />
         <mark key="^" line="27" column="49" />
         <mark key="." line="27" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/streaming-embed/src/test.js" timestamp="1560853799489">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/docker-compose.yml" timestamp="1558085335269">
         <mark key="[" line="2" column="2" />
@@ -499,7 +499,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getPlayige</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -511,7 +511,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getPlayige</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -520,7 +520,7 @@
         <text encoding="base64">ICAgICAgY29uc3QgW2VyciwgW2RldmljZXMsIGxvY2F0aW9uXV0gPSBhd2FpdCB0byhQcm9taXNlLmFsbChbCiAgICAgICAgQXRtb3NwaGVyZUFwaS5mZXRjaERldmljZXNPZkxvY2F0aW9uKGxvY2F0aW9uSWQpLAogICAgICAgIEF0bW9zcGhlcmVBcGkuZmV0Y2hMb2NhdGlvbihsb2NhdGlvbklkKSwKICAgICAgXSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YS50cmFja3MuaXRlbXMpOwo=</text>
+        <text encoding="base64">Ly8gLy8gR2V0IGFuIGFydGlzdAovLyBzcG90aWZ5QXBpLmdldEFydGlzdCgnMmhhelNZNEVmM2FCOUFUWFc3RjV3MycpCi8vICAgLnRoZW4oZnVuY3Rpb24oZGF0YSkgewovLyAgICAgY29uc29sZS5sb2coJ0FydGlzdCBpbmZvcm1hdGlvbicsIGRhdGEuYm9keSk7Ci8vICAgfSwgZnVuY3Rpb24oZXJyKSB7Ci8vICAgICBjb25zb2xlLmVycm9yKGVycik7Ci8vICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -543,19 +543,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">LyBHZXQgYW4gYWNjZXNzIHRva2VuIGFuZCAnc2F2ZScgaXQgdXNpbmcgYSBzZXR0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IDsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YS50cmFja3MuaXRlbXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBzdWJzY3JpcHRpb25DYWxsYmFjayhtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -564,10 +564,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBzdWJzY3JpcHRpb25DYWxsYmFjayhtZXNzYWdlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBsb2NhdGlvbklkIH0gPSBwYXlsb2FkOwogICAgICBjb25zdCBbZGV2aWNlcywgbG9jYXRpb25dID0gYXdhaXQgUHJvbWlzZS5hbGwoWwogICAgICAgIEF0bW9zcGhlcmVBcGkuZmV0Y2hEZXZpY2VzT2ZMb2NhdGlvbihsb2NhdGlvbklkKSwKICAgICAgICBBdG1vc3BoZXJlQXBpLmZldGNoTG9jYXRpb24obG9jYXRpb25JZCksCiAgICAgIF0pOwoKICAgICAgZGV2aWNlcy5mb3JFYWNoKGRldmljZSA9PgogICAgICAgIE1peHBhbmVsQXRtb3NwaGVyZS51cGRhdGVMb2NhdGlvbihkZXZpY2UsIGxvY2F0aW9uKSwKICAgICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
