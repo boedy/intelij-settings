@@ -79,9 +79,9 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/PlayerRepository.ts" timestamp="1559739910571">
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="31" column="62" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/PlayerRepository.ts" timestamp="1560953664871">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="42" />
         <mark key="." line="31" column="62" />
         <mark key="^" line="31" column="62" />
       </file>
@@ -157,11 +157,11 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/scripts/EventPublisher.js" timestamp="1560931417893">
-        <mark key="[" line="56" column="13" />
-        <mark key="]" line="56" column="18" />
-        <mark key="." line="56" column="18" />
-        <mark key="^" line="56" column="18" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/scripts/EventPublisher.js" timestamp="1560953833842">
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="53" column="23" />
+        <mark key="^" line="53" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/listener.ts" timestamp="1558686784904">
         <mark key="[" line="5" column="0" />
@@ -520,7 +520,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvcGljTWVzc2FnZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -532,16 +532,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>event.context ? event.context : topic,</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZG90ZW52JykuY29uZmlnKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmKHNjaGVkdWxlZFdyaXRlc1twbGF5ZXIuaWRdKSByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvcGljTWVzc2FnZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -564,31 +564,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2VzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text>this.producer.send({
+      topic: topic,
+      compression: CompressionTypes.GZIP,
+      messages,
+    });</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWU6IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZG90ZW52JykuY29uZmlnKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2VzID0gW107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpcDogdW5kZWZpbmVkCg==</text>
+        <text encoding="base64">ICAgIGlmKHNjaGVkdWxlZFdyaXRlc1twbGF5ZXIuaWRdKSByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NlZCsrOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvcGljTWVzc2FnZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
