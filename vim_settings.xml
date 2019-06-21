@@ -62,11 +62,11 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/TrackScores.ts" timestamp="1561107553085">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="47" column="57" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/TrackScores.ts" timestamp="1561109713285">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="28" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="65" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/test.ts" timestamp="1558084464222">
         <mark key="[" line="0" column="0" />
@@ -518,7 +518,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEFkZHMgYSBsYXJnZSBwZW5hbHR5IHdoZW4gYSBzb25ncyBpcyBza2lwcGVkCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBlbmFsaXplKHNvbmcpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -530,16 +530,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Adds a small penalty when a song is played</text>
+        <text>weight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>trackId: string</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnBlbmFsaXplKHNvbmcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEFkZHMgYSBsYXJnZSBwZW5hbHR5IHdoZW4gYSBzb25ncyBpcyBza2lwcGVkCg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -562,31 +562,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEFkZHMgYSBzbWFsbCBwZW5hbHR5IHdoZW4gYSBzb25nIGlzIHBsYXllZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwbGF5V2VpZ2h0ID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzb25nLndlaWdodCA9IHBlbmFsdHkoc29uZy5wbGF5cyk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEFkZHMgYSBsYXJnZSBwZW5hbHR5IHdoZW4gYSBzb25ncyBpcyBza2lwcGVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzb25nLndlaWdodCAtPSBzb25nLnNraXBzICoqIDI7Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZVRvdGFsV2VpZ2h0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEFkZHMgYSBzbWFsbCBwZW5hbHR5IHdoZW4gYSBzb25nIGlzIHBsYXllZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZVRvdGFsV2VpZ2h0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzb25nKTsK</text>
+        <text encoding="base64">ICAgICAgICBzb25nLndlaWdodCA9IHBlbmFsdHkoc29uZy5wbGF5cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
