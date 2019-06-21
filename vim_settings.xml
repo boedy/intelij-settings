@@ -5,10 +5,11 @@
       <mark key="M" line="21" column="0" filename="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/node_modules/kafkajs/src/producer/messageProducer.js" timestamp="1560931724988">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/deployment/playback-recommender/templates/statefulset.yaml" timestamp="1561130923771">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="4" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/EventSubscriber.ts" timestamp="1558287862799">
         <mark key="[" line="5" column="13" />
@@ -84,6 +85,9 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/wercker.yml" timestamp="1561131832548">
+        <mark key="^" line="32" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1559563218949">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -96,11 +100,20 @@
         <mark key="^" line="20" column="61" />
         <mark key="." line="22" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/deployment/playback-recommender/templates/deployment.yaml" timestamp="1561130687142">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Jobs/HandleMoneybirdSalesInvoiceWebhook.php" timestamp="1558538430258">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="56" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/deployment/playback-recommender/templates/service.yaml" timestamp="1561131051966">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/tsconfig.json" timestamp="1558096227619">
         <mark key="[" line="2" column="18" />
@@ -255,6 +268,12 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/deployment/playback-recommender/values.yaml" timestamp="1561130990015">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/docker-compose.yml" timestamp="1561129631678">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="33" />
@@ -310,11 +329,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560870523717">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/PaymentService.php" timestamp="1559563912940">
         <mark key="[" line="81" column="46" />
         <mark key="]" line="81" column="47" />
@@ -334,6 +348,12 @@
         <mark key="]" line="23" column="19" />
         <mark key="." line="23" column="19" />
         <mark key="^" line="23" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/deployment/playback-recommender/production.yaml" timestamp="1561131517412">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="1" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/tsconfig.json" timestamp="1557922577482">
         <mark key="[" line="8" column="10" />
@@ -359,9 +379,9 @@
         <mark key="." line="72" column="19" />
         <mark key="^" line="61" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/process-dev.yml" timestamp="1560976480438">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="15" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/process-dev.yml" timestamp="1561131090133">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="10" column="17" />
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
@@ -376,6 +396,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/process.yml" timestamp="1561131104984">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/http/server.ts" timestamp="1558086555265">
         <mark key="[" line="2" column="0" />
@@ -394,11 +419,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/test.js" timestamp="1560791346699">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="49" />
-        <mark key="." line="17" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/vendor/stripe/stripe-php/lib/ApiOperations/NestedResource.php" timestamp="1559050601178">
         <mark key="[" line="84" column="25" />
@@ -523,7 +543,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>node:8-alpine</text>
+        <text>mixpanel-service</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -535,16 +555,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>node:8-alpine</text>
+        <text>mixpanel-service</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>keymetrics/pm2:8-alpine</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAtIHNjcmlwdDogZGlzdC9iaW4vc2VydmVyLmpzCiAgICBuYW1lOiBhcHAKICAgIGluc3RhbmNlczogMQogICAgd2F0Y2g6IFtkaXN0XQogICAgd2F0Y2hfb3B0aW9uczoKICAgICAgdXNlUG9sbGluZzogdHJ1ZQogIC0gc2NyaXB0OiBkaXN0L2Jpbi9saXN0ZW5lci5qcwogICAgbmFtZTogZXZlbnQgbGlzdGVuZXIKICAgIGluc3RhbmNlczogMQogICAgd2F0Y2g6IFtkaXN0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudGVyKTsK</text>
+        <text encoding="base64">ICAgIAogICAgbmFtZTogYXBwCiAgICBpbnN0YW5jZXM6IDEKICAgIHdhdGNoOiBbZGlzdF0KICAgIHdhdGNoX29wdGlvbnM6CiAgICAgIHVzZVBvbGxpbmc6IHRydWUKICAgIG5hbWU6IGV2ZW50IGxpc3RlbmVyCiAgICBpbnN0YW5jZXM6IDEKICAgIHdhdGNoOiBbZGlzdF0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -567,31 +587,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAocHJvY2Vzc2VkID4gMTAwMDAwMCkgcmV0dXJuOwogIC8vIGlmIChwcm9jZXNzZWQgPiAxKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAtIHNjcmlwdDogc3JjL2xpc3RlbmVyLmpzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAocHJvY2Vzc2VkID4gMTAwMDAwMCkgcmV0dXJuOwogIC8vIGlmIChwcm9jZXNzZWQgPiAxKSByZXR1cm47CiAgcHJvY2Vzc2VkKys7Cg==</text>
+        <text encoding="base64">ICAtIHNjcmlwdDogZGlzdC9iaW4vbGlzdGVuZXIuanMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0cnkgewo=</text>
+        <text encoding="base64">ICAtIHNjcmlwdDogaW5kZXguanMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChlKSB7CiAgICBlcnJvcnMrKzsKICB9Cg==</text>
+        <text encoding="base64">ICAtIHNjcmlwdDogZGlzdC9iaW4vc2VydmVyLmpzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGpzb24gPSBKU09OLnBhcnNlKGxpbmUpOwo=</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgY29uc3QganNvbiA9IEpTT04ucGFyc2UobGluZSk7CiAgICBpZiAoIWpzb24ucHJvcGVydGllcy5kaXN0aW5jdF9pZCB8fCBqc29uLnByb3BlcnRpZXMuZGlzdGluY3RfaWQubGVuZ3RoID4gMTApIHJldHVybjsKICAgIGNvbnN0IGV2ZW50ID0gewogICAgICBpZGVudGl0eToganNvbi5wcm9wZXJ0aWVzLmRpc3RpbmN0X2lkLAogICAgICBsb2dMZXZlbDogJ3RyYWNrJywKICAgICAgbWVzc2FnZToganNvbi5ldmVudCwKICAgICAgY29udGV4dDoganNvbi5wcm9wZXJ0aWVzLAogICAgICB0aW1lc3RhbXA6IGpzb24ucHJvcGVydGllcy50aW1lCiAgICB9OwoKICAgIGlmIChwcm9jZXNzZWQgPiAxMDAwMDAwKSByZXR1cm47CiAgICAvLyBpZiAocHJvY2Vzc2VkID4gMSkgcmV0dXJuOwogICAgcHJvY2Vzc2VkKys7CiAgICBhd2FpdCBwdWJsaXNoZXIucHVibGlzaChldmVudCwgJ3BsYXliYWNrJyk7CgogIH0gY2F0Y2ggKGUpIHsKICAgIGVycm9ycysrOwogIH0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudGVyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBybC5yZXN1bWUoKTsK</text>
+        <text encoding="base64">ICBpZiAocHJvY2Vzc2VkID4gMTAwMDAwMCkgcmV0dXJuOwogIC8vIGlmIChwcm9jZXNzZWQgPiAxKSByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIpOwo=</text>
+        <text encoding="base64">ICBpZiAocHJvY2Vzc2VkID4gMTAwMDAwMCkgcmV0dXJuOwogIC8vIGlmIChwcm9jZXNzZWQgPiAxKSByZXR1cm47CiAgcHJvY2Vzc2VkKys7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
