@@ -155,8 +155,8 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/scripts/EventPublisher.js" timestamp="1561117684634">
-        <mark key="[" line="52" column="28" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/scripts/EventPublisher.js" timestamp="1561125639682">
+        <mark key="[" line="53" column="7" />
         <mark key="]" line="52" column="28" />
         <mark key="." line="52" column="28" />
         <mark key="^" line="53" column="23" />
@@ -191,11 +191,11 @@
         <mark key="." line="3" column="46" />
         <mark key="^" line="3" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/kafka-import.js" timestamp="1561116161163">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="20" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="29" column="20" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/kafka-import.js" timestamp="1561125596488">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="39" column="25" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/Track/TrackPresenter.php" timestamp="1557821731154">
         <mark key="[" line="24" column="0" />
@@ -518,7 +518,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHJhY2tJZCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudGVyKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -530,7 +530,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, plays, skips</text>
+        <text encoding="base64">ID0gW107</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -539,7 +539,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnBlbmFsaXplKHNvbmcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHJhY2tJZCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudGVyKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -562,31 +562,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0cmFja0lkcywgeCwgdGhpcy53ZWlnaHRTdW0pOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudGVyLCBsaW5lLmxlbmd0aCk7CiAgcmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3ZhbHVlJywgdmFsdWUsIHRoaXMuc2NvcmVzW3ZhbHVlXSk7Cg==</text>
+        <text encoding="base64">ICBybC5yZXN1bWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHJhY2tJZCk7Cg==</text>
+        <text encoding="base64">ICBhd2FpdCBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgMTAwMCkpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdlcnJvcicsIGUpOwo=</text>
+      <register name="5" type="4">
+        <text>readline.createInterface({
+  input: fs.createReadStream('total'),
+  crlfDelay: Infinity
+});</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UudmFsdWUpOwo=</text>
+        <text encoding="base64">bGV0IHByb21pc2VzOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UudmFsdWUpOwo=</text>
+        <text encoding="base64">YWRkIHByb21pc2VzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyB0aW1lOiAxNDYxOTIzNTgwLApkaXN0aW5jdElkOiAnNzU2OGptNDBqJywKYnJvd3NlcjogJ01vemlsbGEnLApicm93c2VyVmVyc2lvbjogbnVsbCwKY2l0eTogJ1V0cmVjaHQnLApjdXJyZW50VXJsOiAnaHR0cDovL2xvY2FsaG9zdDozMDAwLyMvP19rPXdoNGlyYicsCmRldmljZTogJ2lQaG9uZScsCmluaXRpYWxSZWZlcnJlcjogJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMC8nLAppbml0aWFsUmVmZXJyaW5nRG9tYWluOiAnbG9jYWxob3N0OjMwMDAnLApsaWJWZXJzaW9uOiAnMi43LjInLApvczogJ2lPUycsCnJlZmVycmVyOiAnaHR0cDovL2xvY2FsaG9zdDozMDAwLycsCnJlZmVycmluZ0RvbWFpbjogJ2xvY2FsaG9zdDozMDAwJywKcmVnaW9uOiAnUHJvdmluY2llIFV0cmVjaHQnLApzY3JlZW5IZWlnaHQ6IDY2NywKc2NyZWVuV2lkdGg6IDM3NSwKbXBDb3VudHJ5Q29kZTogJ05MJywKbXBMaWI6ICd3ZWInLApwbGF5bGlzdElEOiAnMWdtNDIzODI2JywKdHJhY2tJRDogJzEyNzRkMmo0ZCcgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">YXBwXzEgICAgfCAgIAphcHBfMSAgICB8ICAgCmFwcF8xICAgIHwgICAKYXBwXzEgICAgfCAgIAphcHBfMSAgICB8ICAgCmFwcF8xICAgIHwgICAKYXBwXzEgICAgfCAgIAphcHBfMSAgICB8ICAgCmFwcF8xICAgIHwgICAKYXBwXzEgICAgfCAgIAphcHBfMSAgICB8ICAgCmFwcF8xICAgIHwgICAKYXBwXzEgICAgfCAgIAphcHBfMSAgICB8ICAgCmFwcF8xICAgIHwgICAKYXBwXzEgICAgfCAgIAphcHBfMSAgICB8ICAgCmFwcF8xICAgIHwgICAKYXBwXzEgICAgfCAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgc3RyZWFtIGZyb20gJ25vZGUvc3RyZWFtJzsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
