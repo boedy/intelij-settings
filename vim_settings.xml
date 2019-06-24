@@ -46,16 +46,23 @@
         <mark key="." line="19" column="63" />
         <mark key="^" line="19" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/Dockerfile" timestamp="1561377388770">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/Dockerfile" timestamp="1561385773456">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/ViewModels/TrackSearchView.php" timestamp="1557822053255">
         <mark key="[" line="44" column="9" />
         <mark key="]" line="45" column="7" />
         <mark key="^" line="45" column="7" />
         <mark key="." line="45" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/lib/Store.ts" timestamp="1561384685608">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="41" />
+        <mark key="." line="15" column="41" />
+        <mark key="^" line="15" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/http/routes.ts" timestamp="1558691144116">
         <mark key="[" line="11" column="53" />
@@ -255,11 +262,11 @@
         <mark key="." line="13" column="8" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/.env.production" timestamp="1561379556039">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="1" column="18" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/.env.production" timestamp="1561386133110">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/test/dartboard/src/Player.js" timestamp="1559724130113">
         <mark key="[" line="27" column="0" />
@@ -334,7 +341,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561379213475">
+      <file name="/Dummy.txt" timestamp="1561386137989">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
@@ -344,14 +351,6 @@
         <mark key="]" line="81" column="47" />
         <mark key="." line="81" column="47" />
         <mark key="^" line="81" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1561117909142">
-        <mark key="'" line="27" column="27" />
-        <mark key="j" line="37" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="24" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/vendor/stripe/stripe-php/lib/ApiOperations/Update.php" timestamp="1559052061725">
         <mark key="[" line="23" column="86" />
@@ -435,11 +434,11 @@
         <mark key="]" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/.dockerignore" timestamp="1561377420368">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/.dockerignore" timestamp="1561384176735">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/vendor/stripe/stripe-php/lib/ApiOperations/NestedResource.php" timestamp="1559050601178">
         <mark key="[" line="84" column="25" />
@@ -564,7 +563,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://instoreapi.kollekt.fm</text>
+        <text>redis</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -576,16 +575,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://instoreapi.kollekt.fm</text>
+        <text>redis</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIHNjcmlwdDogZGlzdC9iaW4vc2VydmVyLmpzCiAgICBuYW1lOiBhcHAKICAgIGluc3RhbmNlczogMQogICAgd2F0Y2g6IFtkaXN0XQogICAgd2F0Y2hfb3B0aW9uczoKICAgICAgdXNlUG9sbGluZzogdHJ1ZQogIC0gc2NyaXB0OiBkaXN0L2Jpbi9saXN0ZW5lci5qcwogICAgbmFtZTogZXZlbnQgbGlzdGVuZXIKICAgIGluc3RhbmNlczogMQogICAgd2F0Y2g6IFtkaXN0XQo=</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBpZiAoY291bnRlciAlIDEwMDAwID09PSAwKSBjb25zb2xlLmxvZyhjb3VudGVyLCBlcnJvcnMpOwo=</text>
+        <text encoding="base64">UlVOICJscyIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -608,34 +607,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgbmFtZTogYXBwCiAgICBpbnN0YW5jZXM6IDEKICAgIHdhdGNoOiBbZGlzdF0KICAgIHdhdGNoX29wdGlvbnM6CiAgICAgIHVzZVBvbGxpbmc6IHRydWUKICAgIG5hbWU6IGV2ZW50IGxpc3RlbmVyCiAgICBpbnN0YW5jZXM6IDEKICAgIHdhdGNoOiBbZGlzdF0K</text>
+        <text encoding="base64">ICAvLyBpZiAoY291bnRlciAlIDEwMDAwID09PSAwKSBjb25zb2xlLmxvZyhjb3VudGVyLCBlcnJvcnMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHNjcmlwdDogc3JjL2xpc3RlbmVyLmpzCg==</text>
+        <text encoding="base64">ICAgIAogICAgbmFtZTogYXBwCiAgICBpbnN0YW5jZXM6IDEKICAgIHdhdGNoOiBbZGlzdF0KICAgIHdhdGNoX29wdGlvbnM6CiAgICAgIHVzZVBvbGxpbmc6IHRydWUKICAgIG5hbWU6IGV2ZW50IGxpc3RlbmVyCiAgICBpbnN0YW5jZXM6IDEKICAgIHdhdGNoOiBbZGlzdF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIHNjcmlwdDogZGlzdC9iaW4vbGlzdGVuZXIuanMK</text>
+        <text encoding="base64">ICAtIHNjcmlwdDogc3JjL2xpc3RlbmVyLmpzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIHNjcmlwdDogaW5kZXguanMK</text>
+        <text encoding="base64">ICAtIHNjcmlwdDogZGlzdC9iaW4vbGlzdGVuZXIuanMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIHNjcmlwdDogZGlzdC9iaW4vc2VydmVyLmpzCg==</text>
+        <text encoding="base64">ICAtIHNjcmlwdDogaW5kZXguanMK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">ICAtIHNjcmlwdDogZGlzdC9iaW4vc2VydmVyLmpzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudGVyKTsK</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAocHJvY2Vzc2VkID4gMTAwMDAwMCkgcmV0dXJuOwogIC8vIGlmIChwcm9jZXNzZWQgPiAxKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudGVyKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -683,7 +682,6 @@
         <entry>w production.yml</entry>
         <entry>vso</entry>
         <entry encoding="base64">dnNwIA==</entry>
-        <entry>w</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
@@ -691,6 +689,7 @@
         <entry>action AceAction</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>sp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
