@@ -169,11 +169,10 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/usecases/fetchItemWindow.ts" timestamp="1561452955053">
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="24" column="10" />
-        <mark key="^" line="24" column="18" />
-        <mark key="." line="24" column="10" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/usecases/fetchItemWindow.ts" timestamp="1561453489207">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/scripts/EventPublisher.js" timestamp="1561126377382">
         <mark key="[" line="46" column="0" />
@@ -432,10 +431,11 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" timestamp="1561452864798">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" timestamp="1561454078853">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger/test.js" timestamp="1560791346699">
         <mark key="[" line="17" column="49" />
@@ -570,8 +570,8 @@
       <jump line="27" column="27" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>itemId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0ICA9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -592,7 +592,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VuZChyZXMsIDQwMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0ICA9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -615,34 +615,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbHRlckl0ZW1zKHBsYXlsaXN0SXRlbXMpIHsKICAgICAgICByZXR1cm4gdGhpcy5pdGVtV2luZG93LmZpbHRlckl0ZW1zKHBsYXlsaXN0SXRlbXMpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlLnJlc3BvbnNlLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGZpbHRlckl0ZW1zKHBsYXlsaXN0SXRlbXMpIHsKICAgICAgICByZXR1cm4gdGhpcy5pdGVtV2luZG93LmZpbHRlckl0ZW1zKHBsYXlsaXN0SXRlbXMpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGVscCcsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlLnJlc3BvbnNlLmRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGVscCcsIGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtcyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH1jYXRjaCAoZSkgewogICAgICAgIGNvbnNvbGUubG9nKGUpOwogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeXsK</text>
+        <text encoding="base64">ICAgIH1jYXRjaCAoZSkgewogICAgICAgIGNvbnNvbGUubG9nKGUpOwogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeXsK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -694,10 +694,10 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action AceAction</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
-        <entry>sp</entry>
         <entry>w</entry>
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
