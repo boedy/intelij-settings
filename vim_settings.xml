@@ -299,11 +299,11 @@
         <mark key="." line="8" column="80" />
         <mark key="^" line="8" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/events/EventSubscriber.ts" timestamp="1561472731953">
-        <mark key="[" line="52" column="6" />
-        <mark key="]" line="52" column="71" />
-        <mark key="^" line="52" column="5" />
-        <mark key="." line="52" column="6" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/events/EventSubscriber.ts" timestamp="1561538778647">
+        <mark key="[" line="52" column="19" />
+        <mark key="]" line="52" column="23" />
+        <mark key="^" line="52" column="23" />
+        <mark key="." line="52" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/ItemWindow.ts" timestamp="1561390527390">
         <mark key="[" line="9" column="0" />
@@ -329,7 +329,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561472765234">
+      <file name="/Dummy.txt" timestamp="1561538845253">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
@@ -339,12 +340,12 @@
         <mark key="." line="81" column="47" />
         <mark key="^" line="81" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1561477806242">
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1561538836068">
         <mark key="'" line="38" column="27" />
-        <mark key="[" line="63" column="56" />
-        <mark key="]" line="63" column="90" />
-        <mark key="." line="33" column="72" />
-        <mark key="^" line="33" column="72" />
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="63" column="60" />
+        <mark key="." line="63" column="60" />
+        <mark key="^" line="63" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/vendor/stripe/stripe-php/lib/ApiOperations/Update.php" timestamp="1559052061725">
         <mark key="[" line="23" column="86" />
@@ -557,8 +558,8 @@
       <jump line="27" column="27" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVhZFN0cmVhbS5yZXN1bWUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>nv.FROM_BEGINNING || false</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -570,7 +571,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>read</text>
+        <text>nv.FROM_BEGINNING || false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
