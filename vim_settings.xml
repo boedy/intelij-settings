@@ -340,7 +340,7 @@
         <mark key="." line="81" column="47" />
         <mark key="^" line="81" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1561542538668">
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1561544465124">
         <mark key="'" line="38" column="27" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -365,11 +365,11 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/.env" timestamp="1561459171895">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="3" column="50" />
-        <mark key="." line="3" column="28" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/.env" timestamp="1561544401513">
+        <mark key="[" line="3" column="72" />
+        <mark key="]" line="3" column="73" />
+        <mark key="^" line="3" column="73" />
+        <mark key="." line="3" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/.gitignore" timestamp="1557921985256">
         <mark key="[" line="0" column="46" />
@@ -423,6 +423,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/test.ts" timestamp="1561544584154">
+        <mark key="[" line="11" column="62" />
+        <mark key="]" line="11" column="62" />
+        <mark key="." line="11" column="62" />
+        <mark key="^" line="11" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/Player.ts" timestamp="1561454078853">
         <mark key="[" line="6" column="21" />
@@ -558,8 +564,8 @@
       <jump line="27" column="27" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>paused</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBwbGF5ZXIgPSBhd2FpdCBwbGF5ZXJSZXBvLmZpbmRPckNyZWF0ZShwbGF5ZXJJZCk7CiAgICAgICAgcGxheWVyLmhhbmRsZVNraXAodHJhY2tJZCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -571,16 +577,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>paused</text>
+        <text>'NEXT_TRACK'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwYXVzZWQgY29uc3VtZXInKTsK</text>
+      <register name="0" type="4">
+        <text>kafka.service.kollekt.fm:9000</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwbGF5ZXIgPSBhd2FpdCBwbGF5ZXJSZXBvLmZpbmRPckNyZWF0ZShwbGF5ZXJJZCk7CiAgICAgICAgcGxheWVyLmhhbmRsZVNraXAodHJhY2tJZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -603,31 +609,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKHByb2Nlc3MuZW52LkRFQlVHIHx8IGZhbHNlKSBjb25zb2xlLmxvZygncGF1c2VkJywgcHJvY2Vzc2luZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwbGF5ZXIgPSBhd2FpdCBwbGF5ZXJSZXBvLmZpbmRPckNyZWF0ZShwbGF5ZXJJZCk7CiAgICAgICAgcGxheWVyLmhhbmRsZVBsYXkodHJhY2tJZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihwcm9jZXNzLmVudi5ERUJVRyB8fCBmYWxzZSkgY29uc29sZS5sb2coJ3BhdXNlZCcsIHByb2Nlc3NpbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBwbGF5ZXJSZXBvLnNhdmUocGxheWVyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVhZFN0cmVhbS5yZXN1bWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBwbGF5ZXJSZXBvLnNhdmUocGxheWVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYoY29uY3VycmVuY3kgPiA1MCkgcmVhZFN0cmVhbS5wYXVzZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2VzID0gW107Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGxheWVyUmVwbyBmcm9tICIuLi9Nb2RlbHMvRGV2aWNlSXRlbVdpbmRvd1JlcG9zaXRvcnkiOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZVNraXBUcmFja0V2ZW50KGNvbXBvdW5kSWQsIHRyYWNrSWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhd2FpdCBwdWJsaXNoZXIucHVibGlzaChtZXNzYWdlcywgJ3BsYXliYWNrJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKG1lc3NhZ2VzLmxlbmd0aCA+IDEwMDApewogICAgICAKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZU5leHRUcmFja0V2ZW50KGNvbXBvdW5kSWQsIHRyYWNrSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
