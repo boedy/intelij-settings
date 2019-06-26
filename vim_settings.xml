@@ -299,10 +299,10 @@
         <mark key="." line="8" column="80" />
         <mark key="^" line="8" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/events/EventSubscriber.ts" timestamp="1561553155594">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="43" />
-        <mark key="." line="26" column="43" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/events/EventSubscriber.ts" timestamp="1561553837561">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
         <mark key="^" line="26" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/ItemWindow.ts" timestamp="1561390527390">
@@ -564,8 +564,8 @@
       <jump line="27" column="27" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb2Nlc3NDb3VudCsrOwogICAgICAgIGNvbnNvbGUubG9nKHRoaXMucHJvY2Vzc0NvdW50KTsKICAgICAgICAvLyBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsKICAgICAgICBpZih0aGlzLnByb2Nlc3NDb3VudCA+IDUwMCkgdGhpcy5wYXVzZSh0b3BpYyk7CiAgICAgICAgY29uc3Qgc3Vic2NyaXB0aW9uQ2FsbGJhY2sgPSB0aGlzLnN1YnNjcmliZXJzW3RvcGljXTsKICAgICAgICBpZiAoIXN1YnNjcmlwdGlvbkNhbGxiYWNrKSByZXR1cm47CiAgICAgICAgbWVzc2FnZS52YWx1ZSA9IG1lc3NhZ2UudmFsdWUudG9TdHJpbmcoKTsKICAgICAgICB0cnkgewogICAgICAgICAgbWVzc2FnZS52YWx1ZSA9IGNhbWVsQ2FzZUtleXMoSlNPTi5wYXJzZShtZXNzYWdlLnZhbHVlKSwgeyBkZWVwOiB0cnVlIH0pOwogICAgICAgIH0gY2F0Y2ggKGUpIHsgfQ==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -585,8 +585,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuaXNQYXVzZWQgPSB0cnVlOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb2Nlc3NDb3VudCsrOwogICAgICAgIGNvbnNvbGUubG9nKHRoaXMucHJvY2Vzc0NvdW50KTsKICAgICAgICAvLyBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsKICAgICAgICBpZih0aGlzLnByb2Nlc3NDb3VudCA+IDUwMCkgdGhpcy5wYXVzZSh0b3BpYyk7CiAgICAgICAgY29uc3Qgc3Vic2NyaXB0aW9uQ2FsbGJhY2sgPSB0aGlzLnN1YnNjcmliZXJzW3RvcGljXTsKICAgICAgICBpZiAoIXN1YnNjcmlwdGlvbkNhbGxiYWNrKSByZXR1cm47CiAgICAgICAgbWVzc2FnZS52YWx1ZSA9IG1lc3NhZ2UudmFsdWUudG9TdHJpbmcoKTsKICAgICAgICB0cnkgewogICAgICAgICAgbWVzc2FnZS52YWx1ZSA9IGNhbWVsQ2FzZUtleXMoSlNPTi5wYXJzZShtZXNzYWdlLnZhbHVlKSwgeyBkZWVwOiB0cnVlIH0pOwogICAgICAgIH0gY2F0Y2ggKGUpIHsgfQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -609,31 +609,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0aGlzLnByb2Nlc3NDb3VudCA+IDUwMCkgdGhpcy5wYXVzZSh0b3BpYyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnF1ZXVlLmFkZCgoKSA9PiBnb3QoJ3NpbmRyZXNvcmh1cy5jb20nKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZih0aGlzLnByb2Nlc3NDb3VudCA+IDUwMCkgdGhpcy5wYXVzZSh0b3BpYyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnF1ZXVlLmFkZCgoKSA9PiBnb3QoJ3NpbmRyZXNvcmh1cy5jb20nKSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsKICAgICAgICBwcm9jZXNzaW5nLS07CiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2suYWNxdWlyZShwbGF5ZXJJZCwgYXN5bmMgKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsKICAgICAgICBwcm9jZXNzaW5nLS07CiAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzaW5nLS07CiAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGxvY2suYWNxdWlyZShwbGF5ZXJJZCwgYXN5bmMgKCkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2suYWNxdWlyZShwbGF5ZXJJZCwgYXN5bmMgKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzaW5nLS07CiAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
