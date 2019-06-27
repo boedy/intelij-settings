@@ -113,6 +113,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="56" column="26" />
       </file>
+      <file name="/listener.ts" timestamp="1561647903243" />
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/tsconfig.json" timestamp="1558096227619">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -305,11 +306,11 @@
         <mark key="." line="8" column="80" />
         <mark key="^" line="8" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/events/EventSubscriber.ts" timestamp="1561643829729">
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="53" column="34" />
-        <mark key="." line="53" column="34" />
-        <mark key="^" line="53" column="34" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/events/EventSubscriber.ts" timestamp="1561647272390">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/ItemWindow.ts" timestamp="1561390527390">
         <mark key="[" line="9" column="0" />
@@ -335,7 +336,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561564749865">
+      <file name="/Dummy.txt" timestamp="1561648071745">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
@@ -346,11 +347,12 @@
         <mark key="." line="81" column="47" />
         <mark key="^" line="81" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1561644869512">
-        <mark key="'" line="39" column="27" />
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" timestamp="1561648060299">
+        <mark key="'" line="33" column="27" />
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/vendor/stripe/stripe-php/lib/ApiOperations/Update.php" timestamp="1559052061725">
         <mark key="[" line="23" column="86" />
@@ -375,6 +377,12 @@
         <mark key="]" line="3" column="73" />
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/DeviceItemWindowRepository.ts" timestamp="1561646594540">
+        <mark key="[" line="19" column="69" />
+        <mark key="]" line="20" column="46" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="20" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/.gitignore" timestamp="1557921985256">
         <mark key="[" line="0" column="46" />
@@ -569,8 +577,8 @@
       <jump line="20" column="24" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/promisequeue.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyAnZXJyb3InOwo=</text>
+      <register name="&quot;" type="4">
+        <text>test4</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -582,7 +590,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWF0aC5yYW5kb20oKSAqIA==</text>
+        <text>test4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -591,7 +599,7 @@
         <text encoding="base64">TWF0aC5yYW5kb20oKSAqIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyAnZXJyb3InOwo=</text>
+        <text encoding="base64">bGV0IHByb2NjZXNzaW5nID0gMDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -614,31 +622,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFByb21pc2UucmFjZShbCgogICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgTWF0aC5yYW5kb20oKSAqIDEwMDApKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">YXN5bmMgKCkgPT4gewogICAgICAgIC8vIGF3YWl0IG5ldyBQcm9taXNlKHJlc29sdmUgPT4gc2V0VGltZW91dChyZXNvbHZlLCBNYXRoLnJhbmRvbSgpICogMTAwMCkpOwogICAgICAgIGNvbnN0IHBsYXllciA9IGF3YWl0IHBsYXllclJlcG8uZmluZE9yQ3JlYXRlKHBsYXllcklkKTsKICAgICAgICBwbGF5ZXIuaGFuZGxlUGxheSh0cmFja0lkKTsKICAgICAgICBhd2FpdCBwbGF5ZXJSZXBvLnNhdmUocGxheWVyKTsKICAgIH0p</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgTWF0aC5yYW5kb20oKSAqIDEwMDApKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9taXNlLnJhY2UoWwogICAgICAgICAgICAKICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgIHByb2NjZXNzaW5nLS07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwbGF5ZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgIHByb2NjZXNzaW5nKys7CiAgICAvLyBjb25zb2xlLmxvZyhwcm9jY2Vzc2luZyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5zdCBwcm9taXNlV2l0aFRpbWVvdXQgPSBQcm9taXNlLnJhY2UoWwogICAgICAvLyB0aW1lb3V0SGFuZGxlciwKICAgICAgcHJvbWlzZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>co
+  
+  
+])</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFByb21pc2UocmVzb2x2ZSA9PiB7dGltZW91dCA9IHNldFRpbWVvdXQoKCkgPT4ge2NvbnNvbGUuZXJyb3IoJ01lc3NhZ2UgaGFuZGxlciB0aW1lZCBvdXQnKTtyZXNvbHZlKCk7fSwgdGhpcy50aW1lb3V0KX0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAudGhlbigoKSA9PiBjbGVhclRpbWVvdXQodGltZW91dCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
