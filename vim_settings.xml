@@ -291,6 +291,13 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Projection/Sql/CuratorContractViewProjection.php" timestamp="1562066968710">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="106" column="7" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/docker-compose.yml" timestamp="1562057834378">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="15" />
@@ -492,7 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="26" filename="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/AbstractPresenter.php" />
       <jump line="242" column="44" filename="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/AbstractPresenter.php" />
       <jump line="24" column="4" filename="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/AbstractPresenter.php" />
       <jump line="13" column="16" filename="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/Event/NewAgreementMadeWithCurator.php" />
@@ -592,10 +598,11 @@
       <jump line="131" column="0" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/importTest.ts" />
       <jump line="27" column="27" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/bin/listener.ts" />
       <jump line="20" column="24" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/promisequeue.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Projection/Sql/CuratorContractViewProjection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>size</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -607,7 +614,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>agreements</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -639,31 +646,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNpemUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAkc3FsUXVlcnkgPSAnCiAgICAgICAgICAgIFNFTEVDVCBDT1VOVCgqKQogICAgICAgICAgICBGUk9NIHBsYXlsaXN0X2l0ZW0gcGkKICAgICAgICAgICAgV0hFUkUgcGkuY3JlYXRlZF9hdCA+IDpkYXRlIEFORCBwaS5wbGF5bGlzdF9pZCBpbiAoCiAgICAgICAgICAgICAgICBTRUxFQ1QgcGxheWxpc3RfaWQKICAgICAgICAgICAgICAgIEZST00gY3VyYXRvcl9jb250cmFjdF9hZ3JlZW1lbnRfcGxheWxpc3QgY2NhcAogICAgICAgICAgICAgICAgSk9JTiBjdXJhdG9yX2NvbnRyYWN0X2FncmVlbWVudCBjY2EgT04gY2NhLmlkID0gY2NhcC5hZ3JlZW1lbnRfaWQKICAgICAgICAgICAgICAgIFdIRVJFIGNjYS5jb250cmFjdF9pZCA9IDpjb250cmFjdF9pZAogICAgICAgICAgICApCiAgICAgICAgICAgIEFORCAocGkuZGVsZXRlZF9hdCBpcyBudWxsIHx8IFRJTUVTVEFNUERJRkYoREFZLCBwaS5jcmVhdGVkX2F0LCBwaS5kZWxldGVkX2F0KSA+IDMwKQogICAgICAgICAgICBBTkQgcGkudXNlcl9pZCA9IDpjdXJhdG9yX2lkCiAgICAgICAgJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLml0ZW1XaW5kb3cuc2l6ZSgpLCB3aW5kb3dTaXplKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdG9kYXkgPSBuZXcgRGF0ZVRpbWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxKTsK</text>
+        <text encoding="base64">ICAgICAgICAkYWdyZWVtZW50cyA9ICRjb250cmFjdC0+Z2V0QWdyZWVtZW50c0FzY0J5RGF0ZSgpLT5maWx0ZXIoZnVuY3Rpb24oQWdyZWVtZW50ICRhZ3JlZW1lbnQpIHVzZSAoJHRvZGF5KXsKICAgICAgICAgICAgcmV0dXJuICRhZ3JlZW1lbnQtPmdldFN0YXJ0RGF0ZSgpIDwgJHRvZGF5OwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdHJhY2tzQ3VyYXRlZFRoaXNNb250aCA9IDA7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKCAhdG9rZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgJ05vIEF1dGhvcml6YXRpb24gaGVhZGVyIHByZXNlbnQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBBZ3JlZW1lbnQgJGFjdGl2ZUFncmVlbWVudCAqLwogICAgICAgICRhY3RpdmVBZ3JlZW1lbnQgPSAkYWdyZWVtZW50cy0+bGFzdCgpOwogICAgICAgICR0cmFja3NDdXJhdGVkVGhpc01vbnRoID0gMDsKICAgICAgICBpZiAoJGFjdGl2ZUFncmVlbWVudCkgewogICAgICAgICAgICAkc3RhcnREYXRlID0gY2xvbmUgJGFjdGl2ZUFncmVlbWVudC0+Z2V0U3RhcnREYXRlKCk7CiAgICAKICAgICAgICAgICAgaWYgKCRhY3RpdmVBZ3JlZW1lbnQtPmdldFJlcGVhdHNJbk1vbnRocygpKSB7CiAgICAgICAgICAgICAgICAkZGF0ZURpZmZlcmVuY2UgPSAkc3RhcnREYXRlLT5kaWZmKCR0b2RheSk7CiAgICAgICAgICAgICAgICAkbW9udGhzUGFzdCA9ICRkYXRlRGlmZmVyZW5jZS0+eSAqIDEyICsgJGRhdGVEaWZmZXJlbmNlLT5tOwogICAgICAgICAgICAgICAgJG1vZGlmeSA9IGZsb29yKCRtb250aHNQYXN0IC8gJGFjdGl2ZUFncmVlbWVudC0+Z2V0UmVwZWF0c0luTW9udGhzKCkpICogJGFjdGl2ZUFncmVlbWVudC0+Z2V0UmVwZWF0c0luTW9udGhzKCk7CiAgICAgICAgICAgICAgICAkc3RhcnREYXRlLT5tb2RpZnkoJysnLiAkbW9kaWZ5IC4nIG1vbnRocycpOwogICAgICAgICAgICB9CiAgICAKICAgICAgICAgICAgJHRyYWNrc0N1cmF0ZWRUaGlzTW9udGggPSAkdGhpcy0+Z2V0Q29ubmVjdGlvbigpLT5mZXRjaENvbHVtbigkc3FsUXVlcnksIFsKICAgICAgICAgICAgICAgICdkYXRlJyAgICAgICAgPT4gJHN0YXJ0RGF0ZSwKICAgICAgICAgICAgICAgICdjb250cmFjdF9pZCcgPT4gJGNvbnRyYWN0LT5nZXRJZCgpLAogICAgICAgICAgICAgICAgJ2N1cmF0b3JfaWQnICA9PiAkY29udHJhY3QtPmdldEN1cmF0b3JJZCgpCiAgICAgICAgICAgIF0sIDAsIFsnZGF0ZScgPT4gImRhdGV0aW1lIl0pOwogICAgICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
