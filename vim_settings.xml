@@ -32,11 +32,11 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="81" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssignPlaylistToLocation.php" timestamp="1562159430297">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="50" column="65" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssignPlaylistToLocation.php" timestamp="1562169408243">
+        <mark key="[" line="50" column="71" />
+        <mark key="]" line="50" column="78" />
+        <mark key="." line="50" column="78" />
+        <mark key="^" line="50" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/TrackScores.ts" timestamp="1561458423659">
         <mark key="[" line="46" column="0" />
@@ -50,7 +50,11 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" timestamp="1562154099411" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" timestamp="1562168331357">
+        <mark key="[" line="214" column="20" />
+        <mark key="]" line="214" column="20" />
+        <mark key="." line="214" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/ResourceGraph/ResourceGraphTraverserDispatcher.php" timestamp="1562159416500">
         <mark key="[" line="61" column="0" />
       </file>
@@ -66,7 +70,7 @@
         <mark key="." line="35" column="58" />
         <mark key="^" line="35" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/ResourceGraphTraverser/PlaylistResourceGraphTraverser.php" timestamp="1562156607417">
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/ResourceGraphTraverser/PlaylistResourceGraphTraverser.php" timestamp="1562168499520">
         <mark key="[" line="46" column="9" />
         <mark key="]" line="48" column="80" />
         <mark key="^" line="48" column="80" />
@@ -114,16 +118,10 @@
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/CascadeStrategy/SimpleCascadeStrategy.php" timestamp="1562166477551">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Organisation/Location/LocationPlaylist.php" timestamp="1562159794102">
-        <mark key="'" line="20" column="43" />
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/CascadeStrategy/SimpleCascadeStrategy.php" timestamp="1562169469332">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Store.js" timestamp="1558084806781">
         <mark key="[" line="7" column="16" />
@@ -444,7 +442,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562075830904">
+      <file name="/Dummy.txt" timestamp="1562169551390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
@@ -659,7 +657,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGFyZW50UmVzb3VyY2VzKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -671,7 +669,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[];</text>
+        <text>locationPlaylist</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -680,7 +678,7 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXNvdXJjZUludGVyZmFjZXxMb2NhdGlvblBsYXlsaXN0ICRyZXNvdXJjZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGFyZW50UmVzb3VyY2VzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -703,31 +701,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyZW50UmVzb3VyY2VzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGFyZW50UmVzb3VyY2VzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBpbmhlcml0RG9jCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEBpbmhlcml0RG9jCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRwbGF5bGlzdElkCiAgICAgKiBAcmV0dXJuIExvY2F0aW9uUGxheWxpc3RbXQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0TG9jYXRpb25QbGF5bGlzdHMoJHBsYXlsaXN0SWQpCiAgICB7CiAgICAgICAgJHJzbSA9IG5ldyBSZXN1bHRTZXRNYXBwaW5nQnVpbGRlcigkdGhpcy0+ZW0pOwogICAgICAgICRyc20tPmFkZFJvb3RFbnRpdHlGcm9tQ2xhc3NNZXRhZGF0YSgnQXBwXERvbWFpblxPcmdhbmlzYXRpb25cTG9jYXRpb25cTG9jYXRpb25QbGF5bGlzdCcsICdscCcpOwoKICAgICAgICAkcXVlcnlTdHJpbmcgPSAnU0VMRUNUIGxwLioKICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBsb2NhdGlvbl9wbGF5bGlzdCBscAogICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBscC5wbGF5bGlzdF9pZCA9IDpwbGF5bGlzdF9pZCBPUiBscC5pZCBpbiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgU0VMRUNUIGxvY2F0aW9uX3BsYXlsaXN0X2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBsb2NhdGlvbl9wbGF5bGlzdF9taXhpbgogICAgICAgICAgICAgICAgICAgICAgICAgIFdIRVJFIHBsYXlsaXN0X2lkID0gOnBsYXlsaXN0X2lkCiAgICAgICAgICAgICAgICAgICAgICAgICknOwoKICAgICAgICAkcXVlcnkgPSAkdGhpcy0+ZW0tPmNyZWF0ZU5hdGl2ZVF1ZXJ5KCRxdWVyeVN0cmluZywgJHJzbSk7CiAgICAgICAgJHF1ZXJ5LT5zZXRQYXJhbWV0ZXIoJ3BsYXlsaXN0X2lkJywgJHBsYXlsaXN0SWQpOwogICAgICAgIHJldHVybiAkcXVlcnktPmdldFJlc3VsdCgpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEAkcgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRwbGF5bGlzdElkCiAgICAgKiBAcmV0dXJuIExvY2F0aW9uUGxheWxpc3RbXQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0TG9jYXRpb25QbGF5bGlzdHMoJHBsYXlsaXN0SWQpCiAgICB7CiAgICAgICAgJHJzbSA9IG5ldyBSZXN1bHRTZXRNYXBwaW5nQnVpbGRlcigkdGhpcy0+ZW0pOwogICAgICAgICRyc20tPmFkZFJvb3RFbnRpdHlGcm9tQ2xhc3NNZXRhZGF0YSgnQXBwXERvbWFpblxPcmdhbmlzYXRpb25cTG9jYXRpb25cTG9jYXRpb25QbGF5bGlzdCcsICdscCcpOwoKICAgICAgICAkcXVlcnlTdHJpbmcgPSAnU0VMRUNUIGxwLioKICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBsb2NhdGlvbl9wbGF5bGlzdCBscAogICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBscC5wbGF5bGlzdF9pZCA9IDpwbGF5bGlzdF9pZCBPUiBscC5pZCBpbiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgU0VMRUNUIGxvY2F0aW9uX3BsYXlsaXN0X2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBsb2NhdGlvbl9wbGF5bGlzdF9taXhpbgogICAgICAgICAgICAgICAgICAgICAgICAgIFdIRVJFIHBsYXlsaXN0X2lkID0gOnBsYXlsaXN0X2lkCiAgICAgICAgICAgICAgICAgICAgICAgICknOwoKICAgICAgICAkcXVlcnkgPSAkdGhpcy0+ZW0tPmNyZWF0ZU5hdGl2ZVF1ZXJ5KCRxdWVyeVN0cmluZywgJHJzbSk7CiAgICAgICAgJHF1ZXJ5LT5zZXRQYXJhbWV0ZXIoJ3BsYXlsaXN0X2lkJywgJHBsYXlsaXN0SWQpOwogICAgICAgIHJldHVybiAkcXVlcnktPmdldFJlc3VsdCgpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBpbmhlcml0RG9jCg==</text>
+        <text encoding="base64">ICAgICAqIEAkcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9jYXRpb25QbGF5bGlzdHMgPSAkdGhpcy0+Z2V0TG9jYXRpb25QbGF5bGlzdHMoJHJlc291cmNlLT5nZXRJZCgpKTsKCiAgICAgICAgJG9yZ2FuaXNhdGlvbnMgPSBbXTsKICAgICAgICAkbG9jYXRpb25zID0gW107CgogICAgICAgIGZvcmVhY2ggKCRsb2NhdGlvblBsYXlsaXN0cyBhcyAkbG9jYXRpb25QbGF5bGlzdCl7CiAgICAgICAgICAgICRsb2NhdGlvbiA9ICRsb2NhdGlvblBsYXlsaXN0LT5nZXRMb2NhdGlvbigpOwogICAgICAgICAgICAkbG9jYXRpb25zW10gPSAkbG9jYXRpb247CiAgICAgICAgICAgICRvcmdhbmlzYXRpb24gPSAkbG9jYXRpb24tPmdldE9yZ2FuaXNhdGlvbigpOwogICAgICAgICAgICAkb3JnYW5pc2F0aW9uc1skb3JnYW5pc2F0aW9uLT5nZXRJZCgpXSA9ICRvcmdhbmlzYXRpb247CiAgICAgICAgfQoKICAgICAgICAkcGFyZW50UmVzb3VyY2VzID0gYXJyYXlfbWVyZ2UoJGxvY2F0aW9ucywgYXJyYXlfdmFsdWVzKCRvcmdhbmlzYXRpb25zKSk7CgogICAgICAgIHJldHVybiAkcGFyZW50UmVzb3VyY2VzOwo=</text>
+        <text encoding="base64">ICAgICAqIEBpbmhlcml0RG9jCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
