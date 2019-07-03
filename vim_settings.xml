@@ -88,11 +88,11 @@
         <mark key="." line="29" column="35" />
         <mark key="^" line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssignPlaylistToLocation.php" timestamp="1562154222329">
-        <mark key="[" line="50" column="37" />
-        <mark key="]" line="50" column="69" />
-        <mark key="." line="50" column="69" />
-        <mark key="^" line="50" column="69" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssignPlaylistToLocation.php" timestamp="1562157072960">
+        <mark key="[" line="50" column="50" />
+        <mark key="]" line="50" column="65" />
+        <mark key="." line="50" column="65" />
+        <mark key="^" line="50" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mobile/devServer.js" timestamp="1557579840006">
         <mark key="[" line="64" column="30" />
@@ -155,11 +155,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/ResourceGraphTraverser/PlaylistResourceGraphTraverser.php" timestamp="1562152322091">
-        <mark key="[" line="37" column="77" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/ResourceGraphTraverser/PlaylistResourceGraphTraverser.php" timestamp="1562156607417">
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="48" column="80" />
+        <mark key="^" line="48" column="80" />
+        <mark key="." line="48" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1558539269358">
         <mark key="[" line="26" column="1" />
@@ -257,11 +257,11 @@
         <mark key="." line="33" column="35" />
         <mark key="^" line="33" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/CascadeStrategy/SimpleCascadeStrategy.php" timestamp="1562155736584">
-        <mark key="[" line="67" column="11" />
-        <mark key="]" line="67" column="10" />
-        <mark key="^" line="67" column="10" />
-        <mark key="." line="67" column="10" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/CascadeStrategy/SimpleCascadeStrategy.php" timestamp="1562157048602">
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="69" column="46" />
+        <mark key="^" line="69" column="46" />
+        <mark key="." line="69" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Main.ts" timestamp="1558086242647">
         <mark key="[" line="5" column="0" />
@@ -642,7 +642,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addResource</text>
+        <text>playlist</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -654,7 +654,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>addResource</text>
+        <text>playlist</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -663,7 +663,7 @@
         <text encoding="base64">ICAgICAgICAkcm93cyA9ICR0aGlzLT5lbS0+Z2V0Q29ubmVjdGlvbigpLT5mZXRjaEFsbCgkcXVlcnlTdHJpbmcsICRxdWVyeVBhcmFtcyk7CgogICAgICAgIHJldHVybiAkdGhpcy0+bWFwUmVzdWx0cygkcm93cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGxheWxpc3RJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXV0aG9yaXphdGlvbnNUb0Nhc2NhZGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -686,31 +686,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFyZW50UmVzb3VyY2VzID0gW107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGxheWxpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFyZW50UmVzb3VyY2VzID0gW107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYnlQbGF5bGlzdElkKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGxheWxpc3RJZCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGxheWxpc3QpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYnlQbGF5bGlzdElkKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9udGhzVGlsbE5leHREZWFkbGluZSA9ICR0aGlzLT5yZXBlYXRzSW5Nb250aHMgLSAkbW9udGhzUGFzdCAlICR0aGlzLT5yZXBlYXRzSW5Nb250aHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
