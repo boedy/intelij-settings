@@ -290,11 +290,11 @@
         <mark key="^" line="45" column="7" />
         <mark key="." line="45" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/http/routes.ts" timestamp="1562253929003">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="28" column="42" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/http/routes.ts" timestamp="1562257168457">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mobile/devServer.js" timestamp="1557579840006">
         <mark key="[" line="64" column="30" />
@@ -472,7 +472,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562255305611">
+      <file name="/Dummy.txt" timestamp="1562257191066">
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
@@ -679,8 +679,8 @@
       <jump line="34" column="13" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Email/MailgunMailer.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHBsYXllcklkCg==</text>
+      <register name="&quot;" type="4">
+        <text>POST</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -692,7 +692,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9jYXRpb25JZDogc3RyaW5nLCA=</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbWV0ZXJzXD4=</text>
@@ -701,7 +701,7 @@
         <text>${playlistId}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHBsYXllcklkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -724,31 +724,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qge3JvdXRlciwgZ2V0fSA9IHJlcXVpcmUoJ21pY3Jvcm91dGVyJyk7Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHBsYXllcklkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qge3JvdXRlciwgZ2V0fSA9IHJlcXVpcmUoJ21pY3Jvcm91dGVyJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0UGxheWxpc3RJZEZyb21VcmwodXJsKSB7CiAgICBjb25zdCBtYXRjaCA9IHVybC5tYXRjaCgvcGxheWxpc3RzXC8oW2EtejAtOV0qKVwvaXRlbXMvKTsKICAgIGlmIChtYXRjaCkgewogICAgICAgIHJldHVybiBtYXRjaFsxXQogICAgfQogICAgcmV0dXJuIGZhbHNlOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0UGxheWxpc3RJZEZyb21VcmwodXJsKSB7CiAgICBjb25zdCBtYXRjaCA9IHVybC5tYXRjaCgvcGxheWxpc3RzXC8oW2EtejAtOV0qKVwvaXRlbXMvKTsKICAgIGlmIChtYXRjaCkgewogICAgICAgIHJldHVybiBtYXRjaFsxXQogICAgfQogICAgcmV0dXJuIGZhbHNlOwp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkdmlld0V4aXN0cyl7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZigkdmlld0V4aXN0cyl7CiAgICAgICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9wdGlvbnNbJ3RhZ3MnXSA9IFskcmVxdWVzdC0+Z2V0VGVtcGxhdGUoKV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IFtdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9wdGlvbnNbJ3RhZ3MnXSA9IFskcmVxdWVzdC0+Z2V0VGVtcGxhdGUoKV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
