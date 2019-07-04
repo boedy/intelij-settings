@@ -19,7 +19,12 @@
         <mark key="." line="82" column="58" />
         <mark key="^" line="82" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/atmosphere/billing/app/Kollekt/Billing/Infrastructure/Adapters/MoneyBirdAdapter.php" timestamp="1562146144595" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/SendNewCommentsNotificationEmail.php" timestamp="1562233995900">
+        <mark key="[" line="84" column="83" />
+        <mark key="]" line="84" column="85" />
+        <mark key="." line="84" column="85" />
+        <mark key="^" line="84" column="85" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/composer.json" timestamp="1562230326100">
         <mark key="[" line="33" column="35" />
         <mark key="]" line="33" column="36" />
@@ -48,6 +53,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/SendNewTracksNotificationEmail.php" timestamp="1562233990419">
+        <mark key="[" line="75" column="96" />
+        <mark key="]" line="75" column="98" />
+        <mark key="^" line="75" column="98" />
+        <mark key="." line="75" column="98" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/PlayerRepository.ts" timestamp="1561391638871">
         <mark key="[" line="20" column="0" />
@@ -224,8 +235,11 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/SendInvitationEmailJob.php" timestamp="1562232826101">
-        <mark key="[" line="54" column="71" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/SendInvitationEmailJob.php" timestamp="1562233814075">
+        <mark key="[" line="54" column="73" />
+        <mark key="]" line="54" column="106" />
+        <mark key="^" line="54" column="103" />
+        <mark key="." line="54" column="103" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/vendor/myclabs/acl/src/ACL.php" timestamp="1562152531101">
         <mark key="[" line="151" column="88" />
@@ -450,6 +464,12 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/PasswordResetEmail.php" timestamp="1562234047732">
+        <mark key="[" line="36" column="98" />
+        <mark key="]" line="36" column="110" />
+        <mark key="^" line="36" column="110" />
+        <mark key="." line="36" column="110" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Query/Playlist/PlaylistUserRoleQuery.php" timestamp="1562075772223">
         <mark key="[" line="8" column="0" />
@@ -676,8 +696,8 @@
       <jump line="34" column="13" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Email/MailgunMailer.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CommentNotification</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -689,13 +709,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'It is so simple to send a message.'</text>
+        <text>CommentNotification</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbWV0ZXJzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXNvdXJjZUludGVyZmFjZXxMb2NhdGlvblBsYXlsaXN0ICRyZXNvdXJjZQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Wyd0YWdzJyA9PiBbJ09yZ2FuaXNhdGlvbkludml0ZSddXQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
