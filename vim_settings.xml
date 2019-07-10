@@ -248,8 +248,11 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/core/src/sagas/player.js" timestamp="1562747655039">
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/core/src/sagas/player.js" timestamp="1562752297056">
         <mark key="[" line="154" column="6" />
+        <mark key="]" line="144" column="42" />
+        <mark key="^" line="144" column="42" />
+        <mark key="." line="144" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Mailer.php" timestamp="1562229926272">
         <mark key="[" line="9" column="45" />
@@ -506,6 +509,12 @@
         <mark key="." line="4" column="37" />
         <mark key="^" line="4" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mobile/hooks/before_run.sh" timestamp="1562752443490">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/usecases/handleNextTrack.ts" timestamp="1558691466389">
         <mark key="[" line="4" column="59" />
         <mark key="]" line="5" column="11" />
@@ -739,7 +748,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>trackIds.length</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -751,7 +760,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>trackIds.length</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbWV0ZXJzXD4=</text>
@@ -810,7 +819,7 @@
         <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX05FVFdPUktfU1RBVEUiIC8+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -862,10 +871,10 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action AceAction</entry>
         <entry>w</entry>
-        <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>vsp</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
