@@ -110,10 +110,11 @@
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/ui/src/components/SelectOutputButton.js" timestamp="1562319225187">
         <mark key="[" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/index.js" timestamp="1563896904751">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="44" column="20" />
-        <mark key="." line="44" column="20" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/index.js" timestamp="1563898189888">
+        <mark key="[" line="81" column="29" />
+        <mark key="]" line="83" column="110" />
+        <mark key="." line="83" column="110" />
+        <mark key="^" line="83" column="110" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/PlaylistItems.ts" timestamp="1558085496723">
         <mark key="[" line="4" column="25" />
@@ -247,6 +248,13 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/deployment/deployments.yaml" timestamp="1563898237251">
+        <mark key="'" line="63" column="10" />
+        <mark key="[" line="64" column="25" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="64" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/events/EventPublisher.ts" timestamp="1560863174220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -297,6 +305,12 @@
         <mark key="]" line="63" column="17" />
         <mark key="^" line="63" column="17" />
         <mark key="." line="63" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/download.js" timestamp="1563897734393">
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="71" />
+        <mark key="^" line="13" column="71" />
+        <mark key="." line="13" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Repositories/PlayerRepository.ts" timestamp="1558095423963">
         <mark key="[" line="23" column="0" />
@@ -533,7 +547,7 @@
         <mark key="^" line="36" column="110" />
         <mark key="." line="36" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562690621493">
+      <file name="/Dummy.txt" timestamp="1563898338860">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
@@ -651,7 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="54" filename="$USER_HOME$/Projects/atmosphere/api/app/ViewModels/CuratorContractView.php" />
       <jump line="8" column="6" filename="$USER_HOME$/Projects/atmosphere/api/app/ViewModels/CuratorContractAgreementView.php" />
       <jump line="173" column="24" filename="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/CuratorContract.php" />
       <jump line="26" column="46" filename="$USER_HOME$/Projects/atmosphere/api/app/Domain/Curation/TotalQuota.php" />
@@ -751,6 +764,7 @@
       <jump line="34" column="13" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Email/MailgunMailer.php" />
       <jump line="43" column="38" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/TrackScores.ts" />
       <jump line="75" column="12" filename="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/TrackScores.ts" />
+      <jump line="63" column="10" filename="$USER_HOME$/Projects/atmosphere/content-digger/deployment/deployments.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -769,7 +783,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbWV0ZXJzXD4=</text>
+        <text encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxob29rIHR5cGU9ImFmdGVyX3BsdWdpbl9pbnN0YWxsIiBzcmM9Imhvb2tzL2FmdGVyX3BsdWdpbl9pbnN0YWxsLmpzIiAvPgogICAgPGhvb2sgdHlwZT0iYmVmb3JlX3BsdWdpbl91bmluc3RhbGwiIHNyYz0iaG9va3MvYmVmb3JlX3BsdWdpbl91bmluc3RhbGwuanMiIC8+Cg==</text>
@@ -829,9 +843,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJhbWV0ZXJzXD4=</last-search>
+      <last-search encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbWV0ZXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxkb2N1bWVudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -839,7 +853,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
         <entry encoding="base64">XDxzaWduYWxUcmFwc1w+</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
@@ -859,6 +872,7 @@
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry encoding="base64">XDx0YWdzXD4=</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
+        <entry encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
