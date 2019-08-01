@@ -93,9 +93,9 @@
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/ui/src/components/SelectOutputButton.js" timestamp="1562319225187">
         <mark key="[" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/index.js" timestamp="1563898189888">
-        <mark key="[" line="81" column="29" />
-        <mark key="]" line="83" column="110" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/index.js" timestamp="1564675113381">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
         <mark key="." line="83" column="110" />
         <mark key="^" line="83" column="110" />
       </file>
@@ -255,6 +255,12 @@
         <mark key="^" line="144" column="42" />
         <mark key="." line="144" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/test.js" timestamp="1564675051438">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/kollekt/team-dashboard/helpers.js" timestamp="1564071005214">
         <mark key="[" line="35" column="18" />
         <mark key="]" line="35" column="18" />
@@ -300,11 +306,11 @@
         <mark key="^" line="63" column="17" />
         <mark key="." line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/download.js" timestamp="1563897734393">
-        <mark key="[" line="13" column="71" />
-        <mark key="]" line="13" column="71" />
-        <mark key="^" line="13" column="71" />
-        <mark key="." line="13" column="71" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/download.js" timestamp="1564674303858">
+        <mark key="[" line="31" column="61" />
+        <mark key="]" line="31" column="61" />
+        <mark key="." line="31" column="61" />
+        <mark key="^" line="31" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Repositories/PlayerRepository.ts" timestamp="1558095423963">
         <mark key="[" line="23" column="0" />
@@ -479,11 +485,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/.env" timestamp="1561717276001">
-        <mark key="[" line="5" column="205" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/.env" timestamp="1564672485603">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Database.ts" timestamp="1558687949497">
         <mark key="[" line="0" column="0" />
@@ -563,7 +569,7 @@
         <mark key="^" line="36" column="110" />
         <mark key="." line="36" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564665149031">
+      <file name="/Dummy.txt" timestamp="1564675484319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
@@ -667,11 +673,11 @@
         <mark key="^" line="50" column="23" />
         <mark key="." line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/contentProviders/tidal.js" timestamp="1564666545430">
-        <mark key="[" line="67" column="14" />
-        <mark key="]" line="67" column="14" />
-        <mark key="." line="67" column="14" />
-        <mark key="^" line="67" column="14" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/contentProviders/tidal.js" timestamp="1564675471443">
+        <mark key="[" line="118" column="21" />
+        <mark key="]" line="118" column="31" />
+        <mark key="^" line="118" column="31" />
+        <mark key="." line="118" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -778,7 +784,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJlamVjdCgpOw==</text>
+        <text>env</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -790,16 +796,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlamVjdCgpOw==</text>
+        <text>env</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vICAgY29uc29sZS5sb2cocGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbWV0YScsIHRyYWNrTWV0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -822,31 +828,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTmV3IFRpZGFsIGNsaWVudCcpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSgnZG90ZW52JykuY29uZmlnKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZihyZXNwLnN0YXR1cyAhPT0gMjAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0cmFja01ldGEpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vdG9kbzogcmVmYWN0b3IgcGFzcyB0cmFjayBpbmZvIGFzIHBhcmFtCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlsZW5hbWUnLCBmaWxlTmFtZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlsZW5hbWUnLCBmaWxlTmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
