@@ -234,6 +234,7 @@
         <mark key="." line="81" column="47" />
         <mark key="^" line="81" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/TrackAddedListener.php" timestamp="1564758422863" />
       <file name="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" timestamp="1564661054606">
         <mark key="[" line="216" column="0" />
         <mark key="]" line="216" column="25" />
@@ -796,8 +797,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/brandchannel/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBQcm9taXNlLmFsbChbCiAgICBheGlvcy5wb3N0KGAvcGxheWxpc3RzLyR7cGxheWxpc3RJZH0vaXRlbXNgLCB7dHJhY2tfaWQ6IHRyYWNrQX0pLAogICAgYXhpb3MucG9zdChgL3BsYXlsaXN0cy8ke3BsYXlsaXN0SWR9L2l0ZW1zYCwge3RyYWNrX2lkOiB0cmFja0J9KQogIF0pLnRoZW4oKCkgPT4gY29uc29sZS5sb2coJ2RvbmUnKSkKICAgIC5jYXRjaChlID0+IGNvbnNvbGUubG9nKCdlcnJvcicpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>beginTransaction</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -809,13 +810,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>beginTransaction</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBQcm9taXNlLmFsbChbCiAgICBheGlvcy5wb3N0KGAvcGxheWxpc3RzLyR7cGxheWxpc3RJZH0vaXRlbXNgLCB7dHJhY2tfaWQ6IHRyYWNrQX0pLAogICAgYXhpb3MucG9zdChgL3BsYXlsaXN0cy8ke3BsYXlsaXN0SWR9L2l0ZW1zYCwge3RyYWNrX2lkOiB0cmFja0J9KQogIF0pLnRoZW4oKCkgPT4gY29uc29sZS5sb2coJ2RvbmUnKSkKICAgIC5jYXRjaChlID0+IGNvbnNvbGUubG9nKCdlcnJvcicpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Z2V0Q29ubmVjdGlvbigpLT5iZWdpblRyYW5zYWN0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -841,33 +842,33 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByCgogICAgLyoqCiAgICAgKiBDdXJhdG9yUXVvdGFMaXN0ZW5lciBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSBDdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5ICRjdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChDdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5ICRjdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5LCBFbnRpdHlNYW5hZ2VyICRlbnRpdHlNYW5hZ2VyKQogICAgewogICAgICAgICR0aGlzLT5jdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5ID0gJGN1cmF0b3JDb250cmFjdFJlcG9zaXRvcnk7CiAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text>.then(console.log)
 .then(console.log)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="8">
-        <text>packages/brandchannel/
-packages/brandchannel/</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlsZW5hbWUnLCBmaWxlTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZW52JywgcHJvY2Vzcy5lbnYpOwo=</text>
+      <register name="7" type="8">
+        <text>packages/brandchannel/
+packages/brandchannel/</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaWQnLCBpZCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlsZW5hbWUnLCBmaWxlTmFtZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbWV0YScsIHRyYWNrTWV0YSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZW52JywgcHJvY2Vzcy5lbnYpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
