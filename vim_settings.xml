@@ -81,21 +81,11 @@
         <mark key="^" line="48" column="80" />
         <mark key="." line="48" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mobile/config.xml" timestamp="1564496928248">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1558539269358">
         <mark key="[" line="26" column="1" />
         <mark key="]" line="32" column="49" />
         <mark key="^" line="32" column="49" />
         <mark key="." line="32" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mobile/platforms/android/AndroidManifest.xml" timestamp="1564495967738">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/ui/src/components/SelectOutputButton.js" timestamp="1562319225187">
         <mark key="[" line="36" column="28" />
@@ -164,7 +154,7 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts/kollekt/js/race.js" timestamp="1564752292848">
+      <file name="$USER_HOME$/Projects/scripts/kollekt/js/race.js" timestamp="1564764317030">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="24" column="38" />
         <mark key="^" line="23" column="35" />
@@ -235,7 +225,12 @@
         <mark key="." line="81" column="47" />
         <mark key="^" line="81" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/TrackAddedListener.php" timestamp="1564758422863" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/TrackAddedListener.php" timestamp="1564764106891">
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="25" />
+        <mark key="^" line="60" column="25" />
+        <mark key="." line="60" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" timestamp="1564661054606">
         <mark key="[" line="216" column="0" />
         <mark key="]" line="216" column="25" />
@@ -337,11 +332,6 @@
         <mark key="]" line="7" column="51" />
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/services/mixpanel-service/.env" timestamp="1564408437734">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mobile/plugins/cordova-fabric-plugin/hooks/lib/android-helper.js" timestamp="1564495730665">
         <mark key="[" line="19" column="57" />
@@ -590,7 +580,7 @@
         <mark key="^" line="36" column="110" />
         <mark key="." line="36" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564756853431">
+      <file name="/Dummy.txt" timestamp="1564764338924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
@@ -624,6 +614,12 @@
         <mark key="]" line="14" column="13" />
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/TrackDisabledListener.php" timestamp="1564764260933">
+        <mark key="[" line="77" column="74" />
+        <mark key="]" line="77" column="75" />
+        <mark key="." line="77" column="75" />
+        <mark key="^" line="67" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Jobs/HandleMoneybirdWebhook.php" timestamp="1558538126774">
         <mark key="[" line="72" column="18" />
@@ -804,8 +800,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/brandchannel/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>beginTransaction</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjb250cmFjdC0+ZGVjcmVtZW50VG90YWxUcmFja3NDdXJhdGVkKCk7CiAgICAgICAgICAgICAgICAkdGhpcy0+Y3VyYXRvckNvbnRyYWN0UmVwb3NpdG9yeS0+c2F2ZSgkY29udHJhY3QpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -817,7 +813,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>beginTransaction</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</text>
@@ -826,7 +822,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Z2V0Q29ubmVjdGlvbigpLT5iZWdpblRyYW5zYWN0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjb250cmFjdC0+ZGVjcmVtZW50VG90YWxUcmFja3NDdXJhdGVkKCk7CiAgICAgICAgICAgICAgICAkdGhpcy0+Y3VyYXRvckNvbnRyYWN0UmVwb3NpdG9yeS0+c2F2ZSgkY29udHJhY3QpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -849,33 +845,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByCgogICAgLyoqCiAgICAgKiBDdXJhdG9yUXVvdGFMaXN0ZW5lciBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSBDdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5ICRjdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChDdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5ICRjdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5LCBFbnRpdHlNYW5hZ2VyICRlbnRpdHlNYW5hZ2VyKQogICAgewogICAgICAgICR0aGlzLT5jdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5ID0gJGN1cmF0b3JDb250cmFjdFJlcG9zaXRvcnk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjbGFzcyA9IEN1cmF0b3JDb250cmFjdDo6Y2xhc3M7CiAgICAgICAgICAgICAgICAkcXVlcnkgPSAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Y3JlYXRlUXVlcnkoCiAgICAgICAgICAgICAgICAgICAgIlVQREFURSAkY2xhc3MgY29udHJhY3QKICAgICAgICAgICAgICAgICAgICBTRVQgY29udHJhY3QudG90YWxUcmFja3NDdXJhdGVkID0gY29udHJhY3QudG90YWxUcmFja3NDdXJhdGVkICsgMSIKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAkcXVlcnktPmV4ZWN1dGUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3VyYXRvclF1b3RhTGlzdGVuZXIgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gQ3VyYXRvckNvbnRyYWN0UmVwb3NpdG9yeSAkY3VyYXRvckNvbnRyYWN0UmVwb3NpdG9yeQogICAgICogQHBhcmFtIFBsYXlsaXN0SXRlbVJlcG9zaXRvcnkgJHBsYXlsaXN0SXRlbVJlcG9zaXRvcnkKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KEN1cmF0b3JDb250cmFjdFJlcG9zaXRvcnkgJGN1cmF0b3JDb250cmFjdFJlcG9zaXRvcnksIFBsYXlsaXN0SXRlbVJlcG9zaXRvcnkgJHBsYXlsaXN0SXRlbVJlcG9zaXRvcnksICRlbnRpdHlNYW5hZ2VyKQogICAgewogICAgICAgICR0aGlzLT5jdXJhdG9yQ29udHJhY3RSZXBvc2l0b3J5ID0gJGN1cmF0b3JDb250cmFjdFJlcG9zaXRvcnk7CiAgICAgICAgJHRoaXMtPnBsYXlsaXN0SXRlbVJlcG9zaXRvcnkgPSAkcGxheWxpc3RJdGVtUmVwb3NpdG9yeTsKICAgIH0K</text>
       </register>
-      <register name="5" type="8">
-        <text>.then(console.log)
-.then(console.log)</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJGNvbnRyYWN0LT5pbmNyZW1lbnRUb3RhbFRyYWNrc0N1cmF0ZWQoKTsKLy8gICAgICAgICAgICAgICAgJHRoaXMtPmN1cmF0b3JDb250cmFjdFJlcG9zaXRvcnktPnNhdmUoJGNvbnRyYWN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="8">
-        <text>packages/brandchannel/
-packages/brandchannel/</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXERvY3RyaW5lXERCQUxcQ29ubmVjdGlvbkV4Y2VwdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlsZW5hbWUnLCBmaWxlTmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZW52JywgcHJvY2Vzcy5lbnYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY2xhc3MgPSBDdXJhdG9yQ29udHJhY3Q6OmNsYXNzOwogICAgICAgICRxdWVyeSA9ICR0aGlzLT5lbnRpdHlNYW5hZ2VyLT5jcmVhdGVRdWVyeSgKICAgICAgICAiVVBEQVRFICRjbGFzcyBjb250cmFjdAogICAgICAgICBTRVQgY29udHJhY3QudG90YWxUcmFja3NDdXJhdGVkID0gY29udHJhY3QudG90YWxUcmFja3NDdXJhdGVkICsgMSIKICAgICAgICApOwogICAgICAgICRxdWVyeS0+ZXhlY3V0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
