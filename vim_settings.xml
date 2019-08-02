@@ -14,6 +14,12 @@
       <file name="/a.dummy" timestamp="1562160472890">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/brandchannel/Dockerfile" timestamp="1564733015178">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/services/mixpanel-service/src/AtmosphereApi.tsx" timestamp="1560273151443">
         <mark key="[" line="82" column="53" />
         <mark key="]" line="82" column="58" />
@@ -75,9 +81,9 @@
         <mark key="." line="48" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mobile/config.xml" timestamp="1564496928248">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1558539269358">
         <mark key="[" line="26" column="1" />
@@ -234,7 +240,7 @@
         <mark key="^" line="20" column="46" />
         <mark key="." line="20" column="46" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1564665138296">
+      <file name="/GraphQL.result.json" timestamp="1564732602075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/usecases/index.ts" timestamp="1558690725600">
@@ -569,7 +575,7 @@
         <mark key="^" line="36" column="110" />
         <mark key="." line="36" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564676205127">
+      <file name="/Dummy.txt" timestamp="1564732615695">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
@@ -681,8 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="24" filename="$USER_HOME$/Projects/personal/dapp-returns.io/dapps/dootron.js" />
-      <jump line="3" column="33" filename="$USER_HOME$/Projects/services/AccountCreationDelegation/src/index.js" />
       <jump line="78" column="0" filename="$USER_HOME$/Projects/personal/dapp-returns.io/DootronAutomation.js" />
       <jump line="86" column="0" filename="$USER_HOME$/Projects/personal/dapp-returns.io/DootronAutomation.js" />
       <jump line="23" column="35" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/exchanges/kiwidex.js" />
@@ -781,10 +785,13 @@
       <jump line="11" column="14" filename="$USER_HOME$/Projects/kollekt/team-dashboard/sales.js" />
       <jump line="227" column="0" filename="$USER_HOME$/Projects/atmosphere/content-digger/node_modules/tidalapi/lib/client.js" />
       <jump line="417" column="0" filename="$USER_HOME$/Projects/atmosphere/content-digger/node_modules/tidalapi/lib/client.js" />
+      <jump line="10" column="14" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/brandchannel/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/brandchannel/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlsZW5hbWUnLCBmaWxlTmFtZSk7Cg==</text>
+      <register name="&quot;" type="8">
+        <text>packages/brandchannel/
+packages/brandchannel/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -804,8 +811,9 @@
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygnbWV0YScsIHRyYWNrTWV0YSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlsZW5hbWUnLCBmaWxlTmFtZSk7Cg==</text>
+      <register name="1" type="8">
+        <text>packages/brandchannel/
+packages/brandchannel/</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -828,31 +836,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZW52JywgcHJvY2Vzcy5lbnYpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlsZW5hbWUnLCBmaWxlTmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaWQnLCBpZCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZW52JywgcHJvY2Vzcy5lbnYpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbWV0YScsIHRyYWNrTWV0YSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaWQnLCBpZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndXJsJywgdXJsKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbWV0YScsIHRyYWNrTWV0YSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndXJsJywgdXJsKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2cK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTmV3IFRpZGFsIGNsaWVudCcpOwoK</text>
+        <text encoding="base64">ICBsb2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZG90ZW52JykuY29uZmlnKCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTmV3IFRpZGFsIGNsaWVudCcpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
