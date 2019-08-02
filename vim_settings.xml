@@ -163,6 +163,12 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/scripts/kollekt/js/race.js" timestamp="1564752292848">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="24" column="38" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/deployment/playback-recommender/values.yaml" timestamp="1561130990015">
         <mark key="[" line="19" column="7" />
         <mark key="]" line="19" column="7" />
@@ -410,6 +416,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="56" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/scripts/kollekt/js/add-playlist.js" timestamp="1564751573887" />
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mobile/src/services/sonos/SonosController.js" timestamp="1562334446397">
         <mark key="[" line="10" column="16" />
       </file>
@@ -789,9 +796,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/brandchannel/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>packages/brandchannel/
-packages/brandchannel/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBQcm9taXNlLmFsbChbCiAgICBheGlvcy5wb3N0KGAvcGxheWxpc3RzLyR7cGxheWxpc3RJZH0vaXRlbXNgLCB7dHJhY2tfaWQ6IHRyYWNrQX0pLAogICAgYXhpb3MucG9zdChgL3BsYXlsaXN0cy8ke3BsYXlsaXN0SWR9L2l0ZW1zYCwge3RyYWNrX2lkOiB0cmFja0J9KQogIF0pLnRoZW4oKCkgPT4gY29uc29sZS5sb2coJ2RvbmUnKSkKICAgIC5jYXRjaChlID0+IGNvbnNvbGUubG9nKCdlcnJvcicpKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -803,17 +809,16 @@ packages/brandchannel/</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>env</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbWV0YScsIHRyYWNrTWV0YSk7Cg==</text>
+        <text encoding="base64">ICBQcm9taXNlLmFsbChbCiAgICBheGlvcy5wb3N0KGAvcGxheWxpc3RzLyR7cGxheWxpc3RJZH0vaXRlbXNgLCB7dHJhY2tfaWQ6IHRyYWNrQX0pLAogICAgYXhpb3MucG9zdChgL3BsYXlsaXN0cy8ke3BsYXlsaXN0SWR9L2l0ZW1zYCwge3RyYWNrX2lkOiB0cmFja0J9KQogIF0pLnRoZW4oKCkgPT4gY29uc29sZS5sb2coJ2RvbmUnKSkKICAgIC5jYXRjaChlID0+IGNvbnNvbGUubG9nKCdlcnJvcicpKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>packages/brandchannel/
-packages/brandchannel/</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -836,31 +841,33 @@ packages/brandchannel/</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlsZW5hbWUnLCBmaWxlTmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZW52JywgcHJvY2Vzcy5lbnYpOwo=</text>
+      <register name="3" type="8">
+        <text>.then(console.log)
+.then(console.log)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaWQnLCBpZCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbWV0YScsIHRyYWNrTWV0YSk7Cg==</text>
+      <register name="5" type="8">
+        <text>packages/brandchannel/
+packages/brandchannel/</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndXJsJywgdXJsKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlsZW5hbWUnLCBmaWxlTmFtZSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZW52JywgcHJvY2Vzcy5lbnYpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2cK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaWQnLCBpZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTmV3IFRpZGFsIGNsaWVudCcpOwoK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbWV0YScsIHRyYWNrTWV0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
