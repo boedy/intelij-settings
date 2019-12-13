@@ -16,6 +16,7 @@
       <mapping pattern="db-backup" type="PLAIN_TEXT" />
       <mapping pattern=".env-wercker" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
