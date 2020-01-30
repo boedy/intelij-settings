@@ -6,12 +6,12 @@
       <mapping pattern="1-0-0" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="db-backup" type="PLAIN_TEXT" />
+      <mapping pattern=".lock" type="PLAIN_TEXT" />
       <mapping pattern=".env.wercker" type="PLAIN_TEXT" />
       <mapping pattern="EventPublisher" type="PLAIN_TEXT" />
       <mapping pattern=".env-wercker" type="PLAIN_TEXT" />
       <mapping pattern="configure" type="PLAIN_TEXT" />
       <mapping pattern=".env-werker" type="PLAIN_TEXT" />
-      <mapping pattern=".lock" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="mount" type="PLAIN_TEXT" />
