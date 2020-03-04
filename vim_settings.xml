@@ -1,6 +1,60 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxuZXdcPg==</entry>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry encoding="base64">XDx0YWdzXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
+        <entry encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</entry>
+        <entry>php</entry>
+        <entry encoding="base64">XDwuXD4=</entry>
+        <entry encoding="base64">XDxjb25zdFw+</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDx0b2RvXD4=</entry>
+        <entry encoding="base64">XDxldmVudFN0b3JlXD4=</entry>
+        <entry encoding="base64">XDxldmVudFw+</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
+        <entry encoding="base64">XDxKU09OXD4=</entry>
+        <entry encoding="base64">XDxDTURcPg==</entry>
+        <entry encoding="base64">XDxkaXZcPg==</entry>
+        <entry encoding="base64">XDxmaXJzdEJ1ZmZlclw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
+        <entry encoding="base64">XDxwcm9wc1w+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set visualbell</entry>
+        <entry encoding="base64">c2V0IHZpc3VhbGJlbGwgc2V0IG5vZXJyb3JiZWxscyA=</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
+        <entry>e kafff.js</entry>
+        <entry>e Dockerfile</entry>
+        <entry>so</entry>
+        <entry>w production.yml</entry>
+        <entry>vso</entry>
+        <entry encoding="base64">dnNwIA==</entry>
+        <entry>action TabShiftActions.MoveFocusUp</entry>
+        <entry>action SplitHorizontally</entry>
+        <entry>sp</entry>
+        <entry>action TabShiftActions.MoveFocusDown</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gVGFiU2hpZnRBY3Rpb25zLk1vdmVGb2N1c1JpZ2h0</entry>
+        <entry>w</entry>
+        <entry>action AceAction</entry>
+        <entry>q</entry>
+        <entry>vsp</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
@@ -66,9 +120,289 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1583232083613">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/tests/permissions.test.ts" timestamp="1583227510540">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="27" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/tests/resources.test.ts" timestamp="1583073399155">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="170" column="0" />
+        <mark key="^" line="160" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/schema.dgraph" timestamp="1583073819984">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/test/dgraph/fromJson.ts" timestamp="1583071696974">
+        <mark key="[" line="160" column="28" />
+        <mark key="]" line="38" column="88" />
+        <mark key="." line="38" column="88" />
+        <mark key="^" line="38" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/AuthorizationService.php" timestamp="1582902439719">
+        <mark key="[" line="124" column="21" />
+        <mark key="]" line="124" column="16" />
+        <mark key="^" line="124" column="16" />
+        <mark key="." line="124" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/package.json" timestamp="1582921122814">
+        <mark key="[" line="10" column="51" />
+        <mark key="]" line="10" column="51" />
+        <mark key="." line="10" column="51" />
+        <mark key="^" line="9" column="61" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1583315272859">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/AuthorizationChangeHandler.php" timestamp="1582902393201">
+        <mark key="[" line="89" column="84" />
+        <mark key="]" line="89" column="93" />
+        <mark key="." line="89" column="92" />
+        <mark key="^" line="89" column="93" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1583256358866">
+        <mark key="'" line="38" column="21" />
+        <mark key="[" line="64" column="10" />
+        <mark key="]" line="66" column="23" />
+        <mark key="." line="66" column="22" />
+        <mark key="^" line="66" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Track/Command/StoreNewTrack.php" timestamp="1583252540410">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/authorization/role/roleRepository.ts" timestamp="1583071082705">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/test/dgraph/src/dataloader.ts" timestamp="1582903187954">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="51" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/emailDelegationService.ts" timestamp="1582922014793">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="10" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/authorization/permission/permissionRepository.ts" timestamp="1583074363007">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/permissionController.ts" timestamp="1583073551275">
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="13" column="6" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="44" column="20" filename="$USER_HOME$/Projects/personal/tron-arbitrage/error.log" />
+      <jump line="155" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/TrxMarket/index.ts" />
+      <jump line="218" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/TrxMarket/index.ts" />
+      <jump line="208" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/TronTrade/index.ts" />
+      <jump line="132" column="27" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/controllers/accountDelegationController.ts" />
+      <jump line="8" column="2" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/BillingDetailsRegistered.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/BillingDetailsRegistered.ts" />
+      <jump line="56" column="32" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/EventPublisher.ts" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/EventPublisher.ts" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/requests/AccountDelegation.ts" />
+      <jump line="61" column="1" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/requests/AccountDelegation.ts" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/requests/AccountDelegation.ts" />
+      <jump line="119" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/validation/Countries.ts" />
+      <jump line="64" column="38" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/controllers/accountDelegationController.ts" />
+      <jump line="42" column="12" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/controllers/accountDelegationController.ts" />
+      <jump line="29" column="23" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/validation/locationValidation.ts" />
+      <jump line="7" column="12" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/dist/http/validation/locationValidation.js" />
+      <jump line="15" column="22" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/validation/locationValidation.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/validation/locationValidation.ts" />
+      <jump line="47" column="30" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
+      <jump line="50" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
+      <jump line="93" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
+      <jump line="92" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
+      <jump line="83" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
+      <jump line="99" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
+      <jump line="39" column="43" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/queue.ts" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/queue.ts" />
+      <jump line="51" column="46" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/domain/AccountDelegation.ts" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/controllers/emailController.ts" />
+      <jump line="10" column="55" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/storage/delegationStorage.ts" />
+      <jump line="69" column="4" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/storage/delegationStorage.ts" />
+      <jump line="20" column="36" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/storage/delegationStorage.ts" />
+      <jump line="53" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/atmosphere.ts" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/atmosphere.ts" />
+      <jump line="92" column="35" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/domain/AccountDelegation.ts" />
+      <jump line="174" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/domain/AccountDelegation.ts" />
+      <jump line="121" column="47" filename="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/DelegationRequests.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/DelegationRequests.js" />
+      <jump line="76" column="10" filename="$USER_HOME$/Projects/test/node-encrypted-audio/src/Player.ts" />
+      <jump line="141" column="0" filename="$USER_HOME$/Projects/test/node-encrypted-audio/src/Player.ts" />
+      <jump line="2" column="33" filename="$USER_HOME$/Projects/test/node-encrypted-audio/src/Player.ts" />
+      <jump line="139" column="0" filename="$USER_HOME$/Projects/test/node-encrypted-audio/node_modules/speaker/deps/mpg123/src/output/coreaudio.c" />
+      <jump line="103" column="40" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/tutorial/src/Profile.js" />
+      <jump line="49" column="95" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/tutorial/src/Profile.js" />
+      <jump line="139" column="4" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/tutorial/src/Profile.js" />
+      <jump line="52" column="53" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/tutorial/src/Profile.js" />
+      <jump line="61" column="34" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/tutorial/src/Recorder.js" />
+      <jump line="131" column="32" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/tutorial/src/Recorder.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/test/node-encrypted-audio/Dockerfile.template" />
+      <jump line="104" column="2" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/RealTimeFeedStomp.ts" />
+      <jump line="164" column="0" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/RealTimeFeedStomp.ts" />
+      <jump line="115" column="0" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/realtimefeed.ts" />
+      <jump line="176" column="0" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/realtimefeed.ts" />
+      <jump line="88" column="0" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/realtimefeed.ts" />
+      <jump line="95" column="0" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/RealTimeFeedStomp.ts" />
+      <jump line="179" column="35" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/RealTimeFeedStomp.ts" />
+      <jump line="182" column="0" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/RealTimeFeedStomp.ts" />
+      <jump line="140" column="38" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/RealTimeFeedStomp.ts" />
+      <jump line="190" column="1" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/RealTimeFeedStomp.ts" />
+      <jump line="6" column="17" filename="$USER_HOME$/Projects/personal/tron-arbitrage/makeMoney.ts" />
+      <jump line="64" column="23" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/contentProviders/tidal.js" />
+      <jump line="32" column="16" filename="$USER_HOME$/Projects/personal/tron-arbitrage/makeMoney.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/makeMoney.ts" />
+      <jump line="147" column="41" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/Waveform.tsx" />
+      <jump line="46" column="22" filename="$USER_HOME$/Projects/services/mixpanel-service/src/cleanUsers.ts" />
+      <jump line="11" column="319" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/RecordButton.tsx" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/remote/src/bootstrap.js" />
+      <jump line="48" column="35" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/sagas/mqtt.js" />
+      <jump line="60" column="19" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/mqtt.js" />
+      <jump line="173" column="38" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/WaveRecorder.tsx" />
+      <jump line="181" column="58" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/WaveRecorder.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/WaveRecorder.tsx" />
+      <jump line="23" column="25" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Recording.ts" />
+      <jump line="40" column="10" filename="$USER_HOME$/Downloads/z6ujq/src/VoiceRecorder.js" />
+      <jump line="31" column="6" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/Dockerfile.template" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/fileStorage.js" />
+      <jump line="121" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/fileStorage.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/nodePlayer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/core/src/sagas/player.js" />
+      <jump line="39" column="27" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Recorder.ts" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Recorder.ts" />
+      <jump line="78" column="0" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/App.tsx" />
+      <jump line="86" column="0" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/App.tsx" />
+      <jump line="5" column="22" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
+      <jump line="53" column="18" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
+      <jump line="56" column="32" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
+      <jump line="28" column="26" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
+      <jump line="33" column="29" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
+      <jump line="38" column="26" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
+      <jump line="57" column="64" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
+      <jump line="66" column="90" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
+      <jump line="68" column="32" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
+      <jump line="74" column="26" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="25" column="25" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/Recording/Recording.tsx" />
+      <jump line="62" column="59" filename="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/test.ts" />
+      <jump line="3" column="18" filename="$USER_HOME$/Projects/eth-smart-contract/src/uniswap/uniswap.js" />
+      <jump line="48" column="14" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Kyber/Kyber.ts" />
+      <jump line="14" column="94" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/tokens/TokenMetaResolver.ts" />
+      <jump line="35" column="21" filename="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHNvdXJjZS0+Zw==</text>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">JHNvdXJjZS0+Zw==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxwcm9wc1w+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUcmFjayAkdHJhY2sgKi8K</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAnZmZtcGVnIC1pICIlcyIgLWFjb2RlYyBsaWJtcDNsYW1lIC1hYyAyIC1hYiAxMjhrIC1hciA0NDEwMCAiJXMiJywKICAgICAgICAgICAgWyRzb3VyY2UtPmdd</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkYml0cmF0ZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleGVjKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkaGlnaGVzdEJpdHJhdGVTb3VyY2UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
+      </register>
+      <register name="v" type="4">
+        <text>;</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCAhICRhY2MpIHsKICAgICAgICAgICAgICAgIHJldHVybiAkc291cmNlOwogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>action TabShiftActions.MoveFocusRight</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxwcm9wc1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwcm9wc1w+</last-pattern>
+      <last-replace>Track</last-replace>
+      <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
