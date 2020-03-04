@@ -46,9 +46,9 @@
         <entry>w</entry>
         <entry>action AceAction</entry>
         <entry>q</entry>
-        <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -165,7 +165,7 @@
         <mark key="." line="10" column="51" />
         <mark key="^" line="9" column="61" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1583315272859">
+      <file name="/GraphQL.result.json" timestamp="1583316651302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/AuthorizationChangeHandler.php" timestamp="1582902393201">
@@ -174,6 +174,7 @@
         <mark key="." line="89" column="92" />
         <mark key="^" line="89" column="93" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/background.js" timestamp="1583317080109" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1583256358866">
         <mark key="'" line="38" column="21" />
         <mark key="[" line="64" column="10" />
@@ -196,6 +197,9 @@
         <mark key="]" line="27" column="51" />
         <mark key="." line="27" column="50" />
         <mark key="^" line="27" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/manifest.json" timestamp="1583317359765">
+        <mark key="[" line="5" column="119" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/emailDelegationService.ts" timestamp="1582922014793">
         <mark key="[" line="10" column="43" />
@@ -386,7 +390,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCAhICRhY2MpIHsKICAgICAgICAgICAgICAgIHJldHVybiAkc291cmNlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>vsp</text>
       </register>
     </registers>
   </component>
