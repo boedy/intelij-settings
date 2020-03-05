@@ -140,7 +140,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1583341013513" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1583342170278">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/manifest.json" timestamp="1583329484121">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="24" />
@@ -151,11 +154,6 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/permissionController.ts" timestamp="1583073551275">
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="13" column="6" />
       </file>
       <file name="/Dummy.txt" timestamp="1583332452208">
         <mark key="[" line="0" column="0" />
@@ -207,10 +205,16 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1583341068082">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/CloudProcessor.php" timestamp="1583342368954">
+        <mark key="[" line="76" column="28" />
+        <mark key="]" line="76" column="22" />
+        <mark key="." line="76" column="21" />
+        <mark key="^" line="76" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1583342098294">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
         <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/package.json" timestamp="1583322620424">
@@ -325,8 +329,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Mp3CloudSilenceStripper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -338,16 +342,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Mp3CloudSilenceStripper</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9wc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>playlists[playlistId]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJG1wM1ZhbGlkYXRvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -365,31 +369,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChuZXcgUmVtb3ZlVHJhaWxpbmdTaWxlbmNlSm9iKCRzb3VyY2UpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gbG9nTGFyZ2VTaWxlbmNlRGV0ZWN0ZWQoU291cmNlICRzb3VyY2UsICRyZWR1Y3Rpb24pCiAgICB7CiAgICAgICAgJHBlcmNlbnRhZ2UgPSByb3VuZCgoZmxvYXQpJHJlZHVjdGlvbiAqIDEwMCApIC4gJyUnOwogICAgICAgICRtZXNzYWdlID0gJHBlcmNlbnRhZ2UuJyBzaWxlbmNlIHJlbW92ZWQgZnJvbSBzb3VyY2U6Jy4kc291cmNlLT5nZXRJZCgpOwogICAgICAgIExvZzo6bm90aWNlKCRtZXNzYWdlKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChuZXcgUmVtb3ZlVHJhaWxpbmdTaWxlbmNlSm9iKCRzb3VyY2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZW0tPnBlcnNpc3QoJHNvdXJjZSk7CiAgICAgICAgJGVtLT5mbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm1wM1NwbGl0LT5zdHJpcFNpbGVuY2UoJGZpbGVQYXRoKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text>Refactor content script serving</text>
+      <register name="6" type="4">
+        <text>{
+        
+    }</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm1wM1NwbGl0LT5zdHJpcFNpbGVuY2UoJGZpbGVQYXRoKTsKICAgICAgICAgICAgaWYoICEgJHRoaXMtPm1wM1ZhbGlkYXRvci0+dmFsaWRhdGUoJGZpbGVQYXRoKSl7CiAgICAgICAgICAgICAgICAkdGhpcy0+bG9nSW52YWxpZE1wMygkc291cmNlLCAkdGhpcy0+bXAzVmFsaWRhdG9yLT5nZXRXYXJuaW5ncygpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text>fixup! Resolve errors caused by webpack in watch mode</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZXZ0b29sOiAnY2hlYXAtbW9kdWxlLXNvdXJjZS1tYXAnLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJG1wM1NwbGl0OwoKICAgIHByaXZhdGUgJG1wM1ZhbGlkYXRvcjsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
