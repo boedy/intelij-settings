@@ -151,12 +151,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/services/api.js" timestamp="1583322765523">
-        <mark key="[" line="47" column="11" />
-        <mark key="]" line="47" column="12" />
-        <mark key="^" line="47" column="12" />
-        <mark key="." line="47" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1583342170278">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="26" />
@@ -168,10 +162,11 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1583408418434">
+      <file name="/Dummy.txt" timestamp="1583412850042">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/tests/Domain/Track/TrackTest.php" timestamp="1583408052007">
         <mark key="'" line="39" column="46" />
@@ -213,11 +208,16 @@
         <mark key="." line="103" column="30" />
         <mark key="^" line="103" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/Makefile" timestamp="1583409431255">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="10" column="48" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/Makefile" timestamp="1583413132106">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/tests/jobs/AddLowerBitrateCopyTest.php" timestamp="1583413221322">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1583342098294">
         <mark key="[" line="41" column="0" />
@@ -331,8 +331,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LXcgL3Zhci93d3cvaHRtbCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUBkb2NrZXIgZXhlYyAkKFBST0pFQ1QpX3BocF8xIHBocCB2ZW5kb3IvYmluL3BocHVuaXQgJChmaWx0ZXItb3V0ICRALCQoTUFLRUNNREdPQUxTKSkgLS1jb2xvcnM9ImFsd2F5cyIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -344,7 +344,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LXcgL3Zhci93d3cvaHRtbCA=</text>
+        <text>PHPUnit_Framework_TestCase</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9wc1w+</text>
@@ -353,7 +353,7 @@
         <text encoding="base64">cGhwdW5pdDoKCUBkb2NrZXIgZXhlYyAkKFBST0pFQ1QpX3BocF8xIHBocCB2ZW5kb3IvYmluL3BocHVuaXQgJChmaWx0ZXItb3V0ICRALCQoTUFLRUNNREdPQUxTKSkgLS1jb2xvcnM9ImFsd2F5cyIK</text>
       </register>
       <register name="1" type="2">
-        <text>Update authorization reference logic</text>
+        <text encoding="base64">CUBkb2NrZXIgZXhlYyAkKFBST0pFQ1QpX3BocF8xIHBocCB2ZW5kb3IvYmluL3BocHVuaXQgJChmaWx0ZXItb3V0ICRALCQoTUFLRUNNREdPQUxTKSkgLS1jb2xvcnM9ImFsd2F5cyIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -371,33 +371,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCdhcnRpc3QgMScsICRzb3VyY2UtPmdldEFyKCkpOwo=</text>
+        <text encoding="base64">dGVzdC1qb2JzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9jay0+c2hvdWxkUmVjCg==</text>
+        <text encoding="base64">CUBkb2NrZXIgZXhlYyAtdyAvdmFyL3d3dy9odG1sICQoUFJPSkVDVClfam9ic18xIHBocCB2ZW5kb3IvYmluL3BocHVuaXQgJChmaWx0ZXItb3V0ICRALCQoTUFLRUNNREdPQUxTKSkgLS1jb2xvcnM9ImFsd2F5cyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gbG9nTGFyZ2VTaWxlbmNlRGV0ZWN0ZWQoU291cmNlICRzb3VyY2UsICRyZWR1Y3Rpb24pCiAgICB7CiAgICAgICAgJHBlcmNlbnRhZ2UgPSByb3VuZCgoZmxvYXQpJHJlZHVjdGlvbiAqIDEwMCApIC4gJyUnOwogICAgICAgICRtZXNzYWdlID0gJHBlcmNlbnRhZ2UuJyBzaWxlbmNlIHJlbW92ZWQgZnJvbSBzb3VyY2U6Jy4kc291cmNlLT5nZXRJZCgpOwogICAgICAgIExvZzo6bm90aWNlKCRtZXNzYWdlKTsKICAgIH0K</text>
+        <text>Update authorization reference logic</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCdhcnRpc3QgMScsICRzb3VyY2UtPmdldEFyKCkpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbW9jay0+c2hvdWxkUmVjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm1wM1NwbGl0LT5zdHJpcFNpbGVuY2UoJGZpbGVQYXRoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gbG9nTGFyZ2VTaWxlbmNlRGV0ZWN0ZWQoU291cmNlICRzb3VyY2UsICRyZWR1Y3Rpb24pCiAgICB7CiAgICAgICAgJHBlcmNlbnRhZ2UgPSByb3VuZCgoZmxvYXQpJHJlZHVjdGlvbiAqIDEwMCApIC4gJyUnOwogICAgICAgICRtZXNzYWdlID0gJHBlcmNlbnRhZ2UuJyBzaWxlbmNlIHJlbW92ZWQgZnJvbSBzb3VyY2U6Jy4kc291cmNlLT5nZXRJZCgpOwogICAgICAgIExvZzo6bm90aWNlKCRtZXNzYWdlKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
