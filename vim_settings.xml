@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdcPg==</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry encoding="base64">XDx0YWdzXD4=</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxmaXJzdEJ1ZmZlclw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set visualbell</entry>
@@ -171,19 +171,12 @@
       <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/search/index.js" timestamp="1583764851641">
         <mark key="[" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/tests/Integration/TrackControllerTest.php" timestamp="1583408344807">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="39" column="55" />
-        <mark key="]" line="39" column="57" />
-        <mark key="." line="39" column="56" />
-        <mark key="^" line="39" column="57" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/storage.js" timestamp="1583850998963">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/removeExtra.js" timestamp="1583850229198">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="17" />
-      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/removeExtra.js" timestamp="1583853959089" />
       <file name="/GraphQL.result.json" timestamp="1583848370356">
         <mark key="[" line="0" column="0" />
       </file>
@@ -312,7 +305,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>foo</text>
+        <text>sometextfile.txt</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -324,16 +317,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>sometextfile.txt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9wc1w+</text>
+        <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvY2tNYW5hZ2VyLT5zdG9wcGVkUHJvY2Vzc2luZygkc291cmNlKTsK</text>
+        <text encoding="base64">c2hlbGwoJ2NwIC1yIC9kYXRhL2F0bW9zcGhlcmUuZGIgL2RhdGEvZGF0YWJhc2UnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGIub3BlbigoKSA9PiB7CiAgY29uc29sZS5sb2coJ29wZW4nKTsKICBkYi5nZXQoJ3RyYWNrcycsIHZhbCA9PiB7CiAgICBjb25zb2xlLmxvZyh2YWwpOwogIH0pOwp9KTsK</text>
+        <text encoding="base64">dGV4dCBtb3JlIHRleHQKYW5kIGFub3RoZXIgbGluZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,31 +344,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgbGV2ZWxkb3duID0gcmVxdWlyZSgnbGV2ZWxkb3duJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgbGV2ZWx1cCA9IHJlcXVpcmUoJ2xldmVsdXAnKTsKY29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwoKY29uc3Qgc2hlbGwgPSByZXF1aXJlKCdjaGlsZF9wcm9jZXNzJykuZXhlY1N5bmM7CmNvbnN0IGxvY2F0aW9uID0gJy9kYXRhL2RhdGFiYXNlJzsKCnNoZWxsKGBjcCAtciAvZGF0YS9hdG1vc3BoZXJlLmRiICR7bG9jYXRpb259YCk7CmNvbnN0IGRiID0gbGV2ZWx1cChsb2NhdGlvbik7CgpkYi5nZXQoJ2F0bW9zcGhlcmUnLCAoZXJyLCB2YWx1ZSkgPT4gewogIGlmIChlcnIpIHJldHVybiBjb25zb2xlLmxvZygnZm9vIGRvZXMgbm90IGV4aXN0Jyk7CiAgY29uc3QganNvbiA9IEpTT04ucGFyc2UodmFsdWUpOwogIC8vIGNvbnNvbGUubG9nKGpzb24uZmlsZXMpOwogIGNvbnN0IGZpbGVTdG9yZWQgPSBPYmplY3QudmFsdWVzKGpzb24uZmlsZXMpLm1hcChmID0+CiAgICBmLnJlcGxhY2UoJ3RyYWNrcy8nLCAnJykKICApOwoKICBsZXQgdG9SZW1vdmUgPSAwOwogIGxldCB0b0tlZXAgPSAwOwoKICBmcy5yZWFkZGlyKCcvZGF0YS90cmFja3MnLCAocmVhZEVyciwgZmlsZXMpID0+IHsKICAgIGlmIChyZWFkRXJyKSByZXR1cm47CiAgICBmaWxlcy5mb3JFYWNoKGZpbGUgPT4gewogICAgICAvLyBEbyB3aGF0ZXZlciB5b3Ugd2FudCB0byBkbyB3aXRoIHRoZSBmaWxlCiAgICAgIGlmIChmaWxlU3RvcmVkLmluY2x1ZGVzKGZpbGUpKSB7CiAgICAgICAgdG9LZWVwKys7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgY29uc3QgZmlsZVBhdGggPSBgL2RhdGEvdHJhY2tzLyR7ZmlsZX1gOwogICAgICAgIGZzLnVubGlua1N5bmMoZmlsZVBhdGgpOwogICAgICAgIGNvbnNvbGUubG9nKCdyZW1vdmVkJywgZmlsZVBhdGgpOwogICAgICAgIHRvUmVtb3ZlKys7CiAgICAgIH0KICAgIH0pOwogICAgY29uc29sZS5sb2coJ1JlbW92ZWQnLCB0b1JlbW92ZSwgJ0tlcHQnLCB0b0tlZXApOwogICAgc2hlbGwoJ3JtIC1yZiAvZGF0YS9kYXRhYmFzZScpOwogIH0pOwp9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSgnQGJhYmVsL3JlZ2lzdGVyJykoewogIHByZXNldHM6IFtbJ0BiYWJlbC9wcmVzZXQtZW52JywgeyB0YXJnZXRzOiB7IG5vZGU6IHRydWUgfSB9XV0sCiAgaWdub3JlOiBbL1tcXC9dbm9kZV9tb2R1bGVzW1xcL10vXSwKfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SWYgbm8gbWFpbiBhcnRpc3QuIFBpY2sgZmlyc3QgYXJ0aXN0IA==</text>
+        <text encoding="base64">Ly8gV2lsbCB0aHJvdyBpZiBhbiBlcnJvciBvY2N1cnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
+        <text encoding="base64">Y29uc3QgbG9jYXRpb24gPSAnL2RhdGEvZGF0YWJhc2UnOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndXJsJywgZGF0YSk7Cg==</text>
+        <text encoding="base64">c2hlbGwoJ2NwIC1yIC9kYXRhL2F0bW9zcGhlcmUuZGIgL2RhdGEvZGF0YWJhc2UnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">Cn4KICB+CiAgICB+CiAgICAgIH4KICAgICAgICB+CiAgICAgICAgICB+CiAgICAgICAgICAgIH4KICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgIH4KICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICAgIH4KICAgICAgICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyOCwzNC00MSAgICAgIEFsbA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwKTsK</text>
+        <text encoding="base64">ICAgIC8vaGFuZGxpbmcgZXJyb3IKICAgIGlmIChlcnIpIHsKICAgICAgcmV0dXJuIGNvbnNvbGUubG9nKCdVbmFibGUgdG8gc2NhbiBkaXJlY3Rvcnk6ICcgKyBlcnIpOwogICAgfQogICAgLy9saXN0aW5nIGFsbCBmaWxlcyB1c2luZyBmb3JFYWNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
@@ -384,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcm9wc1w+</last-search>
+      <last-search encoding="base64">XDwnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9wc1w+</last-pattern>
+      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
       <last-dir>-1</last-dir>
