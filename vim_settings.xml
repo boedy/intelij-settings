@@ -44,11 +44,11 @@
         <entry>action AceAction</entry>
         <entry>q</entry>
         <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,14 +130,24 @@
         <mark key="." line="190" column="0" />
         <mark key="^" line="186" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" timestamp="1584113437123">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="56" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" timestamp="1584117905546">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="65" column="30" />
+        <mark key="]" line="28" column="46" />
+        <mark key="^" line="28" column="46" />
+        <mark key="." line="28" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/LowerMinBitrateForPlaylist.php" timestamp="1584113260452">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/LowerMinBitrateForPlaylist.php" timestamp="1584115353112">
+        <mark key="[" line="43" column="54" />
+        <mark key="]" line="43" column="55" />
+        <mark key="." line="43" column="54" />
+        <mark key="^" line="43" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1584117840408">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="45" />
+        <mark key="." line="38" column="44" />
+        <mark key="^" line="38" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3LocalNormalizer.php" timestamp="1584113504024">
         <mark key="[" line="27" column="69" />
@@ -145,29 +155,18 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1584050365368">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="56" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Source/Storage.php" timestamp="1584048486883">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1584117592129">
+        <mark key="'" line="77" column="20" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="42" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/test/dgraph/src/dataloader.ts" timestamp="1584098879833">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="51" />
         <mark key="." line="27" column="50" />
         <mark key="^" line="27" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/TrackStorage.php" timestamp="1584048883913">
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="38" column="47" />
-        <mark key="^" line="38" column="47" />
-        <mark key="." line="38" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/test/dgraph/index.ts" timestamp="1584098714430">
         <mark key="[" line="13" column="0" />
@@ -180,17 +179,21 @@
         <mark key="." line="27" column="37" />
         <mark key="^" line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1584113542345">
-        <mark key="[" line="54" column="63" />
-        <mark key="]" line="54" column="95" />
-        <mark key="." line="54" column="94" />
-        <mark key="^" line="54" column="95" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/RemoveTrailingSilenceJob.php" timestamp="1584116690773">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3Gain.php" timestamp="1584112897912">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="9" />
-        <mark key="^" line="24" column="36" />
-        <mark key="." line="22" column="21" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1584114636889">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="52" column="95" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3Gain.php" timestamp="1584113783783">
+        <mark key="[" line="24" column="55" />
+        <mark key="]" line="24" column="55" />
+        <mark key="." line="24" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/test/dgraph/fromJson.ts" timestamp="1584098918253">
         <mark key="'" line="179" column="0" />
@@ -209,7 +212,7 @@
         <mark key="^" line="18" column="53" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1584113356323">
+      <file name="/Dummy.txt" timestamp="1584116397171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Kernel.php" timestamp="1584103303187">
@@ -221,18 +224,20 @@
       <file name="/GraphQL.result.json" timestamp="1584098600619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Source/SourceStorage.php" timestamp="1584049453298">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="35" />
-        <mark key="." line="41" column="34" />
-        <mark key="^" line="41" column="35" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Source/SourceStorage.php" timestamp="1584117224937">
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="31" />
+        <mark key="^" line="42" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1584104128968" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1584116272196">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="38" column="9" />
+        <mark key="^" line="38" column="9" />
+        <mark key="." line="38" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/BillingDetailsRegistered.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/BillingDetailsRegistered.ts" />
-      <jump line="56" column="32" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/EventPublisher.ts" />
       <jump line="68" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/EventPublisher.ts" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/requests/AccountDelegation.ts" />
       <jump line="61" column="1" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/requests/AccountDelegation.ts" />
@@ -330,12 +335,15 @@
       <jump line="33" column="0" filename="$USER_HOME$/Projects/atmosphere/api/tests/Integration/TrackControllerTest.php" />
       <jump line="59" column="27" filename="$USER_HOME$/Projects/test/dgraph/fromJson.ts" />
       <jump line="170" column="0" filename="$USER_HOME$/Projects/test/dgraph/fromJson.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" />
+      <jump line="77" column="20" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>file</text>
+        <text>storageFactory</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -347,16 +355,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>storageFactory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm1wM0dhaW4tPm5vcm1hbGl6ZSgkZmlsZSwgJGRlY2liZWxzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkbmV3U291cmNlID0gbmV3IFNvdXJjZShuZXcgTXAzKCRsb2NhbFBhdGgpKTsKICAgICAgICAkdGhpcy0+dmFsaWRhdGVTb3VyY2UoJG5ld1NvdXJjZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHN0b3JhZ2VGYWN0b3J5LT5jcmVhdGUoJ2xvY2FsJyksICRzdG9yYWdlRmFjdG9yeS0+Y3JlYXRlKCdjbG91ZCcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -374,34 +382,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbm9ybWFsaXplKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJvY2VzcygpIG1ldGhvZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkam9iMiA9IG5ldyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmZhaWx1cmVIYW5kbGVyKCRlLCAkc291cmNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJGZpbGVQYXRoKSkgewogICAgICAgICAgICAkdGhpcy0+bG9jYWxGaWxlU3lzdGVtLT5kZWxldGVGaWxlKCRmaWxlUGF0aCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzdGhydSgkY29tbWFuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNvdXJjZSA9ICR0aGlzLT5zdG9yZUZpbGUoJHNvdXJjZSwgJGZpbGUpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxvY2FsUGF0aCA9ICR0aGlzLT5zb3VyY2VTdG9yYWdlLT5mZXRjaCgkc291cmNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tbWFuZCA9IHNwcmludGYoCiAgICAgICAgICAgICdmZm1wZWcgLWkgIiVzIiAtYWNvZGVjIGxpYm1wM2xhbWUgLWFmIHZvbHVtZT1yZXBsYXlnYWluPXRyYWNrIC1hYyAyIC1hYiAlZGsgLWFyIDQ0MTAwICIlcyInLAogICAgICAgICAgICAkaW5wdXQsICRiaXRyYXRlLCAkb3V0cHV0CiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZpbGUgPSAkdGhpcy0+Z2V0RmlsZSgkc291cmNlKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusUp</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
   </component>
