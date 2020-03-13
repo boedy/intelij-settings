@@ -47,8 +47,8 @@
         <entry>action AceAction</entry>
         <entry>q</entry>
         <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,6 +125,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Files/Mp3.php" timestamp="1584047312671" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Track.php" timestamp="1584101928625">
+        <mark key="[" line="172" column="15" />
+        <mark key="]" line="172" column="21" />
+        <mark key="." line="172" column="20" />
+        <mark key="^" line="172" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1584050365368">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="8" />
@@ -149,7 +155,6 @@
         <mark key="^" line="38" column="47" />
         <mark key="." line="38" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/fileStorage.js" timestamp="1583849153994" />
       <file name="$USER_HOME$/Projects/test/dgraph/index.ts" timestamp="1584098714430">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -203,12 +208,11 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1584050705506">
-        <mark key="'" line="43" column="21" />
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="39" />
-        <mark key="^" line="53" column="40" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1584101985889">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="38" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/index.js" timestamp="1583849171277" />
     </filemarks>
@@ -317,8 +321,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>organisationId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -330,16 +334,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>organisationId</text>
+        <text>mixed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgZGF0YWxvYWRlci5hZGRSZXNvdXJjZSgnbG9jYXRpb246JyArIGxvY2F0aW9uSWQsICdvcmdhbmlzYXRpb246JyArIG9yZ2FuaXNhdGlvbklkKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoICEgJHRoaXMtPmhhc1NvdXJjZXMoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRG9tYWluRXhjZXB0aW9uKCdUcmFjayBkb2VzIG5vdCBoYXZlIGFueSBzb3VyY2VzJyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBkYXRhbG9hZGVyLmFkZFJlc291cmNlKCdwbGF5bGlzdDonICsgcGxheWxpc3QuaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,34 +361,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gKCkKICAgIHsKCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGx3cC5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTb3VyY2UgJGhpZ2hlc3RCaXRyYXRlU291cmNlICovCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGx3cCA9IHJlcXVpcmUoJy4uL2x3cC5qc29uJyk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">YXJyYXlfcmVkdWNlKAogICAgICAgICAgICAkdHJhY2stPmdldFNvdXJjZXMoKSwgZnVuY3Rpb24gKFNvdXJjZSAkYWNjLCBTb3VyY2UgJHNvdXJjZSkgewogICAgICAgICAgICBpZiAoICEgJGFjYyB8fCAkYWNjLT5nZXRCaXRyYXRlKCkgPCAkc291cmNlLT5nZXRCaXRyYXRlKCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiAkc291cmNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAkYWNjOwogICAgICAgIH0pOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbHdwID0gcmVxdWlyZSgnLi4vbHdwLmpzb24nKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdGhpcy0+c291cmNlcyBhcyAkc291cmNlKXsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYml0cmF0ZVByb2Nlc3NvciA9IG5ldyBNcDNDbG91ZEJpdHJhdGVDb252ZXJ0ZXIoCiAgICAgICAgICAgICRzdG9yYWdlRmFjdG9yeS0+Y3JlYXRlKCdsb2NhbCcpLAogICAgICAgICAgICAkc3RvcmFnZUZhY3RvcnktPmNyZWF0ZSgnY2xvdWQnKQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYmVzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
   </component>
