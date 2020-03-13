@@ -137,6 +137,12 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/test/dgraph/src/dataloader.ts" timestamp="1584098879833">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="51" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/TrackStorage.php" timestamp="1584048883913">
         <mark key="[" line="37" column="51" />
         <mark key="]" line="38" column="47" />
@@ -144,6 +150,11 @@
         <mark key="." line="38" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/fileStorage.js" timestamp="1583849153994" />
+      <file name="$USER_HOME$/Projects/test/dgraph/index.ts" timestamp="1584098714430">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/CloudProcessor.php" timestamp="1584050261435">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="27" column="38" />
@@ -160,11 +171,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="53" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/.env" timestamp="1583768453814">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="5" column="21" />
+      <file name="$USER_HOME$/Projects/test/dgraph/fromJson.ts" timestamp="1584098918253">
+        <mark key="'" line="179" column="0" />
+        <mark key="[" line="20" column="116" />
+        <mark key="]" line="20" column="117" />
+        <mark key="." line="20" column="116" />
+        <mark key="^" line="20" column="117" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/package.json" timestamp="1583887506608" />
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/storage.js" timestamp="1583850998963">
@@ -182,7 +194,7 @@
         <mark key="^" line="124" column="16" />
         <mark key="." line="124" column="15" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1583872946267">
+      <file name="/GraphQL.result.json" timestamp="1584098600619">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Source/SourceStorage.php" timestamp="1584049453298">
@@ -201,8 +213,6 @@
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/index.js" timestamp="1583849171277" />
     </filemarks>
     <jumps>
-      <jump line="208" column="0" filename="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/TronTrade/index.ts" />
-      <jump line="132" column="27" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/controllers/accountDelegationController.ts" />
       <jump line="8" column="2" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/BillingDetailsRegistered.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/BillingDetailsRegistered.ts" />
       <jump line="56" column="32" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/EventPublisher.ts" />
@@ -301,12 +311,14 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/atmosphere/api/tests/Domain/Curation/TotalQuotaTest.php" />
       <jump line="36" column="46" filename="$USER_HOME$/Projects/atmosphere/api/tests/Domain/Track/TrackTest.php" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/atmosphere/api/tests/Integration/TrackControllerTest.php" />
+      <jump line="59" column="27" filename="$USER_HOME$/Projects/test/dgraph/fromJson.ts" />
+      <jump line="170" column="0" filename="$USER_HOME$/Projects/test/dgraph/fromJson.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>source</text>
+        <text>organisationId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -318,16 +330,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>source</text>
+        <text>organisationId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Mp3CloudBitrateConverter</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgZGF0YWxvYWRlci5hZGRSZXNvdXJjZSgnbG9jYXRpb246JyArIGxvY2F0aW9uSWQsICdvcmdhbmlzYXRpb246JyArIG9yZ2FuaXNhdGlvbklkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkYXRhbG9hZGVyLmFkZFJlc291cmNlKCdwbGF5bGlzdDonICsgcGxheWxpc3QuaWQpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -345,31 +357,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYml0cmF0ZVByb2Nlc3NvciA9IG5ldyBNcDNDbG91ZEJpdHJhdGVDb252ZXJ0ZXIoCiAgICAgICAgICAgICRzdG9yYWdlRmFjdG9yeS0+Y3JlYXRlKCdsb2NhbCcpLAogICAgICAgICAgICAkc3RvcmFnZUZhY3RvcnktPmNyZWF0ZSgnY2xvdWQnKQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGx3cC5sZW5ndGgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ogo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGx3cCA9IHJlcXVpcmUoJy4uL2x3cC5qc29uJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBTb3VyY2VTdG9yYWdlCiAgICAgKi8KICAgIHByaXZhdGUgJHNvdXJjZVN0b3JhZ2U7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KFN0b3JhZ2VGYWN0b3J5ICRzdG9yYWdlKQogICAgewogICAgICAgICR0aGlzLT5zb3VyY2VTdG9yYWdlID0gbmV3IFNvdXJjZVN0b3JhZ2UoJHN0b3JhZ2UpOwogICAgICAgIHBhcmVudDo6CiAgICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgbHdwID0gcmVxdWlyZSgnLi4vbHdwLmpzb24nKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRsb2NhbCwgJGNsb3VkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYml0cmF0ZVByb2Nlc3NvciA9IG5ldyBNcDNDbG91ZEJpdHJhdGVDb252ZXJ0ZXIoCiAgICAgICAgICAgICRzdG9yYWdlRmFjdG9yeS0+Y3JlYXRlKCdsb2NhbCcpLAogICAgICAgICAgICAkc3RvcmFnZUZhY3RvcnktPmNyZWF0ZSgnY2xvdWQnKQogICAgICAgICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
