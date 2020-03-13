@@ -47,8 +47,8 @@
         <entry>action AceAction</entry>
         <entry>q</entry>
         <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,11 +125,17 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Files/Mp3.php" timestamp="1584047312671" />
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Track.php" timestamp="1584101928625">
-        <mark key="[" line="172" column="15" />
-        <mark key="]" line="172" column="21" />
-        <mark key="." line="172" column="20" />
-        <mark key="^" line="172" column="21" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Track.php" timestamp="1584104015339">
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
+        <mark key="^" line="186" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/LowerMinBitrateForPlaylist.php" timestamp="1584103689375">
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
+        <mark key="^" line="41" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1584050365368">
         <mark key="[" line="17" column="8" />
@@ -170,10 +176,10 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="43" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1584050496191">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1584104287063">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="37" />
+        <mark key="." line="46" column="37" />
         <mark key="^" line="53" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/test/dgraph/fromJson.ts" timestamp="1584098918253">
@@ -183,15 +189,19 @@
         <mark key="." line="20" column="116" />
         <mark key="^" line="20" column="117" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/package.json" timestamp="1583887506608" />
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/storage.js" timestamp="1583850998963">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/SendTestNotificationMails.php" timestamp="1584102805440">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="49" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/removeExtra.js" timestamp="1583869591307" />
-      <file name="/Dummy.txt" timestamp="1584048456775">
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/package.json" timestamp="1583887506608" />
+      <file name="/Dummy.txt" timestamp="1584104130753">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Kernel.php" timestamp="1584103303187">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="41" />
+        <mark key="^" line="21" column="41" />
+        <mark key="." line="21" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/AuthorizationService.php" timestamp="1583942958012">
         <mark key="[" line="124" column="21" />
@@ -208,13 +218,7 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1584101985889">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="38" column="60" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/index.js" timestamp="1583849171277" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1584104128968" />
     </filemarks>
     <jumps>
       <jump line="8" column="2" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/BillingDetailsRegistered.ts" />
@@ -321,8 +325,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -334,13 +338,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mixed</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoICEgJHRoaXMtPmhhc1NvdXJjZXMoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRG9tYWluRXhjZXB0aW9uKCdUcmFjayBkb2VzIG5vdCBoYXZlIGFueSBzb3VyY2VzJyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRiZXN0UXVhbGl0eSA9ICRzb3VyY2U7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -361,34 +365,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gKCkKICAgIHsKCiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTb3VyY2UgJGhpZ2hlc3RCaXRyYXRlU291cmNlICovCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">YXJyYXlfcmVkdWNlKAogICAgICAgICAgICAkdHJhY2stPmdldFNvdXJjZXMoKSwgZnVuY3Rpb24gKFNvdXJjZSAkYWNjLCBTb3VyY2UgJHNvdXJjZSkgewogICAgICAgICAgICBpZiAoICEgJGFjYyB8fCAkYWNjLT5nZXRCaXRyYXRlKCkgPCAkc291cmNlLT5nZXRCaXRyYXRlKCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiAkc291cmNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAkYWNjOwogICAgICAgIH0pOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkc291cmNlOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBhcnJheV9yZWR1Y2UoCi8vICAgICAgICAgICAgJHRoaXMtPnNvdXJjZXMsIGZ1bmN0aW9uIChTb3VyY2UgJGFjYywgU291cmNlICRzb3VyY2UpIHsKLy8gICAgICAgICAgICBpZiAoICEgJGFjYyB8fCAkYWNjLT5nZXRCaXRyYXRlKCkgPCAkc291cmNlLT5nZXRCaXRyYXRlKCkpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuICRzb3VyY2U7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIHJldHVybiAkYWNjOwovLyAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCAhICRhY2MgfHwgJGFjYy0+Z2V0Qml0cmF0ZSgpIDwgJHNvdXJjZS0+Z2V0Qml0cmF0ZSgpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHNvdXJjZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbgo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdGhpcy0+c291cmNlcyBhcyAkc291cmNlKXsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYmVzdAo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c291cmNlcy0+cmVkdWNlKGZ1bmN0aW9uIChTb3VyY2UgJGFjYywgU291cmNlICRzb3VyY2UpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
   </component>
