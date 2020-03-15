@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry encoding="base64">XDx0YWdzXD4=</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDwnXD4=</entry>
+        <entry encoding="base64">XDxTRUxFQ1RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set visualbell</entry>
@@ -173,22 +173,22 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/CloudProcessor.php" timestamp="1584050261435">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="27" column="38" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="38" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/RemoveTrailingSilenceJob.php" timestamp="1584116690773">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1584114636889">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="52" column="95" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1584206781641">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="50" column="95" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" timestamp="1584208721305">
+        <mark key="[" line="64" column="12" />
+        <mark key="]" line="64" column="8" />
+        <mark key="." line="64" column="7" />
+        <mark key="^" line="64" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/test/dgraph/fromJson.ts" timestamp="1584098918253">
         <mark key="'" line="179" column="0" />
@@ -207,8 +207,8 @@
         <mark key="^" line="18" column="53" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1584118242381">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1584208672102">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/events/EventPublisher.ts" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/requests/AccountDelegation.ts" />
       <jump line="61" column="1" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/requests/AccountDelegation.ts" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/requests/AccountDelegation.ts" />
@@ -335,12 +334,13 @@
       <jump line="27" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" />
       <jump line="77" column="20" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" />
+      <jump line="55" column="29" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>convert source to lower bitrate</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -352,16 +352,26 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>convert source to lower bitrate</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwnXD4=</text>
+        <text encoding="base64">XDxTRUxFQ1RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV3U291cmNlID0gbmV3IFNvdXJjZShuZXcgTXAzKCRsb2NhbFBhdGgpKTsKICAgICAgICAkdGhpcy0+dmFsaWRhdGVTb3VyY2UoJG5ld1NvdXJjZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>SELECT p.*, count(*) item_count, round(sum(size*8/bitrate)) duration
+                        FROM playlist_item pi
+                        JOIN playlist p on playlist_id = p.id 
+                        JOIN (
+                            SELECT track_id, bitrate, size
+                            FROM track_source ts
+                            WHERE ts.track_id = playlist_item.track_id
+                            GROUP BY ts.track_id = pi.track_id
+                            )
+                        ) ts ON ts.track_id = 
+                        WHERE deleted_at IS NULL AND playlist_id = ?</text>
       </register>
       <register name="1" type="2">
-        <text>Job for adding lower bitra</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVCAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -379,33 +389,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text>Update authorization reference logic
-
-time:00:30</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gKAo=</text>
       </register>
       <register name="3" type="2">
-        <text>Update authorization reference logic</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0b3JhZ2VGYWN0b3J5LT5jcmVhdGUoJ2xvY2FsJyksICRzdG9yYWdlRmFjdG9yeS0+Y3JlYXRlKCdjbG91ZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgU0VMRUNUIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgbWF4KHNpemUpLCBtYXgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gdHJhY2tfc291cmNlIHRzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSB0cy50cmFja19pZCA9IHBsYXlsaXN0X2l0ZW0udHJhY2tfaWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdST1VQIEJZIHRzLnRyYWNrX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJvY2VzcygpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gdHJhY2tfc291cmNlIHRzIE9OIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiB0cmFja19zb3VyY2UgdHMgT04gdHMudHJhY2tfaWQgPSBwbGF5bGlzdF9pdGVtLnRyYWNrX2lkCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmZhaWx1cmVIYW5kbGVyKCRlLCAkc291cmNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR1JPVVAgQlkgcC5pZCwgdHMudHJhY2tfaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJGZpbGVQYXRoKSkgewogICAgICAgICAgICAkdGhpcy0+bG9jYWxGaWxlU3lzdGVtLT5kZWxldGVGaWxlKCRmaWxlUGF0aCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkbXAzR2FpbiA9IG5ldyBNcDNHYWluKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNvdXJjZSA9ICR0aGlzLT5zdG9yZUZpbGUoJHNvdXJjZSwgJGZpbGUpOwo=</text>
+        <text>Job for adding lower bitra</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
@@ -414,9 +422,9 @@ time:00:30</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDwnXD4=</last-search>
+      <last-search encoding="base64">XDxTRUxFQ1RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTRUxFQ1RcPg==</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
       <last-dir>-1</last-dir>
