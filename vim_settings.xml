@@ -162,16 +162,17 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="74" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dgraph/src/dataloader.ts" timestamp="1584098879833">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="51" />
-        <mark key="." line="27" column="50" />
-        <mark key="^" line="27" column="51" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistItemQuery.php" timestamp="1584271125794">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="38" />
+        <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/test/dgraph/index.ts" timestamp="1584098714430">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/AuthorizationChangeHandler.php" timestamp="1584270716172">
+        <mark key="[" line="56" column="5" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="14" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/RemoveTrailingSilenceJob.php" timestamp="1584116690773">
         <mark key="[" line="40" column="0" />
@@ -217,9 +218,6 @@
         <mark key="]" line="21" column="41" />
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="40" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1584098600619">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Source/SourceStorage.php" timestamp="1584117224937">
         <mark key="[" line="42" column="29" />
@@ -340,7 +338,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>count(comments)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -352,23 +350,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>count(comments)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxFQ1RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>SELECT p.*, count(*) item_count, round(sum(size*8/bitrate)) duration
-                        FROM playlist_item pi
-                        JOIN playlist p on playlist_id = p.id 
-                        JOIN (
-                            SELECT track_id, bitrate, size
-                            FROM track_source ts
-                            WHERE ts.track_id = playlist_item.track_id
-                            GROUP BY ts.track_id = pi.track_id
-                            )
-                        ) ts ON ts.track_id = 
-                        WHERE deleted_at IS NULL AND playlist_id = ?</text>
+        <text encoding="base64">JHRoaXMtPm9iamVjdFsnc291cmNlcyddLCAkb3B0aW9ucw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVCAK</text>
