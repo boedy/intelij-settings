@@ -137,11 +137,11 @@
         <mark key="^" line="28" column="46" />
         <mark key="." line="28" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/LowerMinBitrateForPlaylist.php" timestamp="1584115353112">
-        <mark key="[" line="43" column="54" />
-        <mark key="]" line="43" column="55" />
-        <mark key="." line="43" column="54" />
-        <mark key="^" line="43" column="55" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/LowerMinBitrateForPlaylist.php" timestamp="1584365899897">
+        <mark key="[" line="44" column="53" />
+        <mark key="]" line="44" column="80" />
+        <mark key="." line="44" column="79" />
+        <mark key="^" line="44" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1584117840408">
         <mark key="[" line="38" column="13" />
@@ -179,11 +179,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1584206781641">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="50" column="95" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudBitrateConverter.php" timestamp="1584366153169">
+        <mark key="[" line="22" column="71" />
+        <mark key="]" line="22" column="74" />
+        <mark key="." line="22" column="73" />
+        <mark key="^" line="22" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistQuery.php" timestamp="1584208721305">
         <mark key="[" line="64" column="12" />
@@ -191,13 +191,13 @@
         <mark key="." line="64" column="7" />
         <mark key="^" line="64" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/BitrateConverter.php" timestamp="1584112933143">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="53" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/BitrateConverter.php" timestamp="1584366168345">
+        <mark key="[" line="12" column="87" />
+        <mark key="]" line="12" column="87" />
         <mark key="^" line="18" column="53" />
-        <mark key="." line="18" column="52" />
+        <mark key="." line="12" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1584208672102">
+      <file name="/Dummy.txt" timestamp="1584365619956">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -211,11 +211,11 @@
         <mark key="." line="42" column="31" />
         <mark key="^" line="42" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1584116272196">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="38" column="9" />
-        <mark key="^" line="38" column="9" />
-        <mark key="." line="38" column="8" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1584366133083">
+        <mark key="[" line="49" column="53" />
+        <mark key="]" line="49" column="53" />
+        <mark key="^" line="49" column="54" />
+        <mark key="." line="49" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/token.php" timestamp="1584358951626">
         <mark key="[" line="9" column="29" />
@@ -331,7 +331,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>$path.</text>
+        <text>k</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -343,16 +343,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$path.</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxFQ1RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>testingtunes</text>
+        <text>cloudBitrateConverter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHVybCA9ICdodHRwczovL3Rlc3Rpbmd0dW5lcy5iLWNkbi5uZXQvdHVuZTEubXAzJwo=</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,31 +370,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVCAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gKAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQWRkTG93ZXJCaXRyYXRlQ29weSBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSAkdHJhY2tJZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoJHRyYWNrSWQpCiAgICB7CiAgICAgICAgJHRoaXMtPnRyYWNrSWQgPSAkdHJhY2tJZDsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gKAo=</text>
+        <text encoding="base64">JHVybCA9ICdodHRwczovL3Rlc3Rpbmd0dW5lcy5iLWNkbi5uZXQvdHVuZTEubXAzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgU0VMRUNUIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgbWF4KHNpemUpLCBtYXgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gdHJhY2tfc291cmNlIHRzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSB0cy50cmFja19pZCA9IHBsYXlsaXN0X2l0ZW0udHJhY2tfaWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdST1VQIEJZIHRzLnRyYWNrX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gdHJhY2tfc291cmNlIHRzIE9OIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gKAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiB0cmFja19zb3VyY2UgdHMgT04gdHMudHJhY2tfaWQgPSBwbGF5bGlzdF9pdGVtLnRyYWNrX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR1JPVVAgQlkgcC5pZCwgdHMudHJhY2tfaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgU0VMRUNUIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgbWF4KHNpemUpLCBtYXgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gdHJhY2tfc291cmNlIHRzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSB0cy50cmFja19pZCA9IHBsYXlsaXN0X2l0ZW0udHJhY2tfaWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdST1VQIEJZIHRzLnRyYWNrX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbXAzR2FpbiA9IG5ldyBNcDNHYWluKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gdHJhY2tfc291cmNlIHRzIE9OIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
