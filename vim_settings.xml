@@ -142,18 +142,10 @@
         <mark key="." line="44" column="82" />
         <mark key="^" line="44" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1584117840408">
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="38" column="45" />
-        <mark key="." line="38" column="44" />
-        <mark key="^" line="38" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1584117592129">
-        <mark key="'" line="77" column="20" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="52" column="42" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="1" />
+      <file name="$USER_HOME$/Projects/atmosphere/brandchannel-frontend/wercker.yml" timestamp="1584538605101">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Queries/Doctrine/Playlist/DoctrinePlaylistItemQuery.php" timestamp="1584271125794">
         <mark key="[" line="21" column="38" />
@@ -201,7 +193,7 @@
         <mark key="^" line="18" column="53" />
         <mark key="." line="12" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1584530007607">
+      <file name="/Dummy.txt" timestamp="1584538403984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -221,6 +213,11 @@
         <mark key="]" line="9" column="29" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/brandchannel-frontend/package.json" timestamp="1584537893068">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/PlaylistItems.js" timestamp="1584355305209" />
     </filemarks>
@@ -329,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Use real bitrate. (Kilo) bitrate was used</text>
+      <register name="&quot;" type="2">
+        <text>Enable password protected brand channels</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -351,7 +348,7 @@
         <text>. '/' .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzdHJwb3MoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10sICcxM2Q0bWs0bWcnKSAhPT0gZmFsc2UpIHsKICAgICAgICB9Cg==</text>
+        <text>Enable password protected brand channels</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -369,28 +366,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmFwaVVybCAuICcvJyAuICR0aGlzLT5vYmplY3RbJ2ZpbGVQYXRoJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihzdHJwb3MoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10sICcxM2Q0bWs0bWcnKSAhPT0gZmFsc2UpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVudignU09VUkNFU19DRE5fVVJMJywgJHRoaXMtPmFwaVVybCkgLiAnLycgLiAkdGhpcy0+b2JqZWN0WydmaWxlUGF0aCddOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmFwaVVybCAuICcvJyAuICR0aGlzLT5vYmplY3RbJ2ZpbGVQYXRoJ107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>Feature: add copy of track source at a lower bitrate</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVudignU09VUkNFU19DRE5fVVJMJywgJHRoaXMtPmFwaVVybCkgLiAnLycgLiAkdGhpcy0+b2JqZWN0WydmaWxlUGF0aCddOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKiAqIEB2YXIgU291cmNlCiAgICAgKi8K</text>
+        <text>Feature: add copy of track source at a lower bitrate</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKiAqIEB2YXIgU291cmNlCiAgICAgKi8K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="8" type="2">
-        <text>Feature: add copy of track source at a lower bitrate</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text>Feature: add copy of track source at a lower bitrate</text>
