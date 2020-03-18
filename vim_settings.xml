@@ -124,11 +124,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/Track/TrackSourcePresenter.php" timestamp="1584487467420">
-        <mark key="[" line="18" column="57" />
-        <mark key="]" line="18" column="64" />
-        <mark key="." line="18" column="57" />
-        <mark key="^" line="18" column="55" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/Track/TrackSourcePresenter.php" timestamp="1584529910195">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" timestamp="1584117905546">
         <mark key="'" line="81" column="0" />
@@ -137,11 +136,11 @@
         <mark key="^" line="28" column="46" />
         <mark key="." line="28" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/LowerMinBitrateForPlaylist.php" timestamp="1584365899897">
-        <mark key="[" line="44" column="53" />
-        <mark key="]" line="44" column="80" />
-        <mark key="." line="44" column="79" />
-        <mark key="^" line="44" column="80" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/LowerMinBitrateForPlaylist.php" timestamp="1584529715964">
+        <mark key="[" line="44" column="80" />
+        <mark key="]" line="44" column="83" />
+        <mark key="." line="44" column="82" />
+        <mark key="^" line="44" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1584117840408">
         <mark key="[" line="38" column="13" />
@@ -202,7 +201,7 @@
         <mark key="^" line="18" column="53" />
         <mark key="." line="12" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1584487526287">
+      <file name="/Dummy.txt" timestamp="1584529823922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -211,11 +210,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/desktop/src/services/webserver.js" timestamp="1584455951737" />
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1584366133083">
-        <mark key="[" line="49" column="53" />
-        <mark key="]" line="49" column="53" />
-        <mark key="^" line="49" column="54" />
-        <mark key="." line="49" column="53" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1584529740124">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="14" />
+        <mark key="^" line="46" column="54" />
+        <mark key="." line="24" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/token.php" timestamp="1584358951626">
         <mark key="[" line="9" column="29" />
@@ -330,8 +329,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZihzdHJwb3MoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10sICcxM2Q0bWs0bWcnKSAhPT0gZmFsc2UpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -343,7 +342,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxFQ1RcPg==</text>
@@ -351,8 +350,8 @@
       <register name="0" type="4">
         <text>. '/' .</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZihzdHJwb3MoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10sICcxM2Q0bWs0bWcnKSAhPT0gZmFsc2UpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,31 +369,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmFwaVVybCAuICcvJyAuICR0aGlzLT5vYmplY3RbJ2ZpbGVQYXRoJ107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>Feature: add copy of track source at a lower bitrate</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVudignU09VUkNFU19DRE5fVVJMJywgJHRoaXMtPmFwaVVybCkgLiAnLycgLiAkdGhpcy0+b2JqZWN0WydmaWxlUGF0aCddOwo=</text>
       </register>
       <register name="4" type="2">
         <text>Feature: add copy of track source at a lower bitrate</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Qml0cmF0ZSA=</text>
+        <text encoding="base64">ICAgIC8qKiAqIEB2YXIgU291cmNlCiAgICAgKi8K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">RmVhdHVyZTogYWRkIGNvcHkgb2YgdHJhY2sgc291cmNlIGF0IGEgbG93ZXIgYml0cmF0ZQo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>Feature: add copy of track source at a lower bitrate</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQWRkTG93ZXJCaXRyYXRlQ29weSBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSAkdHJhY2tJZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoJHRyYWNrSWQpCiAgICB7CiAgICAgICAgJHRoaXMtPnRyYWNrSWQgPSAkdHJhY2tJZDsKICAgIH0K</text>
+        <text>Feature: add copy of track source at a lower bitrate</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
