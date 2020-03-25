@@ -136,11 +136,11 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Track.php" timestamp="1585149948363">
-        <mark key="[" line="159" column="57" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="178" column="0" />
-        <mark key="^" line="176" column="21" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Track.php" timestamp="1585153701933">
+        <mark key="[" line="172" column="56" />
+        <mark key="]" line="172" column="56" />
+        <mark key="." line="172" column="56" />
+        <mark key="^" line="172" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/payments/getContacts.js" timestamp="1585055711314">
         <mark key="'" line="147" column="20" />
@@ -155,10 +155,11 @@
         <mark key="^" line="20" column="2" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1585148577498">
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1585154255606">
         <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+        <mark key="]" line="45" column="16" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Source/Source.php" timestamp="1585149590978">
         <mark key="[" line="89" column="0" />
@@ -191,11 +192,11 @@
         <mark key="." line="119" column="19" />
         <mark key="^" line="119" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NewTrackSubmissionJob.php" timestamp="1585148887590">
-        <mark key="[" line="39" column="75" />
-        <mark key="]" line="39" column="83" />
-        <mark key="." line="39" column="82" />
-        <mark key="^" line="39" column="83" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NewTrackSubmissionJob.php" timestamp="1585154245546">
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="18" />
+        <mark key="." line="42" column="17" />
+        <mark key="^" line="42" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/AuthorizationChangeHandler.php" timestamp="1585147319427">
         <mark key="[" line="57" column="8" />
@@ -209,17 +210,16 @@
         <mark key="^" line="95" column="4" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1585149541755">
-        <mark key="[" line="42" column="9" />
-        <mark key="]" line="42" column="8" />
-        <mark key="." line="42" column="7" />
-        <mark key="^" line="42" column="8" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1585154281546">
+        <mark key="[" line="69" column="14" />
+        <mark key="]" line="69" column="28" />
+        <mark key="." line="69" column="27" />
+        <mark key="^" line="69" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/reporting/src/api/mixpanel.js" timestamp="1585053391724">
-        <mark key="[" line="99" column="15" />
-        <mark key="]" line="99" column="20" />
-        <mark key="." line="99" column="19" />
-        <mark key="^" line="99" column="20" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/RemoveTrailingSilenceJob.php" timestamp="1585154261927">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="16" />
+        <mark key="." line="45" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/VerifyPermissions.php" timestamp="1585149011144">
         <mark key="[" line="48" column="0" />
@@ -337,8 +337,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -350,16 +350,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHVzZXJJZCwgJHJlc291cmNlLT5lbmNvZGUoKSwgJHRoaXMtPmFjdGlvbg==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxFQ1RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoICEgJHRoaXMtPmhhc1NvdXJjZXMoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRG9tYWluRXhjZXB0aW9uKCdUcmFjayBkb2VzIG5vdCBoYXZlIGFueSBzb3VyY2VzJyk7CiAgICAgICAgfQoKICAgICAgICAkYmVzdFF1YWxpdHkgPSBudWxsOwogICAgICAgIGZvcmVhY2ggKCR0aGlzLT5zb3VyY2VzIGFzICRzb3VyY2UpIHsKICAgICAgICAgICAgaWYgKCAhICRiZXN0UXVhbGl0eSkgewogICAgICAgICAgICAgICAgJGJlc3RRdWFsaXR5ID0gJHNvdXJjZTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICggJGJlc3RRdWFsaXR5LT5nZXRCaXRyYXRlKCkgPCAkc291cmNlLT5nZXRCaXRyYXRlKCkpIHsKICAgICAgICAgICAgICAgICRiZXN0UXVhbGl0eSA9ICRzb3VyY2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuICRiZXN0UXVhbGl0eTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdHJhY2stPmdldElkKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -377,31 +377,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCAkYmVzdFF1YWxpdHktPmdldEJpdHJhdGUoKSA8ICRzb3VyY2UtPmdldEJpdHJhdGUoKSkgewogICAgICAgICAgICAgICAgJGJlc3RRdWFsaXR5ID0gJHNvdXJjZTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCAhICRiZXN0UXVhbGl0eSkgewogICAgICAgICAgICAgICAgJGJlc3RRdWFsaXR5ID0gJHNvdXJjZTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGJlc3RRdWFsaXR5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYmVzdFF1YWxpdHkgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCAkYmVzdFF1YWxpdHktPmdldEJpdHJhdGUoKSA8ICRzb3VyY2UtPmdldEJpdHJhdGUoKSkgewogICAgICAgICAgICAgICAgJGJlc3RRdWFsaXR5ID0gJHNvdXJjZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCAhICRiZXN0UXVhbGl0eSkgewogICAgICAgICAgICAgICAgJGJlc3RRdWFsaXR5ID0gJHNvdXJjZTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBoYXNTaW1pbGFyQml0cmF0ZSgkYml0cmF0ZSkKICAgIHsKICAgICAgICAKICAgIH0KICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGJlc3RRdWFsaXR5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
