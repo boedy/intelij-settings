@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxTRUxFQ1RcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">c2V0IHZpc3VhbGJlbGwgc2V0IG5vZXJyb3JiZWxscyA=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>e kafff.js</entry>
         <entry>e Dockerfile</entry>
@@ -49,6 +48,7 @@
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,9 +124,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/api/.env" timestamp="1585148831967">
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="22" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/.env" timestamp="1585220653311">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="21" />
         <mark key="^" line="26" column="22" />
         <mark key="." line="26" column="21" />
       </file>
@@ -136,6 +136,7 @@
         <mark key="." line="172" column="56" />
         <mark key="^" line="172" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/LowerMinBitrateForPlaylist.php" timestamp="1585223131293" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NormalizeSourceVolumeJob.php" timestamp="1585164337747">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -153,21 +154,18 @@
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/DTO/DeviceConfigDTO.php" timestamp="1585146847604">
-        <mark key="[" line="40" column="20" />
-        <mark key="]" line="40" column="27" />
-        <mark key="^" line="40" column="27" />
-        <mark key="." line="40" column="26" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/.env.wercker" timestamp="1585220579787">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1585220246447">
+      <file name="/Dummy.txt" timestamp="1585220593346">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/vendor/illuminate/bus/Queueable.php" timestamp="1585162079719" />
-      <file name="/GraphQL.result.json" timestamp="1585146796021">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Controllers/UserController.php" timestamp="1585146985990">
         <mark key="[" line="119" column="13" />
         <mark key="]" line="119" column="20" />
@@ -320,7 +318,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>userId</text>
+        <text>SOURCES_BITRATE_COPIES</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -332,16 +330,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>128000,192000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxFQ1RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGV4dGVuZHMgSm9iIGltcGxlbWVudHMgU2hvdWxkUXVldWU=</text>
+        <text>SOURCES_BITRATE_COPIES</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkdHJhY2t3KGN1cikK</text>
+        <text>ccAdded check to prevent duplicate source copies of similar bitrate
+
+time:01:00</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,20 +358,20 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZigkdHJhY2t3KGN1cikK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">JGRpc3BhdGNoZXItPmRpc3BhdGNoTm93KG5ldyBOb3JtYWxpemVTb3VyY2VWb2x1bWVKb2IoJHNvdXJjZSkpOwogICAgICAgICRkaXNwYXRjaGVyLT5kaXNwYXRjaE5vdyhuZXcgUmVtb3ZlVHJhaWxpbmdTaWxlbmNlSm9iKCRzb3VyY2UpKTsKICAgICAgICAKICAgICAgICBpZigkdHJhY2s=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CkZlYXR1cmU6IEFkZCBtdWx0aXBsZSBiaXRyYXRlIGNvcGllcyBvZiB1cGxvYWRlZCB0cmFjayBzb3VyY2U=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkdCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZigkdCkK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -380,13 +380,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTb3VyY2UgJHNvdXJjZSAqLwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTb3VyY2UgJHNvdXJjZSAqLwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>x</text>
       </register>
     </registers>
   </component>
