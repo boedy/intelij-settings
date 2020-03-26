@@ -47,8 +47,8 @@
         <entry>w</entry>
         <entry>action EditorSelectWord</entry>
         <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -147,11 +147,11 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Track/Command/StoreNewTrack.php" timestamp="1585218866272">
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="59" />
-        <mark key="." line="36" column="58" />
-        <mark key="^" line="36" column="59" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Track/Command/StoreNewTrack.php" timestamp="1585219942552">
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="56" />
+        <mark key="." line="37" column="55" />
+        <mark key="^" line="37" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/DTO/DeviceConfigDTO.php" timestamp="1585146847604">
         <mark key="[" line="40" column="20" />
@@ -159,8 +159,8 @@
         <mark key="^" line="40" column="27" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1585217708821">
-        <mark key="[" line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1585220246447">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -174,18 +174,23 @@
         <mark key="." line="119" column="19" />
         <mark key="^" line="119" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NewTrackSubmissionJob.php" timestamp="1585217788877" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NewTrackSubmissionJob.php" timestamp="1585220255255">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="45" column="59" />
+        <mark key="^" line="45" column="59" />
+        <mark key="." line="45" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/AuthorizationChangeHandler.php" timestamp="1585147319427">
         <mark key="[" line="57" column="8" />
         <mark key="]" line="57" column="62" />
         <mark key="." line="57" column="61" />
         <mark key="^" line="57" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/User/DeviceConfig.php" timestamp="1585146726486">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="95" column="4" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Controllers/TrackController.php" timestamp="1585219915979">
+        <mark key="[" line="45" column="67" />
+        <mark key="]" line="45" column="82" />
+        <mark key="^" line="45" column="82" />
+        <mark key="." line="45" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/AddLowerBitrateCopy.php" timestamp="1585216008133">
         <mark key="[" line="69" column="0" />
@@ -314,8 +319,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkdHJhY2t3KGN1cikK</text>
+      <register name="&quot;" type="4">
+        <text>userId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -327,7 +332,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cur</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxFQ1RcPg==</text>
@@ -381,7 +386,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>action TabShiftActions.MoveFocusLeft</text>
       </register>
     </registers>
   </component>
