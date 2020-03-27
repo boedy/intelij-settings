@@ -161,10 +161,21 @@
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1585229215212">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1585299366321">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Kernel.php" timestamp="1585299138490">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/NormalizeRemainingSources.php" timestamp="1585299228578">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/vendor/illuminate/bus/Queueable.php" timestamp="1585162079719" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/NewTrackSubmissionJob.php" timestamp="1585220255255">
@@ -172,12 +183,6 @@
         <mark key="]" line="45" column="59" />
         <mark key="^" line="45" column="59" />
         <mark key="." line="45" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/AuthorizationChangeHandler.php" timestamp="1585147319427">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="62" />
-        <mark key="." line="57" column="61" />
-        <mark key="^" line="57" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Controllers/TrackController.php" timestamp="1585219915979">
         <mark key="[" line="45" column="67" />
@@ -312,7 +317,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBKT0lOIHRyYWNrX3NvdXJjZSB0cyBPTiB0cy50cmFja19pZCA9IHBpLnRyYWNrX2lkCg==</text>
+        <text>Fix queries for accurate track count and duration</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -324,7 +329,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>128000,192000</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxFQ1RcPg==</text>
@@ -333,7 +338,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBKT0lOICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU0VMRUNUIHRyYWNrX2lkLCBiaXRyYXRlLCBzaXplCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gdHJhY2tfc291cmNlIHRzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdST1VQIEJZIHRzLnRyYWNrX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgKSBhcyB0cyBPTiB0cy50cmFja19pZCA9IHBpLnRyYWNrX2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBKT0lOIHRyYWNrX3NvdXJjZSB0cyBPTiB0cy50cmFja19pZCA9IHBpLnRyYWNrX2lkCg==</text>
+        <text>Fix queries for accurate track count and duration</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,33 +356,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB1Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRub3JtYWxpemVyLT5ub3JtYWxpemUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBKT0lOIHRyYWNrX3NvdXJjZSB0cyBPTiB0cy50cmFja19pZCA9IHBpLnRyYWNrX2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>ccAdded check to prevent duplicate source copies of similar bitrate
-
-time:01:00</text>
+        <text encoding="base64">ICAgICAgICAkZGlzcGF0Y2hlci0+ZGlzcGF0Y2hOb3cobmV3IE5vcm1hbGl6ZVNvdXJjZVZvbHVtZUpvYigkc291cmNlKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkdHJhY2t3KGN1cikK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc291cmNlcyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGRpc3BhdGNoZXItPmRpc3BhdGNoTm93KG5ldyBOb3JtYWxpemVTb3VyY2VWb2x1bWVKb2IoJHNvdXJjZSkpOwogICAgICAgICRkaXNwYXRjaGVyLT5kaXNwYXRjaE5vdyhuZXcgUmVtb3ZlVHJhaWxpbmdTaWxlbmNlSm9iKCRzb3VyY2UpKTsKICAgICAgICAKICAgICAgICBpZigkdHJhY2s=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcGxheWxpc3RJZCA9ICR0aGlzLT5hcmd1bWVudCgncGxheWxpc3QnKTsKICAgICAgICAkYml0cmF0ZSA9ICR0aGlzLT5hcmd1bWVudCgnYml0cmF0ZScpOwogICAgICAgICRxdWVyeS0+c2V0UGxheWxpc3RJZCgkcGxheWxpc3RJZCk7CgogICAgICAgICRyZXN1bHRzID0gJHF1ZXJ5LT5mZXRjaCgpOwogICAgICAgIGZvcmVhY2ggKCRyZXN1bHRzIGFzICRlbnRyeSl7CiAgICAgICAgICAgICR0cmFja0lkID0gJGVudHJ5WzBdLT5nZXRUcmFjaygpLT5nZXRJZCgpOwogICAgICAgICAgICBkaXNwYXRjaChuZXcgQWRkTG93ZXJCaXRyYXRlQ29weSgkdHJhY2tJZCwgJGJpdHJhdGUgPyAkYml0cmF0ZSA6IDE5MjAwMCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CkZlYXR1cmU6IEFkZCBtdWx0aXBsZSBiaXRyYXRlIGNvcGllcyBvZiB1cGxvYWRlZCB0cmFjayBzb3VyY2U=</text>
+        <text encoding="base64">ICAgICAgICAkcGxheWxpc3RJZCA9ICR0aGlzLT5hcmd1bWVudCgncGxheWxpc3QnKTsKICAgICAgICAkYml0cmF0ZSA9ICR0aGlzLT5hcmd1bWVudCgnYml0cmF0ZScpOwogICAgICAgICRxdWVyeS0+c2V0UGxheWxpc3RJZCgkcGxheWxpc3RJZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaXJlKERvY3RyaW5lUGxheWxpc3RJdGVtKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkdCkK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBEb2N0cmluZVBsYXlsaXN0SXRlbVF1ZXJ5ICRxdWVyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
