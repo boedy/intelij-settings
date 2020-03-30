@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWdzXD4=</entry>
-        <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
-        <entry encoding="base64">XDxpbml0aWFsRGVsYXlTZWNvbmRzXD4=</entry>
         <entry>php</entry>
         <entry encoding="base64">XDwuXD4=</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
@@ -27,9 +24,11 @@
         <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDxTRUxFQ1RcPg==</entry>
+        <entry>private</entry>
+        <entry encoding="base64">XDxfdXNlcklkXD4=</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>e kafff.js</entry>
         <entry>e Dockerfile</entry>
         <entry>so</entry>
         <entry>w production.yml</entry>
@@ -49,6 +48,7 @@
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>e knexfile.js</entry>
+        <entry>set multiple-cursors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -136,28 +136,23 @@
         <mark key="." line="140" column="70" />
         <mark key="^" line="140" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/Events/PlaybackEvent.ts" timestamp="1585578440490">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="8" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/storage/rdb.ts" timestamp="1585501922252">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="12" column="5" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" timestamp="1585307946702">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/Events/NextTrackEvent.ts" timestamp="1585578049307">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/Events/NextTrackEvent.ts" timestamp="1585576607796">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1585308118022">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1585576283260">
+      <file name="/Dummy.txt" timestamp="1585578015967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -169,15 +164,15 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585576427240">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="16" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585579332481">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585505641787">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="33" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585578104094">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="10" column="68" />
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="33" />
       </file>
@@ -190,22 +185,34 @@
       <file name="/GraphQL.result.json" timestamp="1585499917833">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/Events/EventRepository.ts" timestamp="1585579343437">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/Events/Event.ts" timestamp="1585579172042">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/.env.production" timestamp="1585500487277">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Track/Source/SourceStorage.php" timestamp="1585307815351">
-        <mark key="[" line="42" column="106" />
-        <mark key="]" line="43" column="64" />
-        <mark key="^" line="43" column="64" />
-        <mark key="." line="43" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/docker-compose.yml" timestamp="1585502739916">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1585579057961">
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="46" column="20" />
+        <mark key="^" line="46" column="20" />
+        <mark key="." line="46" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/node_modules/knex/lib/client.js" timestamp="1585503864085">
         <mark key="[" line="50" column="0" />
@@ -332,7 +339,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnUExBWUVSX0ZBSUxVUkUnOiB7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -382,31 +389,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NEXT_TRACK</text>
+        <text>Eventa</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTRUxFQ1RcPg==</text>
+        <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnTkVYVF9UUkFDSyc6IHsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgX3VzZXJJZDsKICAgIHByaXZhdGUgX3RyYWNrSWQ7CiAgICBwcml2YXRlIF9wbGF5bGlzdElkOwogICAgcHJpdmF0ZSBfYml0cmF0ZTsKICAgIHByaXZhdGUgX21ldGFkYXRhOwogICAgcHJpdmF0ZSBfb2NjdXJyZWRBdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnUExBWUVSX0ZBSUxVUkUnOiB7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuY3JlYXRlVGFibGUoJ3ZpZXdfc2tpcF9zdGF0cycsIGZ1bmN0aW9uKHRhYmxlKSB7CiAgICAgICAgICAgIHRhYmxlLmluY3JlbWVudHMoJ2lkJyk7CiAgICAgICAgICAgIHRhYmxlLnN0cmluZygndXNlcl9pZCcsIDMyKS5ub3ROdWxsYWJsZSgpOwogICAgICAgICAgICB0YWJsZS5zdHJpbmcoJ3RyYWNrX2lkJywgMzIpLm5vdE51bGxhYmxlKCk7CiAgICAgICAgICAgIHRhYmxlLnN0cmluZygncGxheWxpc3RfaWQnLCAzMik7CiAgICAgICAgICAgIHRhYmxlLmludGVnZXIoJ3BsYXlfY291bnQnKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCkuZGVmYXVsdFRvKDApOwogICAgICAgICAgICB0YWJsZS5pbnRlZ2VyKCdwbGF5X3RpbWUnKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCkuZGVmYXVsdFRvKDApOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuY3JlYXRlVGFibGUoJ3ZpZXdfdHJhY2tfc3RhdHMnLCBmdW5jdGlvbih0YWJsZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldCB1c2VySWQodmFsdWUpIHsKICAgICAgICB0aGlzLl91c2VySWQgPSB2YWx1ZTsKICAgIH0KCiAgICBzZXQgdHJhY2tJZCh2YWx1ZSkgewogICAgICAgIHRoaXMuX3RyYWNrSWQgPSB2YWx1ZTsKICAgIH0KCiAgICBzZXQgcGxheWxpc3RJZCh2YWx1ZSkgewogICAgICAgIHRoaXMuX3BsYXlsaXN0SWQgPSB2YWx1ZTsKICAgIH0KCiAgICBzZXQgYml0cmF0ZSh2YWx1ZSkgewogICAgICAgIHRoaXMuX2JpdHJhdGUgPSB2YWx1ZTsKICAgIH0KCiAgICBzZXQgbWV0YWRhdGEodmFsdWUpIHsKICAgICAgICB0aGlzLl9tZXRhZGF0YSA9IHZhbHVlOwogICAgfQoKICAgIHNldCBvY2N1cnJlZEF0KHZhbHVlKSB7CiAgICAgICAgdGhpcy5fb2NjdXJyZWRBdCA9IHZhbHVlOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -414,28 +421,38 @@
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUudGltZXN0YW1wcygpCg==</text>
+      <register name="7" type="8">
+        <text>private _
+private _
+private _
+private _
+private _
+private _</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuY3JlYXRlVGFibGUoJ3Byb2R1Y3RzJywgZnVuY3Rpb24gKHRhYmxlKSB7CiAgICAgICAgICAgIHRhYmxlLmluY3JlbWVudHMoJ2lkJyk7CiAgICAgICAgICAgIHRhYmxlLmRlY2ltYWwoJ3ByaWNlJykubm90TnVsbGFibGUoKTsKICAgICAgICAgICAgdGFibGUuc3RyaW5nKCduYW1lJywgMTAwMCkubm90TnVsbGFibGUoKTsKICAgICAgICB9KTsK</text>
+      <register name="8" type="8">
+        <text>private
+private
+private
+private
+private
+private</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuc3RyaW5nKCd1c2VyX2lkJywgMzIpLm5vdE51bGxhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHJkYigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>e knexfile.js</text>
+        <text>set multiple-cursors</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTRUxFQ1RcPg==</last-search>
+      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTRUxFQ1RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
