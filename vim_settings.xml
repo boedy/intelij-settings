@@ -124,17 +124,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/NextTrackEvent.ts" timestamp="1585581681794">
+        <mark key="^" line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/knexfile.ts" timestamp="1585502288807">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/scripts/kollekt/payments/getContacts.js" timestamp="1585323239142">
-        <mark key="'" line="131" column="45" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="140" column="70" />
-        <mark key="^" line="140" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/Events/PlaybackEvent.ts" timestamp="1585578440490">
         <mark key="[" line="0" column="22" />
@@ -147,28 +143,38 @@
         <mark key="]" line="12" column="5" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/Events/NextTrackEvent.ts" timestamp="1585578049307">
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/Events/NextTrackEvent.ts" timestamp="1585581433836">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/EventRepository.ts" timestamp="1585582266819">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/handlers/NextTrackEventHandler.ts" timestamp="1585582328120">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/NextTrackMapper.ts" timestamp="1585581984617">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1585578015967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts/kollekt/payments/contractPages.js" timestamp="1585328705143">
-        <mark key="'" line="131" column="0" />
-        <mark key="[" line="126" column="4" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585579332481">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585582190396">
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="17" column="52" />
+        <mark key="^" line="17" column="52" />
+        <mark key="." line="17" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585578104094">
         <mark key="[" line="4" column="0" />
@@ -182,9 +188,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1585499917833">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/Events/EventRepository.ts" timestamp="1585579343437">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="17" column="8" />
@@ -196,11 +199,6 @@
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/.env.production" timestamp="1585500487277">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/docker-compose.yml" timestamp="1585502739916">
         <mark key="[" line="14" column="0" />
@@ -226,11 +224,11 @@
         <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/process-dev.yml" timestamp="1585501987233" />
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/package.json" timestamp="1585501128599">
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="16" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/Event.ts" timestamp="1585581620095">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -339,7 +337,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -389,56 +387,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Eventa</text>
+        <text>../storage/rdb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgX3VzZXJJZDsKICAgIHByaXZhdGUgX3RyYWNrSWQ7CiAgICBwcml2YXRlIF9wbGF5bGlzdElkOwogICAgcHJpdmF0ZSBfYml0cmF0ZTsKICAgIHByaXZhdGUgX21ldGFkYXRhOwogICAgcHJpdmF0ZSBfb2NjdXJyZWRBdDsK</text>
+        <text encoding="base64">aW1wb3J0IHJkYiBmcm9tICcuLi8uLi9zdG9yYWdlL3JkYic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50Lgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldCB1c2VySWQodmFsdWUpIHsKICAgICAgICB0aGlzLl91c2VySWQgPSB2YWx1ZTsKICAgIH0KCiAgICBzZXQgdHJhY2tJZCh2YWx1ZSkgewogICAgICAgIHRoaXMuX3RyYWNrSWQgPSB2YWx1ZTsKICAgIH0KCiAgICBzZXQgcGxheWxpc3RJZCh2YWx1ZSkgewogICAgICAgIHRoaXMuX3BsYXlsaXN0SWQgPSB2YWx1ZTsKICAgIH0KCiAgICBzZXQgYml0cmF0ZSh2YWx1ZSkgewogICAgICAgIHRoaXMuX2JpdHJhdGUgPSB2YWx1ZTsKICAgIH0KCiAgICBzZXQgbWV0YWRhdGEodmFsdWUpIHsKICAgICAgICB0aGlzLl9tZXRhZGF0YSA9IHZhbHVlOwogICAgfQoKICAgIHNldCBvY2N1cnJlZEF0KHZhbHVlKSB7CiAgICAgICAgdGhpcy5fb2NjdXJyZWRBdCA9IHZhbHVlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50UmVwb3NpdG9yeS5zYXZlKGV2ZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBheWxvYWQgPSB7CiAgICAgICAgaWRlbnRpdHk6ICdqMjRnZDVlODknLAogICAgICAgIGxvZ19sZXZlbDogJ3RyYWNrJywKICAgICAgICBtZXNzYWdlOiAnTkVYVF9UUkFDSycsCiAgICAgICAgY29udGV4dDogewogICAgICAgICAgICAkYnJvd3NlcjogJ090aGVyJywKICAgICAgICAgICAgJGJyb3dzZXJfdmVyc2lvbjogJy4uJywKICAgICAgICAgICAgJGRldmljZTogJ090aGVyJywKICAgICAgICAgICAgJG9zOiAnT3RoZXIgLi4nLAogICAgICAgICAgICBuYW1lOiAnVEVBTSAtIFJVU0ggSE9VUicsCiAgICAgICAgICAgIHBsYXlsaXN0OiB7CiAgICAgICAgICAgICAgICBjcmVhdGVkX2F0OiAxNTgxNTAzOTgyLAogICAgICAgICAgICAgICAgZHVyYXRpb246IDIwNjQ1LAogICAgICAgICAgICAgICAgaWQ6ICcyNzhkMjBqOGQnLAogICAgICAgICAgICAgICAgaW1hZ2U6CiAgICAgICAgICAgICAgICAgICAgJ2h0dHBzOi8vYW1zMy5kaWdpdGFsb2NlYW5zcGFjZXMuY29tL3R1bmVzL2ltYWdlcy9wbGF5bGlzdF81ZTQzZTQ3NGM5Mjk4LmpwZycsCiAgICAgICAgICAgICAgICBpdGVtX2NvdW50OiAxMDUsCiAgICAgICAgICAgICAgICBuYW1lOiAnVEVBTSAtIFJVU0ggSE9VUicsCiAgICAgICAgICAgICAgICB1cGRhdGVkX2F0OiAxNTgxNTA3NzAxLAogICAgICAgICAgICB9LAogICAgICAgICAgICBwbGF5bGlzdElEOiAnMjc4ZDIwajhkJywKICAgICAgICAgICAgdGl0bGU6ICdEdWEgTGlwYSAtIEZ1dHVyZSBOb3N0YWxnaWEnLAogICAgICAgICAgICB0cmFjazogewogICAgICAgICAgICAgICAgYWxidW06ICdGdXR1cmUgTm9zdGFsZ2lhJywKICAgICAgICAgICAgICAgIGFydGlzdDogJ0R1YSBMaXBhJywKICAgICAgICAgICAgICAgIGNyZWF0ZWRfYXQ6IDE1ODE1MDYyMDAsCiAgICAgICAgICAgICAgICBpZDogJ2s4NmcyMWttNCcsCiAgICAgICAgICAgICAgICBpc3JjOiAnR0JBSFQxOTAxMTc3JywKICAgICAgICAgICAgICAgIHNvdXJjZXM6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJpdHJhdGU6IDMyMDA0NSwKICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZTogNzI4MzU1NiwKICAgICAgICAgICAgICAgICAgICAgICAgdXJsOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2h0dHBzOi8vdHVuZXMua2xsa3QuY29tL3NvdXJjZXMvMTU4MTUwNjIwMC01ZTQzZGU5ODBlYzliLm1wMycsCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICB0aXRsZTogJ0R1YSBMaXBhIC0gRnV0dXJlIE5vc3RhbGdpYScsCiAgICAgICAgICAgICAgICB1cGRhdGVkX2F0OiAxNTgxNTA2MjAwLAogICAgICAgICAgICAgICAgeWVhcjogbnVsbCwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgdHJhY2tJRDogJ2s4NmcyMWttNCcsCiAgICAgICAgfSwKICAgICAgICBpcDogJzEwLjEzMy45MC44MCcsCiAgICAgICAgdGltZXN0YW1wOiAxNTg1NTgxMDI0LAogICAgfTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="8">
-        <text>private _
-private _
-private _
-private _
-private _
-private _</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>private
-private
-private
-private
-private
-private</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJkYigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheWxvYWQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
