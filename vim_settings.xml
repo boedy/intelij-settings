@@ -146,26 +146,21 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/Events/NextTrackEvent.ts" timestamp="1585576607796">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Track/Source/Mp3CloudSilenceStripper.php" timestamp="1585308118022">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1585501933418">
+      <file name="/Dummy.txt" timestamp="1585576283260">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Kernel.php" timestamp="1585299138490">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="40" />
-        <mark key="." line="24" column="39" />
-        <mark key="^" line="24" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Console/Commands/NormalizeRemainingSources.php" timestamp="1585299228578">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/payments/contractPages.js" timestamp="1585328705143">
         <mark key="'" line="131" column="0" />
@@ -173,6 +168,12 @@
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585576427240">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585505641787">
         <mark key="[" line="8" column="26" />
@@ -330,8 +331,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>playlist_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnUExBWUVSX0ZBSUxVUkUnOiB7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -381,46 +382,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>playlist_id</text>
+        <text>NEXT_TRACK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxFQ1RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuY3JlYXRlVGFibGUoJ3ZpZXdfdHJhY2tfc3RhdHMnLCBmdW5jdGlvbih0YWJsZSkgewogICAgICAgICAgICB0YWJsZS5pbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICB0YWJsZS5zdHJpbmcoJ3VzZXJfaWQnLCAzMikubm90TnVsbGFibGUoKTsKICAgICAgICAgICAgdGFibGUuc3RyaW5nKCd0cmFja19pZCcsIDMyKS5ub3ROdWxsYWJsZSgpOwogICAgICAgICAgICB0YWJsZS5zdHJpbmcoJ3BsYXlsaXN0X2lkJywgMzIpOwogICAgICAgICAgICB0YWJsZS5pbnRlZ2VyKCdwbGF5X2NvdW50JykudW5zaWduZWQoKS5ub3ROdWxsYWJsZSgpLmRlZmF1bHRUbygwKTsKICAgICAgICAgICAgdGFibGUuaW50ZWdlcigncGxheV90aW1lJykudW5zaWduZWQoKS5ub3ROdWxsYWJsZSgpLmRlZmF1bHRUbygwKTsKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnTkVYVF9UUkFDSyc6IHsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuY3JlYXRlVGFibGUoJ3ZpZXdfc2tpcF9zdGF0cycsIGZ1bmN0aW9uKHRhYmxlKSB7CiAgICAgICAgICAgIHRhYmxlLmluY3JlbWVudHMoJ2lkJyk7CiAgICAgICAgICAgIHRhYmxlLnN0cmluZygndXNlcl9pZCcsIDMyKS5ub3ROdWxsYWJsZSgpOwogICAgICAgICAgICB0YWJsZS5zdHJpbmcoJ3RyYWNrX2lkJywgMzIpLm5vdE51bGxhYmxlKCk7CiAgICAgICAgICAgIHRhYmxlLnN0cmluZygncGxheWxpc3RfaWQnLCAzMik7CiAgICAgICAgICAgIHRhYmxlLmludGVnZXIoJ3BsYXlfY291bnQnKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCkuZGVmYXVsdFRvKDApOwogICAgICAgICAgICB0YWJsZS5pbnRlZ2VyKCdwbGF5X3RpbWUnKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCkuZGVmYXVsdFRvKDApOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnUExBWUVSX0ZBSUxVUkUnOiB7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuY3JlYXRlVGFibGUoJ3ZpZXdfdHJhY2tfc3RhdHMnLCBmdW5jdGlvbih0YWJsZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAuY3JlYXRlVGFibGUoJ3ZpZXdfc2tpcF9zdGF0cycsIGZ1bmN0aW9uKHRhYmxlKSB7CiAgICAgICAgICAgIHRhYmxlLmluY3JlbWVudHMoJ2lkJyk7CiAgICAgICAgICAgIHRhYmxlLnN0cmluZygndXNlcl9pZCcsIDMyKS5ub3ROdWxsYWJsZSgpOwogICAgICAgICAgICB0YWJsZS5zdHJpbmcoJ3RyYWNrX2lkJywgMzIpLm5vdE51bGxhYmxlKCk7CiAgICAgICAgICAgIHRhYmxlLnN0cmluZygncGxheWxpc3RfaWQnLCAzMik7CiAgICAgICAgICAgIHRhYmxlLmludGVnZXIoJ3BsYXlfY291bnQnKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCkuZGVmYXVsdFRvKDApOwogICAgICAgICAgICB0YWJsZS5pbnRlZ2VyKCdwbGF5X3RpbWUnKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCkuZGVmYXVsdFRvKDApOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAuY3JlYXRlVGFibGUoJ3ZpZXdfdHJhY2tfc3RhdHMnLCBmdW5jdGlvbih0YWJsZSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUudGltZXN0YW1wcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuY3JlYXRlVGFibGUoJ3Byb2R1Y3RzJywgZnVuY3Rpb24gKHRhYmxlKSB7CiAgICAgICAgICAgIHRhYmxlLmluY3JlbWVudHMoJ2lkJyk7CiAgICAgICAgICAgIHRhYmxlLmRlY2ltYWwoJ3ByaWNlJykubm90TnVsbGFibGUoKTsKICAgICAgICAgICAgdGFibGUuc3RyaW5nKCduYW1lJywgMTAwMCkubm90TnVsbGFibGUoKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGUudGltZXN0YW1wcygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuc3RyaW5nKCd1c2VyX2lkJywgMzIpLm5vdE51bGxhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuY3JlYXRlVGFibGUoJ3Byb2R1Y3RzJywgZnVuY3Rpb24gKHRhYmxlKSB7CiAgICAgICAgICAgIHRhYmxlLmluY3JlbWVudHMoJ2lkJyk7CiAgICAgICAgICAgIHRhYmxlLmRlY2ltYWwoJ3ByaWNlJykubm90TnVsbGFibGUoKTsKICAgICAgICAgICAgdGFibGUuc3RyaW5nKCduYW1lJywgMTAwMCkubm90TnVsbGFibGUoKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLmNvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuc3RyaW5nKCd1c2VyX2lkJywgMzIpLm5vdE51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e knexfile.js</text>
