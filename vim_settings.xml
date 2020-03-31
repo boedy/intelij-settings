@@ -124,27 +124,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/NextTrackEvent.ts" timestamp="1585653085711">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="42" column="11" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="15" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/test/dgraph/fromJson.ts" timestamp="1585656402926">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="47" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/NextTrack.ts" timestamp="1585670856636">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/NextTrack.ts" timestamp="1585672002358">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/statsController.ts" timestamp="1585670312606">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="30" />
-        <mark key="^" line="5" column="31" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/statsController.ts" timestamp="1585672526561">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="82" />
+        <mark key="^" line="5" column="82" />
+        <mark key="." line="5" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/test/dgraph/remaining.ts" timestamp="1585657187001">
         <mark key="'" line="6" column="3" />
@@ -160,11 +154,11 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/test/dgraph/roles.json" timestamp="1585656342716" />
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/nextTrackMapper.ts" timestamp="1585658512809">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="40" />
-        <mark key="^" line="13" column="40" />
-        <mark key="." line="13" column="39" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/nextTrackMapper.ts" timestamp="1585671991953">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/config.ts" timestamp="1585653303676" />
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585653327729">
@@ -173,11 +167,17 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585658363446">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="33" />
-        <mark key="^" line="6" column="34" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585671977116">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/.env" timestamp="1585672799221">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1585656265441">
         <mark key="[" line="0" column="0" />
@@ -321,7 +321,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHVzZXIsIGFjdGlvbiwgcmVzb3VyY2Ug</text>
+        <text>$WERCKER_GIT_REPOSITORY</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -371,7 +371,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVzZXIsIGFjdGlvbiwgcmVzb3VyY2Ug</text>
+        <text>$WERCKER_GIT_REPOSITORY</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -380,19 +380,19 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3IERhdGUoKSwKICAgICAgICAgICAgZXhhbXBsZUlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IERhdGUoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHF1ZXJ5T3B0aW9ucyA9IHt9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGZpbGwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -404,13 +404,13 @@
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBkYXRhbG9hZGVyLmFkZFJvbGUoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIChyZXEuand0ICYmIHJlcS5qd3QuaXNBZG1pbigpICYmIHVzZXIgPT09IHJlcS5qd3QudXNlcigpKSB7CiAgICAgICAgcmV0dXJuIHNlbmQocmVzLCAyMDApOwogICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IERhdGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
