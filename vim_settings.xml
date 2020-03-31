@@ -140,18 +140,17 @@
         <mark key="^" line="14" column="84" />
         <mark key="." line="14" column="83" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/statsController.ts" timestamp="1585663425687">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/test/dgraph/remaining.ts" timestamp="1585657187001">
         <mark key="'" line="6" column="3" />
         <mark key="[" line="21" column="2" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="66" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/PlayerFailureEvent.ts" timestamp="1585652724230">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="30" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/NextTrackMapper.ts" timestamp="1585652865561">
         <mark key="[" line="10" column="21" />
@@ -172,11 +171,6 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1585606606935">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/config.ts" timestamp="1585653303676" />
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585653327729">
         <mark key="[" line="0" column="0" />
@@ -193,18 +187,13 @@
       <file name="/GraphQL.result.json" timestamp="1585656265441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/TrackSkippedEvent.ts" timestamp="1585651832129">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="25" column="83" />
-        <mark key="^" line="25" column="84" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/config.ts" timestamp="1585653281356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="3" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/tests/authorization.test.ts" timestamp="1585663331368" />
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/trackSkippedMapper.ts" timestamp="1585653050683">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -216,6 +205,16 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/routes.ts" timestamp="1585662603933">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/authController.ts" timestamp="1585663419098">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -323,8 +322,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>userId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -374,34 +373,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>stats</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBkYXRhbG9hZGVyLmFkZFJlc291cmNlKCdsb2NhdGlvbjonICsgdXNlci5sb2NhdGlvbklkLCAnb3JnYW5pc2F0aW9uOicgKyBvcmdhbmlzYXRpb25JZCkK</text>
+        <text encoding="base64">ICAgIGlmIChyZXEuand0ICYmIHJlcS5qd3QuaXNBZG1pbigpICYmIHVzZXIgPT09IHJlcS5qd3QudXNlcigpKSB7CiAgICAgICAgcmV0dXJuIHNlbmQocmVzLCAyMDApOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGZpbGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBkYXRhbG9hZGVyLmFkZFJvbGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkYXRhbG9hZGVyLmFkZFJvbGUoKQo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -410,10 +409,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGFsb2FkZXIuYWRkUmVzb3VyY2UoJ2xvY2F0aW9uOicrbG9jSWQsICdvcmdhbmlzYXRpb246JytvcmdJZCkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
