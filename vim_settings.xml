@@ -134,18 +134,18 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="47" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/NextTrack.ts" timestamp="1585658417282">
+        <mark key="[" line="14" column="74" />
+        <mark key="]" line="14" column="84" />
+        <mark key="^" line="14" column="84" />
+        <mark key="." line="14" column="83" />
+      </file>
       <file name="$USER_HOME$/Projects/test/dgraph/remaining.ts" timestamp="1585657187001">
         <mark key="'" line="6" column="3" />
         <mark key="[" line="21" column="2" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="66" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/EventRepository.ts" timestamp="1585605814218">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/PlayerFailureEvent.ts" timestamp="1585652724230">
         <mark key="[" line="33" column="0" />
@@ -166,27 +166,29 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/test/dgraph/roles.json" timestamp="1585656342716" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/nextTrackMapper.ts" timestamp="1585658512809">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="39" />
+      </file>
       <file name="/Dummy.txt" timestamp="1585606606935">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/config.ts" timestamp="1585653303676" />
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/StatsRepository.ts" timestamp="1585605954514">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="40" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585653327729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585648458976">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="26" column="35" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585658363446">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="34" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1585656265441">
         <mark key="[" line="0" column="0" />
@@ -321,8 +323,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>userId</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -372,7 +374,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'location:' + user.locationId,</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -381,7 +383,7 @@
         <text encoding="base64">ICAgICAgICBhd2FpdCBkYXRhbG9hZGVyLmFkZFJlc291cmNlKCdsb2NhdGlvbjonICsgdXNlci5sb2NhdGlvbklkLCAnb3JnYW5pc2F0aW9uOicgKyBvcmdhbmlzYXRpb25JZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -390,28 +392,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBkYXRhbG9hZGVyLmFkZFJvbGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkYXRhbG9hZGVyLmFkZFJvbGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGFsb2FkZXIuYWRkUmVzb3VyY2UoJ2xvY2F0aW9uOicrbG9jSWQsICdvcmdhbmlzYXRpb246JytvcmdJZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRhdGFsb2FkZXIuYWRkUmVzb3VyY2UoJ2xvY2F0aW9uOicrbG9jSWQsICdvcmdhbmlzYXRpb246JytvcmdJZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
