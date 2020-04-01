@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxKU09OXD4=</entry>
         <entry encoding="base64">XDxDTURcPg==</entry>
         <entry encoding="base64">XDxkaXZcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">OiA=</entry>
         <entry encoding="base64">PSA=</entry>
         <entry>: exampleId</entry>
+        <entry encoding="base64">XDxhd2FpdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>e Dockerfile</entry>
@@ -124,7 +124,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/NextTrack.ts" timestamp="1585677115106" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/NextTrack.ts" timestamp="1585738798831">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/statsController.ts" timestamp="1585673900622">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="9" column="29" />
@@ -135,17 +139,17 @@
         <mark key="]" line="45" column="34" />
         <mark key="." line="45" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/PlayerFailure.ts" timestamp="1585677669321">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="52" />
-        <mark key="." line="25" column="51" />
-        <mark key="^" line="25" column="52" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/PlayerFailure.ts" timestamp="1585738601309">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585674820830">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="38" />
-        <mark key="^" line="6" column="39" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585738777904">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="5" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/.env" timestamp="1585674019622">
         <mark key="[" line="1" column="50" />
@@ -159,11 +163,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/playerFailureMapper.ts" timestamp="1585674627801">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="34" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/playerFailureMapper.ts" timestamp="1585738721024">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="42" />
         <mark key="." line="6" column="34" />
-        <mark key="^" line="3" column="29" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/tsconfig.json" timestamp="1585675536153">
         <mark key="[" line="7" column="0" />
@@ -181,15 +185,15 @@
         <mark key="." line="41" column="45" />
         <mark key="^" line="41" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/fixtures/index.ts" timestamp="1585677343760">
-        <mark key="[" line="68" column="15" />
-        <mark key="]" line="68" column="28" />
-        <mark key="." line="68" column="27" />
-        <mark key="^" line="68" column="28" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/fixtures/index.ts" timestamp="1585738746862">
+        <mark key="[" line="63" column="29" />
+        <mark key="]" line="63" column="29" />
+        <mark key="." line="63" column="28" />
+        <mark key="^" line="63" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/nextTrackMapper.ts" timestamp="1585674974953">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="15" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/nextTrackMapper.ts" timestamp="1585738694619">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="43" />
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="14" />
       </file>
@@ -198,21 +202,27 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585675055126">
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585738914886">
         <mark key="'" line="13" column="8" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="7" column="58" />
+        <mark key="]" line="7" column="61" />
+        <mark key="^" line="7" column="61" />
+        <mark key="." line="7" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/util/index.ts" timestamp="1585738003262">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="17" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1585732665084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/events.test.ts" timestamp="1585736835314">
-        <mark key="[" line="130" column="22" />
-        <mark key="]" line="130" column="23" />
-        <mark key="^" line="115" column="8" />
-        <mark key="." line="130" column="23" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/events.test.ts" timestamp="1585738215621">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="110" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/trackSkippedMapper.ts" timestamp="1585674638264">
         <mark key="[" line="6" column="33" />
@@ -221,12 +231,6 @@
         <mark key="." line="6" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/process-dev.yml" timestamp="1585675066889" />
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/routes.ts" timestamp="1585673792873">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="57" />
-        <mark key="." line="13" column="15" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="7" column="12" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/dist/http/validation/locationValidation.js" />
@@ -333,8 +337,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBuZXh0VHJhY2tFdmVudC5wZXJzaXN0KCk7CiAgICAgICAgYXdhaXQgbmV4dFRyYWNrRXZlbnQucGVyc2lzdCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ture</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -384,34 +388,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Player failure with no previous tracks</text>
+        <text>ture</text>
       </register>
       <register name="/" type="4">
-        <text>: exampleId</text>
+        <text encoding="base64">XDxhd2FpdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBuZXh0VHJhY2tFdmVudC5wZXJzaXN0KCk7CiAgICAgICAgYXdhaXQgbmV4dFRyYWNrRXZlbnQucGVyc2lzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRGF0ZShwYXlsb2FkLnRpbWVzdGFtcCAqIDEwMDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBwbGF5ZXJGYWlsdXJlLnBlcnNpc3QoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbmFtZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwbGF5ZXJGYWlsdXJlID0gUGxheWVyRmFpbHVyZUZpeHR1cmUoKTsKICAgICAgICBhd2FpdCBwbGF5ZXJGYWlsdXJlLnBlcnNpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm5hbWUgPSAnTkVYVF9UUkFDSyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ7XCJleHBpcmVzXCI6MTU4NTM5MTMxMjgyNyxcImFjY2Vzc1Rva2VuXCI6XCJcIixcInJlZnJlc2hUb2tlblwiOlwiXCJ9IiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuc3RyaW5nKCduYW1lJywgMjU1KS5ub3ROdWxsYWJsZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID9zaT0xWGY3MHptLVExaTRSY1pPU2xZaHh3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaWdub3JlID0gWycxbDQ5MzI1NDknXTsK</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkLnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -420,10 +424,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBwbGF5ZXJGYWlsdXJlLnBlcnNpc3QoKTsKICAgICAgICBhd2FpdCBwbGF5ZXJGYWlsdXJlLnBlcnNpc3QoKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
@@ -432,9 +436,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>: exampleId</last-search>
+      <last-search encoding="base64">XDxhd2FpdFw+</last-search>
       <last-offset />
-      <last-pattern>: exampleId</last-pattern>
+      <last-pattern encoding="base64">XDxhd2FpdFw+</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
       <last-dir>1</last-dir>
