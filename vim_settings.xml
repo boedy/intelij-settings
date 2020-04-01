@@ -154,12 +154,6 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/TrackSkippedEvent.ts" timestamp="1585669820650">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="25" column="83" />
-        <mark key="^" line="25" column="84" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/playerFailureMapper.ts" timestamp="1585674627801">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="34" />
@@ -175,6 +169,12 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts/kollekt/js/removeTrackFromPlaylist.js" timestamp="1585731728982">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="38" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="39" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/fixtures/index.ts" timestamp="1585677343760">
         <mark key="[" line="68" column="15" />
@@ -201,6 +201,9 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1585730780210">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/events.test.ts" timestamp="1585678039660">
         <mark key="[" line="89" column="25" />
         <mark key="]" line="94" column="43" />
@@ -219,10 +222,6 @@
         <mark key="]" line="13" column="15" />
         <mark key="^" line="13" column="57" />
         <mark key="." line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/authController.ts" timestamp="1585663419098">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -331,7 +330,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdW0gPSBhd2FpdCByZGIKICAgICAgICAgICAgLnN1bSh7IHBsYXlUaW1lOiAncGxheVRpbWUnIH0pCiAgICAgICAgICAgIC5mcm9tKCdldmVudHMnKQogICAgICAgICAgICAud2hlcmUoeyBwbGF5bGlzdElkLCB0cmFja0lkLCB1c2VySWQgfSkKICAgICAgICAgICAgLmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -381,7 +380,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lmxlbmd0aCA8IDE=</text>
+        <text>location</text>
       </register>
       <register name="/" type="4">
         <text>: exampleId</text>
@@ -390,53 +389,37 @@
         <text encoding="base64">ICAgICAgICBjb25zdCBzdW0gPSBhd2FpdCByZGIKICAgICAgICAgICAgLnN1bSh7IHBsYXlUaW1lOiAncGxheVRpbWUnIH0pCiAgICAgICAgICAgIC5mcm9tKCdldmVudHMnKQogICAgICAgICAgICAud2hlcmUoeyBwbGF5bGlzdElkLCB0cmFja0lkLCB1c2VySWQgfSkKICAgICAgICAgICAgLmZpcnN0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBleGFtcGxlSWQgPSAnYWJjZDEyMyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhhbXBsZUlkLAogICAgICAgICAgICBleGFtcGxlSWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlnbm9yZS5pbmNsdWRlcyhsb2NhdGlvbi5pZCkpIGNvbnRpbnVlOwogICAgICAgICAgICBjb25zdCBjcmVkZW50aWFscyA9IGdlbmVyYXRlKG9yZ2FuaXNhdGlvbi5uYW1lKQogICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtjcmVkZW50aWFscy5lbWFpbH0sJHtjcmVkZW50aWFscy5wYXNzd29yZH1gKQogICAgICAgICAgICBjb25zdCBkZXZpY2VJZCA9IGF3YWl0IHJlZ2lzdGVyTmV3RGV2aWNlKGNyZWRlbnRpYWxzKTsKICAgICAgICAgICAgYXdhaXQgYXNzaWduRGV2aWNlVG9Mb2NhdGlvbihsb2NhdGlvbi5pZCwgZGV2aWNlSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndoZXJlKHsKICAgICAgICAgICAgICAgIHBsYXlsaXN0SWQ6IGV4YW1wbGVJZCwKICAgICAgICAgICAgICAgIHRyYWNrSWQ6IGV4YW1wbGVJZCwKICAgICAgICAgICAgICAgIHVzZXJJZDogZXhhbXBsZUlkLAogICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxvY2F0aW9ucyA9IGF3YWl0IGZldGNoTG9jYXRpb25zKG9yZ2FuaXNhdGlvbi5pZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBleGFtcGxlSWQgPSAnYWJjZDEyMyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBleGFtcGxlSWQgPSAnYWJjZDEyMyc7Cg==</text>
+        <text encoding="base64">Y29uc3QgZmV0Y2hMb2NhdGlvbnMgPSBvcmdhbmlzYXRpb25JZCA9PiB7CiAgICByZXR1cm4gYXhpb3MuZ2V0KGAvb3JnYW5pc2F0aW9ucy8ke29yZ2FuaXNhdGlvbklkfS9sb2NhdGlvbnNgKS50aGVuKHJlc3AgPT4gcmVzcC5kYXRhKQp9Cgpjb25zdCByZWdpc3Rlck5ld0RldmljZSA9IGNyZWRlbnRpYWxzID0+IHsKICAgIHJldHVybiBheGlvcwogICAgICAgIC5wb3N0KCcvdXNlcnMvZGV2aWNlcycsIGNyZWRlbnRpYWxzKQogICAgICAgIC50aGVuKHJlc3BvbnNlID0+IHJlc3BvbnNlLmRhdGEucmVzb3VyY2VfaWQpOwp9Cgpjb25zdCBhc3NpZ25EZXZpY2VUb0xvY2F0aW9uID0gKGxvY2F0aW9uSWQsIGRldmljZUlkKSA9PiB7CiAgICByZXR1cm4gYXhpb3MucG9zdChgbG9jYXRpb25zLyR7bG9jYXRpb25JZH0vdXNlcnNgLCB7IHVzZXJfaWQ6IGRldmljZUlkIH0pOwp9Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="4">
-        <text>new PlayerFailure(
-            exampleId,
-            exampleId,
-            exampleId
-        );</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>new PlayerFailure(
-            exampleId,
-            exampleId,
-            exampleId
-        );</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBleGFtcGxlSWQgPSAnYWJjZDEyMyc7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>new NextTrack(
-            exampleId,
-            exampleId,
-            exampleId,
-            100,
-            null,
-            new Date(),
-            exampleId
-        );</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhhbXBsZUlkLAogICAgICAgICAgICBleGFtcGxlSWQK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
