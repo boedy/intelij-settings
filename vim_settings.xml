@@ -208,11 +208,11 @@
       <file name="/GraphQL.result.json" timestamp="1585732665084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/events.test.ts" timestamp="1585678039660">
-        <mark key="[" line="89" column="25" />
-        <mark key="]" line="94" column="43" />
-        <mark key="." line="94" column="42" />
-        <mark key="^" line="94" column="43" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/events.test.ts" timestamp="1585736030209">
+        <mark key="[" line="125" column="23" />
+        <mark key="]" line="125" column="24" />
+        <mark key="^" line="117" column="8" />
+        <mark key="." line="125" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/trackSkippedMapper.ts" timestamp="1585674638264">
         <mark key="[" line="6" column="33" />
@@ -333,8 +333,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/items</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHBsYXlsaXN0SWQsIHRyYWNrSWQsIHVzZXJJZCB9ID0gbmV4dFRyYWNrRXZlbnQ7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -384,46 +384,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/items</text>
+        <text>Player failure with no previous tracks</text>
       </register>
       <register name="/" type="4">
         <text>: exampleId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdW0gPSBhd2FpdCByZGIKICAgICAgICAgICAgLnN1bSh7IHBsYXlUaW1lOiAncGxheVRpbWUnIH0pCiAgICAgICAgICAgIC5mcm9tKCdldmVudHMnKQogICAgICAgICAgICAud2hlcmUoeyBwbGF5bGlzdElkLCB0cmFja0lkLCB1c2VySWQgfSkKICAgICAgICAgICAgLmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHBsYXlsaXN0SWQsIHRyYWNrSWQsIHVzZXJJZCB9ID0gbmV4dFRyYWNrRXZlbnQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ7XCJleHBpcmVzXCI6MTU4NTM5MTMxMjgyNyxcImFjY2Vzc1Rva2VuXCI6XCJcIixcInJlZnJlc2hUb2tlblwiOlwiXCJ9IiAK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBwbGF5ZXJGYWlsdXJlLnBlcnNpc3QoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID9zaT0xWGY3MHptLVExaTRSY1pPU2xZaHh3Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwbGF5ZXJGYWlsdXJlID0gUGxheWVyRmFpbHVyZUZpeHR1cmUoKTsKICAgICAgICBhd2FpdCBwbGF5ZXJGYWlsdXJlLnBlcnNpc3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgaWdub3JlID0gWycxbDQ5MzI1NDknXTsK</text>
+        <text encoding="base64">ICAgICJ7XCJleHBpcmVzXCI6MTU4NTM5MTMxMjgyNyxcImFjY2Vzc1Rva2VuXCI6XCJcIixcInJlZnJlc2hUb2tlblwiOlwiXCJ9IiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uaWQpOwo=</text>
+        <text encoding="base64">ICAgID9zaT0xWGY3MHptLVExaTRSY1pPU2xZaHh3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgaWdub3JlID0gWycxbDQ5MzI1NDknXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uaWQpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlnbm9yZS5pbmNsdWRlcyhsb2NhdGlvbi5pZCkpIGNvbnRpbnVlOwogICAgICAgICAgICBjb25zdCBjcmVkZW50aWFscyA9IGdlbmVyYXRlKG9yZ2FuaXNhdGlvbi5uYW1lKQogICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtjcmVkZW50aWFscy5lbWFpbH0sJHtjcmVkZW50aWFscy5wYXNzd29yZH1gKQogICAgICAgICAgICBjb25zdCBkZXZpY2VJZCA9IGF3YWl0IHJlZ2lzdGVyTmV3RGV2aWNlKGNyZWRlbnRpYWxzKTsKICAgICAgICAgICAgYXdhaXQgYXNzaWduRGV2aWNlVG9Mb2NhdGlvbihsb2NhdGlvbi5pZCwgZGV2aWNlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
