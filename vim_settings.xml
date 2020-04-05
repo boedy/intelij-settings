@@ -36,19 +36,19 @@
         <entry encoding="base64">dnNwIA==</entry>
         <entry>action SplitHorizontally</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVGFiU2hpZnRBY3Rpb25zLk1vdmVGb2N1c1JpZ2h0</entry>
-        <entry>action AceAction</entry>
         <entry>q</entry>
         <entry>w</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>x</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>e knexfile.js</entry>
         <entry>set multiple-cursors</entry>
+        <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,79 +124,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/nextTrackMapper.ts" timestamp="1585845298306">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="47" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="14" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/deployment/values.yaml" timestamp="1586083301670">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1585857830885">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/NextTrack.ts" timestamp="1586084730036">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1585844645411">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="30" column="46" />
-        <mark key="^" line="7" column="61" />
-        <mark key="." line="7" column="60" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/events/EventSubscriber.ts" timestamp="1586082956394">
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585862421679">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="19" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/.env" timestamp="1586028005610">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="18" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1586030481899">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/PlayerFailure.ts" timestamp="1585738601309">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="36" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="36" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/statsController.ts" timestamp="1586084175934">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/import.js" timestamp="1585844770970">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="21" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/TrackSkippedEvent.ts" timestamp="1585774283751">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="25" column="83" />
-        <mark key="^" line="25" column="84" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/events.test.ts" timestamp="1585775018175">
-        <mark key="'" line="107" column="28" />
-        <mark key="[" line="95" column="7" />
-        <mark key="]" line="95" column="6" />
-        <mark key="." line="95" column="5" />
-        <mark key="^" line="95" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/fixtures/index.ts" timestamp="1585738746862">
-        <mark key="[" line="63" column="29" />
-        <mark key="]" line="63" column="29" />
-        <mark key="." line="63" column="28" />
-        <mark key="^" line="63" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/playerFailureMapper.ts" timestamp="1585738721024">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="42" />
-        <mark key="." line="6" column="34" />
-        <mark key="^" line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/trackSkippedMapper.ts" timestamp="1585775062602">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="37" />
-        <mark key="^" line="7" column="37" />
-        <mark key="." line="7" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/iimport.ts" timestamp="1586074203527">
         <mark key="[" line="97" column="0" />
@@ -204,18 +156,82 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/mappers/nextTrackMapper.ts" timestamp="1585845298306">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586085299335">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1586084939473">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="58" />
+        <mark key="]" line="7" column="58" />
+        <mark key="." line="7" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1585862421679">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/.env" timestamp="1586084763297">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="18" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1586081792930">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/production.yaml" timestamp="1586085248204" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/.env.production" timestamp="1586084867228">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/events.test.ts" timestamp="1586084516007">
+        <mark key="'" line="107" column="28" />
+        <mark key="[" line="116" column="35" />
+        <mark key="]" line="116" column="35" />
+        <mark key="." line="116" column="35" />
+        <mark key="^" line="95" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/deployment/requirements.yaml" timestamp="1586083283279">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/deployment/helmfile.yaml" timestamp="1586085285404">
+        <mark key="'" line="21" column="60" />
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="17" column="51" />
+        <mark key="^" line="17" column="40" />
+        <mark key="." line="17" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/brandchannel-frontend/src/app/common/backgrounds.js" timestamp="1585836817305">
         <mark key="[" line="45" column="35" />
         <mark key="]" line="45" column="36" />
         <mark key="^" line="45" column="36" />
         <mark key="." line="45" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/routes.ts" timestamp="1586084527134">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/deployment/requirements.lock" timestamp="1586083279521">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="22" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/validation/locationValidation.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/http/validation/locationValidation.ts" />
-      <jump line="47" column="30" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
       <jump line="93" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
       <jump line="92" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
@@ -312,12 +328,16 @@
       <jump line="6" column="3" filename="$USER_HOME$/Projects/test/dgraph/remaining.ts" />
       <jump line="13" column="8" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" />
       <jump line="111" column="28" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/events.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/deployment/helmfile.yaml" />
+      <jump line="21" column="60" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/deployment/helmfile.yaml" />
+      <jump line="12" column="34" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gcmwub24oJ2xpbmUnLCBsaW5lID0+IHsKLy8gICAgIGluZGV4Kys7Ci8vICAgICB0cnkgewovLyAgICAgICAgIGNvbnN0IHsgZXZlbnQsIHByb3BlcnRpZXMgfSA9IEpTT04ucGFyc2UobGluZSk7Ci8vCi8vICAgICAgICAgaWYgKCFwcm9wZXJ0aWVzLmRpc3RpbmN0X2lkIHx8IHByb3BlcnRpZXMuZGlzdGluY3RfaWQubGVuZ3RoID4gMTApCi8vICAgICAgICAgICAgIHJldHVybjsKLy8KLy8gICAgICAgICBjb25zdCBpZGVudGl0eSA9IHByb3BlcnRpZXMuZGlzdGluY3RfaWQ7Ci8vICAgICAgICAgY29uc3QgbWVzc2FnZSA9IGV2ZW50OwovLyAgICAgICAgIGNvbnN0IHRyYWNrSWQgPSBwcm9wZXJ0aWVzLnRyYWNrSUQ7Ci8vICAgICAgICAgY29uc3QgcGxheWxpc3RJZCA9IHByb3BlcnRpZXMucGxheWxpc3RJRDsKLy8KLy8gICAgICAgICBpZiAobWVzc2FnZSA9PT0gJ05FWFRfVFJBQ0snKSB7Ci8vICAgICAgICAgICAgIGNvbnN0IHsgc2l6ZSwgYml0cmF0ZSB9ID0gcHJvcGVydGllcy50cmFjay5zb3VyY2VzWzBdOwovLyAgICAgICAgICAgICBjb25zdCBkdXJhdGlvbiA9IChzaXplICogOCkgLyBiaXRyYXRlOwovLyAgICAgICAgICAgICBjb25zdCBvY2N1cnJlZEF0ID0gbmV3IERhdGUocHJvcGVydGllcy50aW1lc3RhbXAgKiAxMDAwKTsKLy8gICAgICAgICAgICAgY29uc3QgZGV2aWNlSWQgPSBwcm9wZXJ0aWVzLmRldmljZUlkIHx8IG51bGw7Ci8vICAgICAgICAgICAgIGNvbnN0IHJlbW90ZSA9IHByb3BlcnRpZXMucmVtb3RlIHx8IG51bGw7Ci8vICAgICAgICAgICAgIG5ldyBOZXh0VHJhY2soCi8vICAgICAgICAgICAgICAgICBpZGVudGl0eSwKLy8gICAgICAgICAgICAgICAgIHRyYWNrSWQsCi8vICAgICAgICAgICAgICAgICBwbGF5bGlzdElkLAovLyAgICAgICAgICAgICAgICAgZHVyYXRpb24sCi8vICAgICAgICAgICAgICAgICBiaXRyYXRlLAovLyAgICAgICAgICAgICAgICAgb2NjdXJyZWRBdCwKLy8gICAgICAgICAgICAgICAgIGRldmljZUlkLAovLyAgICAgICAgICAgICAgICAgcmVtb3RlCi8vICAgICAgICAgICAgICkucGVyc2lzdCgpOwovLyAgICAgICAgIH0KLy8gICAgICAgICAvLyBjb25zb2xlLmxvZygnSGFuZGxlZCcsIHZhbHVlLm1lc3NhZ2UpOwovLyAgICAgfSBjYXRjaCAoZSkgewovLyAgICAgICAgIGNvbnNvbGUubG9nKGUpOwovLyAgICAgICAgIGVycm9ycysrOwovLyAgICAgfQovLyAgICAgaWYgKGluZGV4ICUgMTAwMDAwID09IDApIGNvbnNvbGUubG9nKCdwcm9jZXNzZWQnLCBpbmRleCwgZXJyb3JzKTsKLy8gfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>KEY</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -367,49 +387,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>testint</text>
+        <text>KEY</text>
       </register>
       <register name="/" type="4">
         <text>json.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UkRCX0RBVEFCQVNFPXRlc3RpbnQK</text>
+        <text encoding="base64">UkRCX0hPU1Q9bG9jYWxob3N0ClJEQl9VU0VSPXJvb3QKUkRCX1BBU1NXT1JEPXJvb3QKUkRCX0RBVEFCQVNFPXRlc3RzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gcmwub24oJ2xpbmUnLCBsaW5lID0+IHsKLy8gICAgIGluZGV4Kys7Ci8vICAgICB0cnkgewovLyAgICAgICAgIGNvbnN0IHsgZXZlbnQsIHByb3BlcnRpZXMgfSA9IEpTT04ucGFyc2UobGluZSk7Ci8vCi8vICAgICAgICAgaWYgKCFwcm9wZXJ0aWVzLmRpc3RpbmN0X2lkIHx8IHByb3BlcnRpZXMuZGlzdGluY3RfaWQubGVuZ3RoID4gMTApCi8vICAgICAgICAgICAgIHJldHVybjsKLy8KLy8gICAgICAgICBjb25zdCBpZGVudGl0eSA9IHByb3BlcnRpZXMuZGlzdGluY3RfaWQ7Ci8vICAgICAgICAgY29uc3QgbWVzc2FnZSA9IGV2ZW50OwovLyAgICAgICAgIGNvbnN0IHRyYWNrSWQgPSBwcm9wZXJ0aWVzLnRyYWNrSUQ7Ci8vICAgICAgICAgY29uc3QgcGxheWxpc3RJZCA9IHByb3BlcnRpZXMucGxheWxpc3RJRDsKLy8KLy8gICAgICAgICBpZiAobWVzc2FnZSA9PT0gJ05FWFRfVFJBQ0snKSB7Ci8vICAgICAgICAgICAgIGNvbnN0IHsgc2l6ZSwgYml0cmF0ZSB9ID0gcHJvcGVydGllcy50cmFjay5zb3VyY2VzWzBdOwovLyAgICAgICAgICAgICBjb25zdCBkdXJhdGlvbiA9IChzaXplICogOCkgLyBiaXRyYXRlOwovLyAgICAgICAgICAgICBjb25zdCBvY2N1cnJlZEF0ID0gbmV3IERhdGUocHJvcGVydGllcy50aW1lc3RhbXAgKiAxMDAwKTsKLy8gICAgICAgICAgICAgY29uc3QgZGV2aWNlSWQgPSBwcm9wZXJ0aWVzLmRldmljZUlkIHx8IG51bGw7Ci8vICAgICAgICAgICAgIGNvbnN0IHJlbW90ZSA9IHByb3BlcnRpZXMucmVtb3RlIHx8IG51bGw7Ci8vICAgICAgICAgICAgIG5ldyBOZXh0VHJhY2soCi8vICAgICAgICAgICAgICAgICBpZGVudGl0eSwKLy8gICAgICAgICAgICAgICAgIHRyYWNrSWQsCi8vICAgICAgICAgICAgICAgICBwbGF5bGlzdElkLAovLyAgICAgICAgICAgICAgICAgZHVyYXRpb24sCi8vICAgICAgICAgICAgICAgICBiaXRyYXRlLAovLyAgICAgICAgICAgICAgICAgb2NjdXJyZWRBdCwKLy8gICAgICAgICAgICAgICAgIGRldmljZUlkLAovLyAgICAgICAgICAgICAgICAgcmVtb3RlCi8vICAgICAgICAgICAgICkucGVyc2lzdCgpOwovLyAgICAgICAgIH0KLy8gICAgICAgICAvLyBjb25zb2xlLmxvZygnSGFuZGxlZCcsIHZhbHVlLm1lc3NhZ2UpOwovLyAgICAgfSBjYXRjaCAoZSkgewovLyAgICAgICAgIGNvbnNvbGUubG9nKGUpOwovLyAgICAgICAgIGVycm9ycysrOwovLyAgICAgfQovLyAgICAgaWYgKGluZGV4ICUgMTAwMDAwID09IDApIGNvbnNvbGUubG9nKCdwcm9jZXNzZWQnLCBpbmRleCwgZXJyb3JzKTsKLy8gfSk7Cg==</text>
+        <text encoding="base64">UkVESVNfSE9TVD0kV0VSQ0tFUl9HSVRfUkVQT1NJVE9SWS1yZWRpcy1tYXN0ZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaW5jcmVtZW50Q291bnRlclF1ZXJ5ID0gYAogICAgICAgICAgICAgICAgICAgIElOU0VSVCBJTlRPIHZpZXdfdHJhY2tfc3RhdHMgKHRyYWNrSWQsIHBsYXlsaXN0SWQsIHBsYXlDb3VudCwgcGxheVRpbWUpCiAgICAgICAgICAgICAgICAgICAgVkFMVUVTICg6dHJhY2tJZCwgOnBsYXlsaXN0SWQsIDEsIDpwbGF5VGltZSkKICAgICAgICAgICAgICAgICAgICBPTiBEVVBMSUNBVEUgS0VZIFVQREFURSBwbGF5Q291bnQgPSBwbGF5Q291bnQgKyAxLCBwbGF5VGltZSA9IHBsYXlUaW1lICsgOnBsYXlUaW1lCiAgICAgICAgICAgICAgICBgOwoKICAgICAgICAgICAgY29uc3QgcmVzID0gYXdhaXQgcmRiLnJhdyhpbmNyZW1lbnRDb3VudGVyUXVlcnksIHsKICAgICAgICAgICAgICAgIHRyYWNrSWQsCiAgICAgICAgICAgICAgICBwbGF5bGlzdElkLAogICAgICAgICAgICAgICAgcGxheVRpbWUsCiAgICAgICAgICAgIH0pOwogICAgICAgICAgICAvLyBjb25zb2xlLmxvZygncXVlcnkgcmVzdWx0JywgcmVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cob2NjdXJyZWRBdCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFkbWluT25seSBmcm9tICcuL21pZGRsZXdhcmUvYWRtaW5Pbmx5JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgIGlmICh0cmFja0lkKSBwYXJhbXMudHJhY2tJZCA9IHRyYWNrSWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRyYWNrSWQ/OiBzdHJpbmc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1cGRhdGVTdGF0cyA9IHJkYigndmlld190cmFja19zdGF0cycpCiAgICAgICAgICAgIC5pbmNyZW1lbnQoJ3NraXBDb3VudCcpCiAgICAgICAgICAgIC5kZWNyZW1lbnQoJ3BsYXlUaW1lJywgcmVzcC5wbGF5VGltZSAtIHBsYXlUaW1lKQogICAgICAgICAgICAud2hlcmUoeyB0cmFja0lkLCBwbGF5bGlzdElkIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCByZGIoJ2V2ZW50cycpCiAgICAgICAgICAgIC51cGRhdGUoeyBwbGF5VGltZSwgd2FzU2tpcHBlZDogdHJ1ZSB9KQogICAgICAgICAgICAud2hlcmUoeyBpZDogcmVzcC5pZCB9KTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text>redis:
+  usePassword: false
+  cluster:
+    enabled: false</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCByZGIudHJhbnNhY3Rpb24oYXN5bmMgdHJ4ID0+IHsKICAgICAgICAvLyAgICAgYXdhaXQgdHJ4KCdldmVudHMnKQogICAgICAgIC8vICAgICAgICAgLnVwZGF0ZSh7IHBsYXlUaW1lLCB3YXNTa2lwcGVkOiB0cnVlIH0sICcnKQogICAgICAgIC8vICAgICAgICAgLndoZXJlKHsgdXNlcklkLCB0cmFja0lkLCBwbGF5bGlzdElkIH0pCiAgICAgICAgLy8gICAgICAgICAub3JkZXJCeSgnb2NjdXJyZWRBdCcsICdkZXNjJykKICAgICAgICAvLyAgICAgICAgIC5saW1pdCgxKTsKICAgICAgICAvLwogICAgICAgIC8vICAgICBhd2FpdCB0cngoJ3ZpZXdfdHJhY2tfc3RhdHMnKQogICAgICAgIC8vICAgICAgICAgLmRlY3JlbWVudCgncGxheVRpbWUnKQogICAgICAgIC8vICAgICAgICAgLndoZXJlKHsgdXNlcklkLCB0cmFja0lkLCBwbGF5bGlzdElkIH0pCiAgICAgICAgLy8gICAgICAgICAub3JkZXJCeSgnb2NjdXJyZWRBdCcsICdkZXNjJykKICAgICAgICAvLyAgICAgICAgIC5saW1pdCgxKTsKICAgICAgICAvLyB9KTsK</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgogIC0gbmFtZTogcmVkaXMKICAgIHZlcnNpb246IDYuNC4zCiAgICByZXBvc2l0b3J5OiAiQHN0YWJsZSIK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>
