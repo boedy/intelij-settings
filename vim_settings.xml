@@ -143,14 +143,30 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/webpack.config.js" timestamp="1586376321604">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/routes.ts" timestamp="1586091208468" />
-      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" timestamp="1586374687533" />
+      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" timestamp="1586375699079">
+        <mark key="[" line="194" column="2" />
+        <mark key="]" line="194" column="2" />
+        <mark key="." line="194" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/manifest.json" timestamp="1586376164758">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/services/authorizationService.ts" timestamp="1586093148430">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586262266980">
+      <file name="/Dummy.txt" timestamp="1586375747090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -161,7 +177,18 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" timestamp="1586374656443" />
+      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" timestamp="1586375735592">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/mixpanel.js" timestamp="1586377735190">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1586374649831">
         <mark key="[" line="0" column="0" />
       </file>
@@ -177,7 +204,6 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/deployment/templates/deployment.yaml" timestamp="1586088619318" />
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/.env.production" timestamp="1586092673066">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -189,24 +215,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/deployment/requirements.yaml" timestamp="1586087210035">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/deployment/helmfile.yaml" timestamp="1586088539862">
-        <mark key="'" line="21" column="60" />
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/package.json" timestamp="1586086851620">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/moneybird/index.js" timestamp="1586375253886" />
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/authController.ts" timestamp="1586092765207" />
     </filemarks>
     <jumps>
@@ -315,7 +324,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnSGFuZGxlZCcsIHZhbHVlLm1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgIC8vIHlvdXIgbWFpbiBjb2RlIGhlcmUK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -365,48 +374,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>checkVariable</text>
       </register>
       <register name="/" type="4">
         <text>json.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QVVUSE9SSVpBVElPTl9TRVJWSUNFPWh0dHA6Ly9hdXRob3JpemF0aW9uLnNlcnZpY2UuZGVmYXVsdAo=</text>
+        <text encoding="base64">Ly8gICAgIHdpbmRvdy5tcC5yZXBvcnQuZ2xvYmFscy5mZWF0dXJlX2dhdGVzLm1heF9kYXRhX2hpc3RvcnlfZGF5cyA9IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnSGFuZGxlZCcsIHZhbHVlLm1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgIC8vIHlvdXIgbWFpbiBjb2RlIGhlcmUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>add authorization check
-
-time:00:15</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJJZCA9IDsK</text>
+        <text encoding="base64">Ly8gZnVuY3Rpb24gY2hlY2tNcEluaXRpYWxpemVkKCkgewovLyAgIGlmICh3aW5kb3cubXApIHsKLy8gICAgIHdpbmRvdy5tcC5yZXBvcnQuZ2xvYmFscy5mZWF0dXJlX2dhdGVzLm1heF9kYXRhX2hpc3RvcnlfZGF5cyA9IG51bGw7Ci8vICAgfSBlbHNlIHsKLy8gICAgIGNvbnNvbGUubG9nKCdOT1QgUkVBRFknLCB3aW5kb3cubXApOwovLyAgICAgd2luZG93LnNldFRpbWVvdXQoY2hlY2tNcEluaXRpYWxpemVkLCAzMDApOwovLyAgIH0KLy8gfQovLwovLyBjaGVja01wSW5pdGlhbGl6ZWQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIHdpbmRvdy5mb28gPSAnYmFyJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKGp3KQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gYWZ0ZXJNcEluaXQoKSB7CiAgYWxlcnQoJ3Rlc3QnKTsKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG15RnJhbWUuZG9Tb21ldGhpbmdUaGVuKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVVUSE9SSVpBVElPTl9TRVJWSUNFPWF1dGhvcml6YXRpb24tc2VydmljZQo=</text>
+        <text encoding="base64">ICB3aW5kb3cubXAucmVwb3J0Lmdsb2JhbHMuZmVhdHVyZV9nYXRlcy5tYXhfZGF0YV9oaXN0b3J5X2RheXMgPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
