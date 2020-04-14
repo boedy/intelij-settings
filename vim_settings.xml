@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDTURcPg==</entry>
         <entry encoding="base64">XDxkaXZcPg==</entry>
         <entry encoding="base64">XDxmaXJzdEJ1ZmZlclw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxhd2FpdFw+</entry>
         <entry encoding="base64">OiA=</entry>
         <entry>json.</entry>
+        <entry encoding="base64">XDxodHRwc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>e Dockerfile</entry>
@@ -124,14 +124,50 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/bin/server.ts" timestamp="1586091194685" />
-      <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/src/services/soapResolver.ts" timestamp="1586874929768" />
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/statsController.ts" timestamp="1586093087380">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/routes.ts" timestamp="1586091208468" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/manifest.json" timestamp="1586376164758">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/src/cloudQueue/ItemWindow.ts" timestamp="1586879266752">
+        <mark key="[" line="55" column="87" />
+        <mark key="]" line="55" column="116" />
+        <mark key="^" line="55" column="116" />
+        <mark key="." line="55" column="115" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/services/authorizationService.ts" timestamp="1586093148430">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/mixpanel.js" timestamp="1586377735190">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/boilerplate/.env.production" timestamp="1586092670310">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="58" />
+        <mark key="." line="4" column="57" />
+        <mark key="^" line="4" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/moneybird/index.js" timestamp="1586375253886" />
+      <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/.env" timestamp="1586879034777">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="3" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/src/services/soapResolver.ts" timestamp="1586874929768" />
       <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/package.json" timestamp="1586875725130" />
       <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/webpack.config.js" timestamp="1586376321604">
         <mark key="[" line="13" column="21" />
@@ -139,22 +175,10 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/routes.ts" timestamp="1586091208468" />
       <file name="$USER_HOME$/Projects/kollekt/team-dashboard/queries.js" timestamp="1586375699079">
         <mark key="[" line="194" column="2" />
         <mark key="]" line="194" column="2" />
         <mark key="." line="194" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/manifest.json" timestamp="1586376164758">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="26" />
-        <mark key="^" line="24" column="26" />
-        <mark key="." line="24" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/services/authorizationService.ts" timestamp="1586093148430">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1586375747090">
         <mark key="[" line="0" column="0" />
@@ -173,20 +197,8 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/mixpanel.js" timestamp="1586377735190">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1586874458475">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/boilerplate/.env.production" timestamp="1586092670310">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="58" />
-        <mark key="." line="4" column="57" />
-        <mark key="^" line="4" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/README.md" timestamp="1586875787661">
         <mark key="[" line="0" column="0" />
@@ -199,12 +211,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/boilerplate/src/util/index.ts" timestamp="1586089786298">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/kollekt/team-dashboard/moneybird/index.js" timestamp="1586375253886" />
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/authController.ts" timestamp="1586092765207" />
     </filemarks>
     <jumps>
@@ -312,8 +318,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I1MgQURESU5HIA==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -363,13 +369,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>checkVariable</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>json.</text>
+        <text encoding="base64">XDxodHRwc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgIHdpbmRvdy5tcC5yZXBvcnQuZ2xvYmFscy5mZWF0dXJlX2dhdGVzLm1heF9kYXRhX2hpc3RvcnlfZGF5cyA9IG51bGw7Cg==</text>
+      <register name="0" type="4">
+        <text>https://c0a1a2b6.ngrok.io/login</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I1MgQURESU5HIA==</text>
@@ -411,12 +417,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>json.</last-search>
+      <last-search encoding="base64">XDxodHRwc1w+</last-search>
       <last-offset />
-      <last-pattern>json.</last-pattern>
+      <last-pattern encoding="base64">XDxodHRwc1w+</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
