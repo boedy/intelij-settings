@@ -124,11 +124,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/services/authorizationService.ts" timestamp="1586093148430">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/reporting/hashify.js" timestamp="1587475916468">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -164,7 +159,7 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587472493367">
+      <file name="/GraphQL.result.json" timestamp="1587478264514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/payments/duplicateSalesInvoice.js" timestamp="1587330475495">
@@ -189,6 +184,11 @@
         <mark key="[" line="194" column="2" />
         <mark key="]" line="194" column="2" />
         <mark key="." line="194" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/iimport.ts" timestamp="1587478744809">
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="7" column="71" />
+        <mark key="." line="7" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/payments/index.js" timestamp="1587062991544">
         <mark key="[" line="210" column="0" />
@@ -319,8 +319,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEuZGF0YVswXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>rest</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -370,7 +370,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>rest</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
