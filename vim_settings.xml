@@ -133,12 +133,6 @@
       <file name="/Dummy.txt" timestamp="1587399689668">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" timestamp="1586161833422">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/test/dgraph/index.ts" timestamp="1587472509591" />
       <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/.env" timestamp="1586879034777">
         <mark key="[" line="2" column="39" />
@@ -159,6 +153,7 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/.env" timestamp="1587480091633" />
       <file name="/GraphQL.result.json" timestamp="1587478264514">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,10 +180,11 @@
         <mark key="]" line="194" column="2" />
         <mark key="." line="194" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/iimport.ts" timestamp="1587478744809">
-        <mark key="[" line="7" column="71" />
-        <mark key="]" line="7" column="71" />
-        <mark key="." line="7" column="71" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/iimport.ts" timestamp="1587480130536">
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+        <mark key="^" line="85" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/payments/index.js" timestamp="1587062991544">
         <mark key="[" line="210" column="0" />
@@ -319,8 +315,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>rest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlcnJvcnMrKzsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -379,37 +375,37 @@
         <text encoding="base64">ICAgIGRhdGEuZGF0YS5tYXAoKHJvdywgaW5kZXgpID0+IHsKICAgICAgICBpZiAoaW5kZXggPT09IDApIHJldHVybjsKICAgICAgICByb3dbMF0gPSBoYXNoaWRzLmVuY29kZShyb3dbMF0pOwogICAgICAgIHJvd1sxXSA9IGhhc2hpZHMuZW5jb2RlKHJvd1sxXSk7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEuZGF0YVswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMrKzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93WzFdID0gaGFzaGlkcy5lbmNvZGUocm93WzFdKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEuZGF0YVswXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm93WzFdID0gaGFzaGlkcy5lbmNvZGUocm93WzFdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGEuZGF0YS5tYXAoKHJvdywgaW5kZXgpID0+IHsKICAgICAgICBpZiAoaW5kZXggPT09IDApIHJldHVybjsKICAgICAgICByb3dbMF0gPSBoYXNoaWRzLmVuY29kZShyb3dbMF0pOwogICAgICAgIHJvd1sxXSA9IGhhc2hpZHMuZW5jb2RlKHJvd1sxXSk7CiAgICB9KTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRhdGEuZGF0YS5tYXAoKHJvdywgaW5kZXgpID0+IHsKICAgICAgICBpZiAoaW5kZXggPT09IDApIHJldHVybjsKICAgICAgICByb3dbMF0gPSBoYXNoaWRzLmVuY29kZShyb3dbMF0pOwogICAgICAgIHJvd1sxXSA9IGhhc2hpZHMuZW5jb2RlKHJvd1sxXSk7CiAgICB9KTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEuZGF0YVswXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEuZGF0YVswXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludm9pY2UnLCByZXNwLmlkKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludm9pY2UnLCByZXNwLmlkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
