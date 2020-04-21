@@ -129,11 +129,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts/kollekt/reporting/hashify.js" timestamp="1587472429979">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="34" />
+      <file name="$USER_HOME$/Projects/scripts/kollekt/reporting/hashify.js" timestamp="1587473045480">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="15" column="49" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1587399689668">
         <mark key="[" line="0" column="0" />
@@ -144,6 +144,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/test/dgraph/index.ts" timestamp="1587472509591" />
       <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/.env" timestamp="1586879034777">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="39" />
@@ -163,7 +164,7 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587472463177">
+      <file name="/GraphQL.result.json" timestamp="1587472493367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/payments/duplicateSalesInvoice.js" timestamp="1587330475495">
@@ -171,12 +172,6 @@
         <mark key="]" line="155" column="41" />
         <mark key="." line="155" column="23" />
         <mark key="^" line="175" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/statsController.ts" timestamp="1586093087380">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/README.md" timestamp="1586892515351">
         <mark key="[" line="20" column="3" />
@@ -325,7 +320,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>.data</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -375,7 +370,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>.data</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -384,37 +379,37 @@
         <text>286106552818993061</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludm9pY2UnLCByZXNwLmlkKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEuZGF0YVswXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludm9pY2UnLCByZXNwLmlkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXNwID0gYXdhaXQgY2xpZW50LnBvc3QoJ3NhbGVzX2ludm9pY2VzJywgc2FsZXNJbnZvaWNlKS5jYXRjaChlID0+IGNvbnNvbGUubG9nKGNvbnRhY3QpKTsKICAgICAgICBhd2FpdCBjbGllbnQucGF0Y2goYC9zYWxlc19pbnZvaWNlcy8yODYxMDY3NTA1NDY4NzE3OTMvc2VuZF9pbnZvaWNlYCwge3NhbGVzX2ludm9pY2Vfc2VuZGluZzogewogICAgICAgICAgICAgICAgc2VuZGluZ19zY2hlZHVsZWQ6IHRydWUsCiAgICAgICAgICAgICAgICBpbnZvaWNlX2RhdGU6ICcyMDIwLTA3LTAxJwogICAgICAgICAgICB9fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXNwID0gYXdhaXQgY2xpZW50LnBvc3QoJ3NhbGVzX2ludm9pY2VzJywgc2FsZXNJbnZvaWNlKS5jYXRjaChlID0+IGNvbnNvbGUubG9nKGNvbnRhY3QpKTsKICAgICAgICBhd2FpdCBjbGllbnQucGF0Y2goYC9zYWxlc19pbnZvaWNlcy8yODYxMDY3NTA1NDY4NzE3OTMvc2VuZF9pbnZvaWNlYCwge3NhbGVzX2ludm9pY2Vfc2VuZGluZzogewogICAgICAgICAgICAgICAgc2VuZGluZ19zY2hlZHVsZWQ6IHRydWUsCiAgICAgICAgICAgICAgICBpbnZvaWNlX2RhdGU6ICcyMDIwLTA3LTAxJwogICAgICAgICAgICB9fSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
