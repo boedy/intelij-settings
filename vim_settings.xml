@@ -124,6 +124,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Kyber/Kyber.ts" timestamp="1587838139273">
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="59" column="31" />
+        <mark key="." line="59" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/NextTrack.ts" timestamp="1587481872429">
         <mark key="[" line="38" column="25" />
         <mark key="]" line="38" column="26" />
@@ -185,18 +190,18 @@
       <file name="/GraphQL.result.json" timestamp="1587828060836">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniSwap.ts" timestamp="1587829530157">
-        <mark key="[" line="66" column="20" />
-        <mark key="]" line="66" column="66" />
-        <mark key="." line="66" column="65" />
-        <mark key="^" line="66" column="66" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniSwap.ts" timestamp="1587837711288">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="105" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/website/header.php" timestamp="1587739240444" />
-      <file name="$USER_HOME$/Projects/test/uniswap-frontend/src/components/ExchangePage/index.jsx" timestamp="1587829451028">
-        <mark key="[" line="111" column="61" />
-        <mark key="]" line="111" column="85" />
-        <mark key="." line="111" column="84" />
-        <mark key="^" line="111" column="85" />
+      <file name="$USER_HOME$/Projects/test/uniswap-frontend/src/components/ExchangePage/index.jsx" timestamp="1587837036141">
+        <mark key="[" line="116" column="24" />
+        <mark key="]" line="117" column="13" />
+        <mark key="." line="117" column="12" />
+        <mark key="^" line="117" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/uniswapTest.ts" timestamp="1587823564725">
         <mark key="[" line="9" column="22" />
@@ -210,12 +215,6 @@
         <mark key="." line="249" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/TronTrade/index.ts" timestamp="1587824856549" />
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/routes.ts" timestamp="1586949122492">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/test/uniswap-frontend/.env.local" timestamp="1587828482889">
         <mark key="[" line="1" column="23" />
       </file>
@@ -326,7 +325,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>toNumber</text>
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -376,46 +375,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>toNumber</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
-      <register name="0" type="4">
-        <text>.toNumber()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB0b3RhbEJ1eVByaWNlID0gVW5pU3dhcC5nZXRCdXlSYXRlKGRlc2lyZWRBbW91bnQsIGV0aEFtb3VudCwgdG9rZW5BbW91bnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b3RhbFNlbGxQcmljZSwgNDY4NzAwMTg5MzkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyggdG90YWxCdXlQcmljZSwgNDY4NzAwMTg5MzkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldGhBbW91bnQsIHRva2VuQW1vdW50LCA0Njg3MDAxODkzOSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcmMyMFJlc2VydmUudG9OdW1iZXIoKSwgNDY4NzAwMTg5MzkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVzJywgcmVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcmMyMFJlc2VydmUudG9OdW1iZXIoKSwgNDY4NzAwMTg5MzkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnNTAwMDAwMDAwMDAwMDAwMDAgMzQ1MzA1ODAwMDE1NzY5Mjk2MSAzMjkzNTA3ODA5NjE4Jyk7CiAgICAgICAgY29uc29sZS5sb2codG9rZW5BbW91bnRCb3VnaHQsIGlucHV0UmVzZXJ2ZSwgb3V0cHV0UmVzZXJ2ZSk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGNhbGN1bGF0ZWREZXBlbmRlbnRWYWx1ZS5udW0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0b3RhbEJ1eVByaWNlID0gVW5pU3dhcC5nZXRCdXlSYXRlKGV0aEFtb3VudFRvU3BlbmQsIGV0aEFtb3VudCwgdG9rZW5BbW91bnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text>Allow for ignoring and disabling tokens</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyggdG90YWxCdXlQcmljZSwgNDY4NzAwMTg5MzkpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVzJywgcmVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyAnVW5rbm93biBiYWxhbmNlJwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnNTAwMDAwMDAwMDAwMDAwMDAgMzQ1MzA1ODAwMDE1NzY5Mjk2MSAzMjkzNTA3ODA5NjE4Jyk7CiAgICAgICAgLy8gY29uc29sZS5sb2codG9rZW5BbW91bnRCb3VnaHQsIGlucHV0UmVzZXJ2ZSwgb3V0cHV0UmVzZXJ2ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBCaWdOdW1iZXIoYmFsYW5jZSkuc2hpZnRlZEJ5KC10b2tlbi5kZWNpbWFscygpKS50b051bWJlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b3RhbFNlbGxQcmljZSwgNDY4NzAwMTg5MzkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
