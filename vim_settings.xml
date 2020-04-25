@@ -174,6 +174,7 @@
         <mark key="." line="155" column="23" />
         <mark key="^" line="175" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniSwap.ts" timestamp="1587823656833" />
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/TrackSkipped.ts" timestamp="1587481887058">
         <mark key="[" line="39" column="38" />
       </file>
@@ -184,6 +185,12 @@
         <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/website/header.php" timestamp="1587739240444" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/uniswapTest.ts" timestamp="1587823564725">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/webpack.config.js" timestamp="1586376321604">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="29" />
@@ -200,12 +207,6 @@
         <mark key="[" line="210" column="0" />
         <mark key="]" line="223" column="8" />
         <mark key="." line="249" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/manifest.json" timestamp="1586376164758">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="26" />
-        <mark key="^" line="24" column="26" />
-        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/routes.ts" timestamp="1586949122492">
         <mark key="[" line="14" column="18" />
@@ -325,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IGV4Y2hhbmdlLmZldGNoVG9rZW5zKCk7CiAgICBleGNoYW5nZS5mZXRjaFByaWNlcyhuZXcgVG9rZW4oJ0JBVCcsIDAsIDApKS50aGVuKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -376,7 +377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>wallet</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -385,22 +386,22 @@
         <text encoding="base64">ICAgIGRhdGEuZGF0YS5tYXAoKHJvdywgaW5kZXgpID0+IHsKICAgICAgICBpZiAoaW5kZXggPT09IDApIHJldHVybjsKICAgICAgICByb3dbMF0gPSBoYXNoaWRzLmVuY29kZShyb3dbMF0pOwogICAgICAgIHJvd1sxXSA9IGhhc2hpZHMuZW5jb2RlKHJvd1sxXSk7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBlOwo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IGV4Y2hhbmdlLmZldGNoVG9rZW5zKCk7CiAgICBleGNoYW5nZS5mZXRjaFByaWNlcyhuZXcgVG9rZW4oJ0JBVCcsIDAsIDApKS50aGVuKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFdhbGxldCBmcm9tICIuLi9zcmMvbm9kZS9XYWxsZXQiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMrKzsK</text>
+        <text encoding="base64">Y29uc3Qgd2FsbGV0ID0gbmV3IFdhbGxldCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEuZGF0YVswXSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFNlbGxPcmRlciBmcm9tICIuLi9zcmMvbm9kZS9vcmRlci9TZWxsT3JkZXIiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93WzFdID0gaGFzaGlkcy5lbmNvZGUocm93WzFdKTsK</text>
+        <text encoding="base64">aW1wb3J0IElkZXggZnJvbSAiLi4vc3JjL25vZGUvZXhjaGFuZ2VzL0lkZXgvSWRleCI7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -409,13 +410,13 @@
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGEuZGF0YS5tYXAoKHJvdywgaW5kZXgpID0+IHsKICAgICAgICBpZiAoaW5kZXggPT09IDApIHJldHVybjsKICAgICAgICByb3dbMF0gPSBoYXNoaWRzLmVuY29kZShyb3dbMF0pOwogICAgICAgIHJvd1sxXSA9IGhhc2hpZHMuZW5jb2RlKHJvd1sxXSk7CiAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IEJ1eU9yZGVyIGZyb20gIi4uL3NyYy9ub2RlL29yZGVyL0J1eU9yZGVyIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEuZGF0YVswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
