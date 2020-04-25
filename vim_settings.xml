@@ -130,27 +130,17 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587399689668">
+      <file name="/Dummy.txt" timestamp="1587825226903">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/test/dgraph/index.ts" timestamp="1587730869592" />
-      <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/.env" timestamp="1586879034777">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-        <mark key="^" line="3" column="57" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/NextTrack.ts" timestamp="1587481872429">
         <mark key="[" line="38" column="25" />
         <mark key="]" line="38" column="26" />
         <mark key="^" line="38" column="26" />
         <mark key="." line="38" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/mixpanel.js" timestamp="1586377735190">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" timestamp="1587399625238">
         <mark key="'" line="0" column="0" />
@@ -165,7 +155,7 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587821130313">
+      <file name="/GraphQL.result.json" timestamp="1587824730239">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/payments/duplicateSalesInvoice.js" timestamp="1587330475495">
@@ -177,6 +167,12 @@
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniSwap.ts" timestamp="1587823656833" />
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/app/events/TrackSkipped.ts" timestamp="1587481887058">
         <mark key="[" line="39" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/test/wallet.ts" timestamp="1587825013443">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/README.md" timestamp="1586892515351">
         <mark key="[" line="20" column="3" />
@@ -191,11 +187,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/webpack.config.js" timestamp="1586376321604">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="29" />
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/Wallet.ts" timestamp="1587825175173">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="98" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/iimport.ts" timestamp="1587482296514">
         <mark key="[" line="91" column="27" />
@@ -208,6 +204,7 @@
         <mark key="]" line="223" column="8" />
         <mark key="." line="249" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/personal/tron-arbitrage/src/node/exchanges/TronTrade/index.ts" timestamp="1587824856549" />
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/routes.ts" timestamp="1586949122492">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="23" />
@@ -327,7 +324,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGV4Y2hhbmdlLmZldGNoVG9rZW5zKCk7CiAgICBleGNoYW5nZS5mZXRjaFByaWNlcyhuZXcgVG9rZW4oJ0JBVCcsIDAsIDApKS50aGVuKGNvbnNvbGUubG9nKQo=</text>
+        <text>Allow for ignoring and disabling tokens</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -377,31 +374,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wallet</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEuZGF0YS5tYXAoKHJvdywgaW5kZXgpID0+IHsKICAgICAgICBpZiAoaW5kZXggPT09IDApIHJldHVybjsKICAgICAgICByb3dbMF0gPSBoYXNoaWRzLmVuY29kZShyb3dbMF0pOwogICAgICAgIHJvd1sxXSA9IGhhc2hpZHMuZW5jb2RlKHJvd1sxXSk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZm91bmQgPyBuZXcgQmlnTnVtYmVyKGZvdW5kLnZhbHVlKS5zaGlmdGVkQnkoLXRva2VuLmRlY2ltYWxzKCkpLnRvTnVtYmVyKCkgOiAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGV4Y2hhbmdlLmZldGNoVG9rZW5zKCk7CiAgICBleGNoYW5nZS5mZXRjaFByaWNlcyhuZXcgVG9rZW4oJ0JBVCcsIDAsIDApKS50aGVuKGNvbnNvbGUubG9nKQo=</text>
+        <text>Allow for ignoring and disabling tokens</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFdhbGxldCBmcm9tICIuLi9zcmMvbm9kZS9XYWxsZXQiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgd2FsbGV0ID0gbmV3IFdhbGxldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyAnVW5rbm93biBiYWxhbmNlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbGxPcmRlciBmcm9tICIuLi9zcmMvbm9kZS9vcmRlci9TZWxsT3JkZXIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBCaWdOdW1iZXIoYmFsYW5jZSkuc2hpZnRlZEJ5KC10b2tlbi5kZWNpbWFscygpKS50b051bWJlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IElkZXggZnJvbSAiLi4vc3JjL25vZGUvZXhjaGFuZ2VzL0lkZXgvSWRleCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -410,13 +407,13 @@
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1eU9yZGVyIGZyb20gIi4uL3NyYy9ub2RlL29yZGVyL0J1eU9yZGVyIjsK</text>
+        <text encoding="base64">ICAgICAgICBpZihyZXNwLmJhbGFuY2UpIHJldHVybiBwYXJzZUludChyZXNwLmJhbGFuY2UpIC8gMTAwMDAwMDsKICAgICAgICBpZihyZXNwKSByZXR1cm4gcGFyc2VJbnQocmVzcCkgLyAxMDAwMDAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZm91bmQgPyBuZXcgQmlnTnVtYmVyKGZvdW5kLnZhbHVlKS5zaGlmdGVkQnkoLXRva2VuLmRlY2ltYWxzKCkpLnRvTnVtYmVyKCkgOiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
