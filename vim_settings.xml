@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDxTRUxFQ1RcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxodHRwc1w+</entry>
         <entry>'</entry>
         <entry>:</entry>
+        <entry encoding="base64">XDxvcmdhbmlzYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e Dockerfile</entry>
@@ -124,11 +124,59 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/LocationRegisteredHandler.php" timestamp="1588093367449">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="45" />
-        <mark key="^" line="13" column="46" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/composer.json" timestamp="1588090258422" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Organisation.php" timestamp="1588154257444">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="60" />
+        <mark key="^" line="15" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/kafkaConsumeCommand.php" timestamp="1588154988245">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="52" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="56" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2017_08_10_083422_create_organisation_table.php" timestamp="1588154777768">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2020_04_29_093340_organisation_ref_id.php" timestamp="1588154293585">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="51" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="28" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1588155132834">
+        <mark key="[" line="49" column="72" />
+        <mark key="]" line="49" column="73" />
+        <mark key="." line="49" column="73" />
+        <mark key="^" line="49" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/OrganisationRegistered.php" timestamp="1588155157629">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="63" />
+        <mark key="^" line="16" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/kafkaConsume.php" timestamp="1588089805604">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="41" column="22" />
+        <mark key="." line="41" column="21" />
+        <mark key="^" line="41" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2020_04_28_152619_location_connection.php" timestamp="1588154856562">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/LocationRegisteredHandler.php" timestamp="1588154440566">
+        <mark key="'" line="15" column="13" />
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/Makefile" timestamp="1588090305359">
         <mark key="[" line="4" column="0" />
@@ -137,71 +185,51 @@
         <mark key="^" line="4" column="103" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Organisation/Organisation.php" timestamp="1588151123510" />
-      <file name="$USER_HOME$/Projects/atmosphere/payments/config/kafka.php" timestamp="1588088837840">
-        <mark key="[" line="21" column="59" />
-        <mark key="]" line="21" column="75" />
-        <mark key="." line="21" column="74" />
-        <mark key="^" line="21" column="75" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/OrganisationRegisteredHandler.php" timestamp="1588154496659">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/PubSub/KafkaSubscriber.php" timestamp="1588088116796" />
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/KafkaSubscriber.php" timestamp="1588088111038" />
-      <file name="$USER_HOME$/Projects/atmosphere/api/composer.json" timestamp="1588090258422" />
-      <file name="$USER_HOME$/Projects/atmosphere/api/.env.wercker" timestamp="1588088874093" />
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Location.php" timestamp="1588093450491">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="41" />
-        <mark key="." line="14" column="40" />
-        <mark key="^" line="14" column="41" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Location.php" timestamp="1588154706632">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588148827228">
+      <file name="/Dummy.txt" timestamp="1588153684014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1588088014893" />
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/kafkaConsumeCommand.php" timestamp="1588151170838">
-        <mark key="[" line="50" column="18" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/docker-compose.yml" timestamp="1588088347778" />
-      <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1588089019545">
-        <mark key="[" line="49" column="28" />
-        <mark key="]" line="49" column="28" />
-        <mark key="." line="49" column="28" />
-        <mark key="^" line="49" column="122" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/LocationRegistered.php" timestamp="1588153554963">
+        <mark key="[" line="18" column="56" />
+        <mark key="]" line="20" column="23" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="20" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/Makefile" timestamp="1588090268701">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="125" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/NewOrganisationRegistered.php" timestamp="1588148843101">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="32" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/NewOrganisationRegistered.php" timestamp="1588153865314">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/PubSub/KafkaSubscriber.php" timestamp="1588151263367">
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/PubSub/KafkaSubscriber.php" timestamp="1588155179147">
         <mark key="[" line="21" column="59" />
         <mark key="]" line="21" column="60" />
         <mark key="." line="21" column="60" />
         <mark key="^" line="21" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/kafkaConsume.php" timestamp="1588089805604">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="41" column="22" />
-        <mark key="." line="41" column="21" />
-        <mark key="^" line="41" column="22" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Organisation/Event/NewOrganisationRegistered.php" timestamp="1588153737649">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Kernel.php" timestamp="1588089756238">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="15" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/PubSub/Subscriber.php" timestamp="1588088123911" />
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
       <jump line="99" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/delegationService.ts" />
       <jump line="39" column="43" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/queue.ts" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/queue.ts" />
@@ -301,12 +329,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" />
       <jump line="95" column="9" filename="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" />
+      <jump line="15" column="13" filename="$USER_HOME$/Projects/atmosphere/payments/app/Events/LocationRegisteredHandler.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>$json['payload']['organisation_name']</text>
+        <text>kafka.service.kollekt.fm:9000</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -356,46 +385,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$json['payload']['organisation_name']</text>
+        <text>location_id</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text encoding="base64">XDxvcmdhbmlzYXRpb25cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>$json['eventName']</text>
+        <text>kafka.service.kollekt.fm:9000</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJGpzb25bJ2V2ZW50TmFtZSddIC4gIlxuIjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbGVlcCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICAkb3JnYW5pc2F0aW9uID0gbmV3IE9yZ2FuaXNhdGlvbihbCiAgICAgICAgICAgICdvcmdhbmlzYXRpb25faWQnID0+ICRldmVudC0+Z2V0T3JnYW5pc2F0aW9uSWQoKSwKICAgICAgICAgICAgJ25hbWUnID0+ICRldmVudC0+Z2V0T3JnYW5pc2F0aW9uTmFtZSgpCiAgICAgICAgXSk7CiAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAkanNvblsncGF5bG9hZCddWydvcmdhbmlzYXRpb25fbmFtZSddIC4gICJcbiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbGVlcCgxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ywo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAkanNvblsncGF5bG9hZCddWydvcmdhbmlzYXRpb25fbmFtZSddIC4gICJcbiI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZXZlbnQgPSAK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGV2ZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
@@ -404,12 +433,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>:</last-search>
+      <last-search encoding="base64">XDxvcmdhbmlzYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
+      <last-pattern encoding="base64">XDxvcmdhbmlzYXRpb25cPg==</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
