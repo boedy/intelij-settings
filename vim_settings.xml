@@ -152,21 +152,17 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2017_08_10_095310_create_billing_address_table.php" timestamp="1588087800390">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="59" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588093176513">
+      <file name="/Dummy.txt" timestamp="1588148827228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1588088014893" />
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/kafkaConsumeCommand.php" timestamp="1588093282189">
-        <mark key="[" line="50" column="45" />
-        <mark key="]" line="51" column="20" />
-        <mark key="." line="51" column="19" />
-        <mark key="^" line="51" column="20" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/kafkaConsumeCommand.php" timestamp="1588148858969">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="56" />
+        <mark key="." line="55" column="55" />
+        <mark key="^" line="55" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/docker-compose.yml" timestamp="1588088347778" />
       <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1588089019545">
@@ -178,6 +174,12 @@
       <file name="$USER_HOME$/Projects/atmosphere/api/Makefile" timestamp="1588090268701">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="125" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/NewOrganisationRegistered.php" timestamp="1588148843101">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/PubSub/KafkaSubscriber.php" timestamp="1588093072331">
         <mark key="[" line="21" column="59" />
@@ -310,7 +312,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ywo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -369,7 +371,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ05ld0xvY2F0aW9uUmVnaXN0ZXJlZCc6CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ywo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -378,16 +380,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -396,10 +398,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkYXJncy0+cGF5bG9hZCkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkbG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
