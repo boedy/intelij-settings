@@ -124,10 +124,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/UpdateBillingAddress.php" timestamp="1588243442586">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/kafkaConsumeCommand.php" timestamp="1588275519775">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="52" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="56" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/SubscriptionPlanPicked.php" timestamp="1588258370400">
         <mark key="[" line="29" column="21" />
@@ -147,22 +148,15 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/AccountingService.php" timestamp="1588241270444">
-        <mark key="[" line="280" column="0" />
-        <mark key="]" line="280" column="0" />
-        <mark key="." line="280" column="0" />
-        <mark key="^" line="260" column="58" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/User.php" timestamp="1588277223205">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/routes/api.php" timestamp="1588254476742">
-        <mark key="[" line="34" column="57" />
-        <mark key="]" line="34" column="57" />
-        <mark key="." line="34" column="57" />
-        <mark key="^" line="28" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Location.php" timestamp="1588246155366">
-        <mark key="]" line="26" column="33" />
-        <mark key="^" line="26" column="33" />
-        <mark key="." line="26" column="32" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/routes/api.php" timestamp="1588276056435">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/BillingDetailsRegistered.php" timestamp="1588256259375">
         <mark key="[" line="28" column="0" />
@@ -170,12 +164,11 @@
         <mark key="." line="28" column="29" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Providers/SerializerServiceProvider.php" timestamp="1588247804123">
-        <mark key="'" line="69" column="32" />
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="33" />
-        <mark key="^" line="30" column="34" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Providers/AppServiceProvider.php" timestamp="1588276563857">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="30" column="9" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/BillingDetailsRequest.php" timestamp="1588256227693">
         <mark key="[" line="26" column="13" />
@@ -183,30 +176,12 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/InvoiceDetails.php" timestamp="1588246232341">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="72" />
-        <mark key="]" line="43" column="73" />
-        <mark key="." line="43" column="73" />
-        <mark key="^" line="44" column="73" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1588277457975">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1588256763515">
-        <mark key="'" line="81" column="61" />
-        <mark key="[" line="64" column="93" />
-        <mark key="]" line="64" column="114" />
-        <mark key="." line="64" column="113" />
-        <mark key="^" line="64" column="114" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/docker-config/jobs/supervisord.conf" timestamp="1588242787136">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="35" column="10" />
-        <mark key="." line="35" column="10" />
-        <mark key="^" line="31" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/services/atmosphere.ts" timestamp="1588242569597">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="46" />
-      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/docker-compose.yml" timestamp="1588276906363" />
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/BillingAddress.php" timestamp="1588248938860">
         <mark key="'" line="34" column="20" />
         <mark key="[" line="56" column="50" />
@@ -220,10 +195,8 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588275249395">
+      <file name="/Dummy.txt" timestamp="1588277258300">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/CreateBillingAddress.php" timestamp="1588257712817">
         <mark key="[" line="55" column="48" />
@@ -231,10 +204,17 @@
         <mark key="." line="55" column="48" />
         <mark key="^" line="55" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/config/app.php" timestamp="1588247826219">
-        <mark key="[" line="177" column="49" />
-        <mark key="]" line="177" column="49" />
-        <mark key="." line="177" column="49" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/PubSub/KafkaSubscriber.php" timestamp="1588275703771">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="32" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/config/app.php" timestamp="1588276547395">
+        <mark key="[" line="178" column="50" />
+        <mark key="]" line="179" column="66" />
+        <mark key="^" line="179" column="66" />
+        <mark key="." line="179" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Middleware/AdminOnly.php" timestamp="1588249747511">
         <mark key="[" line="26" column="22" />
@@ -348,8 +328,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>invoiceDetails</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -399,46 +379,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>invoiceDetails</text>
+        <text>/var/logs/payments</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmV2ZW50UHVibGlzaGVyLT5wdWJsaXNoKAogICAgICAgICAgICAgICAgbmV3IEJpbGxpbmdEZXRhaWxzUmVnaXN0ZXJlZCgkaW52b2ljZURldGFpbHMpCiAgICAgICAgICAgICk7Cg==</text>
+      <register name="0" type="4">
+        <text>./storage/logs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmV2ZW50UHVibGlzaGVyLT5wdWJsaXNoKAogICAgICAgICAgICAgICAgbmV3IEJpbGxpbmdEZXRhaWxzUmVnaXN0ZXJlZCgkaW52b2ljZURldGFpbHMpCiAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0UGF5bG9hZCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAkbG9jYXRpb24tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VG9waWMoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxvY2F0aW9uLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEFwcFxVc2VyCiAqCiAqIEBwcm9wZXJ0eS1yZWFkIFxJbGx1bWluYXRlXE5vdGlmaWNhdGlvbnNcRGF0YWJhc2VOb3RpZmljYXRpb25Db2xsZWN0aW9ufFxJbGx1bWluYXRlXE5vdGlmaWNhdGlvbnNcRGF0YWJhc2VOb3RpZmljYXRpb25bXSAkbm90aWZpY2F0aW9ucwogKiBAbWl4aW4gXEVsb3F1ZW50CiAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJpbGxpbmdBZGRyZXNzLT4K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc291cmNlID0gJGNyZWF0ZVVzZUNhc2UtPmV4ZWN1dGUoJHJlcXVlc3QtPmdldCgnbG9jYXRpb25faWQnKSwgJGludm9pY2VEZXRhaWxzKTs7Cg==</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgICAgIC0gLi9zdG9yYWdlL2xvZ3M6L3Zhci9sb2cvcGF5bWVudHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgICAgIC0gLi9zdG9yYWdlL2xvZ3M6L3Zhci9sb2cvcGF5bWVudHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2UgPSAkY3JlYXRlVXNlQ2FzZS0+ZXhlY3V0ZSgkcmVxdWVzdC0+Z2V0KCdsb2NhdGlvbl9pZCcpLCAkaW52b2ljZURldGFpbHMpOzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJpbGxpbmdBZGRyZXNzLT4K</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
