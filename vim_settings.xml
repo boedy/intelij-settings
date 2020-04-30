@@ -165,6 +165,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/util/index.ts" timestamp="1588286242484">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="12" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/routes/api.php" timestamp="1588282043795" />
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1588283463863">
         <mark key="[" line="82" column="0" />
@@ -172,7 +178,7 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="78" column="104" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588283034606">
+      <file name="/Dummy.txt" timestamp="1588285531881">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -196,7 +202,7 @@
         <mark key="." line="55" column="48" />
         <mark key="^" line="55" column="47" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588278146284">
+      <file name="/GraphQL.result.json" timestamp="1588284460336">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1588283869224">
@@ -221,12 +227,6 @@
         <mark key="]" line="165" column="0" />
         <mark key="^" line="178" column="66" />
         <mark key="." line="165" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/BillingDetailsRegistered.php" timestamp="1588256259375">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="30" />
-        <mark key="." line="28" column="29" />
-        <mark key="^" line="28" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -334,8 +334,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>haarnetje</text>
+      <register name="&quot;" type="2">
+        <text>Fix permissions Bug</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -385,48 +385,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>haarnetje</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CkFQSV9LRVk9Ym91ZGV3aWpuQGtvbGxla3QuZm0KQVBJX1NFQ1JFVD1oYWFybmV0amUK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJsb2NrID0gbmV3IE5ldG1hc2soJzEwLjAuMC4wLzgnKTsKICAgIHJldHVybiBibG9jay5jb250YWlucyhpcChyZXEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Fix permissions Bug</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGlwKHJlcSkgPT09ICc6OmZmZmY6MTI3LjAuMC4xJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlwID0gJzEyMy4xMjMuMjA4LjAnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlwKHJlcSkgPT09ICc6OmZmZmY6MTI3LjAuMC4xJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9jYXRpb25zID0gTG9jYXRpb246OndpdGgoJ2JpbGxpbmdBZGRyZXNzJyktPndoZXJlSW4oJ2lkJywgJGp3dC0+bG9jYXRpb25zKS0+Z2V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>Allow admins to get billing details
-
-time:01:00</text>
+        <text encoding="base64">Y29uc3QgYmxvY2sgPSBuZXcgTmV0bWFzaygnMTIzLjEyMy4yMDguMC8yMCcpCmNvbnN0IGlwID0gJzEyMy4xMjMuMjA4LjAnCmNvbnNvbGUubG9nKGJsb2NrLmNvbnRhaW5zKGlwKSkK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxEb21haW5cQWNjb3VudGluZ1xCaWxsaW5nQWRkcmVzczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>Update .env file</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
