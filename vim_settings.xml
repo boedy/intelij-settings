@@ -124,6 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/.env.wercker" timestamp="1588347331191">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" timestamp="1588324476664">
         <mark key="'" line="38" column="50" />
         <mark key="[" line="44" column="39" />
@@ -207,12 +213,6 @@
         <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/wercker.yml" timestamp="1588294301872" />
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/BillingDetailsForm.js" timestamp="1588292775335">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="57" />
-        <mark key="^" line="76" column="23" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/services/api.js" timestamp="1588293386014">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -325,10 +325,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>Admins to view Moneybird webhooks
-
-time:00:15</text>
+      <register name="&quot;" type="4">
+        <text>KAFKA_BROKERS</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -383,8 +381,8 @@ time:00:15</text>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhdGlvbl9pZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzdWJzY3JpYmUoKQogICAgewogICAgICAgICR3ZWJob29rVXJsID0gZW52KCdBUFBfVVJMJykgLiAnYXBpL2FjY291bnRpbmcvd2ViaG9va3MvZXZlbnRzJzsKICAgICAgICAkYXR0cmlidXRlcyA9IFsKICAgICAgICAgICAgJ3VybCcgPT4gJHdlYmhvb2tVcmwsCiAgICAgICAgICAgICdldmVudHMnID0+IFsKICAgICAgICAgICAgICAgICdjb250YWN0X2NoYW5nZWQnLAogICAgICAgICAgICAgICAgJ3NhbGVzX2ludm9pY2Vfc2VuZF9lbWFpbCcsCiAgICAgICAgICAgICAgICAnc2FsZXNfaW52b2ljZV9zZW5kX21hbnVhbGx5JywKICAgICAgICAgICAgXQogICAgICAgIF07CiAgICAgICAgJGVuZHBvaW50ID0gJHRoaXMtPm1vbmV5YmlyZC0+d2ViaG9vaygpLT5nZXRFbmRwb2ludCgpOwogICAgICAgICR0aGlzLT5tb25leWJpcmQtPmdldENvbm5lY3Rpb24oKS0+cG9zdCgkZW5kcG9pbnQsIGpzb25fZW5jb2RlKCRhdHRyaWJ1dGVzKSk7CiAgICB9Cgo=</text>
+      <register name="0" type="4">
+        <text>KAFKA_BROKERS</text>
       </register>
       <register name="1" type="2">
         <text>Admins to view Moneybird webhooks
