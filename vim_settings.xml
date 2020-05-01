@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDxTRUxFQ1RcPg==</entry>
         <entry>private</entry>
@@ -27,6 +26,7 @@
         <entry>:</entry>
         <entry encoding="base64">XDxvcmdhbmlzYXRpb25cPg==</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry encoding="base64">XDxsb2NhdGlvbl9pZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>e Dockerfile</entry>
@@ -142,11 +142,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/InvoiceDetails.php" timestamp="1588283011593">
-        <mark key="[" line="52" column="85" />
-        <mark key="]" line="52" column="104" />
-        <mark key="." line="52" column="85" />
-        <mark key="^" line="52" column="89" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" timestamp="1588322045391">
+        <mark key="'" line="38" column="50" />
+        <mark key="[" line="38" column="78" />
+        <mark key="]" line="38" column="82" />
+        <mark key="." line="38" column="81" />
+        <mark key="^" line="38" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/.env.wercker" timestamp="1588293919976">
         <mark key="[" line="1" column="0" />
@@ -172,18 +173,18 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1588283463863">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="78" column="104" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/routes/api.php" timestamp="1588320334833">
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="15" column="87" />
+        <mark key="." line="15" column="86" />
+        <mark key="^" line="15" column="87" />
       </file>
       <file name="/Dummy.txt" timestamp="1588294560546">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588290896194">
+      <file name="/GraphQL.result.json" timestamp="1588321332288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/.env" timestamp="1588294557676">
@@ -224,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="35" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/domain/AccountDelegation.ts" />
       <jump line="174" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/domain/AccountDelegation.ts" />
       <jump line="121" column="47" filename="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/DelegationRequests.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/DelegationRequests.js" />
@@ -324,12 +324,13 @@
       <jump line="39" column="0" filename="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/PaymentsController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/PaymentsController.php" />
       <jump line="75" column="61" filename="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" />
+      <jump line="38" column="50" filename="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>payments.kollekt.fm</text>
+        <text encoding="base64">LT5pZA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -379,46 +380,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>payments.kollekt.fm</text>
+        <text encoding="base64">LT5pZA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcml2YXRlXD4=</text>
+        <text encoding="base64">XDxsb2NhdGlvbl9pZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU5EUE9JTlRfTUFJTl9BUEk9aHR0cHM6Ly9pbnN0b3JlYXBpLmtvbGxla3QuZm0KRU5EUE9JTlRfR1JBUEhRTD1odHRwczovL2luc3RvcmVhcGkua29sbGVrdC5mbS9ncmFwaHFsCkVORFBPSU5UX0JJTExJTkdfU0VSVklDRT1odHRwczovL3BheW1lbnRzLmtvbGxla3QuZm0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2hhc2gnID0+ICRsb2NhdGlvbi0+dXJsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5EUE9JTlRfTUFJTl9BUEk9aHR0cHM6Ly9pbnN0b3JlYXBpLmtvbGxla3QuZm0KRU5EUE9JTlRfR1JBUEhRTD1odHRwczovL2luc3RvcmVhcGkua29sbGVrdC5mbS9ncmFwaHFsCkVORFBPSU5UX0JJTExJTkdfU0VSVklDRT1odHRwOi8vbG9jYWxob3N0Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3Byb2Nlc3MuZW52LlRFU1R9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">R1JBUEhRTF9FTkRQT0lOVD1odHRwOi8vbG9jYWxob3N0OjMwMDAvZ3JhcGhxbApNQUlOX0FQSV9FTkRQT0lOVD1odHRwOi8vbG9jYWwK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRPcmdhbmlzYXRpb25EZXRhaWxzKCR1cmwpCiAgICB7CiAgICAgICAgJG9yZ2FuaXNhdGlvbiA9IE9yZ2FuaXNhdGlvbjo6d2hlcmUoJ3VybCcsICR1cmwpLT5maXJzdCgpOwoKICAgICAgICBpZiAoISRvcmdhbmlzYXRpb24pIHsKICAgICAgICAgICAgcmV0dXJuIHZpZXcoJzQwNCcsIFsndXJsJyA9PiAkdXJsXSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoIXNlc3Npb24oJ3BpbmNvZGU6JyAuICRvcmdhbmlzYXRpb24tPmlkKSkgewogICAgICAgICAgICByZXR1cm4gdmlldygncGluY29kZScsIFsndXJsJyA9PiAkdXJsXSk7CiAgICAgICAgfQoKICAgICAgICAkYWNjb3VudGluZyA9IG5ldyBBY2NvdW50aW5nU2VydmljZSgpOwogICAgICAgICRiaWxsaW5nQWRkcmVzc2VzID0gJG9yZ2FuaXNhdGlvbi0+YmlsbGluZ0FkZHJlc3NlcygpLT5nZXQoKTsKICAgICAgICAkYmlsbGluZ0FkZHJlc3NlcyA9ICRhY2NvdW50aW5nLT5mZXRjaExhdGVzdERldGFpbHMoJGJpbGxpbmdBZGRyZXNzZXMpOwoKICAgICAgICByZXR1cm4gdmlldygnYmlsbGluZ092ZXJ2aWV3JywgWwogICAgICAgICAgICAnb3JnYW5pc2F0aW9uX3VybCcgPT4gJG9yZ2FuaXNhdGlvbi0+dXJsLAogICAgICAgICAgICAnb3JnYW5pc2F0aW9uX25hbWUnID0+ICRvcmdhbmlzYXRpb24tPm5hbWUsCiAgICAgICAgICAgICdiaWxsaW5nX2FkZHJlc3NlcycgPT4gJGJpbGxpbmdBZGRyZXNzZXMsCiAgICAgICAgXSk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHZhbGlkYXRlUGluY29kZShSZXF1ZXN0ICRyZXF1ZXN0KQogICAgewogICAgICAgICR0aGlzLT52YWxpZGF0ZSgkcmVxdWVzdCwgWwogICAgICAgICAgICAncGluJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAndXJsJyA9PiAncmVxdWlyZWQnCiAgICAgICAgXSk7CgogICAgICAgICRvcmdhbmlzYXRpb24gPSBPcmdhbmlzYXRpb246OndoZXJlKCd1cmwnLCAkcmVxdWVzdC0+Z2V0KCd1cmwnKSktPmZpcnN0KCk7CgogICAgICAgIGlmICgkb3JnYW5pc2F0aW9uLT5waW5jb2RlID09ICRyZXF1ZXN0LT5nZXQoJ3BpbicpKSB7CiAgICAgICAgICAgIHNlc3Npb24oWydwaW5jb2RlOicgLiAkb3JnYW5pc2F0aW9uLT5pZCA9PiB0cnVlXSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gcmVkaXJlY3QoZW52KCdBUFBfVVJMJykgLiAkb3JnYW5pc2F0aW9uLT51cmwpOwogICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoJHJlcXVlc3QsIFsnbG9jYXRpb25JZCcgPT4gJ3JlcXVpcmVkJ10pOwoKICAgICAgICAkb3JnYW5pc2F0aW9uID0gT3JnYW5pc2F0aW9uOjp3aGVyZSgnb3JnYW5pc2F0aW9uX3JlZl9pZCcsICRvcmdhbmlzYXRpb25JZCktPmZpcnN0KCk7CgogICAgICAgIGlmICgkb3JnYW5pc2F0aW9uKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgSnNvblJlc3BvbnNlKFsnZXJyb3InID0+ICdSZXNvdXJjZSBub3QgZm91bmQnXSwgNDA0KTsKICAgICAgICB9CgogICAgICAgICRsb2NhdGlvbiA9IExvY2F0aW9uOjppbml0KCRyZXF1ZXN0LT5nZXQoJ2xvY2F0aW9uSWQnKSwgJG9yZ2FuaXNhdGlvbklkKTsKICAgICAgICAkbG9jYXRpb24tPnNhdmUoKTsKCiAgICAgICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoWycnID0+ICdSZXNvdXJjZSBub3QgZm91bmQnXSwgNDA0KTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgUFJPRFVDVElPTiA9IHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncHJvZHVjdGlvbic7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZShbCiAgICAgICAgICAgICd1cmwnID0+IGVudignQVBQX1VSTCcsICdodHRwczovL3BheW1lbnRzLmtvbGxla3QuZm0vJykgLiAkb3JnYW5pc2F0aW9uLT51cmwsCiAgICAgICAgICAgICdwaW5jb2RlJyA9PiAkb3JnYW5pc2F0aW9uLT5waW5Db2RlCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aHR0cHM6Ly9pbnN0b3JlYXBpLmtvbGxla3QuZm0vZ3JhcGhxbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgID8gJycKICAgIDogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlcm9yJyA9PiBlbnYoJ0FQUF9VUkwnLCAnaHR0cHM6Ly9wYXltZW50cy5rb2xsZWt0LmZtLycpIC4gJG9yZ2FuaXNhdGlvbi0+dXJsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgID8gJ2h0dHBzOi8vaW5zdG9yZWFwaS5rb2xsZWt0LmZtL2dyYXBocWwnCiAgICA6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAvZ3JhcGhxbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAkb3JnYW5pc2F0aW9uLT5zYXZlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I0JJTExJTkdfU0VSVklDRV9FTkRQT0lOVD1odHRwczovL3BheW1lbnRzLmtvbGxla3QuZm0K</text>
+        <text encoding="base64">RU5EUE9JTlRfTUFJTl9BUEk9aHR0cHM6Ly9pbnN0b3JlYXBpLmtvbGxla3QuZm0KRU5EUE9JTlRfR1JBUEhRTD1odHRwczovL2luc3RvcmVhcGkua29sbGVrdC5mbS9ncmFwaHFsCkVORFBPSU5UX0JJTExJTkdfU0VSVklDRT1odHRwOi8vbG9jYWxob3N0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
@@ -427,12 +428,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
+      <last-search encoding="base64">XDxsb2NhdGlvbl9pZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhdGlvbl9pZFw+</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
