@@ -147,12 +147,6 @@
         <mark key="." line="183" column="0" />
         <mark key="^" line="184" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/.env.wercker" timestamp="1588293919976">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="52" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Jobs/MoneybirdSalesInvoiceWebhookHandler.php" timestamp="1588326058571">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -171,7 +165,7 @@
         <mark key="." line="17" column="78" />
         <mark key="^" line="17" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588348920263">
+      <file name="/Dummy.txt" timestamp="1588422915398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/SubscriptionPlanPicked.php" timestamp="1588327072553">
@@ -180,10 +174,13 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/CreateBillingAddress.php" timestamp="1588330028263">
-        <mark key="[" line="25" column="6" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/CreateBillingAddress.php" timestamp="1588422762817">
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="51" column="32" />
+        <mark key="^" line="51" column="32" />
+        <mark key="." line="51" column="31" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588348846055">
+      <file name="/GraphQL.result.json" timestamp="1588422335887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/.env" timestamp="1588294557676">
@@ -192,11 +189,6 @@
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/src/app/components/BillingPage.js" timestamp="1588293791075">
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1588325742200">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="23" />
@@ -204,12 +196,6 @@
         <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/BillingAddressService.php" timestamp="1588329868596" />
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-backstage/wercker.yml" timestamp="1588293751988">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="25" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/EventPublisher.php" timestamp="1588348917611">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -217,6 +203,14 @@
         <mark key="^" line="29" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/wercker.yml" timestamp="1588294301872" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/asana-tracking/src/listener.js" timestamp="1588422353904" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/asana-tracking/src/EventSubscriber.js" timestamp="1588422403916" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/BillingDetailsRegistered.php" timestamp="1588422907737">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="35" column="86" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="174" column="0" filename="$USER_HOME$/Projects/atmosphere/services/account-delegation-service/src/domain/AccountDelegation.ts" />
@@ -324,7 +318,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IERvbid0IGZvcmdldCB0byBlbmFibGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -374,7 +368,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGV2ZW50LT5nZXRUb3BpYygpLA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhdGlvbl9pZFw+</text>
@@ -383,39 +377,37 @@
         <text encoding="base64">ICAgICAgICAkY2xhc3NOYW1lUGFydHMgPSBleHBsb2RlKCdcXCcsZ2V0X2NsYXNzKCRldmVudCkpOwogICAgICAgICRjbGFzc05hbWUgPSBhcnJheV9wb3AoJGNsYXNzTmFtZVBhcnRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IERvbid0IGZvcmdldCB0byBlbmFibGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>Admins to view Moneybird webhooks
-
-time:00:15</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJHBheWxvYWQ7CgogICAgLyoqCiAgICAgKiBCaWxsaW5nRGV0YWlsc1JlZ2lzdGVyZWQgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gJGxvY2F0aW9uSWQKICAgICAqIEBwYXJhbSAkcGF5bG9hZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoJGxvY2F0aW9uSWQsICRwYXlsb2FkKQogICAgewogICAgICAgICR0aGlzLT5sb2NhdGlvbklkID0gJGxvY2F0aW9uSWQ7CiAgICAgICAgJHRoaXMtPnBheWxvYWQgPSAkcGF5bG9hZDsKICAgIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU3Vic2NyaXB0aW9uUGxhblBpY2tlZCBjb25zdHJ1Y3Rvci4KICAgICAqIEBwYXJhbSAkcGxhbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoJHBsYW4pCiAgICB7CiAgICAgICAgJHRoaXMtPnBsYW4gPSAkcGxhbjsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>Don't wait for charges when in local development</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHBheWxvYWQ7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text>missing chamber of commerce ;;cc</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkd2ViaG9va1VybCA9IGVudignQVBQX1VSTCcpIC4gJ2FwaS9hY2NvdW50aW5nL3dlYmhvb2tzL2V2ZW50cyc7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQmlsbGluZ0RldGFpbHNSZWdpc3RlcmVkIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtIEludm9pY2VEZXRhaWxzICRkZXRhaWxzCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChJbnZvaWNlRGV0YWlscyAkZGV0YWlscykKICAgIHsKICAgICAgICAkdGhpcy0+cGF5bG9hZCA9ICRkZXRhaWxzLT50b0FycmF5KCk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGxvY2F0aW9uaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
