@@ -124,11 +124,75 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/SubscriptionPlanPicked.php" timestamp="1588327072553">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="18" column="20" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Playlist/Command/RemovePlaylistItem.php" timestamp="1588761988643">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/PubSub/KafkaPublisher.php" timestamp="1588764133779">
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="46" />
+        <mark key="." line="39" column="46" />
+        <mark key="^" line="39" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts/kollekt/sendBulkEmail/emails.csv" timestamp="1588611506367">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Playlist/Command/DisablePlaylistItem.php" timestamp="1588763683301">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Event/EventPublisher.php" timestamp="1588763971851">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/test.ts" timestamp="1588590050050">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Playlist/Event/TrackEnabledInPlaylist.php" timestamp="1588760530702">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Controllers/PlaylistController.php" timestamp="1588763697536">
+        <mark key="[" line="120" column="43" />
+        <mark key="]" line="121" column="8" />
+        <mark key="^" line="121" column="8" />
+        <mark key="." line="121" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts/kollekt/sendBulkEmail/index.js" timestamp="1588754272837">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Playlist/PlaylistItem.php" timestamp="1588763094713">
+        <mark key="[" line="113" column="12" />
+        <mark key="]" line="113" column="13" />
+        <mark key="^" line="113" column="13" />
+        <mark key="." line="113" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/asana-tracking/src/LocationLifeCycle.js" timestamp="1588423866304">
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="287" column="51" />
+        <mark key="." line="287" column="50" />
+        <mark key="^" line="287" column="51" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588761068926">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Providers/EventServiceProvider.php" timestamp="1588763813811">
+        <mark key="[" line="105" column="20" />
+        <mark key="]" line="105" column="20" />
+        <mark key="." line="105" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/sendBulkEmail/front.js" timestamp="1588613788915">
         <mark key="'" line="23" column="42" />
@@ -137,30 +201,9 @@
         <mark key="^" line="35" column="31" />
         <mark key="." line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts/kollekt/sendBulkEmail/emails.csv" timestamp="1588611506367">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/CreateBillingAddress.php" timestamp="1588422762817">
-        <mark key="[" line="50" column="45" />
-        <mark key="]" line="51" column="32" />
-        <mark key="^" line="51" column="32" />
-        <mark key="." line="51" column="31" />
-      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Playlist/Event/TrackDisabledInPlaylist.php" timestamp="1588760415489" />
       <file name="/GraphQL.result.json" timestamp="1588756311305">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/.env.wercker" timestamp="1588348765109">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Event/EventPublisher.php" timestamp="1588348869806">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="53" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/playlistSync.ts" timestamp="1588594006450">
         <mark key="[" line="45" column="44" />
@@ -168,45 +211,17 @@
         <mark key="^" line="45" column="58" />
         <mark key="." line="45" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/test.ts" timestamp="1588590050050">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/routes.php" timestamp="1588762506085">
+        <mark key="[" line="162" column="88" />
+        <mark key="]" line="162" column="106" />
+        <mark key="." line="162" column="105" />
+        <mark key="^" line="162" column="106" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/asana-tracking/scripts/test.js" timestamp="1588423833172">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="26" column="7" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="24" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/AccountingService.php" timestamp="1588326710423">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="184" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/EventPublisher.php" timestamp="1588348917611">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="29" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/scripts/kollekt/sendBulkEmail/index.js" timestamp="1588754272837">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/asana-tracking/src/LocationLifeCycle.js" timestamp="1588423866304">
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="287" column="51" />
-        <mark key="." line="287" column="50" />
-        <mark key="^" line="287" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Events/BillingDetailsRegistered.php" timestamp="1588422907737">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="35" column="86" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Playlist/Command/EnablePlaylistItem.php" timestamp="1588760815664">
+        <mark key="[" line="54" column="15" />
+        <mark key="]" line="54" column="23" />
+        <mark key="." line="54" column="22" />
+        <mark key="^" line="54" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -315,7 +330,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -365,46 +380,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.trim(),</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMjA5NDc0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>3209474</text>
+        <text encoding="base64">JHRoaXMtPmZvcm1hdCgkZXZlbnQp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2UgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKGNvdW50ZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiggISBlbnYoJ1BVQlNVQl9CUk9LRVJfTElTVCcsIGZhbHNlKSl7CiAgICAgICAgICAgICRtZXNzYWdlID0gJ1B1Ymxpc2hpbmcgJwogICAgICAgICAgICBMb2c6OmRlYnVnKCRldmVudCkKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVtYWlsQm9keSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCBmcm9udC5zZW5kRW1haWwoCiAgLy8gICBjYW5uZWRSZXNwb25zZSwKICAvLyAgICJjaGFfNWV3eSIsCiAgLy8gICBbImJvdWRld2lqbkBrb2xsZWt0LmZtIl0sCiAgLy8gICAiRG9taW5vJ3MgTXVzaWMgQ2hhbm5lbCIKICAvLyApOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChbJHBsYXlsaXN0SWQsICRpdGVtLT5nZXRJZCgpLCAkaXRlbS0+Z2V0UGxheWxpc3QoKS0+Z2V0SWQoKV0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaXRlbSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
