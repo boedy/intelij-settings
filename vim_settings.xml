@@ -29,9 +29,6 @@
         <entry encoding="base64">XDwzMjA5NDc0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>e Dockerfile</entry>
-        <entry>so</entry>
-        <entry>w production.yml</entry>
         <entry>vso</entry>
         <entry encoding="base64">dnNwIA==</entry>
         <entry>action SplitHorizontally</entry>
@@ -47,8 +44,11 @@
         <entry>set multiple-cursors</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
-        <entry>vsp</entry>
         <entry>action AceAction</entry>
+        <entry>showlines</entry>
+        <entry>set num</entry>
+        <entry>set number</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -169,7 +169,7 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Controllers/LocationController.php" timestamp="1588788828219">
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Controllers/LocationController.php" timestamp="1588846240358">
         <mark key="[" line="136" column="51" />
         <mark key="]" line="136" column="80" />
         <mark key="^" line="136" column="80" />
@@ -180,11 +180,6 @@
         <mark key="]" line="107" column="46" />
         <mark key="^" line="107" column="47" />
         <mark key="." line="107" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/scripts/kollekt/sendBulkEmail/index.js" timestamp="1588754272837">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Playlist/PlaylistItem.php" timestamp="1588763094713">
         <mark key="[" line="113" column="12" />
@@ -222,6 +217,9 @@
         <mark key="]" line="95" column="69" />
         <mark key="." line="95" column="69" />
         <mark key="^" line="95" column="55" />
+      </file>
+      <file name="/" timestamp="1588845365872">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Playlist/Command/EnablePlaylistItem.php" timestamp="1588760815664">
         <mark key="[" line="54" column="15" />
@@ -428,7 +426,7 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>vsp</text>
       </register>
     </registers>
   </component>
