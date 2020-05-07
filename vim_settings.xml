@@ -140,26 +140,18 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/BillingAddress.php" timestamp="1588777571885">
-        <mark key="[" line="60" column="75" />
-        <mark key="]" line="60" column="83" />
-        <mark key="^" line="60" column="83" />
-        <mark key="." line="60" column="82" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Controllers/LocationController.php" timestamp="1588859447325">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/PaymentsController.php" timestamp="1588847292426">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="53" column="4" />
-        <mark key="^" line="53" column="4" />
-        <mark key="." line="53" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/composer.json" timestamp="1588854639977" />
       <file name="$USER_HOME$/Projects/atmosphere/api/vendor/guzzle/guzzle/src/Guzzle/Http/Client.php" timestamp="1588857249500" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/docker-compose.yml" timestamp="1588867494494">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1588862928604">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="196" column="0" />
@@ -195,14 +187,20 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="23" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588849647091">
+      <file name="/GraphQL.result.json" timestamp="1588867295909">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssociateBillingAddressWithLocation.php" timestamp="1588865521263">
-        <mark key="[" line="75" column="32" />
-        <mark key="]" line="61" column="12" />
-        <mark key="." line="61" column="12" />
-        <mark key="^" line="68" column="13" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/CreateBillingAddress.php" timestamp="1588867216507">
+        <mark key="[" line="40" column="39" />
+        <mark key="]" line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+        <mark key="." line="40" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssociateBillingAddressWithLocation.php" timestamp="1588867188901">
+        <mark key="[" line="68" column="45" />
+        <mark key="]" line="60" column="10" />
+        <mark key="." line="60" column="9" />
+        <mark key="^" line="60" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/routes.php" timestamp="1588858718749">
         <mark key="'" line="94" column="90" />
@@ -321,7 +319,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Create</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -371,7 +369,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Create</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMjA5NDc0XD4=</text>
