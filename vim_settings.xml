@@ -131,12 +131,12 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1589215115067">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="66" column="10" />
-        <mark key="]" line="68" column="26" />
-        <mark key="^" line="68" column="26" />
-        <mark key="." line="68" column="25" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1589302211010">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="67" column="77" />
       </file>
       <file name="/Dummy.txt" timestamp="1589210183533">
         <mark key="[" line="0" column="0" />
@@ -149,6 +149,12 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1589212009850">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/CreateBillingAddress.php" timestamp="1589302119124">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="^" line="51" column="44" />
+        <mark key="." line="42" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/.env.wercker" timestamp="1589209307170">
         <mark key="[" line="1" column="8" />
@@ -185,11 +191,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="18" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/deployment/charts/dgraph/templates/zero-statefulset.yaml" timestamp="1588946182552">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/deployment/charts/dgraph/templates/alpha-statefulset.yaml" timestamp="1588946188382">
         <mark key="[" line="0" column="0" />
@@ -327,7 +328,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAtIGJpbGxpbmc6Y3JlYXRlQWRkcmVzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -377,16 +378,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>view</text>
+        <text encoding="base64">JHVzZXJJZCwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMjA5NDc0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoJHJlcXVlc3QsIFsKICAgICAgICAgICAgJ29yZ2FuaXNhdGlvbl9pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICBdKTsKCiAgICAgICAgJGJpbGxpbmdBZGRyZXNzID0gQmlsbGluZ0FkZHJlc3M6OmZpbmQoJGJpbGxpbmdBZGRyZXNzSWQpOwogICAgICAgIGlmICghJGJpbGxpbmdBZGRyZXNzKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgSnNvblJlc3BvbnNlKFsnZXJyb3InID0+ICdSZXNvdXJjZSBub3QgZm91bmQnXSwgNDA0KTsKICAgICAgICB9CgogICAgICAgICR0aGlzLT5zaG91bGRCZUFsbG93ZWQoCiAgICAgICAgICAgICRyZXF1ZXN0LCAnYmlsbGluZ0FkZHJlc3M6dmlldycsIG5ldyBSZXNvdXJjZSgnb3JnYW5pc2F0aW9uJywgJHJlcXVlc3QtPmdldCgnb3JnYW5pc2F0aW9uX2lkJykpCiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAkaW52b2ljZURldGFpbHMgPSBJbnZvaWNlRGV0YWlsczo6ZnJvbUFycmF5KCRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAtIGJpbGxpbmc6Y3JlYXRlQWRkcmVzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -395,28 +396,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3MgPSBCaWxsaW5nQWRkcmVzczo6ZmluZCgkYmlsbGluZ0FkZHJlc3NJZCk7CiAgICAgICAgaWYgKCEkYmlsbGluZ0FkZHJlc3MpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoWydlcnJvcicgPT4gJ1Jlc291cmNlIG5vdCBmb3VuZCddLCA0MDQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkaW52b2ljZURldGFpbHMgPSBJbnZvaWNlRGV0YWlsczo6ZnJvbUFycmF5KCRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoJHJlcXVlc3QsIFsKICAgICAgICAgICAgJ29yZ2FuaXNhdGlvbl9pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICBdKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT5hdXRob3JpemF0aW9uU2VydmljZS0+aXNBbGxvd2VkKCR1c2VySWQsICdiaWxsaW5nQWRkcmVzczpjcmVhdGUnLCBuZXcgUmVzb3VyY2UoJG9yZ2FuaXNhdGlvbklkLCAnb3JnYW5pc2F0aW9uJykpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCdGb3JiaWRkZW4nKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDaGVjayBhY2Nlc3MK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkQmVBbGxvd2VkKAogICAgICAgICAgICAkcmVxdWVzdCwgJ2JpbGxpbmdBZGRyZXNzOmNyZWF0ZScsIG5ldyBSZXNvdXJjZSgnb3JnYW5pc2F0aW9uJywgJHJlcXVlc3QtPmdldCgnb3JnYW5pc2F0aW9uX2lkJykpCiAgICAgICAgKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKiAtIGJpbGxpbmc6Y3JlYXRlQWRkcmVzcwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmVzb3VyY2UgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gJGlkCiAgICAgKiBAcGFyYW0gJHR5cGUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRpZCwgJHR5cGUpCiAgICB7CiAgICAgICAgJHRoaXMtPmlkID0gJGlkOwogICAgICAgICR0aGlzLT50eXBlID0gJHR5cGU7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYmlsbGluZ0FkZHJlc3MgPSBCaWxsaW5nQWRkcmVzczo6ZmluZCgkYmlsbGluZ0FkZHJlc3NJZCk7CiAgICAgICAgaWYgKCEkYmlsbGluZ0FkZHJlc3MpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBKc29uUmVzcG9uc2UoWydlcnJvcicgPT4gJ1Jlc291cmNlIG5vdCBmb3VuZCddLCA0MDQpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
