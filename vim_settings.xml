@@ -150,11 +150,11 @@
       <file name="/GraphQL.result.json" timestamp="1589372852273">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/CreateBillingAddress.php" timestamp="1589371708204">
-        <mark key="[" line="51" column="56" />
-        <mark key="]" line="51" column="60" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/CreateBillingAddress.php" timestamp="1589376561734">
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="57" column="44" />
         <mark key="^" line="51" column="60" />
-        <mark key="." line="51" column="59" />
+        <mark key="." line="57" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/.env.wercker" timestamp="1589209307170">
         <mark key="[" line="1" column="8" />
@@ -168,11 +168,11 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Services/Auth/AuthorizationService.php" timestamp="1589373531903">
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="23" column="68" />
-        <mark key="." line="23" column="67" />
-        <mark key="^" line="23" column="68" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Services/Auth/AuthorizationService.php" timestamp="1589376691598">
+        <mark key="[" line="72" column="51" />
+        <mark key="]" line="72" column="65" />
+        <mark key="^" line="72" column="65" />
+        <mark key="." line="72" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssociateBillingAddressWithLocation.php" timestamp="1589214884600">
         <mark key="[" line="69" column="0" />
@@ -184,7 +184,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1589371833198">
+      <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1589376465989">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="22" />
         <mark key="^" line="8" column="22" />
@@ -330,8 +330,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHBhcmVudCkgJHBheWxvYWRbJ3BhcmVudCddID0gJHJlc291cmNlOwogICAgICAgICR0aGlzLT5jbGllbnQtPnBvc3QoJy9yZXNvdXJjZXMnLCBbCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -381,7 +381,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMjA5NDc0XD4=</text>
@@ -390,37 +390,37 @@
         <text encoding="base64">ICAgICAgICAkaGVhZGVycyA9IFtdOwogICAgICAgIGlmICgkYmVhcmVyKSB7CiAgICAgICAgICAgICRoZWFkZXJzWydBdXRob3JpemF0aW9uJ10gPSAkYmVhcmVyOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHBhcmVudCkgJHBheWxvYWRbJ3BhcmVudCddID0gJHJlc291cmNlOwogICAgICAgICR0aGlzLT5jbGllbnQtPnBvc3QoJy9yZXNvdXJjZXMnLCBbCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPmNsaWVudC0+Z2V0KAogICAgICAgICAgICBzcHJpbnRmKAogICAgICAgICAgICAgICAgJy8/dXNlcj0lcyZhY3Rpb249JXMmcmVzb3VyY2U9JXMnLAogICAgICAgICAgICAgICAgJHVzZXJJZCwKICAgICAgICAgICAgICAgICRhY3Rpb24sCiAgICAgICAgICAgICAgICAkcmVzb3VyY2UKICAgICAgICAgICAgKSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2hlYWRlcnMnID0+ICRoZWFkZXJzCiAgICAgICAgICAgIF0KICAgICAgICApOwoKICAgICAgICByZXR1cm4gJHJlc3VsdC0+Z2V0U3RhdHVzQ29kZSgpID09IDIwMDsK</text>
+        <text encoding="base64">ICAgICAgICBkZChqc29uX2VuY29kZSgkcGF5bG9hZCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9ICR0aGlzLT5jbGllbnQtPmdldCgKICAgICAgICAgICAgICAgIHNwcmludGYoCiAgICAgICAgICAgICAgICAgICAgJy8/dXNlcj0lcyZhY3Rpb249JXMmcmVzb3VyY2U9JXMnLAogICAgICAgICAgICAgICAgICAgICR1c2VySWQsCiAgICAgICAgICAgICAgICAgICAgJGFjdGlvbiwKICAgICAgICAgICAgICAgICAgICAkcmVzb3VyY2UKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ2hlYWRlcnMnID0+ICRoZWFkZXJzCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICk7CgogICAgICAgICAgICByZXR1cm4gJHJlc3VsdC0+Z2V0U3RhdHVzQ29kZSgpID09IDIwMDsK</text>
+        <text encoding="base64">ICAgICAgICBkZChqc29uX2VuY29kZSgkcGF5bG9hZCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZChqc29uX2VuY29kZSgkcGF5bG9hZCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPmNsaWVudC0+Z2V0KAogICAgICAgICAgICBzcHJpbnRmKAogICAgICAgICAgICAgICAgJy8/dXNlcj0lcyZhY3Rpb249JXMmcmVzb3VyY2U9JXMnLAogICAgICAgICAgICAgICAgJHVzZXJJZCwKICAgICAgICAgICAgICAgICRhY3Rpb24sCiAgICAgICAgICAgICAgICAkcmVzb3VyY2UKICAgICAgICAgICAgKSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2hlYWRlcnMnID0+ICRoZWFkZXJzCiAgICAgICAgICAgIF0KICAgICAgICApOwoKICAgICAgICByZXR1cm4gJHJlc3VsdC0+Z2V0U3RhdHVzQ29kZSgpID09IDIwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPmNsaWVudC0+Z2V0KAogICAgICAgICAgICBzcHJpbnRmKAogICAgICAgICAgICAgICAgJy8/dXNlcj0lcyZhY3Rpb249JXMmcmVzb3VyY2U9JXMnLAogICAgICAgICAgICAgICAgJHVzZXJJZCwKICAgICAgICAgICAgICAgICRhY3Rpb24sCiAgICAgICAgICAgICAgICAkcmVzb3VyY2UKICAgICAgICAgICAgKSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2hlYWRlcnMnID0+ICRoZWFkZXJzCiAgICAgICAgICAgIF0KICAgICAgICApOwoKICAgICAgICByZXR1cm4gJHJlc3VsdC0+Z2V0U3RhdHVzQ29kZSgpID09IDIwMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9ICR0aGlzLT5jbGllbnQtPmdldCgKICAgICAgICAgICAgICAgIHNwcmludGYoCiAgICAgICAgICAgICAgICAgICAgJy8/dXNlcj0lcyZhY3Rpb249JXMmcmVzb3VyY2U9JXMnLAogICAgICAgICAgICAgICAgICAgICR1c2VySWQsCiAgICAgICAgICAgICAgICAgICAgJGFjdGlvbiwKICAgICAgICAgICAgICAgICAgICAkcmVzb3VyY2UKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ2hlYWRlcnMnID0+ICRoZWFkZXJzCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICk7CgogICAgICAgICAgICByZXR1cm4gJHJlc3VsdC0+Z2V0U3RhdHVzQ29kZSgpID09IDIwMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYmVhcmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
