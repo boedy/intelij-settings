@@ -124,6 +124,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/atmosphere/api/.env" timestamp="1589402707960">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="70" />
+        <mark key="^" line="22" column="70" />
+        <mark key="." line="22" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Kernel.php" timestamp="1589210883374">
+        <mark key="[" line="63" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/.env.wercker" timestamp="1589209307170">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/BillingDetailsRequest.php" timestamp="1589363140804">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Services/Auth/Resource.php" timestamp="1589213153986">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Middleware/AuthUser.php" timestamp="1589365145613">
+        <mark key="[" line="29" column="95" />
+        <mark key="]" line="29" column="107" />
+        <mark key="." line="29" column="106" />
+        <mark key="^" line="29" column="107" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Services/Auth/Permission.php" timestamp="1589212565884">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/routes/api.php" timestamp="1589378325001">
         <mark key="'" line="17" column="41" />
         <mark key="[" line="30" column="20" />
@@ -144,9 +181,6 @@
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Kernel.php" timestamp="1589210883374">
-        <mark key="[" line="63" column="45" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1589372852273">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,17 +190,11 @@
         <mark key="^" line="51" column="60" />
         <mark key="." line="57" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/.env.wercker" timestamp="1589209307170">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/BillingDetailsRequest.php" timestamp="1589363140804">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="17" column="8" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Listeners/AuthorizationChangeHandler.php" timestamp="1589402683143">
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="38" />
+        <mark key="." line="58" column="37" />
+        <mark key="^" line="58" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Services/Auth/AuthorizationService.php" timestamp="1589401822404">
         <mark key="[" line="62" column="18" />
@@ -193,37 +221,11 @@
       <file name="/" timestamp="1589211754016">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/wercker.yml" timestamp="1589209296349">
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="32" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Services/Auth/Resource.php" timestamp="1589213153986">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="18" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Middleware/PinCodeAuth.php" timestamp="1589210242289">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="31" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/VerifyPermissions.php" timestamp="1589214587875" />
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/deployment/helmfile.yaml" timestamp="1589209275816">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Middleware/AuthUser.php" timestamp="1589365145613">
-        <mark key="[" line="29" column="95" />
-        <mark key="]" line="29" column="107" />
-        <mark key="." line="29" column="106" />
-        <mark key="^" line="29" column="107" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Services/Auth/Permission.php" timestamp="1589212565884">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="31" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="95" column="0" filename="$USER_HOME$/Projects/personal/crypto/tardis-node/src/realtimefeeds/RealTimeFeedStomp.ts" />
@@ -330,8 +332,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>http://host.docker.internal:3005</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -381,7 +383,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>http://host.docker.internal:3005</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMjA5NDc0XD4=</text>
