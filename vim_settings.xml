@@ -129,21 +129,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Organisation.php" timestamp="1589534848090">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="30" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1589538493911">
         <mark key="'" line="179" column="0" />
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="0" />
         <mark key="." line="179" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2020_05_13_202113_organisation_id.php" timestamp="1589534519169">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/test/dgraph/index.ts" timestamp="1589536403418">
         <mark key="'" line="0" column="0" />
@@ -151,6 +141,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/uniswapTokens.json" timestamp="1589560515673" />
       <file name="$USER_HOME$/Projects/atmosphere/content-digger-extension/src/mixpanel.js" timestamp="1589542898497">
         <mark key="[" line="2" column="67" />
         <mark key="]" line="2" column="72" />
@@ -162,9 +153,12 @@
         <mark key="]" line="6" column="19" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2020_04_29_093340_organisation_ref_id.php" timestamp="1589534448983">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="11" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniSwap.ts" timestamp="1589560452325" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/tokens/TokenMetaResolver.ts" timestamp="1589560629649">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1589537267041">
         <mark key="[" line="3" column="10" />
@@ -196,10 +190,6 @@
         <mark key="." line="46" column="87" />
         <mark key="^" line="46" column="88" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2017_08_10_095310_create_billing_address_table.php" timestamp="1589534494280">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="43" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Exceptions/Handler.php" timestamp="1589537494700">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -210,8 +200,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1589542874135">
+      <file name="/GraphQL.result.json" timestamp="1589559219854">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges.ts" timestamp="1589560698009">
+        <mark key="[" line="35" column="44" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="44" />
+        <mark key="^" line="35" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/Controller.php" timestamp="1589537400619">
         <mark key="[" line="27" column="18" />
@@ -332,7 +328,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>find</text>
+        <text>found</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -382,7 +378,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>find</text>
+        <text>found</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMjA5NDc0XD4=</text>
@@ -391,37 +387,37 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9naW4oKTsKICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPmNsaWVudC0+Z2V0KCcvbG9jYXRpb25zLycgLiAkbG9jYXRpb25JZCwgWwogICAgICAgICAgICAnaGVhZGVycycgPT4gWydBdXRob3JpemF0aW9uJyA9PiAnQmVhcmVyICcgLiAkdGhpcy0+dG9rZW5dCiAgICAgICAgXSk7CiAgICAgICAgJHJlc3BvbnNlID0gJHJlc3VsdC0+Z2V0Qm9keSgpLT5nZXRDb250ZW50cygpOwogICAgICAgICRsb2NhdGlvbiA9IGpzb25fZGVjb2RlKCRyZXNwb25zZSwgdHJ1ZSk7CgogICAgICAgIHJldHVybiAkbG9jYXRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRuKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vucyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb3JnYW5pc2F0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbnMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9yZy0+c2F2ZSgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRvcmctPnNhdmUoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vucyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkb3JnYW5pc2F0aW9ucyk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRvcmcgPSBPcmdhbmlzYXRpb246OmluaXQoJHJlY29yZFsnbmFtZSddLCAkcmVjb3JkWydpZCddKTsKICAgICAgICAgICAgICAgICRvcmctPnNhdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZy0+c2F2ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRvcmctPnNhdmUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
