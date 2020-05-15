@@ -124,17 +124,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/UpdateBillingAddress.php" timestamp="1589485266334">
-        <mark key="[" line="42" column="48" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="48" />
-        <mark key="^" line="42" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Kernel.php" timestamp="1589480135872">
-        <mark key="[" line="67" column="9" />
-        <mark key="]" line="67" column="17" />
-        <mark key="." line="67" column="18" />
-        <mark key="^" line="67" column="19" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/docker-compose.override.yml" timestamp="1589536216376">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/BillingAddress.php" timestamp="1589535174010">
         <mark key="[" line="41" column="50" />
@@ -142,16 +135,11 @@
         <mark key="." line="41" column="50" />
         <mark key="^" line="57" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Middleware/HashIdsInResponse.php" timestamp="1589484954716">
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Middleware/HashIdsInReponse.php" timestamp="1589484949015">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="21" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Middleware/HashIdsInResponse.php" timestamp="1589537952671">
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="41" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="33" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Organisation.php" timestamp="1589534848090">
         <mark key="[" line="27" column="0" />
@@ -164,12 +152,11 @@
         <mark key="." line="34" column="40" />
         <mark key="^" line="34" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1589535224259">
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1589538493911">
         <mark key="'" line="179" column="0" />
-        <mark key="[" line="196" column="44" />
-        <mark key="]" line="196" column="66" />
-        <mark key="^" line="196" column="66" />
-        <mark key="." line="196" column="65" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2020_05_13_202113_organisation_id.php" timestamp="1589534519169">
         <mark key="[" line="16" column="0" />
@@ -181,16 +168,32 @@
         <mark key="[" line="26" column="29" />
         <mark key="]" line="26" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Exceptions/Handler.php" timestamp="1589537494700">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589533516757">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/test/dgraph/index.ts" timestamp="1589536403418">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/kafkaConsumeCommand.php" timestamp="1589533909476">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1589536021236">
+      <file name="/GraphQL.result.json" timestamp="1589536028669">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/docker-compose.yml" timestamp="1589536220533">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2020_04_29_093340_organisation_ref_id.php" timestamp="1589534448983">
         <mark key="[" line="15" column="0" />
@@ -202,20 +205,19 @@
         <mark key="^" line="61" column="24" />
         <mark key="." line="56" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Middleware/HashedIds.php" timestamp="1589484919514">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="8" />
-        <mark key="^" line="14" column="9" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/Controller.php" timestamp="1589537400619">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/Controller.php" timestamp="1589535320046">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="8" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1589537267041">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/contentProviders/tidal.js" timestamp="1589531510276" />
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/.env" timestamp="1589531291284" />
     </filemarks>
     <jumps>
       <jump line="64" column="23" filename="$USER_HOME$/Projects/atmosphere/content-digger/src/contentProviders/tidal.js" />
@@ -323,7 +325,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBkZChIYXNoZWRJZDo6ZW5jb2RlKCRiaWxsaW5nQWRkcmVzc0lkKSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -373,46 +375,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 'id'</text>
+        <text encoding="base64">JHJlcXVlc3QtPmdldCgnb3JnYW5pc2F0aW9uX2lkJyk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMjA5NDc0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBiaWxsaW5nQWRkcmVzc2VzKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmhhc01hbnkoJ0FwcFxEb21haW5cQWNjb3VudGluZ1xCaWxsaW5nQWRkcmVzcycpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzX2FycmF5KCRlbnRyeSkpIHJldHVybiAkZW50cnk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBkZChIYXNoZWRJZDo6ZW5jb2RlKCRiaWxsaW5nQWRkcmVzc0lkKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigkcmVzcG9uc2UtPikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPmdldCgndXNlclR5cGUnKSA9PSAnU3VwZXJBZG1pbicpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gcmVnaXN0ZXIoKQogICAgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhYm9ydCg0MDQpO2RkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ29yZ2FuaXNhdGlvbl9yZWZfaWQnKS0+bnVsbGFibGUoKS0+YWZ0ZXIoJ2lkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEh0dHBSZXNwb25zZUV4Y2VwdGlvbignYWNjZXNzIGRlbmllZCcsIDQwMSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAgICAtICI4MDgwOjgwIgo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAgICAtICI4MDo4MCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoJHJlcXVlc3QsIFsKICAgICAgICAgICAgJ29yZ2FuaXNhdGlvbl9pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICBdKTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludF9yKCRqc29uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
