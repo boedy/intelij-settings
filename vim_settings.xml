@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTRUxFQ1RcPg==</entry>
         <entry>private</entry>
         <entry encoding="base64">XDxfdXNlcklkXD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxsb2NhdGlvbl9pZFw+</entry>
         <entry encoding="base64">XDwzMjA5NDc0XD4=</entry>
+        <entry encoding="base64">XDxyZWZlcmVuY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vso</entry>
@@ -124,6 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/.env.wercker" timestamp="1589833836158">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/syncWithAccounting.php" timestamp="1589823360515">
         <mark key="'" line="45" column="48" />
         <mark key="[" line="9" column="7" />
@@ -137,18 +143,18 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1589816357762">
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1589833261936">
         <mark key="'" line="180" column="0" />
-        <mark key="[" line="204" column="82" />
-        <mark key="]" line="204" column="83" />
-        <mark key="." line="204" column="82" />
+        <mark key="[" line="181" column="86" />
+        <mark key="]" line="181" column="86" />
+        <mark key="." line="181" column="86" />
         <mark key="^" line="204" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1589819444021">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1589833873722">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/storage/logs/app.log" timestamp="1589818949197">
         <mark key="[" line="0" column="0" />
@@ -160,11 +166,6 @@
         <mark key="]" line="23" column="46" />
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/BillingAddress.php" timestamp="1589813809302">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/AccountingService.php" timestamp="1589822322416">
         <mark key="[" line="133" column="20" />
@@ -183,11 +184,11 @@
         <mark key="." line="58" column="16" />
         <mark key="^" line="31" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/PaymentsController.php" timestamp="1589820201733">
-        <mark key="[" line="65" column="56" />
-        <mark key="]" line="65" column="57" />
-        <mark key="." line="65" column="56" />
-        <mark key="^" line="65" column="57" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/PaymentsController.php" timestamp="1589835545245">
+        <mark key="[" line="59" column="70" />
+        <mark key="]" line="59" column="71" />
+        <mark key="." line="59" column="71" />
+        <mark key="^" line="59" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Jobs/UpdateBillingAddressCache.php" timestamp="1589817701090">
         <mark key="[" line="41" column="0" />
@@ -195,11 +196,12 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts/kollekt/js/matchBillingAddressToOrganisation.js" timestamp="1589823900447">
-        <mark key="[" line="49" column="51" />
-        <mark key="]" line="49" column="56" />
-        <mark key="." line="49" column="55" />
-        <mark key="^" line="49" column="56" />
+      <file name="$USER_HOME$/Projects/scripts/kollekt/js/matchBillingAddressToOrganisation.js" timestamp="1589835282098">
+        <mark key="'" line="41" column="38" />
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="72" column="44" />
+        <mark key="." line="72" column="43" />
+        <mark key="^" line="72" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/routes/api.php" timestamp="1589819669330">
         <mark key="[" line="21" column="0" />
@@ -207,11 +209,14 @@
         <mark key="^" line="28" column="44" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589823385957">
+      <file name="/Dummy.txt" timestamp="1589834084217">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1589834483420">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/UseCases/Billing/CreateBillingAddress.php" timestamp="1589817044485">
         <mark key="[" line="57" column="0" />
@@ -224,12 +229,6 @@
         <mark key="]" line="41" column="41" />
         <mark key="^" line="41" column="41" />
         <mark key="." line="41" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Jobs/InvalidateBillingAddressCache.php" timestamp="1589816901991">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="14" />
-        <mark key="^" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Kernel.php" timestamp="1589819762006">
         <mark key="[" line="25" column="35" />
@@ -245,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="22" filename="$USER_HOME$/Projects/services/mixpanel-service/src/cleanUsers.ts" />
       <jump line="11" column="319" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/RecordButton.tsx" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/remote/src/bootstrap.js" />
       <jump line="48" column="35" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/sagas/mqtt.js" />
@@ -345,12 +343,13 @@
       <jump line="1" column="70" filename="$USER_HOME$/Projects/scripts/kollekt/js/contacts.csv" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/scripts/kollekt/js/contacts.csv" />
       <jump line="45" column="48" filename="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/syncWithAccounting.php" />
+      <jump line="32" column="38" filename="$USER_HOME$/Projects/scripts/kollekt/js/matchBillingAddressToOrganisation.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -400,13 +399,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h}/contacts</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwzMjA5NDc0XD4=</text>
+        <text encoding="base64">XDxyZWZlcmVuY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGF4aW9zLnBvc3QoYGh0dHBzOi8vcGF5bWVudHMua29sbGVrdC5mbS9hcGkvb3JnYW5pc2F0aW9ucy8ke2hhc2h9L2NvbnRhY3RzYCwgcGF5bG9hZCwgewogICAgICAgIGhlYWRlcnM6IHtBdXRob3JpemF0aW9uOiBgQmVhcmVyICR7dG9rZW59YH0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb3VudGVyKyssIGAke2JpbGxpbmdBZGRyZXNzLmlkfSAke2JpbGxpbmdBZGRyZXNzLm9yZ2FuaXNhdGlvbl9pZH1gKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -415,36 +414,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBhc3NpZ25CaWxsaW5nQWRkcmVzcyh0b2tlbiwgcm93Lkhhc2gsIHJvdy5pZCkKICAgICAgICAvLyBhd2FpdCBhZGRSZWZlcmVuY2UoYG9yZ2FuaXNhdGlvbjoke3Jvdy5PcmdhbmlzYXRpb25JZH1gLCBgYmlsbGluZ0FkZHJlc3M6JHt9YCkK</text>
+        <text encoding="base64">ICAgIGF3YWl0IGF4aW9zLmRlbGV0ZSgnaHR0cHM6Ly9hdXRob3JpemF0aW9uLnNlcnZpY2Uua29sbGVrdC5mbS9yZXNvdXJjZXMnLCB7CiAgICAgICAgaGVhZGVyczoge0F1dGhvcml6YXRpb246IGBCZWFyZXIgJHt0b2tlbn1gfSwKICAgICAgICBkYXRhCiAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNzdiA9IGZzLnJlYWRGaWxlU3luYygiY29udGFjdHMuY3N2IiwgInV0ZjgiKTsKICAgIGNvbnN0IHJvd3MgPSBQYXBhLnBhcnNlKGNzdiwgeyBza2lwRW1wdHlMaW5lczogdHJ1ZSwgaGVhZGVyOiB0cnVlIH0pOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBheGlvcy5wb3N0KCdodHRwczovL2F1dGhvcml6YXRpb24uc2VydmljZS5rb2xsZWt0LmZtL3Jlc291cmNlcycsIGRhdGEsIHsKICAgICAgICBoZWFkZXJzOiB7QXV0aG9yaXphdGlvbjogYEJlYXJlciAke3Rva2VufWB9CiAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCBhZGRSZWZlcmVuY2UoYG9yZ2FuaXNhdGlvbjoke3Jvdy5PcmdhbmlzYXRpb25JZH1gLCBgYmlsbGluZ0FkZHJlc3M6JHt9YCkK</text>
+        <text encoding="base64">ICAgIGlmKGJpbGxpbmdBZGRyZXNzLm9yZ2FuaXNhdGlvbl9pZCA9PT0gbnVsbCkgY29udGludWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihiaWxsaW5nQWRkcmVzcy5vcmdhbmlzYXRpb25faWQgPT09IG51bGwpIGNvbnRpbnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVmYWN0b3IgaGFzaElkIG1pZGRsZXdhcmUK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyKys7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZm91bmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihjb3VudGVyIDwgMzUyKSBjb250aW51ZTsK</text>
       </register>
-      <register name="8" type="8">
-        <text>$key
-$key
-$key
-$key
-$key
-$key</text>
+      <register name="8" type="2">
+        <text encoding="base64">QVVUSE9SSVpBVElPTl9TRVJWSUNFPWh0dHBzOi8vYXV0aG9yaXphdGlvbi5zZXJ2aWNlLnN0YWdpbmcua29sbGVrdC5mbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb2Zmc2V0KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
@@ -453,9 +447,9 @@ $key</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDwzMjA5NDc0XD4=</last-search>
+      <last-search encoding="base64">XDxyZWZlcmVuY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwzMjA5NDc0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZlcmVuY2VcPg==</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
       <last-dir>-1</last-dir>
