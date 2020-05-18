@@ -124,49 +124,61 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/syncWithAccounting.php" timestamp="1589814122892">
+        <mark key="'" line="45" column="48" />
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="37" />
+        <mark key="^" line="65" column="37" />
+        <mark key="." line="65" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/sendBulkEmail/index.js" timestamp="1589797978832" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2020_05_18_132834_view_billing_addresses.php" timestamp="1589808828376">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/test/dgraph/src/dataloader.ts" timestamp="1589805906791">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="31" column="2" />
         <mark key="^" line="10" column="342" />
         <mark key="." line="10" column="341" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1589806487530">
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/BillingController.php" timestamp="1589813909273">
         <mark key="'" line="179" column="0" />
-        <mark key="[" line="202" column="29" />
-        <mark key="]" line="202" column="30" />
-        <mark key="." line="202" column="29" />
-        <mark key="^" line="202" column="30" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
+        <mark key="^" line="208" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/uniswapTokens.json" timestamp="1589560515673" />
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniSwap.ts" timestamp="1589560452325" />
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/tokens/TokenMetaResolver.ts" timestamp="1589560629649">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="14" column="16" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2017_08_10_083422_create_organisation_table.php" timestamp="1589808661245">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="21" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/database/migrations/2020_04_29_093340_organisation_ref_id.php" timestamp="1589808648152">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/payments/getContacts.js" timestamp="1589795961728">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Connections/AtmosphereApi.php" timestamp="1589550001599">
-        <mark key="[" line="41" column="52" />
-        <mark key="]" line="41" column="53" />
-        <mark key="^" line="41" column="53" />
-        <mark key="." line="41" column="52" />
-      </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/payments/duplicateSalesInvoice.js" timestamp="1589795936525">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/CreateMissingOrganisations.php" timestamp="1589556395526">
-        <mark key="[" line="46" column="80" />
-        <mark key="]" line="46" column="88" />
-        <mark key="." line="46" column="87" />
-        <mark key="^" line="46" column="88" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/BillingAddress.php" timestamp="1589813809302">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/AccountingService.php" timestamp="1589813829153">
+        <mark key="[" line="140" column="89" />
+        <mark key="]" line="140" column="89" />
+        <mark key="." line="140" column="89" />
+        <mark key="^" line="140" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/js/matchBillingAddressToOrganisation.js" timestamp="1589805993241">
         <mark key="[" line="21" column="0" />
@@ -181,11 +193,11 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589791339121">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1589810836190">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="10" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1589796739334">
         <mark key="[" line="0" column="0" />
@@ -206,15 +218,14 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Kernel.php" timestamp="1589549913399">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="18" column="41" />
-        <mark key="^" line="18" column="41" />
-        <mark key="." line="18" column="40" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Kernel.php" timestamp="1589809302770">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="41" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/Waveform.tsx" />
       <jump line="46" column="22" filename="$USER_HOME$/Projects/services/mixpanel-service/src/cleanUsers.ts" />
       <jump line="11" column="319" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/RecordButton.tsx" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/remote/src/bootstrap.js" />
@@ -314,12 +325,13 @@
       <jump line="149" column="72" filename="$USER_HOME$/Projects/scripts/kollekt/js/contacts.csv" />
       <jump line="1" column="70" filename="$USER_HOME$/Projects/scripts/kollekt/js/contacts.csv" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/scripts/kollekt/js/contacts.csv" />
+      <jump line="45" column="48" filename="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/syncWithAccounting.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>details</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -369,13 +381,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>details</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMjA5NDc0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGF4aW9zLnBvc3QoYGh0dHBzOi8vcGF5bWVudHMua29sbGVrdC5mbS9hcGkvb3JnYW5pc2F0aW9ucy8ke2hhc2h9L2NvbnRhY3RzYCwgcGF5bG9hZCwgewogICAgICAgIGhlYWRlcnM6IHtBdXRob3JpemF0aW9uOiBgQmVhcmVyICR7dG9rZW59YH0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSW52b2ljZURldGFpbHM6OmZyb21BY2NvdW50aW5nKCRjb250YWN0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -384,32 +396,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYWRkcmVzc0lkcyA9ICRhdXRob3JpemF0aW9uU2VydmljZS0+Z2V0UmVzb3VyY2VJZHNCeVBlcm1pc3Npb24oCiAgICAgICAgICAgICRyZXF1ZXN0LT51c2VySWQsCiAgICAgICAgICAgICdiaWxsaW5nQWRkcmVzcycsCiAgICAgICAgICAgICdiaWxsaW5nQWRkcmVzczp2aWV3JwogICAgICAgICk7CiAgICAgICAgJHF1ZXJ5LT53aGVyZUluKCdpZCcsIEhhc2hlZElkOjpkZWNvZGVBcnJheSgkYWRkcmVzc0lkcykpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBbXTsKICAgICAgICBmb3JlYWNoICgkYmlsbGluZ0FkZHJlc3NlcyBhcyAkYmlsbGluZ0FkZHJlc3MpIHsKICAgICAgICAgICAgJHJlc3BvbnNlW10gPSAkYmlsbGluZ0FkZHJlc3MtPnRvQXJyYXkoKTsKICAgICAgICB9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSBCaWxsaW5nQWRkcmVzczo6d2l0aCgnb3JnYW5pc2F0aW9uJyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkYmlsbGluZ0FkZHJlc3MtPnN5bmNCaWxsaW5nRGV0YWlsc0Zyb21BY2NvdW50aW5nKCRhY2NvdW50aW5nU2VydmljZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKHJlZmVyZW5jZSkgZGF0YS5yZWZlcmVuY2UgPSByZWZlcmVuY2U7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSZXNvdXJjZScsIHJlc291cmNlLCAncmVmZXJlbmNlcycsIHJlZmVyZW5jZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="4">
-        <text>)
-    await axios.post(`https://payments.kollekt.fm/api/organisations/${hash}/contacts`, payload</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYmlsbGluZ0FkZHJlc3Nlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBzbGVlcCgwLjQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
