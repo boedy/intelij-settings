@@ -46,9 +46,9 @@
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>set number</entry>
-        <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -172,12 +172,6 @@
         <mark key="^" line="41" column="53" />
         <mark key="." line="41" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Domain/Accounting/BillingAddress.php" timestamp="1589535174010">
-        <mark key="[" line="41" column="50" />
-        <mark key="]" line="41" column="50" />
-        <mark key="." line="41" column="50" />
-        <mark key="^" line="57" column="56" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Middleware/HashIdsInResponse.php" timestamp="1589537952671">
         <mark key="[" line="33" column="31" />
         <mark key="]" line="33" column="41" />
@@ -190,15 +184,23 @@
         <mark key="." line="46" column="87" />
         <mark key="^" line="46" column="88" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/routes/api.php" timestamp="1589791259577">
+        <mark key="'" line="21" column="41" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Exceptions/Handler.php" timestamp="1589537494700">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589790707013">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1589791339121">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1589559219854">
         <mark key="[" line="0" column="0" />
@@ -327,8 +329,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>found</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q29tbWFuZCB0byBnZW5lcmF0ZSBtaXNzaW5nIG9yZ2FuaXNhdGlvbnMK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -378,7 +380,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>found</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMjA5NDc0XD4=</text>
@@ -387,40 +389,40 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9naW4oKTsKICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPmNsaWVudC0+Z2V0KCcvbG9jYXRpb25zLycgLiAkbG9jYXRpb25JZCwgWwogICAgICAgICAgICAnaGVhZGVycycgPT4gWydBdXRob3JpemF0aW9uJyA9PiAnQmVhcmVyICcgLiAkdGhpcy0+dG9rZW5dCiAgICAgICAgXSk7CiAgICAgICAgJHJlc3BvbnNlID0gJHJlc3VsdC0+Z2V0Qm9keSgpLT5nZXRDb250ZW50cygpOwogICAgICAgICRsb2NhdGlvbiA9IGpzb25fZGVjb2RlKCRyZXNwb25zZSwgdHJ1ZSk7CgogICAgICAgIHJldHVybiAkbG9jYXRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vucyk7Cg==</text>
+        <text encoding="base64">Q29tbWFuZCB0byBnZW5lcmF0ZSBtaXNzaW5nIG9yZ2FuaXNhdGlvbnMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbnMpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWVzKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vucyk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbnMpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWVzKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRuKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vucyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb3JnYW5pc2F0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRuKQo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9yZy0+c2F2ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkb3JnYW5pc2F0aW9ucyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRvcmctPnNhdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZy0+c2F2ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRvcmctPnNhdmUoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>vsp</text>
       </register>
     </registers>
   </component>
