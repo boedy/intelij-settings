@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdXNlcklkXD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry>,</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDwzMjA5NDc0XD4=</entry>
         <entry encoding="base64">XDxyZWZlcmVuY2VcPg==</entry>
         <entry encoding="base64">XDxpZlw+</entry>
+        <entry encoding="base64">XDx0aGlzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vso</entry>
@@ -138,17 +138,17 @@
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/vendor/guzzle/guzzle/src/Guzzle/Http/Client.php" timestamp="1590002187687" />
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/util/index.ts" timestamp="1590002190408" />
-      <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1589997711986">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="38" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="38" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/ServiceConnector.php" timestamp="1590015778576">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="44" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/.env" timestamp="1590002272720">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="31" />
-        <mark key="^" line="23" column="31" />
-        <mark key="." line="23" column="30" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/.env" timestamp="1590016063098">
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="58" />
+        <mark key="^" line="23" column="63" />
+        <mark key="." line="23" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Connections/AtmosphereApi.php" timestamp="1590001366195">
         <mark key="[" line="21" column="31" />
@@ -176,18 +176,19 @@
         <mark key="^" line="59" column="24" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/BillingService.php" timestamp="1590016094641">
+        <mark key="'" line="21" column="21" />
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="52" />
+        <mark key="." line="21" column="51" />
+        <mark key="^" line="21" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" timestamp="1590011928069">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="508" column="0" />
         <mark key="]" line="509" column="0" />
         <mark key="." line="507" column="33" />
         <mark key="^" line="507" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/queue.yaml" timestamp="1589997613702">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/sendBulkEmail/index.js" timestamp="1590008573226">
         <mark key="[" line="47" column="57" />
@@ -206,9 +207,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/AuthorizationService.php" timestamp="1590002218356">
-        <mark key="[" line="30" column="44" />
-        <mark key="]" line="30" column="55" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/AuthorizationService.php" timestamp="1590015591158">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="30" />
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="55" />
       </file>
@@ -217,11 +218,11 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssociateBillingAddressWithLocation.php" timestamp="1590014415512">
-        <mark key="[" line="50" column="71" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="50" column="12" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssociateBillingAddressWithLocation.php" timestamp="1590015759905">
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="15" />
+        <mark key="^" line="50" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/authController.ts" timestamp="1589999823751">
         <mark key="[" line="1" column="0" />
@@ -229,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/nodePlayer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/core/src/sagas/player.js" />
       <jump line="39" column="27" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Recorder.ts" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Recorder.ts" />
@@ -329,12 +329,13 @@
       <jump line="360" column="17" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
       <jump line="346" column="16" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
+      <jump line="25" column="21" filename="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/BillingService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>/api/v2</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -384,16 +385,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/api/v2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZlw+</text>
+        <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpOwo=</text>
+      <register name="0" type="4">
+        <text>Authorization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -402,28 +403,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oJ0JpbGxpbmcgYWRkcmVzcyBkb2VzIG5vdCBleGlzdCcpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJGF1dGhIZWFkZXI7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBzZXRQbGFubmluZyhsb2NhdGlvbklkLCB0b2tlbik7CiAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm9uZVRpbWVIZWFkZXJzID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBmb3VuZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aEhlYWRlciA9ICQKICAgICAgICAkdGhpcy0+aHR0cENsaWVudC0+c2V0RGVmYXVsdE9wdGlvbigpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihldmVudC5wYXlsb2FkLmxvY2F0aW9uSWQgPT09ICczZDhtNjJrNG0nKXsKICAgICAgICAgICAgZm91bmQgPSB0cnVlOwogICAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9CiAgICAgICAgaWYoIWZvdW5kKSBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnQXV0aG9yaXphdGlvbicgPT4gJF9TRVJWRVJbJ0hUVFBfQVVUSE9SSVpBVElPTiddID8/ICcnXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZighZm91bmQpIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGhlYWRlcnNbJ0F1dGhvcml6YXRpb24nXSA9IDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgJGhlYWRlcnNbJ0F1dGhvcml6YXRpb24nXSA9ICRfU0VSVkVSWydIVFRQX0FVVEhPUklaQVRJT04nXSA/PyAnJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -432,9 +433,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpZlw+</last-search>
+      <last-search encoding="base64">XDx0aGlzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZlw+</last-pattern>
+      <last-pattern encoding="base64">XDx0aGlzXD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
       <last-dir>-1</last-dir>
