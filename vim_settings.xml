@@ -162,6 +162,13 @@
         <mark key="^" line="21" column="43" />
         <mark key="." line="21" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/scripts/kollekt/js/matchBillingAddressToOrganisation.js" timestamp="1590010372491">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="72" column="43" />
+        <mark key="^" line="72" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/util/JwtToken.ts" timestamp="1590000071822">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="70" />
@@ -175,12 +182,12 @@
         <mark key="^" line="59" column="24" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" timestamp="1590008098072">
+      <file name="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" timestamp="1590011928069">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="308" column="38" />
-        <mark key="]" line="308" column="38" />
-        <mark key="^" line="308" column="39" />
-        <mark key="." line="308" column="38" />
+        <mark key="[" line="508" column="0" />
+        <mark key="]" line="509" column="0" />
+        <mark key="." line="507" column="33" />
+        <mark key="^" line="507" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/queue.yaml" timestamp="1589997613702">
         <mark key="[" line="8" column="28" />
@@ -193,10 +200,6 @@
         <mark key="]" line="48" column="11" />
         <mark key="." line="48" column="10" />
         <mark key="^" line="48" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/docker-config/jobs/supervisord.conf" timestamp="1589996582944">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="37" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/middleware/adminOnly.ts" timestamp="1590001707745">
         <mark key="[" line="3" column="0" />
@@ -224,10 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="10" filename="$USER_HOME$/Downloads/z6ujq/src/VoiceRecorder.js" />
-      <jump line="31" column="6" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/Dockerfile.template" />
-      <jump line="60" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/fileStorage.js" />
-      <jump line="121" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/fileStorage.js" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/nodePlayer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/core/src/sagas/player.js" />
       <jump line="39" column="27" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Recorder.ts" />
@@ -323,13 +322,17 @@
       <jump line="11" column="4" filename="$USER_HOME$/Projects/atmosphere/services/authorization/src/util/index.ts" />
       <jump line="298" column="24" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
       <jump line="2" column="10" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/scripts/kollekt/js/matchBillingAddressToOrganisation.js" />
+      <jump line="327" column="66" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
+      <jump line="360" column="17" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
+      <jump line="346" column="16" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>row.Email.trim()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -379,47 +382,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>row.Email.trim()</text>
+        <text>locationId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkaGVhZGVycyA9IFtdOwogICAgICAgICRoZWFkZXJzWydBdXRob3JpemF0aW9uJ10gPSAkX1NFUlZFUlsnSFRUUF9BVVRIT1JJWkFUSU9OJ107Cg==</text>
+        <text encoding="base64">Y29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXdhaXQgZm4ocmVxLCByZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBzZXRQbGFubmluZyhsb2NhdGlvbklkLCB0b2tlbik7CiAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEFsbG93cyBmb3IgbW9ja2luZyBpbnRlcm5hbCByZXF1ZXN0cyBkdXJpbmcgZGV2ZWxvcG1lbnQKICAgIGlmICgKICAgICAgICBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ3N0YWdpbmcnICYmCiAgICAgICAgcmVxLmhlYWRlcnMuYXV0aG9yaXphdGlvbiA9PT0gJ3NraXAnCiAgICApIHsKICAgICAgICByZXR1cm4gYXdhaXQgZm4ocmVxLCByZXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGxldCBmb3VuZCA9IGZhbHNlOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICdBdXRob3JpemF0aW9uJyA9PiAnc2tpcCcKICAgICAgICAgICAgICAgIF0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZihldmVudC5wYXlsb2FkLmxvY2F0aW9uSWQgPT09ICczZDhtNjJrNG0nKXsKICAgICAgICAgICAgZm91bmQgPSB0cnVlOwogICAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9CiAgICAgICAgaWYoIWZvdW5kKSBjb250aW51ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aHR0cENsaWVudC0+c2V0RGVmYXVsdEhlYWRlcnMoWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0F1dGhvcml6YXRpb24nID0+ICdza2lwJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZighZm91bmQpIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcS5oZWFkZXJzLmF1dGhvcml6YXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7ICAK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbm9BdXRoQ2hlY2sgfSA9IHF1ZXJ5KHJlcSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudC5wYXlsb2FkLnBsYW4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcXVlcnkgZnJvbSAnbWljcm8tcXVlcnknOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
