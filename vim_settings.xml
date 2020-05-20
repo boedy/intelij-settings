@@ -183,12 +183,6 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/PaymentsController.php" timestamp="1589835545245">
-        <mark key="[" line="59" column="70" />
-        <mark key="]" line="59" column="71" />
-        <mark key="." line="59" column="71" />
-        <mark key="^" line="59" column="79" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/database/migrations/Version20200519170605.php" timestamp="1589908005216">
         <mark key="[" line="16" column="75" />
         <mark key="]" line="16" column="77" />
@@ -201,10 +195,15 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1589894257874">
+      <file name="/GraphQL.result.json" timestamp="1589967365615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/AuthorizationService.php" timestamp="1589894280204" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/playlistSync.ts" timestamp="1589967860677">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssociateBillingAddressWithLocation.php" timestamp="1589907727130">
         <mark key="[" line="46" column="101" />
         <mark key="]" line="47" column="8" />
@@ -389,31 +388,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYXNzb2NpYXRlQmlsbGluZ0FkZHJlc3NXaXRoTG9jYXRpb24tPmV4ZWN1dGUoJHRoaXMtPnVzZXIoKSwgJGxvY2F0aW9uSWQsICRyZXF1ZXN0LT5nZXQoJ2JpbGxpbmdfYWRkcmVzc19pZCcpKTsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGlzcmNDb2Rlcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkcmVzdWx0LT5nZXRTdGF0dXNDb2RlKCkgPT0gNDA0KSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kSHR0cEV4Y2VwdGlvbignUmVzb3VyY2Ugbm90IGZvdW5kJyk7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICBpZiAoJHJlc3VsdC0+Z2V0U3RhdHVzQ29kZSgpID09IDQwMykgewovLyAgICAgICAgICAgIHRocm93IG5ldyBBY2Nlc3NEZW5pZWRIdHRwRXhjZXB0aW9uKCdBY2Nlc3MgZGVuaWVkJyk7Ci8vICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkYXNzb2NpYXRlQmlsbGluZ0FkZHJlc3NXaXRoTG9jYXRpb24tPmV4ZWN1dGUoJHRoaXMtPnVzZXIoKSwgJGxvY2F0aW9uSWQsICRyZXF1ZXN0LT5nZXQoJ2JpbGxpbmdfYWRkcmVzc19pZCcpKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB2aWV3QmlsbGluZ0FkZHJlc3MoJGlkKQogICAgewogICAgICAgICR0aGlzLT5hdXRob3JpemF0aW9uU2VydmljZS0+aXNBbGxvd2VkKCR1c2VySWQsICdiaWxsaW5nQWRkcmVzczp2aWV3JywgJ2JpbGxpbmdBZGRyZXNzOjEnKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICgkcmVzdWx0LT5nZXRTdGF0dXNDb2RlKCkgPT0gNDA0KSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kSHR0cEV4Y2VwdGlvbignUmVzb3VyY2Ugbm90IGZvdW5kJyk7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICBpZiAoJHJlc3VsdC0+Z2V0U3RhdHVzQ29kZSgpID09IDQwMykgewovLyAgICAgICAgICAgIHRocm93IG5ldyBBY2Nlc3NEZW5pZWRIdHRwRXhjZXB0aW9uKCdBY2Nlc3MgZGVuaWVkJyk7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB2aWV3QmlsbGluZ0FkZHJlc3MoJGlkKQogICAgewogICAgICAgICR0aGlzLT5hdXRob3JpemF0aW9uU2VydmljZS0+aXNBbGxvd2VkKCR1c2VySWQsICdiaWxsaW5nQWRkcmVzczp2aWV3JywgJ2JpbGxpbmdBZGRyZXNzOjEnKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusLeft</text>
