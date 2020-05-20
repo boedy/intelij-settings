@@ -124,21 +124,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/.env.wercker" timestamp="1589984672773">
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="18" />
-        <mark key="." line="41" column="17" />
-        <mark key="^" line="41" column="18" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/.env.wercker" timestamp="1589997238900">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/deployment/templates/deployment.yaml" timestamp="1589993507688">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1589993260571">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="6" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="21" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/.env" timestamp="1589997711986">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/config/logging.php" timestamp="1589996277409">
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="39" />
+        <mark key="." line="42" column="38" />
+        <mark key="^" line="42" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Connections/AtmosphereApi.php" timestamp="1589997682876">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="43" />
+        <mark key="^" line="21" column="43" />
+        <mark key="." line="21" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/AuthenticationController.php" timestamp="1589993646580">
         <mark key="[" line="43" column="21" />
@@ -146,21 +158,21 @@
         <mark key="." line="43" column="21" />
         <mark key="^" line="43" column="33" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1589993456862">
+      <file name="/GraphQL.result.json" timestamp="1589996575699">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Services/Auth/AuthorizationService.php" timestamp="1589996548516">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="59" column="24" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/values.yaml" timestamp="1589993525555">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/Chart.yaml" timestamp="1589981523960">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/values.yaml" timestamp="1589993531493">
+      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/values.yaml" timestamp="1589995751550">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -172,29 +184,22 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/service.yaml" timestamp="1589978526097" />
-      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/queue.yaml" timestamp="1589978654948" />
-      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/production.yaml" timestamp="1589983814549">
-        <mark key="'" line="43" column="5" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="20" column="21" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/queue.yaml" timestamp="1589997613702">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/docker-config/jobs/supervisord.conf" timestamp="1589996582944">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="37" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/deployment/values.yaml" timestamp="1589993462597">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/cache.yaml" timestamp="1589977650467">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/database.yaml" timestamp="1589983668906">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="40" />
-        <mark key="." line="35" column="39" />
-        <mark key="^" line="35" column="40" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/config.yml" timestamp="1589996638347">
+        <mark key="'" line="950" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssignNewBillingAddressToLocation.php" timestamp="1589988012397">
         <mark key="[" line="41" column="68" />
@@ -202,7 +207,7 @@
         <mark key="." line="41" column="68" />
         <mark key="^" line="41" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589993652817">
+      <file name="/Dummy.txt" timestamp="1589997641608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -220,7 +225,7 @@
         <mark key="." line="37" column="31" />
         <mark key="^" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/deployment/instore-api/templates/webapp.yaml" timestamp="1589983155447" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/config/app.php" timestamp="1589996069792" />
     </filemarks>
     <jumps>
       <jump line="173" column="38" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/WaveRecorder.tsx" />
@@ -327,9 +332,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>&quot;https://payments.kollekt.fm&quot;
-&quot;https://payments.kollekt.fm&quot;</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -379,47 +383,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tag</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZlcmVuY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGltYWdlUHVsbFBvbGljeToge3sgLlZhbHVlcy5pbWFnZS5wdWxsUG9saWN5IH19Cg==</text>
+        <text encoding="base64">Cltwcm9ncmFtOmthZmthLXdvcmtlcl0KcHJvY2Vzc19uYW1lPSUocHJvZ3JhbV9uYW1lKXNfJShwcm9jZXNzX251bSkwMmQKY29tbWFuZD1waHAgL3Zhci93d3cvaHRtbC9hcnRpc2FuIGthZmthOmNvbnN1bWUKYXV0b3N0YXJ0PXRydWUKYXV0b3Jlc3RhcnQ9dHJ1ZQp1c2VyPXJvb3QKbnVtcHJvY3M9MQpzdGRvdXRfbG9nZmlsZT0vdmFyL2xvZy9zdXBlcnZpc29yL3dvcmtlcnNfb3V0cHV0CnN0ZGVycl9sb2dmaWxlPS92YXIvbG9nL3N1cGVydmlzb3Ivd29ya2Vyc19lcnJvcnMK</text>
       </register>
-      <register name="1" type="8">
-        <text>&quot;https://payments.kollekt.fm&quot;
-&quot;https://payments.kollekt.fm&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1hZ2U6CiAgcmVwb3NpdG9yeToga29sbGVrdC9iaWxsaW5nCiAgdGFnOiBwcm9kdWN0aW9uCiAgcHVsbFBvbGljeTogQWx3YXlzCgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW52KCdBUFBfRU5WJykgPT0gJ2xvY2FsJykgewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>&quot;https://payments.kollekt.fm&quot;
+&quot;https://payments.kollekt.fm&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB2aWV3QmlsbGluZ0FkZHJlc3MoJGlkKQogICAgewogICAgICAgICR0aGlzLT5hdXRob3JpemF0aW9uU2VydmljZS0+aXNBbGxvd2VkKCR1c2VySWQsICdiaWxsaW5nQWRkcmVzczp2aWV3JywgJ2JpbGxpbmdBZGRyZXNzOjEnKTsKICAgIH0K</text>
+        <text encoding="base64">aW1hZ2U6CiAgcmVwb3NpdG9yeToga29sbGVrdC9iaWxsaW5nCiAgdGFnOiBwcm9kdWN0aW9uCiAgcHVsbFBvbGljeTogQWx3YXlzCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBuYW1lOiBwaHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAgPSB7eyAuVmFsdWVzLmFwcC5uYW1lfX0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB2aWV3QmlsbGluZ0FkZHJlc3MoJGlkKQogICAgewogICAgICAgICR0aGlzLT5hdXRob3JpemF0aW9uU2VydmljZS0+aXNBbGxvd2VkKCR1c2VySWQsICdiaWxsaW5nQWRkcmVzczp2aWV3JywgJ2JpbGxpbmdBZGRyZXNzOjEnKTsKICAgIH0K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdHM6CiAgICAgICAgICAgICAgY3B1OiAxLjAKICAgICAgICAgICAgICBtZW1vcnk6IDEwMjRNaQo=</text>
+        <text encoding="base64">ICBuYW1lOiBwaHAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7LSB0b1lhbWwgLlZhbHVlcy5kYXRhYmFzZS5yZXNvdXJjZXMgfCBuaW5kZW50IDEyIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAgPSB7eyAuVmFsdWVzLmFwcC5uYW1lfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc291cmNlczoKICAgICAgICAgICAgcmVxdWVzdHM6CiAgICAgICAgICAgICAgY3B1OiAxLjAKICAgICAgICAgICAgICBtZW1vcnk6IDEwMjRNaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdHM6CiAgICAgICAgICAgICAgY3B1OiAxLjAKICAgICAgICAgICAgICBtZW1vcnk6IDEwMjRNaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
