@@ -150,12 +150,6 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/config/logging.php" timestamp="1589996277409">
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="42" column="39" />
-        <mark key="." line="42" column="38" />
-        <mark key="^" line="42" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/.env" timestamp="1590002272720">
         <mark key="[" line="23" column="24" />
         <mark key="]" line="23" column="31" />
@@ -172,7 +166,7 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="70" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1589996575699">
+      <file name="/GraphQL.result.json" timestamp="1590007405888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Services/Auth/AuthorizationService.php" timestamp="1590001377526">
@@ -181,11 +175,24 @@
         <mark key="^" line="59" column="24" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" timestamp="1590008098072">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="308" column="38" />
+        <mark key="]" line="308" column="38" />
+        <mark key="^" line="308" column="39" />
+        <mark key="." line="308" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/queue.yaml" timestamp="1589997613702">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="29" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts/kollekt/sendBulkEmail/index.js" timestamp="1590008573226">
+        <mark key="[" line="47" column="57" />
+        <mark key="]" line="48" column="11" />
+        <mark key="." line="48" column="10" />
+        <mark key="^" line="48" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/docker-config/jobs/supervisord.conf" timestamp="1589996582944">
         <mark key="[" line="28" column="0" />
@@ -211,16 +218,12 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/config/app.php" timestamp="1589996069792" />
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/authController.ts" timestamp="1589999823751">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="58" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/WaveRecorder.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/components/WaveRecorder.tsx" />
-      <jump line="23" column="25" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Recording.ts" />
       <jump line="40" column="10" filename="$USER_HOME$/Downloads/z6ujq/src/VoiceRecorder.js" />
       <jump line="31" column="6" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/Dockerfile.template" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/fileStorage.js" />
@@ -318,12 +321,15 @@
       <jump line="63" column="18" filename="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/webapp.yaml" />
       <jump line="95" column="49" filename="$USER_HOME$/Projects/atmosphere/payments/deployment/templates/webapp.yaml" />
       <jump line="11" column="4" filename="$USER_HOME$/Projects/atmosphere/services/authorization/src/util/index.ts" />
+      <jump line="298" column="24" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
+      <jump line="2" column="10" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>payments</text>
+        <text>row.Email.trim()</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -373,7 +379,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>payments</text>
+        <text>row.Email.trim()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
