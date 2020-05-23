@@ -181,12 +181,11 @@
         <mark key="]" line="16" column="86" />
         <mark key="^" line="21" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" timestamp="1590222715388">
+      <file name="$USER_HOME$/Projects/scripts/kollekt/js/convertToRoyaltyFree.js" timestamp="1590224614884">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="507" column="14" />
-        <mark key="]" line="507" column="24" />
-        <mark key="." line="507" column="23" />
-        <mark key="^" line="507" column="24" />
+        <mark key="[" line="527" column="0" />
+        <mark key="]" line="527" column="0" />
+        <mark key="." line="527" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/scripts/kollekt/sendBulkEmail/index.js" timestamp="1590008573226">
         <mark key="[" line="47" column="57" />
@@ -332,8 +331,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>event</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">M2Q0bWtkajRtCmdtODI5a200MgpsNThrMDAxNG0KNTY4ajBqNzgwCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -383,7 +382,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>event</text>
+        <text>&quot;,&quot;plan&quot;:&quot;royalty free&quot;},&quot;context&quot;:&quot;subscription&quot;}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
@@ -392,37 +391,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXNvdXJjZSA9IG5ldyBSZXNvdXJjZSgkZXZlbnQtPmdldExvY2F0aW9uSWQoKSwgJ2xvY2F0aW9uJyk7CiAgICAgICAgICAgICAgICAkcmVmZXJlbmNlID0gbmV3IFJlc291cmNlKCRldmVudC0+Z2V0UGxheWxpc3RJZCgpLCAncGxheWxpc3QnKTsKICAgICAgICAgICAgICAgICR0aGlzLT5hdXRob3JpemF0aW9uU2VydmljZUFwaS0+cmVtb3ZlUmVzb3VyY2VSZWZlcmVuY2UoJHJlc291cmNlLCAkcmVmZXJlbmNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5hdXRob3JpemF0aW9uU2VydmljZS0+YWRkUmVzb3VyY2VSZWZlcmVuY2UoCiAgICAgICAgICAgICAgICAgICAgbmV3IFJlc291cmNlKCRsb2NhdGlvbklkLCAnbG9jYXRpb24nKSwKICAgICAgICAgICAgICAgICAgICBuZXcgUmVzb3VyY2UoJGJpbGxpbmdBZGRyZXNzSWQsICdiaWxsaW5nQWRkcmVzcycpCiAgICAgICAgICAgICAgICApOwo=</text>
+        <text encoding="base64">M2Q0bWtkajRtCmdtODI5a200MgpsNThrMDAxNG0KNTY4ajBqNzgwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>&quot;
+&quot;
+&quot;
+&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>{&quot;eventName&quot;:&quot;SubscriptionPlanPicked&quot;,&quot;eventTimestamp&quot;:1590149025,&quot;payload&quot;:{&quot;locationId&quot;:&quot;
+{&quot;eventName&quot;:&quot;SubscriptionPlanPicked&quot;,&quot;eventTimestamp&quot;:1590149583,&quot;payload&quot;:{&quot;locationId&quot;:&quot;
+{&quot;eventName&quot;:&quot;SubscriptionPlanPicked&quot;,&quot;eventTimestamp&quot;:1590150343,&quot;payload&quot;:{&quot;locationId&quot;:&quot;
+{&quot;eventName&quot;:&quot;SubscriptionPlanPicked&quot;,&quot;eventTimestamp&quot;:1590154660,&quot;payload&quot;:{&quot;locationId&quot;:&quot;</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5hdXRob3JpemF0aW9uU2VydmljZS0+YWRkUmVzb3VyY2VSZWZlcmVuY2UoCiAgICAgICAgICAgICAgICAgICAgbmV3IFJlc291cmNlKCRsb2NhdGlvbklkLCAnbG9jYXRpb24nKSwKICAgICAgICAgICAgICAgICAgICBuZXcgUmVzb3VyY2UoJGJpbGxpbmdBZGRyZXNzSWQsICdiaWxsaW5nQWRkcmVzcycpCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXNvdXJjZSA9IG5ldyBSZXNvdXJjZSgkZXZlbnQtPmdldExvY2F0aW9uSWQoKSwgJ2xvY2F0aW9uJyk7CiAgICAgICAgICAgICAgICBkaXNwYXRjaChuZXcgUmVtb3ZlUm9sZSgnY29uc3VtZXInLCAkZXZlbnQtPmdldFVzZXJJZCgpLCAkcmVzb3VyY2UpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aG9yaXphdGlvblNlcnZpY2UtPmFkZFJlc291cmNlUmVmZXJlbmNlKAogICAgICAgICAgICBuZXcgUmVzb3VyY2UoJGxvY2F0aW9uSWQsICdsb2NhdGlvbicpLAogICAgICAgICAgICBuZXcgUmVzb3VyY2UoJGJpbGxpbmdBZGRyZXNzSWQsICdiaWxsaW5nQWRkcmVzcycpCiAgICAgICAgKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgiIiAuICRyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5hdXRob3JpemF0aW9uU2VydmljZS0+YWRkUmVzb3VyY2VSZWZlcmVuY2UoCiAgICAgICAgICAgICAgICAgICAgbmV3IFJlc291cmNlKCRsb2NhdGlvbklkLCAnbG9jYXRpb24nKSwKICAgICAgICAgICAgICAgICAgICBuZXcgUmVzb3VyY2UoJGJpbGxpbmdBZGRyZXNzSWQsICdiaWxsaW5nQWRkcmVzcycpCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXNvdXJjZSA9IG5ldyBSZXNvdXJjZSgkZXZlbnQtPmdldExvY2F0aW9uSWQoKSwgJ2xvY2F0aW9uJyk7CiAgICAgICAgICAgICAgICBkaXNwYXRjaChuZXcgUmVtb3ZlUm9sZSgnY29uc3VtZXInLCAkZXZlbnQtPmdldFVzZXJJZCgpLCAkcmVzb3VyY2UpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aG9yaXphdGlvblNlcnZpY2UtPmFkZFJlc291cmNlUmVmZXJlbmNlKAogICAgICAgICAgICBuZXcgUmVzb3VyY2UoJGxvY2F0aW9uSWQsICdsb2NhdGlvbicpLAogICAgICAgICAgICBuZXcgUmVzb3VyY2UoJGJpbGxpbmdBZGRyZXNzSWQsICdiaWxsaW5nQWRkcmVzcycpCiAgICAgICAgKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
