@@ -131,7 +131,12 @@
         <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/vendor/guzzle/guzzle/src/Guzzle/Http/Client.php" timestamp="1590002187687" />
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/util/index.ts" timestamp="1590002190408" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/util/index.ts" timestamp="1590404663720">
+        <mark key="[" line="12" column="72" />
+        <mark key="]" line="12" column="73" />
+        <mark key="^" line="12" column="73" />
+        <mark key="." line="12" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/ServiceConnector.php" timestamp="1590403725085">
         <mark key="[" line="31" column="17" />
         <mark key="]" line="31" column="32" />
@@ -164,10 +169,6 @@
         <mark key="." line="72" column="43" />
         <mark key="^" line="72" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/util/JwtToken.ts" timestamp="1590000071822">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="70" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1590234276017">
         <mark key="[" line="0" column="0" />
       </file>
@@ -176,6 +177,11 @@
         <mark key="]" line="20" column="67" />
         <mark key="^" line="59" column="24" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/process.yml" timestamp="1590404648081">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/BillingService.php" timestamp="1590016864797">
         <mark key="'" line="21" column="21" />
@@ -335,7 +341,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDYWxsIGRvbmUgYnkgc2VydmljZSBpdHNlbGYgLyBubyBhdXRoIGNoZWNrcyBuZWVkZWQK</text>
+        <text encoding="base64">IyAgICBlbnY6CiMgICAgICAiTk9ERV9FTlYiOiAicHJvZHVjdGlvbiIK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -394,43 +400,40 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oJ0Vycm9yIGFjY2Vzc2luZyBiaWxsaW5nIGFkZHJlc3MnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDYWxsIGRvbmUgYnkgc2VydmljZSBpdHNlbGYgLyBubyBhdXRoIGNoZWNrcyBuZWVkZWQK</text>
+        <text encoding="base64">IyAgICBlbnY6CiMgICAgICAiTk9ERV9FTlYiOiAicHJvZHVjdGlvbiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudjoKICAgICAgIk5PREVfRU5WIjogInByb2R1Y3Rpb24iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBDYWxsIGRvbmUgYnkgc2VydmljZSBpdHNlbGYgLyBubyBhdXRoIGNoZWNrcyBuZWVkZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9jYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVG9kbzogcmV2aXNpdCB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">M2Q0bWtkajRtCmdtODI5a200MgpsNThrMDAxNG0KNTY4ajBqNzgwCg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9jYXRpb24K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVG9kbzogcmV2aXNpdCB0aGlzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">M2Q0bWtkajRtCmdtODI5a200MgpsNThrMDAxNG0KNTY4ajBqNzgwCg==</text>
+      </register>
+      <register name="9" type="8">
         <text>&quot;
 &quot;
 &quot;
 &quot;</text>
-      </register>
-      <register name="8" type="8">
-        <text>{&quot;eventName&quot;:&quot;SubscriptionPlanPicked&quot;,&quot;eventTimestamp&quot;:1590149025,&quot;payload&quot;:{&quot;locationId&quot;:&quot;
-{&quot;eventName&quot;:&quot;SubscriptionPlanPicked&quot;,&quot;eventTimestamp&quot;:1590149583,&quot;payload&quot;:{&quot;locationId&quot;:&quot;
-{&quot;eventName&quot;:&quot;SubscriptionPlanPicked&quot;,&quot;eventTimestamp&quot;:1590150343,&quot;payload&quot;:{&quot;locationId&quot;:&quot;
-{&quot;eventName&quot;:&quot;SubscriptionPlanPicked&quot;,&quot;eventTimestamp&quot;:1590154660,&quot;payload&quot;:{&quot;locationId&quot;:&quot;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5hdXRob3JpemF0aW9uU2VydmljZS0+YWRkUmVzb3VyY2VSZWZlcmVuY2UoCiAgICAgICAgICAgICAgICAgICAgbmV3IFJlc291cmNlKCRsb2NhdGlvbklkLCAnbG9jYXRpb24nKSwKICAgICAgICAgICAgICAgICAgICBuZXcgUmVzb3VyY2UoJGJpbGxpbmdBZGRyZXNzSWQsICdiaWxsaW5nQWRkcmVzcycpCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
