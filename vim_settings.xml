@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry>,</entry>
         <entry encoding="base64">XDxzd2l0Y2hcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxyZWZlcmVuY2VcPg==</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry encoding="base64">XDxzbGljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>vso</entry>
@@ -124,6 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/test.ts" timestamp="1590506323987">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="50" />
+        <mark key="^" line="18" column="50" />
+        <mark key="." line="18" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/routes.ts" timestamp="1590503953936">
         <mark key="[" line="17" column="59" />
         <mark key="]" line="17" column="82" />
@@ -158,11 +164,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/AuthenticationController.php" timestamp="1590413173099">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="52" column="43" />
-        <mark key="." line="43" column="21" />
-        <mark key="^" line="43" column="33" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/models/Spotify.ts" timestamp="1590507308249">
+        <mark key="'" line="177" column="13" />
+        <mark key="[" line="177" column="23" />
+        <mark key="]" line="177" column="23" />
+        <mark key="." line="177" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/routes/api.php" timestamp="1590421735803">
         <mark key="[" line="29" column="0" />
@@ -178,10 +184,6 @@
         <mark key="]" line="6" column="43" />
         <mark key="." line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Middleware/PinCodeAuth.php" timestamp="1590413089102">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="82" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/routes.ts" timestamp="1590419934810">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="16" column="10" />
@@ -193,13 +195,6 @@
         <mark key="]" line="10" column="98" />
         <mark key="^" line="10" column="98" />
         <mark key="." line="10" column="97" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/BillingService.php" timestamp="1590414214531">
-        <mark key="'" line="21" column="21" />
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="21" column="52" />
-        <mark key="^" line="21" column="52" />
-        <mark key="." line="21" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/routes.php" timestamp="1590494256331">
         <mark key="[" line="95" column="0" />
@@ -216,6 +211,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="0" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/spotifyController.ts" timestamp="1590506495814">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="142" column="16" />
+        <mark key="." line="135" column="8" />
+        <mark key="^" line="135" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/playlistSync.ts" timestamp="1590505435869">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="10" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/UseCase/Location/Command/AssociateBillingAddressWithLocation.php" timestamp="1590416939249">
         <mark key="[" line="60" column="35" />
         <mark key="]" line="60" column="35" />
@@ -229,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/App.tsx" />
       <jump line="86" column="0" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/App.tsx" />
       <jump line="5" column="22" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
       <jump line="53" column="18" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
@@ -329,12 +334,13 @@
       <jump line="92" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Listeners/AuthorizationChangeHandler.php" />
       <jump line="161" column="32" filename="$USER_HOME$/Projects/atmosphere/api/app/Listeners/AuthorizationChangeHandler.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Providers/EventServiceProvider.php" />
+      <jump line="175" column="13" filename="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/models/Spotify.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9yZ2FuaXNhdGlvbklkID0gcmVxLnBhcmFtcy5vcmdhbmlzYXRpb25JZDsK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -384,46 +390,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>notfound</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aGlzXD4=</text>
+        <text encoding="base64">XDxzbGljZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9yZ2FuaXNhdGlvbklkID0gcmVxLnBhcmFtcy5vcmdhbmlzYXRpb25JZDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgdGhpcy5jbGllbnQuZ2V0UGxheWxpc3RUcmFja3MocGxheWxpc3RJZCwgewogICAgICAgICAgICBmaWVsZHM6ICdpdGVtcyh0cmFjayhpZCxhcnRpc3RzKG5hbWUpLCBuYW1lLCBwcmV2aWV3X3VybCkpJywKICAgICAgICAgICAgbGltaXQ6IDEwLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXVkaW8gY2xpcCBzYW1wbGUgcHJveHk/Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5kZXNjcmlwdGlvbiA9IGl0ZW1SZXNwLmJvZHkuZGVzY3JpcHRpb247Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCcvc3BvdGlmeS97cGxheWxpc3RJZH0nLCBub3Rmb3VuZCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNsaWNlKDAsIDEwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UmUtZW5hYmxlIGxpc3RlbmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhID0gCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhc1VzZXIoKQogICAgewogICAgICAgICR0aGlzLT5vbmVUaW1lSGVhZGVycyA9IFsKICAgICAgICBdOwogICAgICAgIHJldHVybiAkdGhpczsKICAgIH0KCg==</text>
+      <register name="5" type="4">
+        <text>await this.client.getPlaylistTracks(playlistId, {
+            fields: 'items(track(artists, name, preview_url))',
+            limit: 10,
+        });</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+b25lVGltZUhlYWRlcnMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2Zmc2V0LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPm9uZVRpbWVIZWFkZXJzKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB7IHRyYWNrIH0gPSBpLnRyYWNrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -432,9 +441,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0aGlzXD4=</last-search>
+      <last-search encoding="base64">XDxzbGljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aGlzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzbGljZVw+</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
       <last-dir>-1</last-dir>
