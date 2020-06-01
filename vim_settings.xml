@@ -139,11 +139,17 @@
         <mark key="^" line="0" column="2255" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591045982854">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="22" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/tests/Exchanges/LoopRing.test.ts" timestamp="1591048891437">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591048724997">
+        <mark key="[" line="61" column="38" />
+        <mark key="]" line="61" column="43" />
+        <mark key="^" line="61" column="43" />
+        <mark key="." line="61" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/tests/Exchanges/LoopRingTest.ts" timestamp="1591041092606">
         <mark key="[" line="13" column="0" />
@@ -169,11 +175,11 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopingWebSocket.ts" timestamp="1591046099326">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-        <mark key="." line="11" column="29" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopingWebSocket.ts" timestamp="1591049482887">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1591005701784">
         <mark key="[" line="0" column="0" />
@@ -183,11 +189,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/Subscriptions.ts" timestamp="1591046337187">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
-        <mark key="^" line="17" column="22" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/Subscriptions.ts" timestamp="1591049431735">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniswapV2.ts" timestamp="1590956564923">
         <mark key="[" line="59" column="0" />
@@ -206,11 +212,17 @@
         <mark key="^" line="217" column="65" />
         <mark key="." line="217" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/adapters/WebsocketSubscriber.ts" timestamp="1591045518799">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="43" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/adapters/WebsocketSubscriber.ts" timestamp="1591048851409">
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="26" column="37" />
         <mark key="^" line="10" column="43" />
-        <mark key="." line="10" column="42" />
+        <mark key="." line="26" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/LoopRingTest.ts" timestamp="1591049301447">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -319,7 +331,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>order</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -369,16 +381,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>order</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGljZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>{</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhd2FpdCBleGNoYW5nZS5mZXRjaFRva2VucygpOwogICAgICAgIGNvbnN0IHRva2VucyA9IGV4Y2hhbmdlLmdldFRva2VucygpOwogICAgICAgIGV4cGVjdCh0b2tlbnNbMF0pLnRvQmVJbnN0YW5jZU9mKFRva2VuKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya2V0LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -399,28 +411,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJhcGlLZXkiPzogc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIGV4Y2hhbmdlLmZldGNoUHJpY2VzKG5ldyBUb2tlbignQkFUJywgMCwgMCkpLnRoZW4oY29uc29sZS5sb2cpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3Qgd2FsbGV0ID0gbmV3IFdhbGxldCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IElkZXggZnJvbSAiLi4vc3JjL25vZGUvZXhjaGFuZ2VzL0lkZXgvSWRleCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">aW1wb3J0IFNlbGxPcmRlciBmcm9tICIuLi9zcmMvbm9kZS9vcmRlci9TZWxsT3JkZXIiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZXhjaGFuZ2VTb2NrZXRJbnRlcmZhY2UgPSBuZXcgTG9vcGluZ1dlYlNvY2tldCgnd3NzOi8vd3MubG9vcHJpbmcuaW8vdjIvd3MnKQo=</text>
+        <text encoding="base64">aW1wb3J0IEJ1eU9yZGVyIGZyb20gIi4uL3NyYy9ub2RlL29yZGVyL0J1eU9yZGVyIjsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgY29uc3QgdG9rZW5zID0gZXhjaGFuZ2UuZ2V0VG9rZW5zKCk7CiAgICAgICAgZXhwZWN0KHRva2Vuc1swXSkudG9CZUluc3RhbmNlT2YoVG9rZW4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNoYW5nZVNvY2tldEludGVyZmFjZS5zZW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBleGNoYW5nZSA9IG5ldyBMb29wUmluZygpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
