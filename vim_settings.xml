@@ -139,11 +139,11 @@
         <mark key="^" line="0" column="2255" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591043345664">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="8" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591045982854">
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/tests/Exchanges/LoopRingTest.ts" timestamp="1591041092606">
         <mark key="[" line="13" column="0" />
@@ -169,8 +169,11 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/koel/storage/logs/laravel.log" timestamp="1590754285939">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopingWebSocket.ts" timestamp="1591046099326">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="29" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1591005701784">
         <mark key="[" line="0" column="0" />
@@ -180,23 +183,17 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/Subscriptions.ts" timestamp="1591044195603">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="21" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/Subscriptions.ts" timestamp="1591046337187">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniswapV2.ts" timestamp="1590956564923">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="^" line="59" column="82" />
         <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/koel/.env" timestamp="1590754329226">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="10" />
-        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/koel/app/Services/MediaSyncService.php" timestamp="1590755247914">
         <mark key="[" line="106" column="54" />
@@ -208,6 +205,12 @@
         <mark key="]" line="217" column="65" />
         <mark key="^" line="217" column="65" />
         <mark key="." line="217" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/adapters/WebsocketSubscriber.ts" timestamp="1591045518799">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="10" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -315,8 +318,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -366,13 +369,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGljZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBPcmRlclRvcGljIHsKICAgICJ0b3BpYyI6IHN0cmluZwogICAgIm1hcmtldCI6IHN0cmluZwp9Cg==</text>
+      <register name="0" type="4">
+        <text>{</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -396,19 +399,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhcGlLZXkiPzogc3RyaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0b3BpYyI6ICJhY2NvdW50IgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgICAidG9waWMiOiAib3JkZXJib29rIiwKICAgICAgICAgICAgIm1hcmtldCI6ICJMUkMtRVRIIiwKICAgICAgICAgICAgImxldmVsIjogMAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJtYXJrZXQiOiBzdHJpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0b3BpYyI6ICJvcmRlciIsCiAgICAgICAgICAgICJtYXJrZXQiOiAiTFJDLUVUSCIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ0b3BpYyI6ICJvcmRlciIsCiAgICAibWFya2V0IjogIkxSQy1VU0RUIgo=</text>
+        <text encoding="base64">Y29uc3QgZXhjaGFuZ2VTb2NrZXRJbnRlcmZhY2UgPSBuZXcgTG9vcGluZ1dlYlNvY2tldCgnd3NzOi8vd3MubG9vcHJpbmcuaW8vdjIvd3MnKQo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
@@ -417,10 +420,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRvcGljIjogIm9yZGVyIiwKICAgICAgICAgICAgIm1hcmtldCI6ICJMUkMtVVNEVCIK</text>
+        <text encoding="base64">ICAgICAgICBleGNoYW5nZVNvY2tldEludGVyZmFjZS5zZW5kKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgInRvcGljIjogIm9yZGVyIiwKICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
