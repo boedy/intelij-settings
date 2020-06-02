@@ -158,11 +158,11 @@
         <mark key="^" line="12" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/BaseExchange.ts" timestamp="1591034608998" />
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/UniswapPriceAlert.ts" timestamp="1590955695240">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="23" column="30" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/UniswapPriceAlert.ts" timestamp="1591102340278">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="19" column="55" />
       </file>
       <file name="/Dummy.txt" timestamp="1591042614664">
         <mark key="[" line="0" column="0" />
@@ -201,16 +201,15 @@
         <mark key="^" line="59" column="82" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/koel/app/Services/MediaSyncService.php" timestamp="1590755247914">
-        <mark key="[" line="106" column="54" />
-        <mark key="]" line="106" column="79" />
-        <mark key="." line="112" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/koel/app/Services/FileSynchronizer.php" timestamp="1590757341212">
         <mark key="[" line="217" column="49" />
         <mark key="]" line="217" column="65" />
         <mark key="^" line="217" column="65" />
         <mark key="." line="217" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageTransaction.ts" timestamp="1591102277307">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="50" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/adapters/WebsocketSubscriber.ts" timestamp="1591048851409">
         <mark key="[" line="26" column="37" />
@@ -330,8 +329,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>order</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocHJpY2UpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -381,16 +380,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>green</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGljZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBleGNoYW5nZS5mZXRjaFRva2VucygpOwogICAgICAgIGNvbnN0IHRva2VucyA9IGV4Y2hhbmdlLmdldFRva2VucygpOwogICAgICAgIGV4cGVjdCh0b2tlbnNbMF0pLnRvQmVJbnN0YW5jZU9mKFRva2VuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYob2xkUHJpY2UgPiBwcmljZSkgY29uc29sZS5sb2coIGNoYWxrLmdyZWVuKHByaWNlKSApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya2V0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocHJpY2UpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -411,31 +410,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4Y2hhbmdlLmZldGNoUHJpY2VzKG5ldyBUb2tlbignQkFUJywgMCwgMCkpLnRoZW4oY29uc29sZS5sb2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnQXJiaXRyYWdlJy5wYWRFbmQoMTApLCAnfCcsCiAgICAgICAgICAgICAgICAgICAgYCR7dGhpcy5idXlPcmRlci5leGNoYW5nZS5uYW1lfT0+JHt0aGlzLnNlbGxPcmRlci5leGNoYW5nZS5uYW1lfSB8YCwKICAgICAgICAgICAgICAgICAgICBwcm9maXRQZXJjZW50YWdlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgd2FsbGV0ID0gbmV3IFdhbGxldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHByb2ZpdFBlcmNlbnRhZ2UgPSAodGhpcy5wcm9maXRQZXJjZW50YWdlKCkgKiAxMDApLnRvRml4ZWQoMikgKyAnJSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IElkZXggZnJvbSAiLi4vc3JjL25vZGUvZXhjaGFuZ2VzL0lkZXgvSWRleCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbGxPcmRlciBmcm9tICIuLi9zcmMvbm9kZS9vcmRlci9TZWxsT3JkZXIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya2V0LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1eU9yZGVyIGZyb20gIi4uL3NyYy9ub2RlL29yZGVyL0J1eU9yZGVyIjsK</text>
+        <text encoding="base64">ICAgIGV4Y2hhbmdlLmZldGNoUHJpY2VzKG5ldyBUb2tlbignQkFUJywgMCwgMCkpLnRoZW4oY29uc29sZS5sb2cpCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgY29uc3QgdG9rZW5zID0gZXhjaGFuZ2UuZ2V0VG9rZW5zKCk7CiAgICAgICAgZXhwZWN0KHRva2Vuc1swXSkudG9CZUluc3RhbmNlT2YoVG9rZW4pCg==</text>
+        <text encoding="base64">Y29uc3Qgd2FsbGV0ID0gbmV3IFdhbGxldCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBleGNoYW5nZSA9IG5ldyBMb29wUmluZygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IElkZXggZnJvbSAiLi4vc3JjL25vZGUvZXhjaGFuZ2VzL0lkZXgvSWRleCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFNlbGxPcmRlciBmcm9tICIuLi9zcmMvbm9kZS9vcmRlci9TZWxsT3JkZXIiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
