@@ -46,9 +46,9 @@
         <entry>set number</entry>
         <entry>action AceAction</entry>
         <entry>w</entry>
-        <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -132,6 +132,11 @@
         <mark key="." line="39" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Organisation/Location/Location.php" timestamp="1591194350469" />
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Console/Commands/kafkaConsumeCommand.php" timestamp="1591198651914">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/device-provisioning/.env" timestamp="1591193477717">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="20" />
@@ -199,12 +204,6 @@
         <mark key="]" line="60" column="46" />
         <mark key="^" line="60" column="46" />
         <mark key="." line="60" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/adapters/WebsocketSubscriber.ts" timestamp="1591132062294">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/authController.ts" timestamp="1591188829627" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/Presenters/Organisation/LocationPresenter.php" timestamp="1591190709799">
@@ -320,7 +319,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAndGVzdGluZycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAkanNvblsnZXZlbnROYW1lJ10gLiAiXG4iOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -379,7 +378,7 @@
         <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5kaXNwbGF5TmFtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAndGVzdGluZycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAkanNvblsnZXZlbnROYW1lJ10gLiAiXG4iOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -400,34 +399,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGF5bG9hZC5sb2NhdGlvbklkCg==</text>
+        <text encoding="base64">ICAgICAgICAndGVzdGluZycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB0YWdzID0gYXdhaXQgcmVzaW4ubW9kZWxzLmRldmljZS50YWdzLmdldEFsbEJ5QXBwbGljYXRpb24oCiAgICAgICdhdG1vc3BoZXJlJywKICAgICAgewogICAgICAgICRmaWx0ZXI6IHsgdGFnX2tleSwgdmFsdWUgfSwKICAgICAgfQogICk7CgogIHJldHVybiBQcm9taXNlLmFsbCgKICAgICAgdGFncy5tYXAodCA9PiB7CiAgICAgICAgcmVzaW4ubW9kZWxzLmRldmljZS5yZW5hbWUodC5kZXZpY2UuX19pZCwgbmFtZSk7CiAgICAgIH0pCiAgKTsK</text>
+        <text encoding="base64">ICAgICAgcGF5bG9hZC5sb2NhdGlvbklkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndlYnNvY2tldE1lc3NhZ2VIYW5kbGVyID0gdGhpcy53ZWJzb2NrZXRNZXNzYWdlSGFuZGxlci5iaW5kKHRoaXMpCg==</text>
+        <text encoding="base64">ICBjb25zdCB0YWdzID0gYXdhaXQgcmVzaW4ubW9kZWxzLmRldmljZS50YWdzLmdldEFsbEJ5QXBwbGljYXRpb24oCiAgICAgICdhdG1vc3BoZXJlJywKICAgICAgewogICAgICAgICRmaWx0ZXI6IHsgdGFnX2tleSwgdmFsdWUgfSwKICAgICAgfQogICk7CgogIHJldHVybiBQcm9taXNlLmFsbCgKICAgICAgdGFncy5tYXAodCA9PiB7CiAgICAgICAgcmVzaW4ubW9kZWxzLmRldmljZS5yZW5hbWUodC5kZXZpY2UuX19pZCwgbmFtZSk7CiAgICAgIH0pCiAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5fZW50cmllc1swXQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLndlYnNvY2tldE1lc3NhZ2VIYW5kbGVyID0gdGhpcy53ZWJzb2NrZXRNZXNzYWdlSGFuZGxlci5iaW5kKHRoaXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLl9lbnRyaWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5fZW50cmllc1swXQo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLl9lbnRyaWVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusLeft</text>
+        <text>vsp</text>
       </register>
     </registers>
   </component>
