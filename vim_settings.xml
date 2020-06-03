@@ -124,14 +124,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/package.json" timestamp="1591040907307">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Kyber/Kyber.ts" timestamp="1591037179979">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="99" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/.env" timestamp="1591188303632">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/tests/Exchanges/LoopRing.test.ts" timestamp="1591048891437">
         <mark key="[" line="16" column="31" />
@@ -151,20 +146,25 @@
         <mark key="^" line="39" column="53" />
         <mark key="." line="39" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/.env.wercker" timestamp="1591188538577">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/tests/Exchanges/LoopRingTest.ts" timestamp="1591041092606">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/BaseExchange.ts" timestamp="1591034608998" />
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/UniswapPriceAlert.ts" timestamp="1591121514660">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="25" />
         <mark key="." line="22" column="25" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591042614664">
+      <file name="/Dummy.txt" timestamp="1591188834967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -187,10 +187,8 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniSwap.ts" timestamp="1591005712582">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="/GraphQL.result.json" timestamp="1591188824605">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/OrderBook.ts" timestamp="1591129291080">
         <mark key="'" line="30" column="36" />
@@ -231,6 +229,7 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/authController.ts" timestamp="1591188829627" />
     </filemarks>
     <jumps>
       <jump line="68" column="32" filename="$USER_HOME$/Projects/personal/crypto/blockstacks/rcord/src/services/Player.ts" />
@@ -337,8 +336,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndlYnNvY2tldE1lc3NhZ2VIYW5kbGVyID0gdGhpcy53ZWJzb2NrZXRNZXNzYWdlSGFuZGxlci5iaW5kKHRoaXMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>service.staging.kollekt.fm</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -388,13 +387,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>700</text>
+        <text>service.staging.kollekt.fm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmljZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5fZW50cmllcy5hcnJheVswXQo=</text>
+        <text encoding="base64">UEFZTUVOVF9TRVJWSUNFPWh0dHBzOi8vYmlsbGluZy5zZXJ2aWNlLnN0YWdpbmcua29sbGVrdC5mbQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLndlYnNvY2tldE1lc3NhZ2VIYW5kbGVyID0gdGhpcy53ZWJzb2NrZXRNZXNzYWdlSGFuZGxlci5iaW5kKHRoaXMpCg==</text>
