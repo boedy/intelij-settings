@@ -124,6 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/middleware/jwtAuth.ts" timestamp="1591358236829">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="11" column="8" />
+        <mark key="." line="13" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/arbitrage/ArbitrageOpportunityCalculator.ts" timestamp="1591294990362">
         <mark key="'" line="8" column="15" />
         <mark key="[" line="2" column="51" />
@@ -151,10 +157,11 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/routes.ts" timestamp="1591354558535">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/routes.ts" timestamp="1591358768904">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/arbitrage/ArbitrageOpportunityCalculation.ts" timestamp="1591295522815">
         <mark key="[" line="32" column="74" />
@@ -201,11 +208,6 @@
         <mark key="]" line="56" column="58" />
         <mark key="." line="56" column="57" />
         <mark key="^" line="56" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/OrderBook/Asks.ts" timestamp="1591293053625">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1591308060401">
         <mark key="'" line="137" column="0" />
@@ -338,8 +340,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoJy8qJywgbm90Zm91bmQpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -394,11 +396,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCcvKicsIG5vdGZvdW5kKQo=</text>
+      <register name="0" type="4">
+        <text>jwtAuth([])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoJy8qJywgbm90Zm91bmQpCg==</text>
+        <text encoding="base64">ICAgIHJvdXRlcigKICAgICksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -419,12 +421,18 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoJy86b3JnYW5pc2F0aW9uSWQvcGxheWxpc3RzLzpwbGF5bGlzdElkJywgc3BvdGlmeS5nZXRQbGF5bGlzdFZpZXcpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnZXQoJy8qJywgbm90Zm91bmQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ2V0KAogICAgICAgICAgICAgICAgJy86b3JnYW5pc2F0aW9uSWQvcGxheWxpc3RzLzpwbGF5bGlzdElkJywKICAgICAgICAgICAgICAgIHNwb3RpZnkuZ2V0UGxheWxpc3RWaWV3CiAgICAgICAgICAgICksCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>service.staging.kollekt.fm:9000
 REDIS_HOST=redis
 MAIN_API_ENDPOINT=https://instoreapi.kollekt.fm
@@ -436,23 +444,17 @@ API_KEY=boudewijn@kollekt.fm
 API_SECRET=haarnetje
 AUTHORIZATION_SERVICE=https://authorization</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHNwb3RpZnlDb25uZWN0LmRpc2Nvbm5lY3RQbGF5bGlzdHMoCiAgICAgICAgb3JnYW5pc2F0aW9uSWQsCiAgICAgICAgYXRtb3NwaGVyZVBsYXlsaXN0SWQsCiAgICAgICAgc3BvdGlmeVBsYXlsaXN0SWQKICAgICk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKGlkKQo=</text>
-      </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHNwb3RpZnlDb25uZWN0LmRpc2Nvbm5lY3RQbGF5bGlzdHMoCiAgICAgICAgb3JnYW5pc2F0aW9uSWQsCiAgICAgICAgYXRtb3NwaGVyZVBsYXlsaXN0SWQsCiAgICAgICAgc3BvdGlmeVBsYXlsaXN0SWQKICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKHRhYmxlKSBwcm9jZXNzLnN0ZG91dC53cml0ZShhbnNpRXNjYXBlcy5lcmFzZUxpbmVzKDcpKTsK</text>
+        <text encoding="base64">ICAgIGlmKGlkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGFibGUodGFibGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
