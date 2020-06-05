@@ -133,6 +133,12 @@
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/PubSub/KafkaPublisher.php" timestamp="1591281163167">
         <mark key="^" line="37" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/OrderBook/OrderBookEntry.ts" timestamp="1591349339680">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/arbitrage/ArbitrageOpportunityCalculator.ts" timestamp="1591294990362">
         <mark key="'" line="8" column="15" />
         <mark key="[" line="2" column="51" />
@@ -172,10 +178,11 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/arb_check.ts" timestamp="1591347756623">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="51" column="19" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/arb_check.ts" timestamp="1591351404873">
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="58" />
+        <mark key="." line="56" column="57" />
+        <mark key="^" line="56" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/OrderBook/Asks.ts" timestamp="1591293053625">
         <mark key="[" line="22" column="22" />
@@ -187,11 +194,6 @@
         <mark key="]" line="32" column="75" />
         <mark key="." line="32" column="74" />
         <mark key="^" line="32" column="75" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/content-digger/node_modules/tidalapi/lib/client.js" timestamp="1591274918851">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1591308060401">
         <mark key="'" line="137" column="0" />
@@ -341,7 +343,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25uZWN0aW9uLnNlbmQoJ3sidHlwZSI6ImhlYXJ0YmVhdCJ9Jyk7Cg==</text>
+        <text encoding="base64">ICAgIGlmKGlkKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -391,16 +393,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>found</text>
+        <text encoding="base64">ICsgYW5zaUVzY2FwZXMuY3Vyc29yTGVmdA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmljZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25uZWN0aW9uLnNlbmQoJ3sidHlwZSI6ImhlYXJ0YmVhdCJ9Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGV4Y2hhbmdlOiAnbG9vcFJpbmcnLAogICAgICAgICAgICBzZWxsUHJpY2U6IG9yZGVyYm9vazEuYXNrcy5maXJzdC5wcmljZSwKICAgICAgICAgICAgYnV5UHJpY2U6IG9yZGVyYm9vazEuYmlkcy5maXJzdC5wcmljZSwKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNheS5zcGVhaygnYXJiJykK</text>
+        <text encoding="base64">ICAgIGlmKGlkKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -421,31 +423,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNheS5zcGVhaygnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgIGlmKHRhYmxlKSBwcm9jZXNzLnN0ZG91dC53cml0ZShhbnNpRXNjYXBlcy5lcmFzZUxpbmVzKDcpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGFibGUodGFibGUpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>[
+        {
+            exchange: 'LoopRing',
+            buyPrice: orderbook1.asks.first.price.toFixed(3),
+            sellPrice: orderbook1.bids.first.price.toFixed(3),
+        },
+        {
+            exchange: 'Idex',
+            buyPrice: orderbook2.asks.first.price.toFixed(3),
+            sellPrice: orderbook2.bids.first.price.toFixed(3),
+        }
+    ]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgb3V0cHV0VGFibGUgPSBkYXRhID0+IHsKICAgIAp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
