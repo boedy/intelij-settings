@@ -146,12 +146,6 @@
         <mark key="^" line="165" column="19" />
         <mark key="." line="165" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/idexTest.ts" timestamp="1591308149097">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="111" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/services/spotify-connect.ts" timestamp="1591364081077">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -185,19 +179,32 @@
         <mark key="^" line="133" column="15" />
         <mark key="." line="133" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniswapV2.ts" timestamp="1591372604155">
+        <mark key="'" line="42" column="109" />
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="42" column="68" />
+        <mark key="." line="42" column="68" />
+        <mark key="^" line="46" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/uniswapTest.ts" timestamp="1591372198839">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/process-dev.yml" timestamp="1591352692240" />
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/arb_check.ts" timestamp="1591370946799">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/arb_check.ts" timestamp="1591372184466">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="80" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="51" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1591371002892">
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1591371275130">
         <mark key="'" line="127" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="30" column="19" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="62" column="85" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/.env" timestamp="1591353738705">
         <mark key="[" line="10" column="43" />
@@ -214,15 +221,8 @@
       <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/tsconfig.json" timestamp="1591363851058">
         <mark key="[" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/LoopRingTest.ts" timestamp="1591307949554">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="11" column="13" />
-        <mark key="." line="12" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="27" filename="$USER_HOME$/Projects/test/dgraph/fromJson.ts" />
       <jump line="170" column="0" filename="$USER_HOME$/Projects/test/dgraph/fromJson.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Normalization/Mp3CloudNormalizer.php" />
@@ -322,12 +322,13 @@
       <jump line="71" column="27" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" />
       <jump line="138" column="0" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" />
       <jump line="13" column="8" filename="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/routes.ts" />
+      <jump line="41" column="109" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniswapV2.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -377,16 +378,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'LoopRing'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvcihjb25zdCBhIG9mIG9yZGVyQm9va3Mpewo=</text>
+        <text encoding="base64">Y29uc3QgdG9rZW4gPSBuZXcgVG9rZW4oJ0RYRCcsICcweGMxYTEzOTIwYWJhN2MwMDRkNDg4NjdmODRmYzFhZTM2ZTcxZWU3ZGQnLCAxOCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXJjMjBBbW91bnQudG9GaXhlZCg4KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -407,31 +408,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdhdGNoKCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAuZGF0YS5iaWRzLmZvckVhY2goYmlkID0+IG9yZGVyYm9vay5iaWRzLmluc2VydChiaWQucHJpY2UsIGJpZC5hbW1vdW50KSk7CiAgICAgICAgcmVzcC5kYXRhLmFza3MuZm9yRWFjaChhc2sgPT4gb3JkZXJib29rLmFza3MuaW5zZXJ0KGFzay5wcmljZSwgYXNrLmFtbW91bnQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLndlYnNvY2tldCA9IGNyZWF0ZURhdGFzdHJlYW1DbGllbnQoewogICAgICAgIC8vICAgICBsb2c6IHRydWUsCiAgICAgICAgLy8gICAgIGtleTogJzhXdEY0NW1oRGhyRzAzOC1iTVdZeicsCiAgICAgICAgLy8gfSk7CiAgICAgICAgLy8KICAgICAgICAvLyB0aGlzLndhdGNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXNrUHJpY2UudG9GaXhlZCg4KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5hbWUgPSAnSWRleCc7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGZldGNoIGFsbCBzdXBwb3J0ZWQgdG9rZW5zIHRyYWRlZCBvbiBVbmlzd2FwCiAgICBhc3luYyBnZXRFeGNoYW5nZUxpcXVpZGl0eUJ5QWRkcmVzcyhzeW1ib2wsIGFkZHJlc3MsIGRlY2ltYWxzKSB7CiAgICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKHRhYmxlWzFdLmJ1eVByaWNlIDwgJzAuMjgwJykgc2F5LnNwZWFrKCdidXkgb24gaWRleCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhYmxlID0gWwogICAgICAgCiAgICAgICAgewogICAgICAgICAgICBleGNoYW5nZTogJ0lkZXgnLAogICAgICAgICAgICBidXlQcmljZTogb3JkZXJib29rMi5hc2tzLmZpcnN0LnByaWNlLnRvRml4ZWQoMyksCiAgICAgICAgICAgIHNlbGxQcmljZTogb3JkZXJib29rMi5iaWRzLmZpcnN0LnByaWNlLnRvRml4ZWQoMyksCiAgICAgICAgfQogICAgXTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGdldFNlbGxSYXRlKHRva2VuQW1vdW50Qm91Z2h0OiBudW1iZXIsIGlucHV0UmVzZXJ2ZSwgb3V0cHV0UmVzZXJ2ZSkgewogICAgICAgIGNvbnN0IG51bWVyYXRvciA9IHRva2VuQW1vdW50Qm91Z2h0ICogaW5wdXRSZXNlcnZlICogMTAwMDsKICAgICAgICBjb25zdCBkZW5vbWluYXRvciA9IChvdXRwdXRSZXNlcnZlIC0gdG9rZW5BbW91bnRCb3VnaHQpICogOTk3OwogICAgICAgIGNvbnN0IHJlcyA9ICBudW1lcmF0b3IgLyAoZGVub21pbmF0b3IgKyAxKTsKICAgICAgICByZXR1cm4gKHJlcyAvIDk5OTcpICogMTAwMDA7CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgZ2V0QnV5UmF0ZSh0b2tlbkFtb3VudFNvbGQ6IG51bWJlciwgc29sZFJlc2VydmUsIGJvdWdodFJlc2VydmUpIHsKICAgICAgICBjb25zdCBudW1lcmF0b3IgPSB0b2tlbkFtb3VudFNvbGQgKiBib3VnaHRSZXNlcnZlICogOTk3OwogICAgICAgIGNvbnN0IGRlbm9taW5hdG9yID0gc29sZFJlc2VydmUgKiAxMDAwICsgdG9rZW5BbW91bnRTb2xkICogOTk3OwogICAgICAgIGNvbnN0IHJlcyA9ICBudW1lcmF0b3IgLyBkZW5vbWluYXRvcjsKICAgICAgICByZXR1cm4gcmVzOwogICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgZXhjaGFuZ2U6ICdMb29wUmluZycsCiAgICAgICAgICAgIGJ1eVByaWNlOiBvcmRlcmJvb2sxLmFza3MuZmlyc3QucHJpY2UudG9GaXhlZCgzKSwKICAgICAgICAgICAgc2VsbFByaWNlOiBvcmRlcmJvb2sxLmJpZHMuZmlyc3QucHJpY2UudG9GaXhlZCgzKSwKICAgICAgICB9LA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB2MQogICAgICAgIC8vIGNvbnN0IGZhY3RvcnlBZGRyZXNzID0gJzB4YzBhNDdkRmUwMzRCNDAwQjQ3YkRhRDVGZWNEYTI2MjFkZTZjNGQ5NSc7CiAgICAgICAgLy8gdjIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
