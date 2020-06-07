@@ -130,7 +130,7 @@
         <mark key="." line="86" column="11" />
         <mark key="^" line="86" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591561114965">
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591562885648">
         <mark key="'" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/idexTest.ts" timestamp="1591550325303">
@@ -167,28 +167,27 @@
       <file name="/GraphQL.result.json" timestamp="1591547680152">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges.ts" timestamp="1591560549783">
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges.ts" timestamp="1591563491679">
         <mark key="'" line="44" column="68" />
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="31" column="36" />
-        <mark key="." line="31" column="35" />
-        <mark key="^" line="31" column="36" />
+        <mark key="[" line="51" column="51" />
+        <mark key="]" line="51" column="97" />
+        <mark key="." line="51" column="96" />
+        <mark key="^" line="51" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/OrderBook.ts" timestamp="1591541760411">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="20" />
-        <mark key="^" line="24" column="21" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/OrderBook.ts" timestamp="1591562964579">
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="55" />
+        <mark key="^" line="25" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/tokens/TokenMetaResolver.ts" timestamp="1591553921393">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1591561007595">
-        <mark key="[" line="58" column="20" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="29" />
-        <mark key="^" line="58" column="30" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1591563818427">
+        <mark key="[" line="78" column="32" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/uniswapTest.ts" timestamp="1591557978202">
         <mark key="[" line="17" column="33" />
@@ -328,8 +327,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>, orderBooks.length</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -379,7 +378,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>, orderBooks.length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0XD4=</text>
@@ -388,7 +387,7 @@
         <text encoding="base64">ICAgIGF3YWl0IFByb21pc2UuYWxsKGV4Y2hhbmdlcy5tYXAoZSA9PiBlLmZldGNoVG9rZW5zKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -409,31 +408,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbi5uYW1lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dQcmljZSh0b2tlbiwgb3JkZXJCb29rcyk7CiAgICAgICAgY29uc3QgYXJiaXRyYWdlVHJhbnNhY3Rpb24gPSB0aGlzLmFyYml0cmFnZURldGVjdG9yLmRldGVjdChvcmRlckJvb2tzKTsKICAgICAgICBpZiAoYXJiaXRyYWdlVHJhbnNhY3Rpb24pIHsKICAgICAgICAgICAgdGhpcy5ub3RpZnkoYXJiaXRyYWdlVHJhbnNhY3Rpb24pOwogICAgICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcmRlckJvb2tzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm9yZGVyQm9va3MuZ2V0KCdFVEgnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcmRlckJvb2tzKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLmZldGNoTWFya2V0cygpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbi5uYW1lKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hZGRUb2tlbihuZXcgVG9rZW4oc3ltYm9sLCBhZGRyZXNzLCBkZWNpbWFscykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
