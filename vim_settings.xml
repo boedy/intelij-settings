@@ -127,12 +127,6 @@
       <file name="$USER_HOME$/Projects/personal/github/micro-jwt-auth/README.md" timestamp="1591634784934">
         <mark key="[" line="58" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Exchange.ts" timestamp="1591559213931">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="16" column="50" />
-        <mark key="^" line="16" column="51" />
-      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/BaseExchange.ts" timestamp="1591559540898">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="28" column="4" />
@@ -147,12 +141,11 @@
         <mark key="^" line="31" column="22" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/arb_check.ts" timestamp="1591558742617">
-        <mark key="'" line="80" column="31" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="24" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="28" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/TokenDictionary.ts" timestamp="1591648621682">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="22" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/middleware/jwtAuth.ts" timestamp="1591634092110">
         <mark key="[" line="15" column="0" />
@@ -160,11 +153,11 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniswapV2.ts" timestamp="1591617296628">
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="43" column="8" />
-        <mark key="^" line="43" column="8" />
-        <mark key="." line="43" column="7" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniswapV2.ts" timestamp="1591648716116">
+        <mark key="[" line="89" column="83" />
+        <mark key="]" line="90" column="33" />
+        <mark key="." line="90" column="32" />
+        <mark key="^" line="90" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591562885648">
         <mark key="'" line="34" column="0" />
@@ -175,7 +168,7 @@
         <mark key="^" line="177" column="59" />
         <mark key="." line="177" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591645290507">
+      <file name="/Dummy.txt" timestamp="1591647975571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -190,11 +183,10 @@
       <file name="/GraphQL.result.json" timestamp="1591640447692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges.ts" timestamp="1591611712776">
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="28" column="30" />
-        <mark key="." line="28" column="29" />
-        <mark key="^" line="28" column="30" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges.ts" timestamp="1591647417779">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/OrderBook.ts" timestamp="1591562964579">
         <mark key="[" line="25" column="55" />
@@ -202,11 +194,16 @@
         <mark key="." line="25" column="55" />
         <mark key="^" line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1591568642604">
-        <mark key="[" line="74" column="62" />
-        <mark key="]" line="74" column="62" />
-        <mark key="." line="74" column="63" />
-        <mark key="^" line="103" column="49" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1591647149022">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/uniswapTest.ts" timestamp="1591648428525">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1591617287955">
         <mark key="'" line="91" column="0" />
@@ -333,8 +330,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmVkaXM6IFBlcnNpc3Qgc3RhdGUgdG8gZGlzawo=</text>
+      <register name="&quot;" type="4">
+        <text>Added</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -384,16 +381,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>Added</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNsdWRlZFRva2Vuc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbyhgU3VjY2Vzc2Z1bGx5IGRvd25sb2FkZWQgdHJhY2s6IiR7dHJhY2tNZXRhLmFydGlzdC5uYW1lfSAtICR7dHJhY2tNZXRhLnRpdGxlfSIgZnJvbSBzZXJ2aWNlOlQgd2l0aCBpZDoiJHtpZH0iYCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0FkZGVkJywgdG9rZW4ubmFtZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVkaXM6IFBlcnNpc3Qgc3RhdGUgdG8gZGlzawo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQWRkZWQnLCB0b2tlbi5uYW1lKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -414,31 +411,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkIGNhdGMK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneWVzJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VXBkYXRlIFRpZGFsIHRva2VuCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbi5uYW1lKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGhpcy5nZXRPcmRlckJvb2sodG9rZW4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLnVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgRVJDMjAgPSBuZXcgU3dhcFRva2VuKENoYWluSWQuTUFJTk5FVCwgV2ViMy51dGlscy50b0NoZWNrc3VtQWRkcmVzcyh0b2tlbi5hZGRyZXNzKCkpLCB0b2tlbi5kZWNpbWFscygpLCB0b2tlbi5uYW1lKCkpCiAgICAgICAgICAgIGNvbnN0IFdFVEggPSBuZXcgU3dhcFRva2VuKENoYWluSWQuTUFJTk5FVCwgV2ViMy51dGlscy50b0NoZWNrc3VtQWRkcmVzcygnMHhjMDJhYWEzOWIyMjNmZThkMGEwZTVjNGYyN2VhZDkwODNjNzU2Y2MyJyksIDE4LCAnV0VUSCcpCgogICAgICAgICAgICBjb25zdCBwYWlyID0gYXdhaXQgUGFpci5mZXRjaERhdGEoRVJDMjAsIFdFVEgpOwogICAgICAgICAgICAKICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXkuaXNBcnJheSh3aGl0ZWxpc3QpICYmCiAgICAgICAgICAgICh3aGl0ZWxpc3QuaW5kZXhPZihwYXRobmFtZSkgPj0gMCB8fAogICAgICAgICAgICAgICAgd2hpdGVsaXN0LnNvbWUodyA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgcGF0dGVybiA9IG5ldyBVcmxQYXR0ZXJuKHcpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHBhdHRlcm4ubWF0Y2gocGF0aG5hbWUpCiAgICAgICAgICAgICAgICB9KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aGl0ZWxpc3RlZCA9CiAgICAgICAgICAgIEFycmF5LmlzQXJyYXkod2hpdGVsaXN0KSAmJgogICAgICAgICAgICAod2hpdGVsaXN0LmluZGV4T2YocGF0aG5hbWUpID49IDAgfHwKICAgICAgICAgICAgICAgIHdoaXRlbGlzdC5zb21lKHcgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHBhdHRlcm4gPSBuZXcgVXJsUGF0dGVybih3KQogICAgICAgICAgICAgICAgICAgIHJldHVybiBwYXR0ZXJuLm1hdGNoKHBhdGhuYW1lKQogICAgICAgICAgICAgICAgfSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgRVJDMjAgPSBuZXcgU3dhcFRva2VuKENoYWluSWQuTUFJTk5FVCwgV2ViMy51dGlscy50b0NoZWNrc3VtQWRkcmVzcyh0b2tlbi5hZGRyZXNzKCkpLCB0b2tlbi5kZWNpbWFscygpLCB0b2tlbi5uYW1lKCkpCiAgICAgICAgICAgIGNvbnN0IFdFVEggPSBuZXcgU3dhcFRva2VuKENoYWluSWQuTUFJTk5FVCwgV2ViMy51dGlscy50b0NoZWNrc3VtQWRkcmVzcygnMHhjMDJhYWEzOWIyMjNmZThkMGEwZTVjNGYyN2VhZDkwODNjNzU2Y2MyJyksIDE4LCAnV0VUSCcpCgogICAgICAgICAgICBjb25zdCBwYWlyID0gYXdhaXQgUGFpci5mZXRjaERhdGEoRVJDMjAsIFdFVEgpOwogICAgICAgICAgICAvLyByZXR1cm4gcGFpci5yZXNlcnZlT2YoRVJDMjApLnRvRml4ZWQodG9rZW4uZGVjaW1hbHMoKSkgPiAxMDAKICAgICAgICAgICAgY29uc3QgYXNrUHJpY2UgPSBwYWlyLmdldE91dHB1dEFtb3VudChuZXcgVG9rZW5BbW91bnQoV0VUSCwgJzEwMDAwMDAwMDAwMDAwMDAwMDAnKSlbMF0KICAgICAgICAgICAgY29uc29sZS5sb2coYXNrUHJpY2UudG9GaXhlZCh0b2tlbi5kZWNpbWFscygpKSk7CgogICAgICAgICAgICAvLyB0aGlzLnRva2VuRGljdGlvbmFyeS5hZGQodG9rZW4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbbmV3IFRva2VuKCdSTEMnLCAnMHg2MDdmNGM1YmI2NzIyMzBlODY3MjA4NTUzMmY3ZTkwMTU0NGE3Mzc1JywgOSldOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
