@@ -124,6 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/middleware/jwtAuth.ts" timestamp="1591634092110">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniswapV2.ts" timestamp="1591617296628">
         <mark key="[" line="42" column="47" />
         <mark key="]" line="43" column="8" />
@@ -133,22 +139,14 @@
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591562885648">
         <mark key="'" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/idexTest.ts" timestamp="1591550325303">
-        <mark key="[" line="14" column="114" />
-        <mark key="]" line="14" column="111" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="26" />
+      <file name="$USER_HOME$/Projects/personal/github/micro-jwt-auth/README.md" timestamp="1591634784934">
+        <mark key="[" line="58" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Exchange.ts" timestamp="1591559213931">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="51" />
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/arbitrage/ArbitrageOpportunityCalculation.ts" timestamp="1591485076158">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/BaseExchange.ts" timestamp="1591559540898">
         <mark key="'" line="77" column="0" />
@@ -158,14 +156,19 @@
         <mark key="^" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/tokens.json" timestamp="1591616721305" />
-      <file name="/Dummy.txt" timestamp="1591632729661">
+      <file name="/Dummy.txt" timestamp="1591634806818">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/uniswapTokens.json" timestamp="1591547786778" />
-      <file name="/GraphQL.result.json" timestamp="1591633091643">
+      <file name="$USER_HOME$/Projects/personal/github/micro-jwt-auth/index.js" timestamp="1591634377273">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="42" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1591633113612">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges.ts" timestamp="1591611712776">
@@ -179,10 +182,6 @@
         <mark key="]" line="25" column="56" />
         <mark key="." line="25" column="55" />
         <mark key="^" line="25" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/tokens/TokenMetaResolver.ts" timestamp="1591553921393">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1591568642604">
         <mark key="[" line="74" column="62" />
@@ -221,6 +220,12 @@
         <mark key="]" line="33" column="17" />
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/github/micro-jwt-auth/test/index.test.js" timestamp="1591634457387">
+        <mark key="[" line="85" column="59" />
+        <mark key="]" line="85" column="59" />
+        <mark key="." line="85" column="60" />
+        <mark key="^" line="85" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -328,8 +333,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmVkaXM6IFBlcnNpc3Qgc3RhdGUgdG8gZGlzawo=</text>
+      <register name="&quot;" type="4">
+        <text>Al</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -379,16 +384,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09PSB1bmRlZmluZWQ=</text>
+        <text>Al</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNsdWRlZFRva2Vuc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuaGFzVG9rZW4odG9rZW4pKSByZXR1cm4gbnVsbDsK</text>
+      <register name="0" type="4">
+        <text>Array.isArray(whitelist)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVkaXM6IFBlcnNpc3Qgc3RhdGUgdG8gZGlzawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXkuaXNBcnJheSh3aGl0ZWxpc3QpICYmCiAgICAgICAgICAgICh3aGl0ZWxpc3QuaW5kZXhPZihwYXRobmFtZSkgPj0gMCB8fAogICAgICAgICAgICAgICAgd2hpdGVsaXN0LnNvbWUodyA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgcGF0dGVybiA9IG5ldyBVcmxQYXR0ZXJuKHcpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHBhdHRlcm4ubWF0Y2gocGF0aG5hbWUpCiAgICAgICAgICAgICAgICB9KSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -409,31 +414,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB3aGl0ZWxpc3RlZCA9CiAgICAgICAgICAgIEFycmF5LmlzQXJyYXkod2hpdGVsaXN0KSAmJgogICAgICAgICAgICAod2hpdGVsaXN0LmluZGV4T2YocGF0aG5hbWUpID49IDAgfHwKICAgICAgICAgICAgICAgIHdoaXRlbGlzdC5zb21lKHcgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHBhdHRlcm4gPSBuZXcgVXJsUGF0dGVybih3KQogICAgICAgICAgICAgICAgICAgIHJldHVybiBwYXR0ZXJuLm1hdGNoKHBhdGhuYW1lKQogICAgICAgICAgICAgICAgfSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGZldGNoUHJpY2VzKHRva2VuOiBUb2tlbikgewogICAgICAgIGlmICh0aGlzLnRva2Vuc1t0b2tlbi5uYW1lKCldID09PSB1bmRlZmluZWQpIHJldHVybiBudWxsOwogICAgICAgIGxldCByZXNwLCBlcnI7CiAgICAgICAgW2VyciwgcmVzcF0gPSBhd2FpdCB0byhpbnN0YW5jZS5wb3N0KCdyZXR1cm5PcmRlckJvb2snLCB7CiAgICAgICAgICAgIG1hcmtldDogYEVUSF8ke3Rva2VuLm5hbWUoKX1gLAogICAgICAgICAgICBjb3VudDogIjUiCiAgICAgICAgfSkpOwoKICAgICAgICBpZiAoZXJyKSB0aHJvdyBlcnIuc3RhdHVzVGV4dDsKCiAgICAgICAgY29uc3Qgb3JkZXJib29rID0gbmV3IE9yZGVyQm9vaygpOwogICAgICAgIHJlc3AuZGF0YS5iaWRzLmZvckVhY2goYmlkID0+IG9yZGVyYm9vay5iaWRzLmluc2VydChiaWQucHJpY2UsIGJpZC5hbW1vdW50KSk7CiAgICAgICAgcmVzcC5kYXRhLmFza3MuZm9yRWFjaChhc2sgPT4gb3JkZXJib29rLmFza3MuaW5zZXJ0KGFzay5wcmljZSwgYXNrLmFtbW91bnQpKTsKCiAgICAgICAgbGV0IGJ1eVZvbHVtZSA9IDA7CiAgICAgICAgY29uc3QgYnV5SW5kZXggPSByZXNwLmRhdGEuYmlkcy5maW5kSW5kZXgoZW50cnkgPT4gewogICAgICAgICAgICBjb25zdCBidXlQcmljZSA9IGVudHJ5LnByaWNlOwogICAgICAgICAgICBjb25zdCBidXlBbW91bnQgPSBlbnRyeS5hbW91bnQ7CiAgICAgICAgICAgIGJ1eVZvbHVtZSArPSBidXlBbW91bnQgKiBidXlQcmljZTsKICAgICAgICAgICAgcmV0dXJuIGJ1eVZvbHVtZSA+IDAuMTsKICAgICAgICB9KTsKICAgICAgICBsZXQgc2VsbFZvbHVtZSA9IDA7CiAgICAgICAgY29uc3Qgc2VsbEluZGV4ID0gcmVzcC5kYXRhLmFza3MuZmluZEluZGV4KGVudHJ5ID0+IHsKICAgICAgICAgICAgY29uc3Qgc2VsbFByaWNlID0gZW50cnkucHJpY2U7CiAgICAgICAgICAgIGNvbnN0IHNlbGxBbW91bnQgPSBlbnRyeS5hbW91bnQ7CiAgICAgICAgICAgIHNlbGxWb2x1bWUgKz0gc2VsbEFtb3VudCAqIHNlbGxQcmljZTsKICAgICAgICAgICAgcmV0dXJuIHNlbGxWb2x1bWUgPiAwLjE7CiAgICAgICAgfSk7CgogICAgICAgIGNvbnN0IGJ1eVByaWNlID0gcmVzcC5kYXRhLmFza3NbYnV5SW5kZXhdLnByaWNlOwogICAgICAgIGNvbnN0IGJ1eUFtb3VudCA9IHJlc3AuZGF0YS5hc2tzW2J1eUluZGV4XS5hbW91bnQ7CiAgICAgICAgY29uc3Qgc2VsbFByaWNlID0gcmVzcC5kYXRhLmJpZHNbc2VsbEluZGV4XS5wcmljZTsKICAgICAgICBjb25zdCBzZWxsQW1vdW50ID0gcmVzcC5kYXRhLmJpZHNbc2VsbEluZGV4XS5hbW91bnQ7CgogICAgICAgIHJldHVybiBuZXcgRXhjaGFuZ2VQcmljZSh0b2tlbiwgdGhpcywgYnV5UHJpY2UsIGJ1eUFtb3VudCwgc2VsbFByaWNlLCBzZWxsQW1vdW50KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3ltYm9sLCB0b2tlbi5hZGRyZXNzKTsK</text>
+        <text encoding="base64">ICAgIEFycmF5LmlzQXJyYXkod2hpdGVsaXN0KSAmJgogICAgKCB8fAogICAgICAgICkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhjaGFsay55ZWxsb3codGhpcy5uYW1lKSArICcgdHJhZGVzICcgKyBPYmplY3Qua2V5cyh0aGlzLnRva2Vucykuam9pbignLCAnKSk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">d2hpdGVsaXN0LnNvbWUodyA9PiB7CiAgICAgICAgICAgIGNvbnN0IHBhdHRlcm4gPSBuZXcgVXJsUGF0dGVybih3KQogICAgICAgICAgICByZXR1cm4gcGF0dGVybi5tYXRjaChwYXRobmFtZSkKICAgICAgICB9KQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxpc3RlZCA9IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZXhjbHVkZWRUb2tlbnMuaW5jbHVkZXModG9rZW4ubmFtZSgpKSkgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcih0ID0+ICFleGNsdWRlZFRva2Vucy5pbmNsdWRlcyh0Lm5hbWUoKS50b1VwcGVyQ2FzZSgpKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
