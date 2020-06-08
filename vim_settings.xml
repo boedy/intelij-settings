@@ -124,21 +124,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/middleware/jwtAuth.ts" timestamp="1591634092110">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="18" column="15" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniswapV2.ts" timestamp="1591617296628">
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="43" column="8" />
-        <mark key="^" line="43" column="8" />
-        <mark key="." line="43" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591562885648">
-        <mark key="'" line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/personal/github/micro-jwt-auth/README.md" timestamp="1591634784934">
         <mark key="[" line="58" column="55" />
       </file>
@@ -156,7 +141,30 @@
         <mark key="^" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/tokens.json" timestamp="1591616721305" />
-      <file name="/Dummy.txt" timestamp="1591640852044">
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/deployment/templates/deployment.yaml" timestamp="1591642815888" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/arb_check.ts" timestamp="1591558742617">
+        <mark key="'" line="80" column="31" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/middleware/jwtAuth.ts" timestamp="1591634092110">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniswapV2.ts" timestamp="1591617296628">
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="43" column="8" />
+        <mark key="^" line="43" column="8" />
+        <mark key="." line="43" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591562885648">
+        <mark key="'" line="34" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591640871019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -195,25 +203,12 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="18" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/arb_check.ts" timestamp="1591558742617">
-        <mark key="'" line="80" column="31" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="24" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="28" />
-      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1591617287955">
         <mark key="'" line="91" column="0" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="47" />
         <mark key="." line="50" column="12" />
         <mark key="^" line="50" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/TokenDictionary.ts" timestamp="1591557115868">
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="16" />
-        <mark key="^" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/content-digger/src/contentProviders/tidal.js" timestamp="1591640863274">
         <mark key="[" line="121" column="13" />
@@ -334,7 +329,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">VXBkYXRlIFRpZGFsIHRva2VuCg==</text>
+        <text encoding="base64">QWRkIGNhdGMK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -393,7 +388,7 @@
         <text encoding="base64">ICBsb2dnZXIuaW5mbyhgU3VjY2Vzc2Z1bGx5IGRvd25sb2FkZWQgdHJhY2s6IiR7dHJhY2tNZXRhLmFydGlzdC5uYW1lfSAtICR7dHJhY2tNZXRhLnRpdGxlfSIgZnJvbSBzZXJ2aWNlOlQgd2l0aCBpZDoiJHtpZH0iYCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VXBkYXRlIFRpZGFsIHRva2VuCg==</text>
+        <text encoding="base64">QWRkIGNhdGMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -414,31 +409,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRlIFRpZGFsIHRva2VuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLnVybCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXkuaXNBcnJheSh3aGl0ZWxpc3QpICYmCiAgICAgICAgICAgICh3aGl0ZWxpc3QuaW5kZXhPZihwYXRobmFtZSkgPj0gMCB8fAogICAgICAgICAgICAgICAgd2hpdGVsaXN0LnNvbWUodyA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgcGF0dGVybiA9IG5ldyBVcmxQYXR0ZXJuKHcpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHBhdHRlcm4ubWF0Y2gocGF0aG5hbWUpCiAgICAgICAgICAgICAgICB9KSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLnVybCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aGl0ZWxpc3RlZCA9CiAgICAgICAgICAgIEFycmF5LmlzQXJyYXkod2hpdGVsaXN0KSAmJgogICAgICAgICAgICAod2hpdGVsaXN0LmluZGV4T2YocGF0aG5hbWUpID49IDAgfHwKICAgICAgICAgICAgICAgIHdoaXRlbGlzdC5zb21lKHcgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHBhdHRlcm4gPSBuZXcgVXJsUGF0dGVybih3KQogICAgICAgICAgICAgICAgICAgIHJldHVybiBwYXR0ZXJuLm1hdGNoKHBhdGhuYW1lKQogICAgICAgICAgICAgICAgfSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXkuaXNBcnJheSh3aGl0ZWxpc3QpICYmCiAgICAgICAgICAgICh3aGl0ZWxpc3QuaW5kZXhPZihwYXRobmFtZSkgPj0gMCB8fAogICAgICAgICAgICAgICAgd2hpdGVsaXN0LnNvbWUodyA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgcGF0dGVybiA9IG5ldyBVcmxQYXR0ZXJuKHcpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHBhdHRlcm4ubWF0Y2gocGF0aG5hbWUpCiAgICAgICAgICAgICAgICB9KSkK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB3aGl0ZWxpc3RlZCA9CiAgICAgICAgICAgIEFycmF5LmlzQXJyYXkod2hpdGVsaXN0KSAmJgogICAgICAgICAgICAod2hpdGVsaXN0LmluZGV4T2YocGF0aG5hbWUpID49IDAgfHwKICAgICAgICAgICAgICAgIHdoaXRlbGlzdC5zb21lKHcgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHBhdHRlcm4gPSBuZXcgVXJsUGF0dGVybih3KQogICAgICAgICAgICAgICAgICAgIHJldHVybiBwYXR0ZXJuLm1hdGNoKHBhdGhuYW1lKQogICAgICAgICAgICAgICAgfSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFycmF5LmlzQXJyYXkod2hpdGVsaXN0KSAmJgogICAgKCB8fAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">d2hpdGVsaXN0LnNvbWUodyA9PiB7CiAgICAgICAgICAgIGNvbnN0IHBhdHRlcm4gPSBuZXcgVXJsUGF0dGVybih3KQogICAgICAgICAgICByZXR1cm4gcGF0dGVybi5tYXRjaChwYXRobmFtZSkKICAgICAgICB9KQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEFycmF5LmlzQXJyYXkod2hpdGVsaXN0KSAmJgogICAgKCB8fAogICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
