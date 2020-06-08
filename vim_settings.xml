@@ -169,7 +169,13 @@
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1591562885648">
         <mark key="'" line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591640871019">
+      <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/models/Spotify.ts" timestamp="1591645275082">
+        <mark key="[" line="177" column="57" />
+        <mark key="]" line="177" column="57" />
+        <mark key="^" line="177" column="59" />
+        <mark key="." line="177" column="58" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591645290507">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -201,12 +207,6 @@
         <mark key="]" line="74" column="62" />
         <mark key="." line="74" column="63" />
         <mark key="^" line="103" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/uniswapTest.ts" timestamp="1591557978202">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1591617287955">
         <mark key="'" line="91" column="0" />
@@ -334,7 +334,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QWRkIGNhdGMK</text>
+        <text encoding="base64">UmVkaXM6IFBlcnNpc3Qgc3RhdGUgdG8gZGlzawo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -384,7 +384,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Successfully downloaded track:&quot;${trackMeta.artist.name} - ${trackMeta.title}&quot; from service:T with id:&quot;${id}&quot;</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNsdWRlZFRva2Vuc1w+</text>
@@ -393,7 +393,7 @@
         <text encoding="base64">ICBsb2dnZXIuaW5mbyhgU3VjY2Vzc2Z1bGx5IGRvd25sb2FkZWQgdHJhY2s6IiR7dHJhY2tNZXRhLmFydGlzdC5uYW1lfSAtICR7dHJhY2tNZXRhLnRpdGxlfSIgZnJvbSBzZXJ2aWNlOlQgd2l0aCBpZDoiJHtpZH0iYCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkIGNhdGMK</text>
+        <text encoding="base64">UmVkaXM6IFBlcnNpc3Qgc3RhdGUgdG8gZGlzawo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -414,31 +414,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VXBkYXRlIFRpZGFsIHRva2VuCg==</text>
+        <text encoding="base64">QWRkIGNhdGMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRlIFRpZGFsIHRva2VuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLnVybCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXkuaXNBcnJheSh3aGl0ZWxpc3QpICYmCiAgICAgICAgICAgICh3aGl0ZWxpc3QuaW5kZXhPZihwYXRobmFtZSkgPj0gMCB8fAogICAgICAgICAgICAgICAgd2hpdGVsaXN0LnNvbWUodyA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgcGF0dGVybiA9IG5ldyBVcmxQYXR0ZXJuKHcpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHBhdHRlcm4ubWF0Y2gocGF0aG5hbWUpCiAgICAgICAgICAgICAgICB9KSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLnVybCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aGl0ZWxpc3RlZCA9CiAgICAgICAgICAgIEFycmF5LmlzQXJyYXkod2hpdGVsaXN0KSAmJgogICAgICAgICAgICAod2hpdGVsaXN0LmluZGV4T2YocGF0aG5hbWUpID49IDAgfHwKICAgICAgICAgICAgICAgIHdoaXRlbGlzdC5zb21lKHcgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHBhdHRlcm4gPSBuZXcgVXJsUGF0dGVybih3KQogICAgICAgICAgICAgICAgICAgIHJldHVybiBwYXR0ZXJuLm1hdGNoKHBhdGhuYW1lKQogICAgICAgICAgICAgICAgfSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXkuaXNBcnJheSh3aGl0ZWxpc3QpICYmCiAgICAgICAgICAgICh3aGl0ZWxpc3QuaW5kZXhPZihwYXRobmFtZSkgPj0gMCB8fAogICAgICAgICAgICAgICAgd2hpdGVsaXN0LnNvbWUodyA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgcGF0dGVybiA9IG5ldyBVcmxQYXR0ZXJuKHcpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHBhdHRlcm4ubWF0Y2gocGF0aG5hbWUpCiAgICAgICAgICAgICAgICB9KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB3aGl0ZWxpc3RlZCA9CiAgICAgICAgICAgIEFycmF5LmlzQXJyYXkod2hpdGVsaXN0KSAmJgogICAgICAgICAgICAod2hpdGVsaXN0LmluZGV4T2YocGF0aG5hbWUpID49IDAgfHwKICAgICAgICAgICAgICAgIHdoaXRlbGlzdC5zb21lKHcgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHBhdHRlcm4gPSBuZXcgVXJsUGF0dGVybih3KQogICAgICAgICAgICAgICAgICAgIHJldHVybiBwYXR0ZXJuLm1hdGNoKHBhdGhuYW1lKQogICAgICAgICAgICAgICAgfSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFycmF5LmlzQXJyYXkod2hpdGVsaXN0KSAmJgogICAgKCB8fAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
