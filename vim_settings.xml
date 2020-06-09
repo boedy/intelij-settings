@@ -44,11 +44,11 @@
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>set number</entry>
         <entry>action AceAction</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,18 +124,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/personal/github/stakes.social/packages/graphql/src/scheme.graphql" timestamp="1591653147786" />
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/BillingDetailsRequest.php" timestamp="1591706583346" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/package.json" timestamp="1591727735213" />
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/statsController.ts" timestamp="1591722149727">
         <mark key="[" line="48" column="16" />
         <mark key="]" line="48" column="31" />
         <mark key="." line="48" column="30" />
         <mark key="^" line="48" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/DexBlue/DexBlue.ts" timestamp="1591730645772">
+        <mark key="[" line="34" column="92" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Exchange.ts" timestamp="1591729655855">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="51" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/play-recommender/src/Models/TrackScores.ts" timestamp="1591708925218">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="72" />
         <mark key="." line="3" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/BaseExchange.ts" timestamp="1591729303420">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="28" column="10" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200609171104_view-user-stats.js" timestamp="1591717923443">
         <mark key="[" line="13" column="20" />
@@ -143,7 +161,11 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/tokens.json" timestamp="1591710488058" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/tokens.json" timestamp="1591727228954">
+        <mark key="[" line="0" column="5986" />
+        <mark key="]" line="0" column="5986" />
+        <mark key="." line="0" column="5986" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/services/authorizationService.ts" timestamp="1591720250178">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="40" />
@@ -152,50 +174,51 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniSwap.ts" timestamp="1591649438060" />
-      <file name="/GraphQL.variables.json" timestamp="1591653274177">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/DexBlueTest.ts" timestamp="1591730312398">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/TokenDictionary.ts" timestamp="1591648621682">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="22" column="12" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniSwap.ts" timestamp="1591729374365">
+        <mark key="[" line="78" column="18" />
+        <mark key="]" line="78" column="18" />
+        <mark key="." line="78" column="19" />
+        <mark key="^" line="78" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniswapV2.ts" timestamp="1591649455471">
-        <mark key="[" line="43" column="47" />
-        <mark key="]" line="44" column="8" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniswapV2.ts" timestamp="1591728098969">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="78" />
         <mark key="^" line="44" column="8" />
         <mark key="." line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/idexTest.ts" timestamp="1591694400201">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="38" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="28" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/UniswapPriceAlert.ts" timestamp="1591710561203">
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/UniswapPriceAlert.ts" timestamp="1591728856047">
         <mark key="'" line="18" column="68" />
-        <mark key="[" line="18" column="79" />
-        <mark key="]" line="18" column="86" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="38" column="6" />
         <mark key="." line="18" column="85" />
         <mark key="^" line="18" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591710998166">
+      <file name="/Dummy.txt" timestamp="1591729394260">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1591714803977">
+      <file name="/GraphQL.result.json" timestamp="1591727723281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/github/stakes.social/packages/graphql/src/queries/getPropertyAuthentication.graphql" timestamp="1591653314553" />
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1591719671672">
         <mark key="[" line="69" column="135" />
         <mark key="]" line="69" column="152" />
         <mark key="." line="69" column="151" />
         <mark key="^" line="69" column="152" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1591729629827">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="81" column="9" />
+        <mark key="." line="50" column="12" />
+        <mark key="^" line="50" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/process-dev.yml" timestamp="1591721885407" />
       <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/http/routes.ts" timestamp="1591720417940">
@@ -206,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1001" column="0" filename="$USER_HOME$/Projects/scripts/kollekt/payments/contractPages.js" />
       <jump line="131" column="0" filename="$USER_HOME$/Projects/scripts/kollekt/payments/contractPages.js" />
       <jump line="16" column="35" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/knexfile.js" />
       <jump line="6" column="3" filename="$USER_HOME$/Projects/test/dgraph/remaining.ts" />
@@ -295,7 +317,6 @@
       <jump line="18" column="0" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/arbitrage/ArbitrageOpportunityCalculator.ts" />
       <jump line="8" column="15" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/arbitrage/ArbitrageOpportunityCalculator.ts" />
       <jump line="36" column="0" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" />
-      <jump line="71" column="27" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" />
       <jump line="138" column="0" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" />
       <jump line="13" column="8" filename="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/http/routes.ts" />
       <jump line="41" column="109" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniswapV2.ts" />
@@ -306,12 +327,14 @@
       <jump line="73" column="0" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/BaseExchange.ts" />
       <jump line="25" column="16" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges.ts" />
       <jump line="18" column="68" filename="$USER_HOME$/Projects/personal/eth-arbitrage/test/UniswapPriceAlert.ts" />
+      <jump line="71" column="8" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" />
+      <jump line="91" column="0" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>view_track_stats</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -361,16 +384,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>view_track_stats</text>
+        <text>bids</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VuZChyZXMsIDQwMywgJ1Blcm1pc3Npb24gRGVuaWVkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyYm9vay5iaWRzLmluc2VydChvcmRlci5yYXRlLCBvcmRlci5hbW91bnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChwbGF5bGlzdElkKSBwYXJhbXMucGxheWxpc3RJZCA9IHBsYXlsaXN0SWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -391,34 +414,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3AuZGF0YS5hc2tzLmZvckVhY2goYXNrID0+IG9yZGVyYm9vay5hc2tzLmluc2VydChhc2sucHJpY2UsIGFzay5hbW91bnQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtczogcXVlcnlQYXJhbWV0ZXJzID0ge307CiAgICBpZiAocGxheWxpc3RJZCkgcGFyYW1zLnBsYXlsaXN0SWQgPSBwbGF5bGlzdElkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwLmRhdGEuYXNrcy5mb3JFYWNoKGFzayA9PiBvcmRlcmJvb2suYXNrcy5pbnNlcnQoYXNrLnByaWNlLCBhc2suYW1vdW50KSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhhc0FjY2VzcyA9IGF3YWl0IGF1dGhvcml6YXRpb25TZXJ2aWNlLmlzQWxsb3dlZCgKICAgICAgICByZXEuand0LAogICAgICAgICdwbGF5bGlzdDp2aWV3JywKICAgICAgICBgcGxheWxpc3Q6JHtwbGF5bGlzdElkfWAKICAgICk7CgogICAgaWYgKCFoYXNBY2Nlc3MpIHsKICAgICAgICByZXR1cm4gc2VuZChyZXMsIDQwMywgJ1Blcm1pc3Npb24gRGVuaWVkJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyYm9vay5iaWRzLmluc2VydChvcmRlci5yYXRlLCBvcmRlci5hbW91bnQpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoand0VG9rZW4uaXNBZG1pbigpKSByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICByZXNwLmRhdGEuYmlkcy5mb3JFYWNoKGJpZCA9PiBvcmRlcmJvb2suYmlkcy5pbnNlcnQoYmlkLnByaWNlLCBiaWQuYW1vdW50KSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dWIpCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya2V0OiBgRVRIXyR7dG9rZW4ubmFtZSgpfWAsCiAgICAgICAgICAgIGNvdW50OiAiNSI=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
