@@ -131,15 +131,16 @@
         <mark key="]" line="58" column="72" />
         <mark key="." line="3" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200609171104_view-user-stats.js" timestamp="1591715566496">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="76" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200609171104_view-user-stats.js" timestamp="1591717923443">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="34" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/tokens.json" timestamp="1591710488058" />
-      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1591715548187">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="22" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/analytics-service/migrations/20200329194835_bootstrap.js" timestamp="1591717915548">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniSwap.ts" timestamp="1591649438060" />
       <file name="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/deployment/templates/deployment.yaml" timestamp="1591643737279">
@@ -315,8 +316,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuaW50ZWdlcignc2tpcENvdW50JykudW5zaWduZWQoKS5ub3ROdWxsYWJsZSgpLmRlZmF1bHRUbygwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>events</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -366,16 +367,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>playlistId</text>
+        <text>events</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBrbmV4LnNjaGVtYQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBrbmV4LnNjaGVtYQogICAgICAgIC5kcm9wVGFibGUoJ2V2ZW50cycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuaW50ZWdlcignc2tpcENvdW50JykudW5zaWduZWQoKS5ub3ROdWxsYWJsZSgpLmRlZmF1bHRUbygwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -396,31 +397,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuc3RyaW5nKCcnLCAzMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuaW50ZWdlcigncGxheVRpbWUnKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCkuZGVmYXVsdFRvKDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZS5pbmRleCgndHJhY2tJZCcpOwogICAgICAgIHRhYmxlLmluZGV4KCdwbGF5bGlzdElkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuaW50ZWdlcignc2tpcENvdW50JykudW5zaWduZWQoKS5ub3ROdWxsYWJsZSgpLmRlZmF1bHRUbygwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuc3RyaW5nKCcnLCAzMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGV4Y2hhbmdlLmhhc0xpcXVpZGl0eSh0b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZS5pbmRleCgndHJhY2tJZCcpOwogICAgICAgIHRhYmxlLmluZGV4KCdwbGF5bGlzdElkJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgd2EK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGV4Y2hhbmdlLmhhc0xpcXVpZGl0eSh0b2tlbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZihvcmRlckJvb2tzLmxlbmd0aCA8IDIpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgd2EK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYXkuc3BlYWsoJ2FyYiBmb3VuZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
