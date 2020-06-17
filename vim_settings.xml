@@ -43,12 +43,12 @@
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>set number</entry>
         <entry>action AceAction</entry>
-        <entry>vsp</entry>
-        <entry>action TabShiftActions.MoveFocusDown</entry>
-        <entry>action TabShiftActions.MoveFocusLeft</entry>
-        <entry>action TabShiftActions.MoveFocusRight</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
         <entry>sp</entry>
+        <entry>action TabShiftActions.MoveFocusLeft</entry>
+        <entry>action TabShiftActions.MoveFocusDown</entry>
+        <entry>action TabShiftActions.MoveFocusRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,12 +131,6 @@
         <mark key="^" line="19" column="2" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Downloads/uniswap-frontend/src/hooks/Trades.ts" timestamp="1592259018569">
-        <mark key="[" line="51" column="65" />
-        <mark key="]" line="52" column="26" />
-        <mark key="." line="52" column="25" />
-        <mark key="^" line="52" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/BaseExchange.ts" timestamp="1592336962996">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="74" column="0" />
@@ -144,9 +138,10 @@
         <mark key="^" line="73" column="46" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" timestamp="1592395591287">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" timestamp="1592396533218">
+        <mark key="'" line="233" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="92" column="9" />
         <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/OrderBook/Asks.ts" timestamp="1592327464938">
@@ -170,12 +165,6 @@
       <file name="/GraphQL.result.json" timestamp="1592395439332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/OrderBook.ts" timestamp="1592327420548">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="28" column="4" />
-        <mark key="^" line="28" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1592394138987">
         <mark key="'" line="76" column="19" />
         <mark key="[" line="159" column="0" />
@@ -189,7 +178,6 @@
         <mark key="." line="31" column="14" />
         <mark key="^" line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/sonos-smapi/src/http/controllers/cloudQueueController.ts" timestamp="1592314597889" />
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/tests/Exchanges/OrderBook.test.ts" timestamp="1592327573854">
         <mark key="[" line="58" column="31" />
         <mark key="]" line="58" column="32" />
@@ -202,11 +190,15 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Downloads/uniswap-frontend/src/state/swap/hooks.ts" timestamp="1592258327820">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="114" column="24" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/VerifyPermissions.php" timestamp="1592396403572">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="95" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/DgraphAccessControlService.php" timestamp="1592396534991">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniswapV2.ts" timestamp="1592344299021">
         <mark key="[" line="74" column="25" />
@@ -214,11 +206,19 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592395444002">
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/User/MyCLabsUserRoleService.php" timestamp="1592396303522">
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592396205378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="7" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/AuthorizationService.php" timestamp="1592396447914">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="49" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1592333175335">
         <mark key="'" line="84" column="0" />
@@ -229,10 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="8" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" />
-      <jump line="111" column="28" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/tests/events.test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/deployment/helmfile.yaml" />
-      <jump line="21" column="60" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/deployment/helmfile.yaml" />
       <jump line="12" column="34" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" />
       <jump line="95" column="9" filename="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" />
@@ -329,12 +325,16 @@
       <jump line="10" column="67" filename="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/playlistSync.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/services/streaming-service-sync/src/playlistSync.ts" />
       <jump line="84" column="19" filename="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" />
+      <jump line="25" column="8" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/DgraphAccessControlService.php" />
+      <jump line="71" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/DgraphAccessControlService.php" />
+      <jump line="94" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" />
+      <jump line="233" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -384,16 +384,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setOrderId(tx.hash)</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>this.routerContract.swapExactETHForTokens</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoICEgJHRoaXMtPmlzQWxsb3dlZCgkdXNlciwgJGFjdGlvbiwgJHJlc291cmNlKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRm9yYmlkZGVuKCRtZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -414,34 +414,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzYXkuc3BlYWsoJ2FyYiBmb3VuZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXNlclNob3VsZEJlQWxsb3dlZFRvKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaXNBbGxvd2VkKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXNlclNob3VsZEJlTWVPckFkbWluKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXNlclNob3VsZEJlU3VwZXJBZG1pbigpIG1ldGhvZC4K</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyh0cmFkZVswXS5yb3V0ZS5wYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBzYXkuc3BlYWsoJ2FyYiBmb3VuZCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>action TabShiftActions.MoveFocusRight</text>
       </register>
     </registers>
   </component>
