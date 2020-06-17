@@ -148,6 +148,12 @@
         <mark key="." line="11" column="80" />
         <mark key="^" line="11" column="81" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/.env" timestamp="1592412404499">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/.env" timestamp="1592406923382">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="24" />
@@ -159,17 +165,24 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1592397867279">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/config/testing/database.php" timestamp="1592412197582">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1592400540943">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Role/Role.php" timestamp="1592411456054">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="13" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Role/Role.php" timestamp="1592400807703">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-        <mark key="." line="17" column="32" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1592411671209">
+        <mark key="'" line="76" column="19" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="150" column="9" />
+        <mark key="^" line="147" column="8" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/AuthorizationService.php" timestamp="1592401315901">
         <mark key="[" line="14" column="0" />
@@ -183,7 +196,6 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Http/routes.php" timestamp="1592397818234" />
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/FulfillInvitationsForUserJob.php" timestamp="1592401034790">
         <mark key="[" line="50" column="87" />
         <mark key="]" line="50" column="137" />
@@ -215,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="34" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/services/analytics-service/src/bin/listener.ts" />
       <jump line="95" column="9" filename="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" />
       <jump line="15" column="13" filename="$USER_HOME$/Projects/atmosphere/payments/app/Events/LocationRegisteredHandler.php" />
@@ -315,12 +325,14 @@
       <jump line="71" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/DgraphAccessControlService.php" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" />
       <jump line="233" column="0" filename="$USER_HOME$/Projects/atmosphere/api/app/Infrastructure/Auth/MyCLabsAccessControlService.php" />
+      <jump line="45" column="0" filename="$USER_HOME$/Projects/atmosphere/api/config/testing/database.php" />
+      <jump line="133" column="0" filename="$USER_HOME$/Projects/atmosphere/api/config/testing/database.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QnVnZml4IGFuZCBSZW1vdmUgZHVwbGljYXRlIHJlc291cmNlcyBmcm9tIHJlc3BvbnNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -370,16 +382,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>action</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFjdGlvbkZpbHRlciA9IGFjdGlvbgogICAgICAgID8gYHBlcm1pc3Npb25zIEBmaWx0ZXIoZXEoYWN0aW9uLCAiJHthY3Rpb259IikpYAogICAgICAgIDogJyc7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnZHJpdmVyJyAgICA9PiAnbXlzcWwnLAogICAgICAgICAgICAnaG9zdCcgICAgICA9PiBlbnYoJ0RCX0hPU1QnLCAnbG9jYWxob3N0JyksCiAgICAgICAgICAgICdwb3J0JyAgICAgID0+IGVudignREJfUE9SVCcsIDMzMDYpLAogICAgICAgICAgICAnZGF0YWJhc2UnICA9PiBlbnYoJ0RCX1RFU1RfREFUQUJBU0UnLCAnZm9yZ2UnKSwKICAgICAgICAgICAgJ3VzZXJuYW1lJyAgPT4gZW52KCdEQl9VU0VSTkFNRScsICdmb3JnZScpLAogICAgICAgICAgICAncGFzc3dvcmQnICA9PiBlbnYoJ0RCX1BBU1NXT1JEJywgJycpLAogICAgICAgICAgICAnY2hhcnNldCcgICA9PiAndXRmOCcsCiAgICAgICAgICAgICdjb2xsYXRpb24nID0+ICd1dGY4X3VuaWNvZGVfY2knLAogICAgICAgICAgICAncHJlZml4JyAgICA9PiBlbnYoJ0RCX1BSRUZJWCcsICcnKSwKICAgICAgICAgICAgJ3RpbWV6b25lJyAgPT4gZW52KCdEQl9USU1FWk9ORScsICcrMDA6MDAnKSwKICAgICAgICAgICAgJ3N0cmljdCcgICAgPT4gZmFsc2UsCiAgICAgICAgXQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QnVnZml4IGFuZCBSZW1vdmUgZHVwbGljYXRlIHJlc291cmNlcyBmcm9tIHJlc3BvbnNlCg==</text>
+        <text encoding="base64">ZGQoWwogICAgICAgJ2RyaXZlcicgICAgPT4gJ215c3FsJywKICAgICAgICdob3N0JyAgICAgID0+IGVudignREJfSE9TVCcsICdsb2NhbGhvc3QnKSwKICAgICAgICdwb3J0JyAgICAgID0+IGVudignREJfUE9SVCcsIDMzMDYpLAogICAgICAgJ2RhdGFiYXNlJyAgPT4gZW52KCdEQl9URVNUX0RBVEFCQVNFJywgJ2ZvcmdlJyksCiAgICAgICAndXNlcm5hbWUnICA9PiBlbnYoJ0RCX1VTRVJOQU1FJywgJ2ZvcmdlJyksCiAgICAgICAncGFzc3dvcmQnICA9PiBlbnYoJ0RCX1BBU1NXT1JEJywgJycpLAogICAgICAgJ2NoYXJzZXQnICAgPT4gJ3V0ZjgnLAogICAgICAgJ2NvbGxhdGlvbicgPT4gJ3V0ZjhfdW5pY29kZV9jaScsCiAgICAgICAncHJlZml4JyAgICA9PiBlbnYoJ0RCX1BSRUZJWCcsICcnKSwKICAgICAgICd0aW1lem9uZScgID0+IGVudignREJfVElNRVpPTkUnLCAnKzAwOjAwJyksCiAgICAgICAnc3RyaWN0JyAgICA9PiBmYWxzZSwKICAgXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -400,31 +412,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzb25SZXNwKTsK</text>
+        <text encoding="base64">ICAgIGRkKFsKICAgICAgICAgICAnZHJpdmVyJyAgICA9PiAnbXlzcWwnLAogICAgICAgICAgICdob3N0JyAgICAgID0+IGVudignREJfSE9TVCcsICdsb2NhbGhvc3QnKSwKICAgICAgICAgICAncG9ydCcgICAgICA9PiBlbnYoJ0RCX1BPUlQnLCAzMzA2KSwKICAgICAgICAgICAnZGF0YWJhc2UnICA9PiBlbnYoJ0RCX1RFU1RfREFUQUJBU0UnLCAnZm9yZ2UnKSwKICAgICAgICAgICAndXNlcm5hbWUnICA9PiBlbnYoJ0RCX1VTRVJOQU1FJywgJ2ZvcmdlJyksCiAgICAgICAgICAgJ3Bhc3N3b3JkJyAgPT4gZW52KCdEQl9QQVNTV09SRCcsICcnKSwKICAgICAgICAgICAnY2hhcnNldCcgICA9PiAndXRmOCcsCiAgICAgICAgICAgJ2NvbGxhdGlvbicgPT4gJ3V0ZjhfdW5pY29kZV9jaScsCiAgICAgICAgICAgJ3ByZWZpeCcgICAgPT4gZW52KCdEQl9QUkVGSVgnLCAnJyksCiAgICAgICAgICAgJ3RpbWV6b25lJyAgPT4gZW52KCdEQl9USU1FWk9ORScsICcrMDA6MDAnKSwKICAgICAgICAgICAnc3RyaWN0JyAgICA9PiBmYWxzZSwKICAgICAgIF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0LnBlcmNlbnRhZ2UgPCAwLjA2KXsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlwQWRkcmVzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB2b2x1bWUgPSAocmVzdWx0LmJ1eVByaWNlICogcmVzdWx0LmFtb3VudCkudG9GaXhlZCg4KTsKICAgICAgICBjb25zdCBwZXJjZW50YWdlID0gTWF0aC5yb3VuZChyZXN1bHQucGVyY2VudGFnZSAqIDEwMCkgKyAnJSc7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">QnVnZml4IGFuZCBSZW1vdmUgZHVwbGljYXRlIHJlc291cmNlcyBmcm9tIHJlc3BvbnNlCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzb25SZXNwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
