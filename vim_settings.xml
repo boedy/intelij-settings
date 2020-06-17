@@ -148,7 +148,7 @@
         <mark key="." line="11" column="80" />
         <mark key="^" line="11" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/.env" timestamp="1592412404499">
+      <file name="$USER_HOME$/Projects/atmosphere/api/.env" timestamp="1592412926749">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="11" />
         <mark key="." line="12" column="12" />
@@ -171,18 +171,29 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges.ts" timestamp="1592414250068">
+        <mark key="[" line="21" column="688" />
+        <mark key="]" line="21" column="688" />
+        <mark key="." line="21" column="688" />
+        <mark key="^" line="21" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Role/Role.php" timestamp="1592411456054">
         <mark key="[" line="13" column="33" />
         <mark key="]" line="13" column="42" />
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1592411671209">
-        <mark key="'" line="76" column="19" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="150" column="9" />
-        <mark key="^" line="147" column="8" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1592413566880">
+        <mark key="'" line="80" column="19" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/uniswapTest.ts" timestamp="1592414763276">
+        <mark key="[" line="40" column="55" />
+        <mark key="]" line="40" column="61" />
+        <mark key="." line="40" column="60" />
+        <mark key="^" line="40" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/AuthorizationService.php" timestamp="1592401315901">
         <mark key="[" line="14" column="0" />
@@ -190,23 +201,11 @@
         <mark key="^" line="15" column="4" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Role/UserRole.php" timestamp="1592400849975">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="42" />
-        <mark key="^" line="13" column="42" />
-        <mark key="." line="13" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Jobs/FulfillInvitationsForUserJob.php" timestamp="1592401034790">
-        <mark key="[" line="50" column="87" />
-        <mark key="]" line="50" column="137" />
-        <mark key="^" line="50" column="137" />
-        <mark key="." line="50" column="136" />
-      </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/Invitation/Invitation.php" timestamp="1592400837012">
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="72" column="23" />
-        <mark key="^" line="72" column="23" />
-        <mark key="." line="72" column="22" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniswapV2.ts" timestamp="1592414795255">
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="29" />
+        <mark key="^" line="63" column="29" />
+        <mark key="." line="63" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1592408078620">
         <mark key="[" line="0" column="0" />
@@ -332,7 +331,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>DAI</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -382,61 +381,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>DAI</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnZHJpdmVyJyAgICA9PiAnbXlzcWwnLAogICAgICAgICAgICAnaG9zdCcgICAgICA9PiBlbnYoJ0RCX0hPU1QnLCAnbG9jYWxob3N0JyksCiAgICAgICAgICAgICdwb3J0JyAgICAgID0+IGVudignREJfUE9SVCcsIDMzMDYpLAogICAgICAgICAgICAnZGF0YWJhc2UnICA9PiBlbnYoJ0RCX1RFU1RfREFUQUJBU0UnLCAnZm9yZ2UnKSwKICAgICAgICAgICAgJ3VzZXJuYW1lJyAgPT4gZW52KCdEQl9VU0VSTkFNRScsICdmb3JnZScpLAogICAgICAgICAgICAncGFzc3dvcmQnICA9PiBlbnYoJ0RCX1BBU1NXT1JEJywgJycpLAogICAgICAgICAgICAnY2hhcnNldCcgICA9PiAndXRmOCcsCiAgICAgICAgICAgICdjb2xsYXRpb24nID0+ICd1dGY4X3VuaWNvZGVfY2knLAogICAgICAgICAgICAncHJlZml4JyAgICA9PiBlbnYoJ0RCX1BSRUZJWCcsICcnKSwKICAgICAgICAgICAgJ3RpbWV6b25lJyAgPT4gZW52KCdEQl9USU1FWk9ORScsICcrMDA6MDAnKSwKICAgICAgICAgICAgJ3N0cmljdCcgICAgPT4gZmFsc2UsCiAgICAgICAgXQ==</text>
+        <text>!!!!!!!!!!!!!!!!!!!!!!!!!!!!</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQoWwogICAgICAgJ2RyaXZlcicgICAgPT4gJ215c3FsJywKICAgICAgICdob3N0JyAgICAgID0+IGVudignREJfSE9TVCcsICdsb2NhbGhvc3QnKSwKICAgICAgICdwb3J0JyAgICAgID0+IGVudignREJfUE9SVCcsIDMzMDYpLAogICAgICAgJ2RhdGFiYXNlJyAgPT4gZW52KCdEQl9URVNUX0RBVEFCQVNFJywgJ2ZvcmdlJyksCiAgICAgICAndXNlcm5hbWUnICA9PiBlbnYoJ0RCX1VTRVJOQU1FJywgJ2ZvcmdlJyksCiAgICAgICAncGFzc3dvcmQnICA9PiBlbnYoJ0RCX1BBU1NXT1JEJywgJycpLAogICAgICAgJ2NoYXJzZXQnICAgPT4gJ3V0ZjgnLAogICAgICAgJ2NvbGxhdGlvbicgPT4gJ3V0ZjhfdW5pY29kZV9jaScsCiAgICAgICAncHJlZml4JyAgICA9PiBlbnYoJ0RCX1BSRUZJWCcsICcnKSwKICAgICAgICd0aW1lem9uZScgID0+IGVudignREJfVElNRVpPTkUnLCAnKzAwOjAwJyksCiAgICAgICAnc3RyaWN0JyAgICA9PiBmYWxzZSwKICAgXSk7Cg==</text>
+        <text encoding="base64">JycK</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="105" code="0" mods="0" />
           <key char="39" code="0" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
           <key char="39" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkKFsKICAgICAgICAgICAnZHJpdmVyJyAgICA9PiAnbXlzcWwnLAogICAgICAgICAgICdob3N0JyAgICAgID0+IGVudignREJfSE9TVCcsICdsb2NhbGhvc3QnKSwKICAgICAgICAgICAncG9ydCcgICAgICA9PiBlbnYoJ0RCX1BPUlQnLCAzMzA2KSwKICAgICAgICAgICAnZGF0YWJhc2UnICA9PiBlbnYoJ0RCX1RFU1RfREFUQUJBU0UnLCAnZm9yZ2UnKSwKICAgICAgICAgICAndXNlcm5hbWUnICA9PiBlbnYoJ0RCX1VTRVJOQU1FJywgJ2ZvcmdlJyksCiAgICAgICAgICAgJ3Bhc3N3b3JkJyAgPT4gZW52KCdEQl9QQVNTV09SRCcsICcnKSwKICAgICAgICAgICAnY2hhcnNldCcgICA9PiAndXRmOCcsCiAgICAgICAgICAgJ2NvbGxhdGlvbicgPT4gJ3V0ZjhfdW5pY29kZV9jaScsCiAgICAgICAgICAgJ3ByZWZpeCcgICAgPT4gZW52KCdEQl9QUkVGSVgnLCAnJyksCiAgICAgICAgICAgJ3RpbWV6b25lJyAgPT4gZW52KCdEQl9USU1FWk9ORScsICcrMDA6MDAnKSwKICAgICAgICAgICAnc3RyaWN0JyAgICA9PiBmYWxzZSwKICAgICAgIF0pOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0LnBlcmNlbnRhZ2UgPCAwLjA2KXsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY2hhbGsuYmdHcmVlbignISEhISEhISEhISEhISEhISEhISEhISEhISEhIUVYRUNVVElORyBPUkRFUiEhISEhISEhISEhISEhISEhISEhISEhISEhISEnKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHgpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2b2x1bWUgPSAocmVzdWx0LmJ1eVByaWNlICogcmVzdWx0LmFtb3VudCkudG9GaXhlZCg4KTsKICAgICAgICBjb25zdCBwZXJjZW50YWdlID0gTWF0aC5yb3VuZChyZXN1bHQucGVyY2VudGFnZSAqIDEwMCkgKyAnJSc7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihiLmV4Y2hhbmdlID09PSAnVW5pU3dhcCBWMicgJiYgaGFzTm90WWV0VHJhZGVkKXsKICAgICAgICAgICAgICAgICAgICAgICAgaGFzTm90WWV0VHJhZGVkID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgZXhjaGFuZ2UgPSBuZXcgVW5pc3dhcFYyKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHR4ID0gYXdhaXQgZXhjaGFuZ2UuYnV5KG5ldyBCdXlPcmRlcih0b2tlbiwgLCAwLjIwODc1LCBleGNoYW5nZSksIChhcmdzKSA9PiBjb25zb2xlLmxvZyhhcmdzKSkKICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codHgpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QnVnZml4IGFuZCBSZW1vdmUgZHVwbGljYXRlIHJlc291cmNlcyBmcm9tIHJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGFzTm90WWV0VHJhZGVkID0gZmFsc2UK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzb25SZXNwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhjaGFuZ2UuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
