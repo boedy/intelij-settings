@@ -136,9 +136,9 @@
         <mark key="]" line="92" column="9" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/authorization/role/roleRepository.ts" timestamp="1592403484353">
-        <mark key="[" line="46" column="59" />
-        <mark key="]" line="46" column="59" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/authorization/role/roleRepository.ts" timestamp="1592403980818">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="49" column="11" />
         <mark key="." line="46" column="59" />
         <mark key="^" line="42" column="84" />
       </file>
@@ -204,11 +204,11 @@
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/schema.dgraph" timestamp="1592403275688" />
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/authorization/user/userRepository.ts" timestamp="1592401598750">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="6" column="2" />
-        <mark key="^" line="6" column="2" />
-        <mark key="." line="6" column="1" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/authorization/user/userRepository.ts" timestamp="1592404152945">
+        <mark key="[" line="8" column="108" />
+        <mark key="]" line="8" column="109" />
+        <mark key="." line="8" column="108" />
+        <mark key="^" line="8" column="109" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/AuthorizationService.php" timestamp="1592396857185">
         <mark key="[" line="74" column="0" />
@@ -321,7 +321,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>10</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -371,16 +371,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IEFycmF5LmZyb20oCiAgICAgICAgICAgIG5ldyBTZXQodmFsLnBlcm1pc3Npb25zLm1hcChwID0+IHAuYWN0aW9uKSkKICAgICAgICApOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHZhcnMgPSB7ICR1c2VySWQ6IHVzZXJJZCB9OwogICAgY29uc3QgcmVzID0gYXdhaXQgZ3JhcGhEYi5uZXdUeG4oKS5xdWVyeVdpdGhWYXJzKHF1ZXJ5LCB2YXJzKTsKICAgIGNvbnN0IGpzb25SZXNwID0gcmVzLmdldEpzb24oKTsKCiAgICBpZiAoIWpzb25SZXNwLnJlc291cmNlLmxlbmd0aCB8fCAhanNvblJlc3AucmVzb3VyY2VbMF0ucm9sZXMpIHJldHVybiBbXTsKCiAgICByZXR1cm4ganNvblJlc3AucmVzb3VyY2VbMF0ucm9sZXMubWFwKHZhbCA9PiB7CiAgICAgICAgY29uc3Qgcm9sZSA9IHZhbC5yb2xlRGVmaW5pdGlvbi5uYW1lOwogICAgICAgIGNvbnN0IHBlcm1pc3Npb25zID0gQXJyYXkuZnJvbSgKICAgICAgICAgICAgbmV3IFNldCh2YWwucGVybWlzc2lvbnMubWFwKHAgPT4gcC5hY3Rpb24pKQogICAgICAgICk7CiAgICAgICAgY29uc3QgcmVzb3VyY2VzID0gQXJyYXkuZnJvbSgKICAgICAgICAgICAgbmV3IFNldCh2YWwucmVzb3VyY2UucmVkdWNlKHBhcnNlUmVzb3VyY2VzLCBbXSkpCiAgICAgICAgKTsKICAgICAgICByZXR1cm4geyByb2xlLCBwZXJtaXNzaW9ucywgcmVzb3VyY2VzIH07CiAgICB9LCB7fSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxEb21haW5cUm9sZVxVc2VyUm9sZTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -401,31 +401,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TWlzc2luZyByZWZlcmVuY2UgaW4gUm9sZSBlbmRwb2ludAo=</text>
+        <text encoding="base64">ewogICAgdmFyKGZ1bmM6IGVxKGlkLCAiZzFkNDA1ZzhrIikpIEBmaWx0ZXIodHlwZShSZXNvdXJjZSkgYW5kIGVxKHR5cGUsICJwbGF5bGlzdCIpKSBAcmVjdXJzZShkZXB0aDogMTAsIGxvb3A6IGZhbHNlKSB7CiAgICB+cmVmZXJlbmNlcwogICAgcGFyZW50CiAgICB+cmVzb3VyY2UKICAgIHVzZXIgYXMgdXNlcgogICAgbmFtZQogICAgaWQKICAgIHR5cGUKfQoKICAgIHVzZXJzKGZ1bmM6IHVpZCh1c2VyKSkgQG5vcm1hbGl6ZSB7CiAgICBpZDogaWQKfQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SW5jbHVkZSByZWZlcmVuY2VzIGluIGZldGNoaW5nIHJvbGVzCg==</text>
+        <text encoding="base64">dXNlIEFwcFxEb21haW5cUm9sZVxVc2VyUm9sZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QWxsb3cgc2tpcHBpbmcgYXV0aCBjaGVja3Mgd2hpbGUgaW4gc3RhZ2luZwo=</text>
+        <text encoding="base64">TWlzc2luZyByZWZlcmVuY2UgaW4gUm9sZSBlbmRwb2ludAo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SW5jbHVkZSByZWZlcmVuY2VzIGluIGZldGNoaW5nIHJvbGVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiByZWJ1aWxkQXV0aG9yaXphdGlvbnNGb3JSZXNvdXJjZSgkcmVzb3VyY2UpCiAgICB7CiAgICAgICAgLy8gVE9ETzogSW1wbGVtZW50IHJlYnVpbGRBdXRob3JpemF0aW9uc0ZvclJlc291cmNlKCkgbWV0aG9kLgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhZGRSZXNvdXJjZSgkcmVzb3VyY2UpCiAgICB7CiAgICAgICAgLy8gVE9ETzogSW1wbGVtZW50IGFkZFJlc291cmNlKCkgbWV0aG9kLgogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiByZW1vdmVSZXNvdXJjZSgkcmVzb3VyY2UpCiAgICB7CiAgICAgICAgLy8gVE9ETzogSW1wbGVtZW50IHJlbW92ZVJlc291cmNlKCkgbWV0aG9kLgogICAgfQo=</text>
+        <text encoding="base64">QWxsb3cgc2tpcHBpbmcgYXV0aCBjaGVja3Mgd2hpbGUgaW4gc3RhZ2luZwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
