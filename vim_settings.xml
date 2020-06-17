@@ -142,11 +142,11 @@
         <mark key="." line="46" column="59" />
         <mark key="^" line="42" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/userController.ts" timestamp="1592401560350">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="2" />
-        <mark key="^" line="5" column="2" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/userController.ts" timestamp="1592405821521">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/app/Domain/AccessControlService.php" timestamp="1592401281505">
         <mark key="[" line="9" column="11" />
@@ -204,15 +204,15 @@
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/services/authorization/schema.dgraph" timestamp="1592403275688" />
-      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/authorization/user/userRepository.ts" timestamp="1592404152945">
-        <mark key="[" line="8" column="108" />
-        <mark key="]" line="8" column="109" />
-        <mark key="." line="8" column="108" />
-        <mark key="^" line="8" column="109" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/authorization/user/userRepository.ts" timestamp="1592405699675">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/app/Application/Services/AuthorizationService.php" timestamp="1592396857185">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="128" column="5" />
+      <file name="$USER_HOME$/Projects/atmosphere/services/authorization/src/http/controllers/authController.ts" timestamp="1592405726189">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -321,7 +321,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>getUsersWithAccess</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -371,16 +371,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>getUsersWithAccess</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhcnMgPSB7ICR1c2VySWQ6IHVzZXJJZCB9OwogICAgY29uc3QgcmVzID0gYXdhaXQgZ3JhcGhEYi5uZXdUeG4oKS5xdWVyeVdpdGhWYXJzKHF1ZXJ5LCB2YXJzKTsKICAgIGNvbnN0IGpzb25SZXNwID0gcmVzLmdldEpzb24oKTsKCiAgICBpZiAoIWpzb25SZXNwLnJlc291cmNlLmxlbmd0aCB8fCAhanNvblJlc3AucmVzb3VyY2VbMF0ucm9sZXMpIHJldHVybiBbXTsKCiAgICByZXR1cm4ganNvblJlc3AucmVzb3VyY2VbMF0ucm9sZXMubWFwKHZhbCA9PiB7CiAgICAgICAgY29uc3Qgcm9sZSA9IHZhbC5yb2xlRGVmaW5pdGlvbi5uYW1lOwogICAgICAgIGNvbnN0IHBlcm1pc3Npb25zID0gQXJyYXkuZnJvbSgKICAgICAgICAgICAgbmV3IFNldCh2YWwucGVybWlzc2lvbnMubWFwKHAgPT4gcC5hY3Rpb24pKQogICAgICAgICk7CiAgICAgICAgY29uc3QgcmVzb3VyY2VzID0gQXJyYXkuZnJvbSgKICAgICAgICAgICAgbmV3IFNldCh2YWwucmVzb3VyY2UucmVkdWNlKHBhcnNlUmVzb3VyY2VzLCBbXSkpCiAgICAgICAgKTsKICAgICAgICByZXR1cm4geyByb2xlLCBwZXJtaXNzaW9ucywgcmVzb3VyY2VzIH07CiAgICB9LCB7fSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdXNlciwgYWN0aW9uLCByZXNvdXJjZSB9ID0gcXVlcnkocmVxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -401,31 +401,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ewogICAgdmFyKGZ1bmM6IGVxKGlkLCAiZzFkNDA1ZzhrIikpIEBmaWx0ZXIodHlwZShSZXNvdXJjZSkgYW5kIGVxKHR5cGUsICJwbGF5bGlzdCIpKSBAcmVjdXJzZShkZXB0aDogMTAsIGxvb3A6IGZhbHNlKSB7CiAgICB+cmVmZXJlbmNlcwogICAgcGFyZW50CiAgICB+cmVzb3VyY2UKICAgIHVzZXIgYXMgdXNlcgogICAgbmFtZQogICAgaWQKICAgIHR5cGUKfQoKICAgIHVzZXJzKGZ1bmM6IHVpZCh1c2VyKSkgQG5vcm1hbGl6ZSB7CiAgICBpZDogaWQKfQp9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxEb21haW5cUm9sZVxVc2VyUm9sZTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCByb2xlID0gdmFsLnJvbGVEZWZpbml0aW9uLm5hbWU7CiAgICAgICAgY29uc3QgcGVybWlzc2lvbnMgPSBBcnJheS5mcm9tKAogICAgICAgICAgICBuZXcgU2V0KHZhbC5wZXJtaXNzaW9ucy5tYXAocCA9PiBwLmFjdGlvbikpCiAgICAgICAgKTsKICAgICAgICBjb25zdCByZXNvdXJjZXMgPSBBcnJheS5mcm9tKAogICAgICAgICAgICBuZXcgU2V0KHZhbC5yZXNvdXJjZS5yZWR1Y2UocGFyc2VSZXNvdXJjZXMsIFtdKSkKICAgICAgICApOwogICAgICAgIHJldHVybiB7IHJvbGUsIHBlcm1pc3Npb25zLCByZXNvdXJjZXMgfTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">TWlzc2luZyByZWZlcmVuY2UgaW4gUm9sZSBlbmRwb2ludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW5jbHVkZSByZWZlcmVuY2VzIGluIGZldGNoaW5nIHJvbGVzCg==</text>
+        <text encoding="base64">ICAgIHsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QWxsb3cgc2tpcHBpbmcgYXV0aCBjaGVja3Mgd2hpbGUgaW4gc3RhZ2luZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6IG5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
