@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>'</entry>
         <entry>:</entry>
         <entry encoding="base64">XDxvcmdhbmlzYXRpb25cPg==</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxleGNsdWRlZFRva2Vuc1w+</entry>
         <entry encoding="base64">XDxmaXJzdFw+</entry>
         <entry encoding="base64">XDw2ZGZjMmI2MGZiOTk0MTMxYmY4ZWQyMmMzOTExZmFmMVw+</entry>
+        <entry encoding="base64">XDxNcXR0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vso</entry>
@@ -142,11 +142,11 @@
         <mark key="." line="47" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/kollekt/backend/wercker.yml" timestamp="1593164284676" />
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mqtt/src/services/mqtt.js" timestamp="1593169048269">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="104" column="53" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mqtt/src/services/mqtt.js" timestamp="1593173347211">
+        <mark key="[" line="160" column="16" />
+        <mark key="]" line="161" column="16" />
+        <mark key="." line="161" column="17" />
+        <mark key="^" line="161" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/oneInchTest.ts" timestamp="1593106658448">
         <mark key="[" line="10" column="56" />
@@ -161,11 +161,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/services/mPlayer.js" timestamp="1593168102364">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/BaseExchange.ts" timestamp="1593124485182">
         <mark key="[" line="42" column="26" />
         <mark key="]" line="42" column="30" />
@@ -173,10 +168,10 @@
         <mark key="." line="42" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/src/bootstrap.js" timestamp="1593100699987" />
-      <file name="/Dummy.txt" timestamp="1593162210519">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1593173463529">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/BinanceTest.ts" timestamp="1593106185259">
         <mark key="[" line="8" column="33" />
@@ -215,7 +210,6 @@
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/node/index.js" timestamp="1593100679406" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/kollekt/team-dashboard/dashboard.js" />
       <jump line="15" column="13" filename="$USER_HOME$/Projects/atmosphere/payments/app/Events/LocationRegisteredHandler.php" />
       <jump line="30" column="67" filename="$USER_HOME$/Projects/atmosphere/payments/app/InvoiceDetails.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/atmosphere/payments/app/InvoiceDetails.php" />
@@ -315,12 +309,13 @@
       <jump line="45" column="0" filename="$USER_HOME$/Projects/atmosphere/api/config/testing/database.php" />
       <jump line="133" column="0" filename="$USER_HOME$/Projects/atmosphere/api/config/testing/database.php" />
       <jump line="2" column="11" filename="$USER_HOME$/Projects/personal/eth-arbitrage/.env" />
+      <jump line="96" column="22" filename="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mqtt/src/services/mqtt.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjbGllbnQuZW5kKCk7CiAgICAgICAgLy8gc2V0VGltZW91dChjb25uZWN0LCBnZXREZWxheSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRvIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -370,16 +365,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5min</text>
+        <text encoding="base64">IHRvIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw2ZGZjMmI2MGZiOTk0MTMxYmY4ZWQyMmMzOTExZmFmMVw+</text>
+        <text encoding="base64">XDxNcXR0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IC8vIGVzbGludC1kaXNhYmxlLWxpbmUgbm8tY29uc29sZQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oYFtNcXR0XSBzdWJzY3JpYmluZyB0byAke2RldmljZUlEfWApOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIG5vLWNvbnNvbGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjbGllbnQuZW5kKCk7CiAgICAgICAgLy8gc2V0VGltZW91dChjb25uZWN0LCBnZXREZWxheSgpKTsK</text>
+        <text encoding="base64">QnVnRml4OiBSZXZlcnQgYmFjayB0byBtUGxheWVyIGZvcmsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -395,31 +390,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXJyb3IpIGxvZ2dlci5lcnJvcignW01xdHRdIGNsb3NlZCBlcnJvcicsIGVycm9yKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpdmVNaW4gPSA1ICogNjAgKiAxMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgbm8tcGFyYW0tcmVhc3NpZ24K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b3BpYyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGAke2dldFRvcGljQmFzZSgpfSR7dG9waWN9YCwgb3B0cyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b3BpY0FycmF5KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjbGllbnQuZW5kKCk7CiAgICAgICAgLy8gc2V0VGltZW91dChjb25uZWN0LCBnZXREZWxheSgpKTsK</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oCiAgICAgICAgICAgICAgYFtNcXR0XSBmYWlsZWQgc3Vic2NyaWJpbmcgdG8gJHtkZXZpY2VJRH0sIGZvciBhbGwgdG9waWNzYAogICAgICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyb3IpIGxvZ2dlci5lcnJvcignW01xdHRdIGNsb3NlZCBlcnJvcicsIGVycm9yKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLWxpbmUgbm8tY29uc29sZQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpdmVNaW4gPSA1ICogNjAgKiAxMDAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdTVUJTQ1JJQkVEJyk7CiAgICAgICAgICBjb25zb2xlLmxvZyhlcnIsIGdyYW50ZWQpOwo=</text>
+        <text encoding="base64">ICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgbm8tcGFyYW0tcmVhc3NpZ24K</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
@@ -428,9 +423,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDw2ZGZjMmI2MGZiOTk0MTMxYmY4ZWQyMmMzOTExZmFmMVw+</last-search>
+      <last-search encoding="base64">XDxNcXR0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw2ZGZjMmI2MGZiOTk0MTMxYmY4ZWQyMmMzOTExZmFmMVw+</last-pattern>
+      <last-pattern encoding="base64">XDxNcXR0XD4=</last-pattern>
       <last-replace>Track</last-replace>
       <last-substitute encoding="base64">XDxKU09OXD4=</last-substitute>
       <last-dir>-1</last-dir>
