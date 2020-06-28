@@ -124,11 +124,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Kyber/Kyber.ts" timestamp="1593381785813">
-        <mark key="[" line="64" column="112" />
-        <mark key="]" line="66" column="43" />
-        <mark key="^" line="66" column="43" />
-        <mark key="." line="66" column="42" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Kyber/Kyber.ts" timestamp="1593383200538">
+        <mark key="[" line="71" column="41" />
+        <mark key="]" line="71" column="41" />
+        <mark key="^" line="71" column="46" />
+        <mark key="." line="71" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Binance/Binance.ts" timestamp="1593377057780">
         <mark key="[" line="36" column="0" />
@@ -152,12 +152,6 @@
         <mark key="." line="161" column="17" />
         <mark key="^" line="161" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/oneInchTest.ts" timestamp="1593106658448">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/.env" timestamp="1593107944733">
         <mark key="'" line="2" column="11" />
         <mark key="[" line="1" column="75" />
@@ -171,6 +165,7 @@
         <mark key="^" line="42" column="30" />
         <mark key="." line="42" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/UniswapPriceAlert.ts" timestamp="1593384014218" />
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/BitvavoTest.ts" timestamp="1593376933343">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -208,9 +203,9 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/1inch/OneInch.ts" timestamp="1593381404250">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="82" column="138" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/1inch/OneInch.ts" timestamp="1593382586465">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="101" column="25" />
         <mark key="." line="83" column="0" />
         <mark key="^" line="49" column="76" />
       </file>
@@ -331,7 +326,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ethAmount</text>
+        <text>k</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -381,16 +376,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ethAmount</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNcXR0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>this.proxyContract.getExpectedRate(weth.address(), token.address(), ethAmount );</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBidXlBbW91bnRJbkRlY2ltYWxzID0gcGFyc2VGbG9hdChldGhlcnMudXRpbHMuZm9ybWF0VW5pdHMoYnV5UmV0dXJuLnJldHVybkFtb3VudCwgdG9rZW4uZGVjaW1hbHMoKSkpOwogICAgICAgIGNvbnN0IHNlbGxBbW91bnRJbkRlY2ltYWxzID0gcGFyc2VGbG9hdChldGhlcnMudXRpbHMuZm9ybWF0VW5pdHMoc2VsbFJldHVybi5yZXR1cm5BbW91bnQsIHdldGguZGVjaW1hbHMoKSkpOwoKICAgICAgICBjb25zdCBleGNoYW5nZXMgPSBbXQogICAgICAgIGZvciAobGV0IGluZGV4ID0gMDsgaW5kZXggPCBidXlSZXR1cm4uZGlzdHJpYnV0aW9uLmxlbmd0aDsgaW5kZXgrKykgewogICAgICAgICAgICBpZihidXlSZXR1cm4uZGlzdHJpYnV0aW9uW2luZGV4XSA+IDApewogICAgICAgICAgICAgICAgZXhjaGFuZ2VzLnB1c2goc3BsaXRFeGNoYW5nZXNbaW5kZXhdKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAvLyBjb25zb2xlLmxvZyhzcGxpdEV4Y2hhbmdlc1tpbmRleF0gKyAiOiAiICsgYnV5UmV0dXJuLmRpc3RyaWJ1dGlvbltpbmRleF0gKyAiJSIpOwogICAgICAgIH0KCiAgICAgICAgY29uc3Qgb3JkZXJib29rID0gbmV3IE9yZGVyQm9vayhleGNoYW5nZXMuam9pbignLCcpLCB0b2tlbi5uYW1lKCkpOwogICAgICAgIG9yZGVyYm9vay5hc2tzLmluc2VydCgxIC8gYnV5QW1vdW50SW5EZWNpbWFscywgYnV5QW1vdW50SW5EZWNpbWFscykKICAgICAgICBvcmRlcmJvb2suYmlkcy5pbnNlcnQoc2VsbEFtb3VudEluRGVjaW1hbHMgLyBidXlBbW91bnRJbkRlY2ltYWxzLCBzZWxsQW1vdW50SW5EZWNpbWFscykKCiAgICAgICAgLy8gdGhpcy5vcmRlckJvb2tzLnNldCh0b2tlbi5uYW1lKCksIG9yZGVyYm9vayk7CgogICAgICAgIHJldHVybiBvcmRlcmJvb2s7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBleGNoYW5nZXMgPSBbXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -406,31 +401,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBleGNoYW5nZXMgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkZXNpcmVkQW1vdW50ID0gMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzcmNRdHkgPSBldGhlcnMudXRpbHMucGFyc2VVbml0cyhkZXNpcmVkQW1vdW50LnRvU3RyaW5nKCksICcxOCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBleGNoYW5nZXMgPSBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkZXN0ID0gdG9rZW4uYWRkcmVzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGxldCBpbmRleCA9IDA7IGluZGV4IDwgYnV5UmV0dXJuLmRpc3RyaWJ1dGlvbi5sZW5ndGg7IGluZGV4KyspIHsKICAgICAgICAgICAgaWYoYnV5UmV0dXJuLmRpc3RyaWJ1dGlvbltpbmRleF0gPiAwKXsKICAgICAgICAgICAgICAgIGV4Y2hhbmdlcy5wdXNoKHNwbGl0RXhjaGFuZ2VzW2luZGV4XSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8gY29uc29sZS5sb2coc3BsaXRFeGNoYW5nZXNbaW5kZXhdICsgIjogIiArIGJ1eVJldHVybi5kaXN0cmlidXRpb25baW5kZXhdICsgIiUiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzcmMgPSAnMHhlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlJzsgLy8gRVRICg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IGhvdyB0byBwaWNrIC8gaGFuZGxlIGRlc2lyZWQgYW1vdW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzZWxsUmV0dXJuID0gYXdhaXQgdGhpcy5vbmVTcGxpdENvbnRyYWN0LmdldEV4cGVjdGVkUmV0dXJuKHRva2VuLmFkZHJlc3MoKSwgd2V0aC5hZGRyZXNzKCksIGJ1eVJldHVybi5yZXR1cm5BbW91bnQsIDEwMCwgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkZXNpcmVkQW1vdW50ID0gMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzcmNRdHkgPSBldGhlcnMudXRpbHMucGFyc2VVbml0cyhkZXNpcmVkQW1vdW50LnRvU3RyaW5nKCksICcxOCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TabShiftActions.MoveFocusRight</text>
