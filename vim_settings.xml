@@ -43,12 +43,12 @@
         <entry>action TabShiftActions.MoveFocusUp</entry>
         <entry>set number</entry>
         <entry>action AceAction</entry>
-        <entry>w</entry>
         <entry>sp</entry>
         <entry>action TabShiftActions.MoveFocusDown</entry>
         <entry>vsp</entry>
         <entry>action TabShiftActions.MoveFocusLeft</entry>
         <entry>action TabShiftActions.MoveFocusRight</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,18 +130,35 @@
         <mark key="^" line="71" column="46" />
         <mark key="." line="71" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" timestamp="1593424629550" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Bitvavo/Bitvavo.ts" timestamp="1593380170725">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/docker-compose.yml" timestamp="1593442804008" />
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/1inch/OneInch.ts" timestamp="1593382586465">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="101" column="25" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="49" column="76" />
+      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Binance/Binance.ts" timestamp="1593377057780">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="40" column="13" />
         <mark key="." line="39" column="64" />
         <mark key="^" line="39" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" timestamp="1593424629550" />
+      <file name="$USER_HOME$/Projects/atmosphere/api/Tiltfile" timestamp="1593442819813">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="69" />
+        <mark key="^" line="0" column="69" />
+        <mark key="." line="0" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/LoopRing/LoopRing.ts" timestamp="1593377923924">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/kollekt/backend/wercker.yml" timestamp="1593164284676" />
       <file name="$USER_HOME$/Projects/atmosphere/atmosphere-app/packages/mqtt/src/services/mqtt.js" timestamp="1593173347211">
         <mark key="[" line="160" column="16" />
         <mark key="]" line="161" column="16" />
@@ -176,22 +193,11 @@
         <mark key="]" line="17" column="17" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Bitvavo/Bitvavo.ts" timestamp="1593380170725">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1593339083039">
         <mark key="'" line="80" column="19" />
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/1inch/OneInch.ts" timestamp="1593382586465">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="101" column="25" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="49" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1593380168374">
         <mark key="[" line="43" column="0" />
@@ -412,7 +418,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TabShiftActions.MoveFocusRight</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
