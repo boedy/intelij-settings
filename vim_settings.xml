@@ -131,6 +131,10 @@
         <mark key="." line="71" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/OrganisationController.php" timestamp="1593424629550" />
+      <file name="$USER_HOME$/Projects/atmosphere/content-digger/docker-compose.yml" timestamp="1593532089788">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Bitvavo/Bitvavo.ts" timestamp="1593380170725">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -143,19 +147,19 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="49" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Binance/Binance.ts" timestamp="1593377057780">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="40" column="13" />
-        <mark key="." line="39" column="64" />
-        <mark key="^" line="39" column="65" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/api/Tiltfile" timestamp="1593442819813">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="69" />
         <mark key="^" line="0" column="69" />
         <mark key="." line="0" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/atmosphere/api/docker-compose.override.yml" timestamp="1593532044571">
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/UniSwap/UniswapV2.ts" timestamp="1593533355338">
+        <mark key="[" line="115" column="104" />
+        <mark key="]" line="115" column="114" />
+        <mark key="^" line="115" column="114" />
+        <mark key="." line="115" column="113" />
+      </file>
+      <file name="$USER_HOME$/Projects/atmosphere/api/docker-compose.override.yml" timestamp="1593532061882">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="19" />
       </file>
@@ -165,12 +169,6 @@
       </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/app/Http/Controllers/PaymentsController.php" timestamp="1593427360483" />
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/UniswapPriceAlert.ts" timestamp="1593384014218" />
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/test/BitvavoTest.ts" timestamp="1593376933343">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="5" column="29" />
-      </file>
       <file name="$USER_HOME$/Projects/atmosphere/payments/routes/api.php" timestamp="1593427343926" />
       <file name="/Dummy.txt" timestamp="1593465049853">
         <mark key="[" line="0" column="8" />
@@ -191,15 +189,16 @@
         <mark key="]" line="17" column="17" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/ArbitrageMonitor.ts" timestamp="1593533398310">
+        <mark key="'" line="80" column="19" />
+        <mark key="[" line="153" column="35" />
+        <mark key="]" line="153" column="36" />
+        <mark key="." line="153" column="35" />
+        <mark key="^" line="153" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/Idex/Idex.ts" timestamp="1593380168374">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/personal/eth-arbitrage/src/node/exchanges/BitFavo/BitFavo.ts" timestamp="1593376729565">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -307,8 +306,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmVyc2lvbjogIjIiCnNlcnZpY2VzOgogIHdlYmFwcDoKICAgICAgaW1hZ2U6IG5naW54OjEuOQogICAgICBwb3J0czoKICAgICAgICAgIC0gIjgwOjgwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>75</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -358,13 +357,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ihwe</text>
+        <text>75</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNcXR0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmVyc2lvbjogIjIiCnNlcnZpY2VzOgogIHdlYmFwcDoKICAgICAgaW1hZ2U6IG5naW54OjEuOQogICAgICBwb3J0czoKICAgICAgICAgIC0gIjgwOjgwIgo=</text>
+        <text encoding="base64">IyAgICBuZXR3b3JrX21vZGU6ICJzZXJ2aWNlOnZwbiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QWRkIENhdGNoIGlmIFRpZGFsIGZhaWxzCg==</text>
