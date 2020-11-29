@@ -10,6 +10,7 @@
       <mapping pattern=".env.wercker" type="PLAIN_TEXT" />
       <mapping pattern=".env-wercker" type="PLAIN_TEXT" />
       <mapping pattern="UniswapRouterv2" type="PLAIN_TEXT" />
+      <mapping pattern=".nmprc" type="PLAIN_TEXT" />
       <mapping pattern="Tiltfile" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="db-backup" type="PLAIN_TEXT" />
