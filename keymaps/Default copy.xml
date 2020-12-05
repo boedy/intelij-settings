@@ -1,8 +1,13 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+    <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="EditorToggleShowLineNumbers">
@@ -45,9 +50,6 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
-  <action id="Vcs.Show.Log">
-    <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="VimPluginToggle">
