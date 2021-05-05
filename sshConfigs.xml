@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="174.138.10.13" id="e017e2a6-9f59-4418-a028-b9c01c0c6ce7" port="22" customName="desluwevos.com" nameFormat="CUSTOM">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="174.138.10.13" id="e017e2a6-9f59-4418-a028-b9c01c0c6ce7" port="22" customName="desluwevos.com" nameFormat="CUSTOM">
         <option name="customName" value="desluwevos.com" />
       </sshConfig>
     </configs>
