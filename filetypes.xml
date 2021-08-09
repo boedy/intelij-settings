@@ -1,25 +1,25 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping ext="db-backup" type="Dockerfile" />
       <mapping pattern="test" type="PHP" />
-      <mapping pattern="db-backup" type="PLAIN_TEXT" />
-      <mapping pattern="EventPublisher" type="PLAIN_TEXT" />
-      <mapping pattern="configure" type="PLAIN_TEXT" />
+      <mapping pattern=".env.wercker" type="PLAIN_TEXT" />
+      <mapping pattern=".env-wercker" type="PLAIN_TEXT" />
       <mapping pattern="ConnectSDK" type="PLAIN_TEXT" />
       <mapping pattern=".secret" type="PLAIN_TEXT" />
       <mapping pattern=".env-werker" type="PLAIN_TEXT" />
-      <mapping pattern="1-0-0" type="PLAIN_TEXT" />
-      <mapping pattern=".sethrc" type="PLAIN_TEXT" />
+      <mapping pattern="EventPublisher" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern=".env.wercker" type="PLAIN_TEXT" />
-      <mapping pattern=".lock" type="PLAIN_TEXT" />
-      <mapping pattern=".env-wercker" type="PLAIN_TEXT" />
-      <mapping pattern="UniswapRouterv2" type="PLAIN_TEXT" />
+      <mapping pattern=".sethrc" type="PLAIN_TEXT" />
       <mapping pattern=".nmprc" type="PLAIN_TEXT" />
-      <mapping pattern="Tiltfile" type="PLAIN_TEXT" />
+      <mapping pattern="db-backup" type="PLAIN_TEXT" />
+      <mapping pattern=".lock" type="PLAIN_TEXT" />
+      <mapping pattern="configure" type="PLAIN_TEXT" />
+      <mapping pattern="1-0-0" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
+      <mapping pattern="Tiltfile" type="PLAIN_TEXT" />
+      <mapping pattern="UniswapRouterv2" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="dgraph" type="PLAIN_TEXT" />
