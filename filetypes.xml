@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="MANIFEST-000002" type="AUTO_DETECTED" />
       <mapping ext="db-backup" type="Dockerfile" />
+      <mapping ext="abi" type="JSON" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".env.wercker" type="PLAIN_TEXT" />
       <mapping pattern=".env-wercker" type="PLAIN_TEXT" />
