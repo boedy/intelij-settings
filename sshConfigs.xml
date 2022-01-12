@@ -4,6 +4,24 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="174.138.10.13" id="e017e2a6-9f59-4418-a028-b9c01c0c6ce7" port="22" customName="desluwevos.com" nameFormat="CUSTOM">
         <option name="customName" value="desluwevos.com" />
       </sshConfig>
+      <sshConfig host="eth1.boedy.net" id="d74190c3-710b-46cd-a073-4bb1ce3af59c" keyPath="~/.ssh/rsa" port="22" customName="root@eth1.boedy.net" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="root@eth1.boedy.net" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="d3v.kollekt.fm" id="d555af6b-12ed-497a-b379-8fe162959e56" port="22" customName="d3v.kollekt" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="d3v.kollekt" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="92.63.169.32" id="12beca11-4e24-401a-a37f-061d507c8773" port="22" customName="Kollekt - Live server" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="Kollekt - Live server" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.33.10" id="8bdfef2c-8ebc-401b-8dd4-f6638349d980" port="22" customName="vagrant 1" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="vagrant 1" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jammo.me" id="7b6ff337-862f-49d8-8aca-5276bd505f3b" port="22" customName="jammo.me" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="jammo.me" />
+      </sshConfig>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.81.220.199" id="637cf8e6-2ab5-4e36-a9e4-c5864c76dc3a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="getatmosphere.com" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="getatmosphere.com" />
+      </sshConfig>
     </configs>
   </component>
 </application>
