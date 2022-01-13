@@ -22,7 +22,7 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.81.220.199" id="637cf8e6-2ab5-4e36-a9e4-c5864c76dc3a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="getatmosphere.com" nameFormat="CUSTOM" useOpenSSHConfig="true">
         <option name="customName" value="getatmosphere.com" />
       </sshConfig>
-      <sshConfig host="eth1.boedy.net" id="c9471425-5ced-4131-8992-762dc073084e" keyPath="~/.ssh/rsa" port="22" customName="boedy@eth1.boedy.net" nameFormat="CUSTOM" username="boedy" useOpenSSHConfig="true">
+      <sshConfig host="eth1.boedy.net" id="c9471425-5ced-4131-8992-762dc073084e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="boedy@eth1.boedy.net" nameFormat="CUSTOM" username="boedy" useOpenSSHConfig="true">
         <option name="customName" value="boedy@eth1.boedy.net" />
       </sshConfig>
     </configs>
