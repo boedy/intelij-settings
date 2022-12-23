@@ -17,6 +17,7 @@
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoModule" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
@@ -54,6 +55,8 @@
   <action id="Vcs.UpdateProject" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="meta alt v" />
+  </action>
+  <action id="opennInNewSplittedTab">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
 </keymap>
