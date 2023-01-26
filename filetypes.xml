@@ -7,7 +7,6 @@
       <mapping pattern="backup_failed" type="AUTO_DETECTED" />
       <mapping ext="db-backup" type="Dockerfile" />
       <mapping ext="abi" type="JSON" />
-      <mapping ext="conf" type="Nginx Configuration" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".env.wercker" type="PLAIN_TEXT" />
       <mapping pattern=".env-wercker" type="PLAIN_TEXT" />
@@ -43,9 +42,9 @@
       <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping ext="liq" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <removed_mapping ext="conf" type="SmartyConfig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="gradle" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
